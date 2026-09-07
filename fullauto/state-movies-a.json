@@ -181,10 +181,12 @@
    "completed_at": 1788783045
   },
   "https://thenkiri.com/dont-click-2012-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "158629|https://thenkiri.com/dont-click-2012-download-korean-movie/|2026-06-04T17:49:46|2026-06-04T17:49:46|{'rendered': 'Don’t Click (2012) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788785949.3988538
+   "last_attempt": 1788785949.3988538,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788786938
   },
   "https://thenkiri.com/maggie-2019-download-korean-movie/": {
    "status": "done",
@@ -205,10 +207,12 @@
    "completed_at": 1788783193
   },
   "https://thenkiri.com/desert-warrior-2026-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "157955|https://thenkiri.com/desert-warrior-2026-download-hollywood-movie/|2026-05-28T12:03:37|2026-05-28T12:33:44|{'rendered': 'Desert Warrior (2026) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788785950.000652
+   "last_attempt": 1788785950.000652,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788786938
   },
   "https://thenkiri.com/heartman-rock-and-love2026-download-korean-movie/": {
    "status": "done",
@@ -255,8 +259,8 @@
   "https://thenkiri.com/didnt-die-2026-download-hollywood-movie/": {
    "status": "pending",
    "signature": "156058|https://thenkiri.com/didnt-die-2026-download-hollywood-movie/|2026-05-04T13:45:01|2026-05-04T13:45:01|{'rendered': 'Didn’t Die (2026) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788785993.6047974
+   "attempts": 2,
+   "last_attempt": 1788786940.243111
   },
   "https://thenkiri.com/per-aspera-ad-astra-2026-download-chinese-movie/": {
    "status": "done",
@@ -281,6 +285,48 @@
    "signature": "154877|https://thenkiri.com/made-in-korea-2026-download-foreign-movie/|2026-04-20T12:42:36|2026-04-24T08:26:18|{'rendered': 'Made in Korea (2026) | Download Foreign Movie'}",
    "modified": "2026-04-24T08:26:18",
    "completed_at": 1788786144
+  },
+  "https://thenkiri.com/ready-or-not-here-i-come-2026-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "154287|https://thenkiri.com/ready-or-not-here-i-come-2026-download-hollywood-movie/|2026-04-13T13:01:42|2026-05-05T08:11:05|{'rendered': 'Ready or Not 2: Here I Come (2026) | Download Hollywood Movie'}",
+   "modified": "2026-05-05T08:11:05",
+   "completed_at": 1788787063
+  },
+  "https://thenkiri.com/moonlit-winter-2019-download-korean-movie-2/": {
+   "status": "done",
+   "signature": "154129|https://thenkiri.com/moonlit-winter-2019-download-korean-movie-2/|2026-04-10T17:23:46|2026-04-10T18:00:00|{'rendered': 'Moonlit Winter (2019) | Download Korean Movie'}",
+   "modified": "2026-04-10T18:00:00",
+   "completed_at": 1788787153
+  },
+  "https://thenkiri.com/humint-2026-download-korean-movie/": {
+   "status": "done",
+   "signature": "153475|https://thenkiri.com/humint-2026-download-korean-movie/|2026-04-01T12:29:44|2026-04-01T12:29:44|{'rendered': 'Humint (2026) | Download Korean Movie'}",
+   "modified": "2026-04-01T12:29:44",
+   "completed_at": 1788787205
+  },
+  "https://thenkiri.com/wardriver-2026-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "153406|https://thenkiri.com/wardriver-2026-download-hollywood-movie/|2026-03-31T15:58:40|2026-03-31T15:58:57|{'rendered': 'Wardriver (2026) | Download Hollywood Movie'}",
+   "modified": "2026-03-31T15:58:57",
+   "completed_at": 1788787238
+  },
+  "https://thenkiri.com/mick-nick-nick-alice-2025-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "153254|https://thenkiri.com/mick-nick-nick-alice-2025-download-hollywood-movie/|2026-03-29T08:14:28|2026-03-31T15:31:43|{'rendered': 'Mick & Nick & Nick & Alice (2026) | Download Hollywood Movie'}",
+   "modified": "2026-03-31T15:31:43",
+   "completed_at": 1788787278
+  },
+  "https://thenkiri.com/agent-zeta-2026-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "152930|https://thenkiri.com/agent-zeta-2026-download-hollywood-movie/|2026-03-25T13:37:24|2026-03-25T13:37:30|{'rendered': 'Agent Zeta (2026) | Download Hollywood Movie'}",
+   "modified": "2026-03-25T13:37:30",
+   "completed_at": 1788787317
+  },
+  "https://thenkiri.com/the-informant-2025-download-korean-movie/": {
+   "status": "done",
+   "signature": "152468|https://thenkiri.com/the-informant-2025-download-korean-movie/|2026-03-18T08:10:05|2026-03-18T08:10:05|{'rendered': 'The Informant (2025) | Download Korean Movie'}",
+   "modified": "2026-03-18T08:10:05",
+   "completed_at": 1788787369
   }
  },
  "series_links": {
@@ -368,6 +414,13 @@
   "https://downloadwella.com/8pameyb52opc/Per.Aspera.Ad.Astra.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/Jpd5MKI8yqxHIIAXyqHm8c2JcHkcR-b6",
   "https://downloadwella.com/qlr2vbfezn6v/Dirty.Hands.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/ZRt-gyqUwfHmhWVYoihdX6m_4cYTlAoW",
   "https://downloadwella.com/om6evy9mydze/Protector.(THENKIRI.COM).2025.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/Ww5LhmXJH-ffWqFOBYHcv311XVQZq-eE",
-  "https://downloadwella.com/toxcd6nj0mui/Made.In.Korea.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/ctg5u-UHItMU-bzmDzt-xPcfbQ9JNM8-"
+  "https://downloadwella.com/toxcd6nj0mui/Made.In.Korea.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/ctg5u-UHItMU-bzmDzt-xPcfbQ9JNM8-",
+  "https://downloadwella.com/328o3l63a5f0/Ready.or.Not.2.Here.I.come.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/OTrqjQybq5XnanaYZPpyG4g4j88s3e1U",
+  "https://downloadwella.com/04rrmdxnf5p6/Moonlit.Winter.(THENKIRI.COM).2019.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/3h_vHvOyYsG0r4xsFNPJRozRsRdxWffU",
+  "https://downloadwella.com/32g2dh5p2cg5/Humint(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/GOQHTdXAgtcVmRN0ORG7-noWIpyneqWh",
+  "https://downloadwella.com/mpwdhx4xfcb2/Wardriver.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/pWmLAnBJQyLL-jc161a2hRxTdcAcPoM5",
+  "https://downloadwella.com/2ory92l7vscf/Mick.Nick.Nick.Alice.(THENKIRI.COM).2026.WEB.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/PNDxgKkOPRZEFOFpskuhI-vDB-qhgxOt",
+  "https://downloadwella.com/bn5bff7e9zod/Zeta.2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/66TUjq5TekRx5GX7Cuk8UqGWyEkQAwxT",
+  "https://downloadwella.com/xlaivslrcirp/The.Informant.(THENKIRI.COM).2025.WEB-DL.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/IWRSINo6T9VcBLWLnWEoF3nMnsvcBrLs"
  }
 }
