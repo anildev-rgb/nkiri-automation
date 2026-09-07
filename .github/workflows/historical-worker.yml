@@ -63,7 +63,6 @@ jobs:
       TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
       VIDFILES_API_KEY: ${{ secrets.VIDFILES_API_KEY }}
       NKIRI_MIN_FREE_GB: '4'
-      NKIRI_DOWNLOAD_DIR: ${{ runner.temp }}/nkiri-downloads/${{ matrix.id }}
       PYTHONUNBUFFERED: '1'
     steps:
       - name: Checkout lane state
@@ -96,6 +95,8 @@ jobs:
         run: sleep ${{ matrix.start_delay }}
 
       - name: Process assigned queue lane
+        env:
+          NKIRI_DOWNLOAD_DIR: ${{ runner.temp }}/nkiri-downloads/${{ matrix.id }}
         run: >-
           python fullauto/nkiri_agent.py --once
           --queue-file "${{ matrix.queue_file }}"
