@@ -183,8 +183,8 @@
   "https://thenkiri.com/dont-click-2012-download-korean-movie/": {
    "status": "pending",
    "signature": "158629|https://thenkiri.com/dont-click-2012-download-korean-movie/|2026-06-04T17:49:46|2026-06-04T17:49:46|{'rendered': 'Don’t Click (2012) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788784451.1327217
+   "attempts": 3,
+   "last_attempt": 1788785949.3988538
   },
   "https://thenkiri.com/maggie-2019-download-korean-movie/": {
    "status": "done",
@@ -207,8 +207,8 @@
   "https://thenkiri.com/desert-warrior-2026-download-hollywood-movie/": {
    "status": "pending",
    "signature": "157955|https://thenkiri.com/desert-warrior-2026-download-hollywood-movie/|2026-05-28T12:03:37|2026-05-28T12:33:44|{'rendered': 'Desert Warrior (2026) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788784452.3095405
+   "attempts": 3,
+   "last_attempt": 1788785950.000652
   },
   "https://thenkiri.com/heartman-rock-and-love2026-download-korean-movie/": {
    "status": "done",
@@ -241,16 +241,46 @@
    "completed_at": 1788784640
   },
   "https://thenkiri.com/the-ugly-2025-download-korean-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "156505|https://thenkiri.com/the-ugly-2025-download-korean-movie/|2026-05-08T13:13:48|2026-05-08T13:14:23|{'rendered': 'The Ugly (2025) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788784691.3867872
+   "modified": "2026-05-08T13:14:23",
+   "completed_at": 1788785992
   },
   "https://thenkiri.com/no-other-love-2026-download-chinese-movie/": {
    "status": "done",
    "signature": "156368|https://thenkiri.com/no-other-love-2026-download-chinese-movie/|2026-05-07T13:55:44|2026-05-07T13:55:44|{'rendered': 'No Other Love (2026) | Download Chinese Movie'}",
    "modified": "2026-05-07T13:55:44",
    "completed_at": 1788784759
+  },
+  "https://thenkiri.com/didnt-die-2026-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "156058|https://thenkiri.com/didnt-die-2026-download-hollywood-movie/|2026-05-04T13:45:01|2026-05-04T13:45:01|{'rendered': 'Didn’t Die (2026) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788785993.6047974
+  },
+  "https://thenkiri.com/per-aspera-ad-astra-2026-download-chinese-movie/": {
+   "status": "done",
+   "signature": "155951|https://thenkiri.com/per-aspera-ad-astra-2026-download-chinese-movie/|2026-05-02T11:22:05|2026-05-02T11:22:05|{'rendered': 'Per Aspera Ad Astra (2026) | Download Chinese Movie'}",
+   "modified": "2026-05-02T11:22:05",
+   "completed_at": 1788786030
+  },
+  "https://thenkiri.com/they-will-kill-you-2dirty-hands-2026-download-hollywood-movie026-download-hollywood-movie-2/": {
+   "status": "done",
+   "signature": "155737|https://thenkiri.com/they-will-kill-you-2dirty-hands-2026-download-hollywood-movie026-download-hollywood-movie-2/|2026-04-29T16:07:14|2026-04-29T16:07:14|{'rendered': 'Dirty Hands (2026) | Download Hollywood Movie'}",
+   "modified": "2026-04-29T16:07:14",
+   "completed_at": 1788786063
+  },
+  "https://thenkiri.com/protector-2026-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "155100|https://thenkiri.com/protector-2026-download-hollywood-movie/|2026-04-22T12:09:41|2026-04-22T12:10:42|{'rendered': 'Protector (2026) | Download Hollywood Movie'}",
+   "modified": "2026-04-22T12:10:42",
+   "completed_at": 1788786096
+  },
+  "https://thenkiri.com/made-in-korea-2026-download-foreign-movie/": {
+   "status": "done",
+   "signature": "154877|https://thenkiri.com/made-in-korea-2026-download-foreign-movie/|2026-04-20T12:42:36|2026-04-24T08:26:18|{'rendered': 'Made in Korea (2026) | Download Foreign Movie'}",
+   "modified": "2026-04-24T08:26:18",
+   "completed_at": 1788786144
   }
  },
  "series_links": {
@@ -333,6 +363,11 @@
   "https://downloadwella.com/wdl6ke6r6odu/Fantasy.Life.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/Ta1qoMpb_-2oE8qDir1NkwRs5QYcdAE1",
   "https://downloadwella.com/wop75mo7ocjj/$POSITIONS.(2025).(DRAMAKEY.COM).mkv.html": "https://v1.vidfiles.com/d/EiyGW35WvDs5uK8Is3PhwASVB7Qxw_Eu",
   "https://downloadwella.com/ejpdykmktd0b/You.Me.%2526.Tuscany.(2026).(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oWGpVXNehjo0OngRCOD4G06Yja7Hcoro",
-  "https://downloadwella.com/pg7rdus27ed7/No.Other.Love.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/ywgY8y_87mJdFINnCQ1Q8rpsdSlnaUBt"
+  "https://downloadwella.com/pg7rdus27ed7/No.Other.Love.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/ywgY8y_87mJdFINnCQ1Q8rpsdSlnaUBt",
+  "https://downloadwella.com/smvzpcatqf14/The.Ugly.(THENKIRI.COM).2025.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/RB4dV1lYgekLoJfDxW5JKRGRXPioe--U",
+  "https://downloadwella.com/8pameyb52opc/Per.Aspera.Ad.Astra.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/Jpd5MKI8yqxHIIAXyqHm8c2JcHkcR-b6",
+  "https://downloadwella.com/qlr2vbfezn6v/Dirty.Hands.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/ZRt-gyqUwfHmhWVYoihdX6m_4cYTlAoW",
+  "https://downloadwella.com/om6evy9mydze/Protector.(THENKIRI.COM).2025.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/Ww5LhmXJH-ffWqFOBYHcv311XVQZq-eE",
+  "https://downloadwella.com/toxcd6nj0mui/Made.In.Korea.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/ctg5u-UHItMU-bzmDzt-xPcfbQ9JNM8-"
  }
 }
