@@ -259,8 +259,8 @@
   "https://thenkiri.com/didnt-die-2026-download-hollywood-movie/": {
    "status": "pending",
    "signature": "156058|https://thenkiri.com/didnt-die-2026-download-hollywood-movie/|2026-05-04T13:45:01|2026-05-04T13:45:01|{'rendered': 'Didn’t Die (2026) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788786940.243111
+   "attempts": 3,
+   "last_attempt": 1788788212.0397341
   },
   "https://thenkiri.com/per-aspera-ad-astra-2026-download-chinese-movie/": {
    "status": "done",
@@ -327,6 +327,48 @@
    "signature": "152468|https://thenkiri.com/the-informant-2025-download-korean-movie/|2026-03-18T08:10:05|2026-03-18T08:10:05|{'rendered': 'The Informant (2025) | Download Korean Movie'}",
    "modified": "2026-03-18T08:10:05",
    "completed_at": 1788787369
+  },
+  "https://thenkiri.com/wuthering-heights-2026-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "152113|https://thenkiri.com/wuthering-heights-2026-download-hollywood-movie/|2026-03-13T10:06:17|2026-03-13T10:06:17|{'rendered': '“Wuthering Heights” (2026) | Download Hollywood Movie'}",
+   "modified": "2026-03-13T10:06:17",
+   "completed_at": 1788788270
+  },
+  "https://thenkiri.com/abroad-2025-download-korean-movie/": {
+   "status": "done",
+   "signature": "151960|https://thenkiri.com/abroad-2025-download-korean-movie/|2026-03-12T06:35:18|2026-03-12T06:35:18|{'rendered': 'Abroad (2025) | Download Korean Movie'}",
+   "modified": "2026-03-12T06:35:18",
+   "completed_at": 1788788369
+  },
+  "https://thenkiri.com/sugar-2026-download-korean-movie/": {
+   "status": "done",
+   "signature": "151840|https://thenkiri.com/sugar-2026-download-korean-movie/|2026-03-10T13:08:43|2026-03-10T13:08:43|{'rendered': 'Sugar (2026) | Download Korean Movie'}",
+   "modified": "2026-03-10T13:08:43",
+   "completed_at": 1788788428
+  },
+  "https://thenkiri.com/accused2026-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "151576|https://thenkiri.com/accused2026-download-hollywood-movie/|2026-03-07T09:30:30|2026-03-07T10:02:09|{'rendered': 'Accused (2026) | Download Foreign Movie'}",
+   "modified": "2026-03-07T10:02:09",
+   "completed_at": 1788788498
+  },
+  "https://thenkiri.com/project-y-2026-download-korean-movie/": {
+   "status": "pending",
+   "signature": "150779|https://thenkiri.com/project-y-2026-download-korean-movie/|2026-03-05T10:30:26|2026-03-05T10:30:26|{'rendered': 'Project Y (2026) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788788549.7070882
+  },
+  "https://thenkiri.com/dead-mans-wire-2025-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "150924|https://thenkiri.com/dead-mans-wire-2025-download-hollywood-movie/|2026-02-24T11:52:27|2026-02-24T16:26:41|{'rendered': 'Dead Mans Wire (2025) | Download Hollywood Movie'}",
+   "modified": "2026-02-24T16:26:41",
+   "completed_at": 1788788645
+  },
+  "https://thenkiri.com/ghost-train-2025-download-korean-movie/": {
+   "status": "pending",
+   "signature": "150415|https://thenkiri.com/ghost-train-2025-download-korean-movie/|2026-02-18T09:45:50|2026-02-18T09:45:50|{'rendered': 'Ghost Train (2025) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788788705.5438225
   }
  },
  "series_links": {
@@ -421,6 +463,11 @@
   "https://downloadwella.com/mpwdhx4xfcb2/Wardriver.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/pWmLAnBJQyLL-jc161a2hRxTdcAcPoM5",
   "https://downloadwella.com/2ory92l7vscf/Mick.Nick.Nick.Alice.(THENKIRI.COM).2026.WEB.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/PNDxgKkOPRZEFOFpskuhI-vDB-qhgxOt",
   "https://downloadwella.com/bn5bff7e9zod/Zeta.2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/66TUjq5TekRx5GX7Cuk8UqGWyEkQAwxT",
-  "https://downloadwella.com/xlaivslrcirp/The.Informant.(THENKIRI.COM).2025.WEB-DL.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/IWRSINo6T9VcBLWLnWEoF3nMnsvcBrLs"
+  "https://downloadwella.com/xlaivslrcirp/The.Informant.(THENKIRI.COM).2025.WEB-DL.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/IWRSINo6T9VcBLWLnWEoF3nMnsvcBrLs",
+  "https://downloadwella.com/lzv3byqxlgql/Wuthering.Heights.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/iknQyktDrJbVbU5g5wRObe3u3vtysw6o",
+  "https://downloadwella.com/x57wqmdkzozm/Abroad.(THENKIRI.COM).2025.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/GY99iLuINWJzGOBYqyuz4MygG0WNuKXM",
+  "https://downloadwella.com/dst1l31g07k8/Sugar.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/1pzguZiQtHYlymVr3XYWQcrxIcqBCxVS",
+  "https://downloadwella.com/f98y92uk1zvh/Accused.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/TMbZPBGRjR-9Ji9CBzfZr4aH5gPLqqk5",
+  "https://downloadwella.com/65768dllgrkp/Dead.Mans.Wire(THENKIRI.COM).2025.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/mBHIzk4CR-Cd57QxA1tT5mCQGBaFMds3"
  }
 }
