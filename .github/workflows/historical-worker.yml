@@ -31,7 +31,7 @@ jobs:
             state_file: fullauto/state-movies-a.json
             shard_index: 0
             shard_count: 2
-            post_limit: 5
+            post_limit: 8
             start_delay: 0
           - id: movies-b
             label: Movies lane B
@@ -39,7 +39,7 @@ jobs:
             state_file: fullauto/state-movies-b.json
             shard_index: 1
             shard_count: 2
-            post_limit: 5
+            post_limit: 8
             start_delay: 15
           - id: english-series
             label: English and other series lane
