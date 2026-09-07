@@ -3,8 +3,8 @@ name: Nkiri historical worker fleet
 on:
   workflow_dispatch:
   schedule:
-    # Avoid GitHub's busiest top-of-hour window. The worker fleet starts twice
-    # per hour; four runners each launch four independent queue workers.
+    # Avoid GitHub's busiest top-of-hour window. Each of the five repositories
+    # starts four runners; each runner launches four independent queue workers.
     - cron: '7,37 * * * *'
 
 concurrency:
@@ -81,9 +81,9 @@ jobs:
           LANE_NAME: ${{ matrix.id }}
         run: |
           mapfile -t state_files < <(find fullauto -maxdepth 1 -type f \( \
-            -name 'state-movies-shard-*.json' -o \
-            -name 'state-english-series-shard-*.json' -o \
-            -name 'state-korean-dramas-shard-*.json' \
+            -name 'state-movies-global-shard-*.json' -o \
+            -name 'state-english-series-global-shard-*.json' -o \
+            -name 'state-korean-dramas-global-shard-*.json' \
           \) -print)
           if [ "${#state_files[@]}" -eq 0 ]; then
             echo "No sharded lane-state files found."
@@ -121,10 +121,14 @@ jobs:
         run: |
           python3 - <<'PY' >> "$GITHUB_STEP_SUMMARY"
           import json
+          import os
           from pathlib import Path
+          from fullauto.parallel_worker import all_lanes_for_repo, repo_slot_from_repository
 
           print("## Nkiri historical worker fleet")
-          for path in sorted(Path("fullauto").glob("state-*-shard-*.json")):
+          repo_slot = repo_slot_from_repository(os.environ.get("GITHUB_REPOSITORY"))
+          for lane in all_lanes_for_repo(repo_slot):
+              path = Path(lane.state_file)
               try:
                   state = json.loads(path.read_text(encoding="utf-8"))
                   records = list((state.get("processed") or {}).values())
@@ -143,14 +147,12 @@ jobs:
           remaining="$(python3 - <<'PY'
           import csv
           import json
+          import os
           from pathlib import Path
+          from fullauto.parallel_worker import all_lanes_for_repo, repo_slot_from_repository
 
-          lanes = []
-          for index in range(8):
-              lanes.append(("queue/missing-movies.csv", f"fullauto/state-movies-shard-{index}.json", index, 8))
-          for index in range(4):
-              lanes.append(("queue/missing-series.csv", f"fullauto/state-english-series-shard-{index}.json", index, 4))
-              lanes.append(("queue/missing-korean-dramas.csv", f"fullauto/state-korean-dramas-shard-{index}.json", index, 4))
+          repo_slot = repo_slot_from_repository(os.environ.get("GITHUB_REPOSITORY"))
+          lanes = all_lanes_for_repo(repo_slot)
 
           def load(path):
               try:
@@ -164,13 +166,13 @@ jobs:
               return isinstance(value, dict) and value.get("status") in {"done", "blocked"}
 
           remaining = 0
-          for queue_file, state_file, shard_index, shard_count in lanes:
-              processed = load(state_file)
-              with open(queue_file, encoding="utf-8-sig", newline="") as fh:
+          for lane in lanes:
+              processed = load(lane.state_file)
+              with open(lane.queue_file, encoding="utf-8-sig", newline="") as fh:
                   rows = [row for row in csv.DictReader(fh)
                           if (row.get("source_url") or "").strip() and (row.get("title") or row.get("name") or "").strip()]
               for position, row in enumerate(rows):
-                  if position % shard_count != shard_index:
+                  if position % lane.shard_count != lane.shard_index:
                       continue
                   if not complete(processed.get((row.get("source_url") or "").strip())):
                       remaining += 1
