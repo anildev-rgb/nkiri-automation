@@ -9,7 +9,7 @@ on:
         default: '1'
         type: string
   schedule:
-    - cron: '17 * * * *'
+    - cron: '*/15 * * * *'
 
 concurrency:
   group: nkiri-historical-worker

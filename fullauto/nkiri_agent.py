@@ -999,7 +999,21 @@ def main():
             elif isinstance(prev, dict) and prev.get("status") == "done":
                 if prev.get("signature") == source_signature(wp):
                     continue
+            elif isinstance(prev, dict) and prev.get("status") == "blocked":
+                continue
             elif isinstance(prev, dict) and prev.get("status") == "pending":
+                attempts = int(prev.get("attempts") or 0)
+                if args.queue_file and attempts >= 3:
+                    if not args.dry_run:
+                        state["processed"][key] = {
+                            **prev,
+                            "status": "blocked",
+                            "reason": "source failed three historical retries",
+                            "blocked_at": int(time.time()),
+                        }
+                        save_state(state)
+                    log(f"  queue: blocked after 3 failed retries: {p['name']}")
+                    continue
                 last = float(prev.get("last_attempt") or 0)
                 if time.time() - last < max(60, args.interval):
                     continue
