@@ -9,8 +9,8 @@
   "https://thenkiri.com/the-girls-a-khloe-kardashian-project-s01-complete-tv-series/": {
    "status": "pending",
    "signature": "165018|https://thenkiri.com/the-girls-a-khloe-kardashian-project-s01-complete-tv-series/|2026-08-22T19:17:55|2026-08-22T19:34:00|{'rendered': 'The Girls: A Khloé Kardashian Project S01 (Complete) | TV Series'}",
-   "attempts": 2,
-   "last_attempt": 1788773200.1075172
+   "attempts": 3,
+   "last_attempt": 1788779783.0697243
   },
   "https://thenkiri.com/better-late-than-single-s02-complete-korean-tv-series/": {
    "status": "done",
@@ -47,6 +47,18 @@
    "signature": "152283|https://thenkiri.com/doctor-sin-complete-korean-drama/|2026-03-15T07:21:11|2026-05-03T17:26:32|{'rendered': 'Doctor Sin (Complete) | Korean Drama'}",
    "modified": "2026-05-03T17:26:32",
    "completed_at": 1788773844
+  },
+  "https://thenkiri.com/salmokji-whispering-water-2026-download-korean-movie/": {
+   "status": "done",
+   "signature": "164218|https://thenkiri.com/salmokji-whispering-water-2026-download-korean-movie/|2026-08-13T13:46:33|2026-08-13T13:46:33|{'rendered': 'Salmokji: Whispering Water (2026) | Download Korean Movie'}",
+   "modified": "2026-08-13T13:46:33",
+   "completed_at": 1788779735
+  },
+  "https://thenkiri.com/tides-of-love-s02-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "150706|https://thenkiri.com/tides-of-love-s02-complete-korean-drama/|2026-02-20T18:05:08|2026-03-26T07:50:22|{'rendered': 'Tides of Love S02 (Episode 8 Added ) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788780079.2394
   }
  },
  "series_links": {
@@ -93,6 +105,13 @@
   "https://downloadwella.com/3zzda4ifu730/Doctor.Shin.S01E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3SDLGjWFJi1UDf8Sji3cKDXOHaZgGUX-",
   "https://downloadwella.com/odtffvdi1ctd/Doctor.Shin.S01E14.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7pe5vm6H9rBc1wJsIaA9U0519vzGLEMX",
   "https://downloadwella.com/wef8u7f55pjs/Doctor.Shin.S01E15.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1awPs7ME3M7kDn7vF9R1F5uafzJ7rXQw",
-  "https://downloadwella.com/dd3n4dtog9vc/Doctor.Shin.S01E16.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tZw38oyHtinoh4Ob_x3r6BrR2dTm7vMG"
+  "https://downloadwella.com/dd3n4dtog9vc/Doctor.Shin.S01E16.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tZw38oyHtinoh4Ob_x3r6BrR2dTm7vMG",
+  "https://downloadwella.com/cxcn9oiq4cnx/Salmokji.Whispering.Water.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/AHu7DYQSp46wnSMvccEOPWa7unWoBxj0",
+  "https://downloadwella.com/mdsrz37mk2wy/Tides.of.Love.S02E01.(THE.NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/G5JzAdRO7IFA8p85cyMIlMSkubno7pEq",
+  "https://downloadwella.com/1clipymxvnlv/Tides.of.Love.S02E02.(THE.NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VZFNDXLkf9IlQyRd-fy60RIRcJbBHJv5",
+  "https://downloadwella.com/j5scq6fgo6kz/Tides.of.Love.S02E03.(THE.NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/67c7i2iRlqfHlBclT32nUU3k7pDe4_Th",
+  "https://downloadwella.com/bxq4x9899rhi/Tide.of.Love.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fkcrYSNwmkRl-66eMOKZIxoUgW95oQnH",
+  "https://downloadwella.com/w2xrysn30prh/Tide.of.Love.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FCFD5R4464v05JEgxztrpYSzdKNQenG3",
+  "https://downloadwella.com/nr2xyc7w5p1b/Tide.of.Love.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/I92ThKJt1dB0gzX7xFIUQjUIRGqIWxeC"
  }
 }
