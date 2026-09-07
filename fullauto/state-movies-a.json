@@ -183,8 +183,8 @@
   "https://thenkiri.com/dont-click-2012-download-korean-movie/": {
    "status": "pending",
    "signature": "158629|https://thenkiri.com/dont-click-2012-download-korean-movie/|2026-06-04T17:49:46|2026-06-04T17:49:46|{'rendered': 'Don’t Click (2012) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788783046.37077
+   "attempts": 2,
+   "last_attempt": 1788784451.1327217
   },
   "https://thenkiri.com/maggie-2019-download-korean-movie/": {
    "status": "done",
@@ -207,14 +207,50 @@
   "https://thenkiri.com/desert-warrior-2026-download-hollywood-movie/": {
    "status": "pending",
    "signature": "157955|https://thenkiri.com/desert-warrior-2026-download-hollywood-movie/|2026-05-28T12:03:37|2026-05-28T12:33:44|{'rendered': 'Desert Warrior (2026) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788783194.306273
+   "attempts": 2,
+   "last_attempt": 1788784452.3095405
   },
   "https://thenkiri.com/heartman-rock-and-love2026-download-korean-movie/": {
    "status": "done",
    "signature": "157499|https://thenkiri.com/heartman-rock-and-love2026-download-korean-movie/|2026-05-22T08:22:37|2026-05-22T08:22:37|{'rendered': 'Heartman: Rock and Love(2026) | Download Korean Movie'}",
    "modified": "2026-05-22T08:22:37",
    "completed_at": 1788783275
+  },
+  "https://thenkiri.com/jack-ryan-ghost-war-2026-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "157385|https://thenkiri.com/jack-ryan-ghost-war-2026-download-hollywood-movie/|2026-05-20T11:04:09|2026-05-20T11:04:09|{'rendered': 'Jack Ryan: Ghost War (2026) | Download Hollywood Movie'}",
+   "modified": "2026-05-20T11:04:09",
+   "completed_at": 1788784496
+  },
+  "https://thenkiri.com/fantasy-life-2026-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "157251|https://thenkiri.com/fantasy-life-2026-download-hollywood-movie/|2026-05-18T13:45:11|2026-05-18T13:45:11|{'rendered': 'Fantasy Life (2026) | Download Hollywood Movie'}",
+   "modified": "2026-05-18T13:45:11",
+   "completed_at": 1788784547
+  },
+  "https://thenkiri.com/positions-2025-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "157116|https://thenkiri.com/positions-2025-download-hollywood-movie/|2026-05-16T11:02:20|2026-05-16T13:23:13|{'rendered': '$POSITIONS (2025) | Download Hollywood Movie'}",
+   "modified": "2026-05-16T13:23:13",
+   "completed_at": 1788784598
+  },
+  "https://thenkiri.com/you-me-tuscany-2026-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "156818|https://thenkiri.com/you-me-tuscany-2026-download-hollywood-movie/|2026-05-13T08:41:09|2026-05-13T09:10:09|{'rendered': 'You, Me & Tuscany (2026) | Download Hollywood Movie'}",
+   "modified": "2026-05-13T09:10:09",
+   "completed_at": 1788784640
+  },
+  "https://thenkiri.com/the-ugly-2025-download-korean-movie/": {
+   "status": "pending",
+   "signature": "156505|https://thenkiri.com/the-ugly-2025-download-korean-movie/|2026-05-08T13:13:48|2026-05-08T13:14:23|{'rendered': 'The Ugly (2025) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788784691.3867872
+  },
+  "https://thenkiri.com/no-other-love-2026-download-chinese-movie/": {
+   "status": "done",
+   "signature": "156368|https://thenkiri.com/no-other-love-2026-download-chinese-movie/|2026-05-07T13:55:44|2026-05-07T13:55:44|{'rendered': 'No Other Love (2026) | Download Chinese Movie'}",
+   "modified": "2026-05-07T13:55:44",
+   "completed_at": 1788784759
   }
  },
  "series_links": {
@@ -292,6 +328,11 @@
   "https://downloadwella.com/he37kheb2hwr/Maggie.(THENKIRI.COM).2019.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/xhjuPycSAqYOBL5gfn2_13hQnhFRpU7Y",
   "https://downloadwella.com/i76au9mtntoh/Wingman.(THENKIRI.COM).2025.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/pLS7XxjiFj3_oXcnGWL0vx_KArkGlnCv",
   "https://downloadwella.com/r6a8gqfhdslb/Where.The.Wind.Blows.(THENKIRI.COM).2025.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/M3xXnOLF0Td1442tFxnQdJe59DEqLptC",
-  "https://downloadwella.com/kjo5ujwtg2bx/Heartman.Rock.and.Love.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/SSziHnDjNFwottqEiX_D-EmvZYmGLRkJ"
+  "https://downloadwella.com/kjo5ujwtg2bx/Heartman.Rock.and.Love.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/SSziHnDjNFwottqEiX_D-EmvZYmGLRkJ",
+  "https://downloadwella.com/lzx5qlfl8li3/Jack.Ryan.Ghost.War.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/ZqPtr8Ds61QDn1z530EfNfhZvSDttsEK",
+  "https://downloadwella.com/wdl6ke6r6odu/Fantasy.Life.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/Ta1qoMpb_-2oE8qDir1NkwRs5QYcdAE1",
+  "https://downloadwella.com/wop75mo7ocjj/$POSITIONS.(2025).(DRAMAKEY.COM).mkv.html": "https://v1.vidfiles.com/d/EiyGW35WvDs5uK8Is3PhwASVB7Qxw_Eu",
+  "https://downloadwella.com/ejpdykmktd0b/You.Me.%2526.Tuscany.(2026).(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oWGpVXNehjo0OngRCOD4G06Yja7Hcoro",
+  "https://downloadwella.com/pg7rdus27ed7/No.Other.Love.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/ywgY8y_87mJdFINnCQ1Q8rpsdSlnaUBt"
  }
 }
