@@ -55,10 +55,10 @@
    "completed_at": 1788779735
   },
   "https://thenkiri.com/tides-of-love-s02-complete-korean-drama/": {
-   "status": "pending",
+   "status": "done",
    "signature": "150706|https://thenkiri.com/tides-of-love-s02-complete-korean-drama/|2026-02-20T18:05:08|2026-03-26T07:50:22|{'rendered': 'Tides of Love S02 (Episode 8 Added ) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788780079.2394
+   "modified": "2026-03-26T07:50:22",
+   "completed_at": 1788782504
   },
   "https://thenkiri.com/my-korean-boyfriend-s01-complete-tv-series/": {
    "status": "done",
@@ -71,6 +71,12 @@
    "signature": "147790|https://thenkiri.com/bel-ami-s01-complete-korean-drama/|2025-12-19T13:40:35|2025-12-19T13:40:35|{'rendered': 'Bel Ami S01 (Complete) | Korean Drama'}",
    "modified": "2025-12-19T13:40:35",
    "completed_at": 1788781670
+  },
+  "https://thenkiri.com/pumpkin-time-s01-complete-korean-drama/": {
+   "status": "done",
+   "signature": "147706|https://thenkiri.com/pumpkin-time-s01-complete-korean-drama/|2025-12-18T07:49:12|2025-12-18T07:49:12|{'rendered': 'Pumpkin Time S01 (Complete) | Korean Drama'}",
+   "modified": "2025-12-18T07:49:12",
+   "completed_at": 1788782879
   }
  },
  "series_links": {
@@ -148,6 +154,18 @@
   "https://downloadwella.com/o17augbd5xtj/Bel.Ami.E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JwM6oWw8u78D_qqNHNmD6btLfGw-0dCV",
   "https://downloadwella.com/0qc57fkddmjm/Bel.Ami.E14.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RpibECMtq8it2x1p3ouAS12wVwEhTERu",
   "https://downloadwella.com/951pgg7ckp78/Bel.Ami.E15.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Vns0fgcf2p69FAYqt2tD4Q69MSmIb7A2",
-  "https://downloadwella.com/vmlw4t24v2c1/Bel.Ami.E16.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/keCC2vHhlSkeIhRK7ZNPN775zsl0m2r5"
+  "https://downloadwella.com/vmlw4t24v2c1/Bel.Ami.E16.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/keCC2vHhlSkeIhRK7ZNPN775zsl0m2r5",
+  "https://downloadwella.com/ndm446bo81fr/Tide.of.Love.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7j-1rlHlA786ccpZUpU4gkZvX4Xd1U7E",
+  "https://downloadwella.com/ej58m3tgquq2/Tide.of.Love.2.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/glLcNfW4pH-3_LpRAbFy1ox7n6UYLSF5",
+  "https://downloadwella.com/xuq0gxipt8tp/Pumpkin.Time.E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/X8wQs0UQpQP8CFXYI__b0xUlc5ZlkUcc",
+  "https://downloadwella.com/qx968kn6pkys/Pumpkin.Time.E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lCBH9LJ1CuBwCbVbdEqnks05TZDrph1F",
+  "https://downloadwella.com/8u1epv3y7sfb/Pumpkin.Time.E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DF3J4VCfm5-TbzpJdQYcPr42nHP53TUT",
+  "https://downloadwella.com/qplqo7uuum8a/Pumpkin.Time.E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qDPEa0JwtK01sgngs5gA21PDDu9HDUnp",
+  "https://downloadwella.com/za7up01ci75f/Pumpkin.Time.E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JR3zbdtrgEpZ2uMiBLV99Dc7gclwPTa7",
+  "https://downloadwella.com/vtrd0g800ri7/Pumpkin.Time.E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Dnps2wfZxfqFDAT6Hlgk6JpuXZmgIYqj",
+  "https://downloadwella.com/yz04fmpc5r16/Pumpkin.Time.E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/X0HG1Voo1_cViqt4OeHLQM6Juk2wtRXw",
+  "https://downloadwella.com/rbxy32esag68/Pumpkin.Time.E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iHPobolL-5cFZ3HaBlKgEgCdm0zIsBTm",
+  "https://downloadwella.com/a7yuno5u1q4o/Pumpkin.Time.E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2Cyu6RLZPGI3mETEN1O-eEXNj72Z9WPM",
+  "https://downloadwella.com/1k6icn2pk28q/Pumpkin.Time.E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gXiprp2DNbMJFvi49SEBbx4v_sV4TcTo"
  }
 }
