@@ -68,6 +68,6 @@ jobs:
         run: |
           git config user.name "nkiri-automation[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add state.json
+          git add fullauto/state.json
           git diff --cached --quiet || git commit -m "Update historical worker state"
           git push
