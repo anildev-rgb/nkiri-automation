@@ -656,6 +656,15 @@ def imdb_enrich(name: str, year: str = "") -> dict:
 # ------------------------------------------------------------
 # VidFiles: download → upload → skydrop link
 # ------------------------------------------------------------
+def vidfiles_api_key() -> str:
+    api_key = ENV.get("VIDFILES_API_KEY", "").strip()
+    key_file = SCRIPT_DIR / "apikey.txt"
+    if not api_key and key_file.exists():
+        api_key = key_file.read_text(encoding="utf-8").strip()
+    if not api_key:
+        raise RuntimeError("VIDFILES_API_KEY is not configured")
+    return api_key
+
 def upload_flow(page_link: str, dest: Path, uploader) -> tuple[bool, str | None]:
     direct = direct_url_for(page_link)
     if not direct:
@@ -664,15 +673,9 @@ def upload_flow(page_link: str, dest: Path, uploader) -> tuple[bool, str | None]
     dest = dest.with_name(fname)
     if not download_file(direct, dest):
         return False, None
-    api_key = ENV.get("VIDFILES_API_KEY", "").strip()
-    key_file = SCRIPT_DIR / "apikey.txt"
-    if not api_key and key_file.exists():
-        api_key = key_file.read_text(encoding="utf-8").strip()
-    if not api_key:
-        raise RuntimeError("VIDFILES_API_KEY is not configured")
     result = uploader(api_uploader.VidFilesApi(
         api_uploader.normalize_site(os.environ.get("VIDFILES_SITE", api_uploader.DEFAULT_SITE)),
-        api_key), dest, 3600)
+        vidfiles_api_key()), dest, 3600)
     if result.get("status") == "ready" and result.get("download_url"):
         return True, result["download_url"]
     return False, None
@@ -765,7 +768,7 @@ def process_post(post: dict, state: dict, args) -> str:
 
     uploader = api_uploader.VidFilesApi(
         api_uploader.normalize_site(os.environ.get("VIDFILES_SITE", api_uploader.DEFAULT_SITE)),
-        (SCRIPT_DIR / "apikey.txt").read_text(encoding="utf-8").strip())
+        vidfiles_api_key())
 
     # download + upload every linked file; collect skydrop links in page order
     skydrops = []
