@@ -103,16 +103,22 @@
    "completed_at": 1788787143
   },
   "https://thenkiri.com/walking-on-ice-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "done",
    "signature": "142430|https://thenkiri.com/walking-on-ice-s01-complete-korean-drama/|2025-09-20T17:30:44|2025-10-26T16:22:19|{'rendered': 'Walking on Ice S01 (Complete) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788786537.1113405
+   "modified": "2025-10-26T16:22:19",
+   "completed_at": 1788788257
   },
   "https://thenkiri.com/queen-mantis-s01-complete-korean-drama/": {
    "status": "done",
    "signature": "141808|https://thenkiri.com/queen-mantis-s01-complete-korean-drama/|2025-09-05T17:10:27|2025-09-27T17:06:37|{'rendered': 'Queen Mantis S01 (Episode 8 Added) | Korean Drama'}",
    "modified": "2025-09-27T17:06:37",
    "completed_at": 1788786827
+  },
+  "https://thenkiri.com/bon-appetit-your-majesty-s01-complete-korean-drama/": {
+   "status": "done",
+   "signature": "141232|https://thenkiri.com/bon-appetit-your-majesty-s01-complete-korean-drama/|2025-08-23T16:27:48|2025-09-29T16:48:37|{'rendered': 'Bon Appétit, Your Majesty S01 (Complete) | Korean Drama'}",
+   "modified": "2025-09-29T16:48:37",
+   "completed_at": 1788789112
   }
  },
  "series_links": {
@@ -298,6 +304,19 @@
   "https://downloadwella.com/ogyo9j28pj0f/Queen.Mantis.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sXQvuS4CCG5Fe0PwLsQbfSggVhoWhkPH",
   "https://downloadwella.com/uvh3y6bq9jt8/Awaken.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QdtDik6EErxxK9GxDkbkJAoBTCuMyejq",
   "https://downloadwella.com/xtm71wxgt4dk/The.Story.of.Bihyung.Enchanted.Master.of.Goblin.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/StgnpKtL5WKPLzGpDTc-xhS7IupwlaBW",
-  "https://downloadwella.com/3j5zkmbawlm9/The.Story.of.Bihyung.Enchanted.Master.of.Goblin.S01E09.(DRAMAKEY.COM).mkv.html": "https://v1.vidfiles.com/d/YJhomJpjacoxgYvNMggTbDv6ZmY1Tugr"
+  "https://downloadwella.com/3j5zkmbawlm9/The.Story.of.Bihyung.Enchanted.Master.of.Goblin.S01E09.(DRAMAKEY.COM).mkv.html": "https://v1.vidfiles.com/d/YJhomJpjacoxgYvNMggTbDv6ZmY1Tugr",
+  "https://downloadwella.com/tx75p2ksuz13/Walking.on.Thin.Ice.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ac-gHEOD3vkpG6hF0OyCsdi9HLemsyhW",
+  "https://downloadwella.com/ffwqtnz5a3ta/Bon.Appetit.Your.Majesty.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xHAZ46yFLqU9B_cclhmkYg7C9MwQGQ54",
+  "https://downloadwella.com/heulfo81pvx4/Bon.Appetit.Your.Majesty.E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/buiMEH6SmOiuZJtI6xrDyQ4jkrWl3mEU",
+  "https://downloadwella.com/hoehkkstyqqc/Bon.Appetit.Your.Majesty.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gcHgAem_i5qlcDdo-gIphCJ-VSqYs5dl",
+  "https://downloadwella.com/kfcpl9bbgci7/Bon.Appetit.Your.Majesty.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wMnLSOerrY9QrVynMdXG7qFv5A3t0q-v",
+  "https://downloadwella.com/gv738m8123nm/Bon.Appetit.Your.Majesty.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Mbt1XhemiEP6ZiULdtnHlpz35pg807Xe",
+  "https://downloadwella.com/c8s3ctx904os/Bon.Appetit.Your.Majesty.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/g9zVNoTRrfzd767gRNaBTf6IS7B0JP3Z",
+  "https://downloadwella.com/uypkic5sb4rn/Bon.Appetit.Your.Majesty.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rZ_7rx5wla2wI4YVlG0chAOIBgWS14qp",
+  "https://downloadwella.com/bat37y2p6cf3/Bon.Appetit.Your.Majesty.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/olvvPwiQPKGdTY1ADUeJdIfQ-KyN3ko-",
+  "https://downloadwella.com/uw04was7zp0k/Bon.Appetit.Your.Majesty.E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KIs6XxlZ7e5lkNgHRG9nHz_L4GVy8H-b",
+  "https://downloadwella.com/ovwdf86ebbzq/Bon.Appetit.Your.Majesty.E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Mz-ZUor4rQgi5kzBEdSqN4CEOdRzHGWh",
+  "https://downloadwella.com/8mb28lg8gbwa/Bon.Appetit.Your.Majesty.E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/92P1Go8zwfzdMyqJWa5aX57E5Gl8WH5_",
+  "https://downloadwella.com/s6rxhaoj7tlc/Bon.Appetit.Your.Majesty.E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_PnaltcIOkPDPxZ4rH_IJu-fncrMLuNW"
  }
 }
