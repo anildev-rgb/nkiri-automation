@@ -74,8 +74,9 @@ jobs:
         run: |
           # These are preinstalled on temporary GitHub runners and unused by
           # this Python worker. The repository, site, and VidFiles are untouched.
-          sudo rm -rf /usr/local/lib/android /usr/share/dotnet /opt/ghc /opt/hostedtoolcache/CodeQL
-          sudo docker system prune -af --volumes >/dev/null 2>&1 || true
+          # Do not let an unusually slow image cleanup hold a worker hostage.
+          timeout 75s sudo rm -rf /usr/local/lib/android /usr/share/dotnet /opt/ghc /opt/hostedtoolcache/CodeQL || true
+          timeout 20s sudo docker system prune -af --volumes >/dev/null 2>&1 || true
           python3 - <<'PY'
           import shutil
           total, used, free = shutil.disk_usage('.')
