@@ -91,16 +91,16 @@
    "completed_at": 1788784328
   },
   "https://thenkiri.com/1-percent-of-anything-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "done",
    "signature": "144458|https://thenkiri.com/1-percent-of-anything-s01-complete-korean-drama/|2025-10-22T18:54:22|2025-10-22T18:54:22|{'rendered': '1 Percent of Anything S01 (Complete) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788785458.2555075
+   "modified": "2025-10-22T18:54:22",
+   "completed_at": 1788787052
   },
   "https://thenkiri.com/the-story-of-bihyung-enchanted-master-of-the-goblin-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "done",
    "signature": "143559|https://thenkiri.com/the-story-of-bihyung-enchanted-master-of-the-goblin-s01-complete-korean-drama/|2025-10-11T11:46:58|2025-11-07T15:57:40|{'rendered': 'The Story of Bihyung: Enchanted Master of the Goblin S01 (Complete) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788785888.8815026
+   "modified": "2025-11-07T15:57:40",
+   "completed_at": 1788787143
   },
   "https://thenkiri.com/walking-on-ice-s01-complete-korean-drama/": {
    "status": "pending",
@@ -295,6 +295,9 @@
   "https://downloadwella.com/o20uqqrp1vmd/Queen.Mantis.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VJTuZfiZA3cnXSJ2wGSbOyIjhfsUZfBa",
   "https://downloadwella.com/4edsavexgoa6/Queen.Mantis.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PPnDkTAL1t9Uahs3IrljY9Bc4iCXj4Br",
   "https://downloadwella.com/t3np4pxiyzui/Queen.Mantis.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/--3IDsn9hbOmNh-SZdcwyqJfm53SIV-d",
-  "https://downloadwella.com/ogyo9j28pj0f/Queen.Mantis.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sXQvuS4CCG5Fe0PwLsQbfSggVhoWhkPH"
+  "https://downloadwella.com/ogyo9j28pj0f/Queen.Mantis.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sXQvuS4CCG5Fe0PwLsQbfSggVhoWhkPH",
+  "https://downloadwella.com/uvh3y6bq9jt8/Awaken.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QdtDik6EErxxK9GxDkbkJAoBTCuMyejq",
+  "https://downloadwella.com/xtm71wxgt4dk/The.Story.of.Bihyung.Enchanted.Master.of.Goblin.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/StgnpKtL5WKPLzGpDTc-xhS7IupwlaBW",
+  "https://downloadwella.com/3j5zkmbawlm9/The.Story.of.Bihyung.Enchanted.Master.of.Goblin.S01E09.(DRAMAKEY.COM).mkv.html": "https://v1.vidfiles.com/d/YJhomJpjacoxgYvNMggTbDv6ZmY1Tugr"
  }
 }
