@@ -1,0 +1,9 @@
+.env
+*.key
+apikey.txt
+downloads/
+*.part
+*.log
+state.corrupt-*.json
+__pycache__/
+.venv/

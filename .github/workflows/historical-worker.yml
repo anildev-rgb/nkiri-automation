@@ -1,0 +1,73 @@
+name: Nkiri historical worker
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: Posts per category for this run
+        required: true
+        default: '1'
+        type: string
+  schedule:
+    - cron: '17 * * * *'
+
+concurrency:
+  group: nkiri-historical-worker
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    env:
+      NKIRI_URL: https://nkiri.vip
+      NKIRI_API_TOKEN: ${{ secrets.NKIRI_API_TOKEN }}
+      API_TOKEN: ${{ secrets.NKIRI_API_TOKEN }}
+      TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+      VIDFILES_API_KEY: ${{ secrets.VIDFILES_API_KEY }}
+      NKIRI_MIN_FREE_GB: '2'
+      PYTHONUNBUFFERED: '1'
+    steps:
+      - name: Checkout worker state
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check runner storage
+        run: |
+          echo "Runner storage before processing:"
+          df -h . /tmp
+          python3 - <<'PY'
+          import shutil
+          total, used, free = shutil.disk_usage('.')
+          print(f"workspace_total_gb={total / 1024**3:.2f}")
+          print(f"workspace_free_gb={free / 1024**3:.2f}")
+          PY
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install worker dependencies
+        run: python -m pip install --disable-pip-version-check -r requirements.txt
+
+      - name: Process movies
+        run: python fullauto/nkiri_agent.py --once --queue-file queue/missing-movies.csv --limit "${{ inputs.limit || '1' }}" --no-sync
+
+      - name: Process English and other series
+        run: python fullauto/nkiri_agent.py --once --queue-file queue/missing-series.csv --limit "${{ inputs.limit || '1' }}" --no-sync
+
+      - name: Process Korean dramas
+        run: python fullauto/nkiri_agent.py --once --queue-file queue/missing-korean-dramas.csv --limit "${{ inputs.limit || '1' }}" --no-sync
+
+      - name: Commit resumable state
+        run: |
+          git config user.name "nkiri-automation[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || git commit -m "Update historical worker state"
+          git push
