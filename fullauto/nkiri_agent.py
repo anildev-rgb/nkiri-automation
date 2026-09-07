@@ -41,7 +41,8 @@ import api_uploader
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 NKIRI_ROOT = SCRIPT_DIR.parent
-STATE_PATH = SCRIPT_DIR / "state.json"
+STATE_PATH = Path(os.environ.get("NKIRI_STATE_FILE") or (SCRIPT_DIR / "state.json"))
+SEED_STATE_PATH: Path | None = None
 LOG_PATH = SCRIPT_DIR / "agent.log"
 DOWNLOAD_DIR = Path(os.environ.get("NKIRI_DOWNLOAD_DIR") or (SCRIPT_DIR / "downloads"))
 DOWNLOAD_DIR.mkdir(parents=True, exist_ok=True)
@@ -126,15 +127,18 @@ def strip_nulls(obj):
         return [strip_nulls(v) for v in obj if v is not None]
     return obj
 
+def read_state_file(path: Path) -> dict:
+    state = json.loads(path.read_text(encoding="utf-8"))
+    if not isinstance(state, dict):
+        raise ValueError("state root is not an object")
+    state.setdefault("processed", {})
+    state.setdefault("series_links", {})
+    return state
+
 def load_state() -> dict:
     if STATE_PATH.exists():
         try:
-            state = json.loads(STATE_PATH.read_text(encoding="utf-8"))
-            if not isinstance(state, dict):
-                raise ValueError("state root is not an object")
-            state.setdefault("processed", {})
-            state.setdefault("series_links", {})
-            return state
+            return read_state_file(STATE_PATH)
         except Exception as exc:
             # A previous run was killed while writing state. Preserve the bad
             # file for inspection, then restart with a valid state object.
@@ -144,6 +148,12 @@ def load_state() -> dict:
             except OSError:
                 pass
             log(f"state recovery: {exc}; starting with empty state")
+    if SEED_STATE_PATH and SEED_STATE_PATH.exists() and SEED_STATE_PATH != STATE_PATH:
+        try:
+            log(f"initializing lane state from {SEED_STATE_PATH.name}")
+            return read_state_file(SEED_STATE_PATH)
+        except Exception as exc:
+            log(f"seed state ignored: {exc}")
     return {"processed": {}, "series_links": {}}
 
 def save_state(state: dict) -> None:
@@ -967,7 +977,27 @@ def main():
     ap.add_argument("--dry-run", action="store_true", help="parse source posts only; never download, upload, or write the site")
     ap.add_argument("--no-sync", action="store_true", help="deprecated; retained for old launch commands")
     ap.add_argument("--queue-file", help="historical audit CSV; process only these source URLs")
+    ap.add_argument("--state-file", help="state file for this independent worker lane")
+    ap.add_argument("--seed-state-file", help="copy this existing state into a lane the first time it runs")
+    ap.add_argument("--shard-index", type=int, default=0, help="zero-based queue shard assigned to this lane")
+    ap.add_argument("--shard-count", type=int, default=1, help="number of stable queue shards")
     args = ap.parse_args()
+
+    if args.shard_count < 1 or args.shard_index < 0 or args.shard_index >= args.shard_count:
+        ap.error("--shard-index must be within --shard-count")
+
+    def resolve_worker_path(value: str) -> Path:
+        # Command-line paths are relative to the shell's working directory,
+        # matching Python's normal CLI behaviour. The default state remains
+        # beside this script when no path is supplied.
+        return Path(value).expanduser()
+
+    global STATE_PATH, SEED_STATE_PATH
+    if args.state_file:
+        STATE_PATH = resolve_worker_path(args.state_file)
+    if args.seed_state_file:
+        SEED_STATE_PATH = resolve_worker_path(args.seed_state_file)
+    STATE_PATH.parent.mkdir(parents=True, exist_ok=True)
 
     agent_lock = acquire_agent_lock()
     if agent_lock is None:
@@ -1068,7 +1098,15 @@ def main():
 
     def cycle():
         if args.queue_file:
-            process_batch(queue_posts(args.queue_file), f"queue {Path(args.queue_file).name}")
+            queue = queue_posts(args.queue_file)
+            if args.shard_count > 1:
+                queue = [post for position, post in enumerate(queue)
+                         if position % args.shard_count == args.shard_index]
+                label = (f"queue {Path(args.queue_file).name} "
+                         f"shard {args.shard_index + 1}/{args.shard_count}")
+            else:
+                label = f"queue {Path(args.queue_file).name}"
+            process_batch(queue, label)
             return
         # Keep the normal watch window bounded, while also checking the most
         # recently modified records so an old series can receive new episodes

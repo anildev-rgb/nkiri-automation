@@ -1,60 +1,82 @@
-name: Nkiri historical worker
+name: Nkiri historical worker fleet
 
 on:
   workflow_dispatch:
-    inputs:
-      limit:
-        description: Posts per category for this run
-        required: true
-        default: '1'
-        type: string
   schedule:
-    - cron: '*/15 * * * *'
+    # Avoid GitHub's busiest top-of-hour window. The worker fleet starts twice
+    # per hour; every lane has a hard timeout and resumes from its own state.
+    - cron: '7,37 * * * *'
 
 concurrency:
-  group: nkiri-historical-worker
+  group: nkiri-historical-worker-fleet
   cancel-in-progress: false
 
 permissions:
   contents: write
 
 jobs:
-  process:
+  worker:
+    name: ${{ matrix.label }}
     runs-on: ubuntu-latest
-    timeout-minutes: 360
+    timeout-minutes: 90
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix:
+        include:
+          - id: movies-a
+            label: Movies lane A
+            queue_file: queue/missing-movies.csv
+            state_file: fullauto/state-movies-a.json
+            shard_index: 0
+            shard_count: 2
+            post_limit: 5
+            start_delay: 0
+          - id: movies-b
+            label: Movies lane B
+            queue_file: queue/missing-movies.csv
+            state_file: fullauto/state-movies-b.json
+            shard_index: 1
+            shard_count: 2
+            post_limit: 5
+            start_delay: 15
+          - id: english-series
+            label: English and other series lane
+            queue_file: queue/missing-series.csv
+            state_file: fullauto/state-english-series.json
+            shard_index: 0
+            shard_count: 1
+            post_limit: 2
+            start_delay: 30
+          - id: korean-dramas
+            label: Korean drama lane
+            queue_file: queue/missing-korean-dramas.csv
+            state_file: fullauto/state-korean-dramas.json
+            shard_index: 0
+            shard_count: 1
+            post_limit: 2
+            start_delay: 45
     env:
       NKIRI_URL: https://nkiri.vip
       NKIRI_API_TOKEN: ${{ secrets.NKIRI_API_TOKEN }}
       API_TOKEN: ${{ secrets.NKIRI_API_TOKEN }}
       TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
       VIDFILES_API_KEY: ${{ secrets.VIDFILES_API_KEY }}
-      NKIRI_MIN_FREE_GB: '2'
+      NKIRI_MIN_FREE_GB: '4'
+      NKIRI_DOWNLOAD_DIR: ${{ runner.temp }}/nkiri-downloads/${{ matrix.id }}
       PYTHONUNBUFFERED: '1'
     steps:
-      - name: Checkout worker state
+      - name: Checkout lane state
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Reclaim disposable runner space
         run: |
-          # GitHub-hosted runners are temporary. Remove only large preinstalled
-          # toolchains that this worker does not use; repository state is kept.
+          # These are preinstalled on temporary GitHub runners and unused by
+          # this Python worker. The repository, site, and VidFiles are untouched.
           sudo rm -rf /usr/local/lib/android /usr/share/dotnet /opt/ghc /opt/hostedtoolcache/CodeQL
           sudo docker system prune -af --volumes >/dev/null 2>&1 || true
-          echo "Runner storage after disposable-cache cleanup:"
-          df -h . /tmp
-          python3 - <<'PY'
-          import shutil
-          total, used, free = shutil.disk_usage('.')
-          print(f"workspace_total_gb={total / 1024**3:.2f}")
-          print(f"workspace_free_gb={free / 1024**3:.2f}")
-          PY
-
-      - name: Check runner storage
-        run: |
-          echo "Runner storage before processing:"
-          df -h . /tmp
           python3 - <<'PY'
           import shutil
           total, used, free = shutil.disk_usage('.')
@@ -70,19 +92,73 @@ jobs:
       - name: Install worker dependencies
         run: python -m pip install --disable-pip-version-check -r requirements.txt
 
-      - name: Process movies
-        run: python fullauto/nkiri_agent.py --once --queue-file queue/missing-movies.csv --limit "${{ inputs.limit || '1' }}" --no-sync
+      - name: Stagger worker start
+        run: sleep ${{ matrix.start_delay }}
 
-      - name: Process English and other series
-        run: python fullauto/nkiri_agent.py --once --queue-file queue/missing-series.csv --limit "${{ inputs.limit || '1' }}" --no-sync
+      - name: Process assigned queue lane
+        run: >-
+          python fullauto/nkiri_agent.py --once
+          --queue-file "${{ matrix.queue_file }}"
+          --state-file "${{ matrix.state_file }}"
+          --seed-state-file fullauto/state.json
+          --shard-index ${{ matrix.shard_index }}
+          --shard-count ${{ matrix.shard_count }}
+          --limit ${{ matrix.post_limit }}
+          --no-sync
 
-      - name: Process Korean dramas
-        run: python fullauto/nkiri_agent.py --once --queue-file queue/missing-korean-dramas.csv --limit "${{ inputs.limit || '1' }}" --no-sync
-
-      - name: Commit resumable state
+      - name: Persist this lane's resumable state
+        env:
+          STATE_FILE: ${{ matrix.state_file }}
+          LANE_NAME: ${{ matrix.id }}
         run: |
+          if [ ! -f "$STATE_FILE" ]; then
+            echo "No lane-state change to commit."
+            exit 0
+          fi
           git config user.name "nkiri-automation[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add fullauto/state.json
-          git diff --cached --quiet || git commit -m "Update historical worker state"
-          git push
+          git add "$STATE_FILE"
+          git diff --cached --quiet && exit 0
+          git commit -m "Update $LANE_NAME historical state"
+          for attempt in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push origin HEAD:main; then
+              exit 0
+            fi
+            git rebase --abort || true
+            sleep $((attempt * 5))
+          done
+          echo "Could not persist $LANE_NAME state after five retries."
+          exit 1
+
+  controller-summary:
+    name: Fleet controller summary
+    needs: worker
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out latest state
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Write fleet health summary
+        run: |
+          python3 - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          from pathlib import Path
+
+          print("## Nkiri historical worker fleet")
+          for path in sorted(Path("fullauto").glob("state-*.json")):
+              try:
+                  state = json.loads(path.read_text(encoding="utf-8"))
+                  records = list((state.get("processed") or {}).values())
+                  done = sum(1 for item in records if isinstance(item, dict) and item.get("status") == "done")
+                  pending = sum(1 for item in records if isinstance(item, dict) and item.get("status") == "pending")
+                  blocked = sum(1 for item in records if isinstance(item, dict) and item.get("status") == "blocked")
+                  print(f"- `{path.name}`: {done} done, {pending} pending, {blocked} blocked")
+              except Exception as exc:
+                  print(f"- `{path.name}`: unreadable ({exc})")
+          print("- Lanes have a 90-minute hard timeout. Partial uploads are saved after each file and resume next run.")
+          PY
