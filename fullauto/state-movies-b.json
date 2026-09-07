@@ -223,10 +223,12 @@
    "completed_at": 1788784567
   },
   "https://thenkiri.com/the-mummy-2026-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "157222|https://thenkiri.com/the-mummy-2026-download-hollywood-movie/|2026-05-18T10:20:40|2026-05-18T10:20:40|{'rendered': 'The Mummy (2026) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788786958.1948102
+   "last_attempt": 1788786958.1948102,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788788223
   },
   "https://thenkiri.com/untold-uk-jamie-vardy-2026-download-hollywood-documentary/": {
    "status": "done",
@@ -253,10 +255,12 @@
    "completed_at": 1788784857
   },
   "https://thenkiri.com/youre-dating-a-narcissist-2026-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "156051|https://thenkiri.com/youre-dating-a-narcissist-2026-download-hollywood-movie/|2026-05-04T11:08:56|2026-05-04T11:24:33|{'rendered': 'You’re Dating a Narcissist! (2026) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788786959.314897
+   "last_attempt": 1788786959.314897,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788788223
   },
   "https://thenkiri.com/pegasus-3-2026-download-chinese-movie/": {
    "status": "done",
@@ -297,14 +301,14 @@
   "https://thenkiri.com/you-will-die-in-6-hours-2024-download-korean-movie/": {
    "status": "pending",
    "signature": "153421|https://thenkiri.com/you-will-die-in-6-hours-2024-download-korean-movie/|2026-03-31T16:41:18|2026-03-31T16:42:41|{'rendered': 'You Will Die in 6 Hours  (2024) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788786967.0339289
+   "attempts": 2,
+   "last_attempt": 1788788231.5506732
   },
   "https://thenkiri.com/only-god-knows-everything-2025-download-korean-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "153356|https://thenkiri.com/only-god-knows-everything-2025-download-korean-movie/|2026-03-30T16:27:17|2026-03-30T16:27:17|{'rendered': 'Only God Knows Everything (2025) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788786975.688656
+   "modified": "2026-03-30T16:27:17",
+   "completed_at": 1788788298
   },
   "https://thenkiri.com/once-we-were-us-2025-download-korean-movie/": {
    "status": "done",
@@ -329,6 +333,42 @@
    "signature": "152019|https://thenkiri.com/subedaar-2025-download-indian-movie/|2026-03-12T13:06:37|2026-03-12T13:08:27|{'rendered': 'Subedaar (2025) | Download Indian Movie'}",
    "modified": "2026-03-12T13:08:27",
    "completed_at": 1788787174
+  },
+  "https://thenkiri.com/new-normal-2023-download-korean-movie/": {
+   "status": "done",
+   "signature": "151851|https://thenkiri.com/new-normal-2023-download-korean-movie/|2026-03-10T13:39:16|2026-03-10T13:39:16|{'rendered': 'New Normal (2023) | Download Korean Movie'}",
+   "modified": "2026-03-10T13:39:16",
+   "completed_at": 1788788381
+  },
+  "https://thenkiri.com/the-stranger-chapter-2-2025-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "151642|https://thenkiri.com/the-stranger-chapter-2-2025-download-hollywood-movie/|2026-03-07T10:15:59|2026-03-07T10:18:36|{'rendered': 'The Stranger: Chapter 2 (2025) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788788382.194153
+  },
+  "https://thenkiri.com/war-machine-2026-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "151565|https://thenkiri.com/war-machine-2026-download-hollywood-movie/|2026-03-06T14:21:56|2026-03-07T08:51:18|{'rendered': 'War Machine (2026) | Download Hollywood Movie'}",
+   "modified": "2026-03-07T08:51:18",
+   "completed_at": 1788788464
+  },
+  "https://thenkiri.com/whistle-2026-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "151409|https://thenkiri.com/whistle-2026-download-hollywood-movie/|2026-03-04T10:04:25|2026-03-04T10:04:25|{'rendered': 'Whistle (2025) | Download Hollywood Movie'}",
+   "modified": "2026-03-04T10:04:25",
+   "completed_at": 1788789169
+  },
+  "https://thenkiri.com/pavane-2026-download-korean-movie/": {
+   "status": "done",
+   "signature": "150742|https://thenkiri.com/pavane-2026-download-korean-movie/|2026-02-21T10:02:11|2026-02-21T10:08:58|{'rendered': 'Pavane (2026) | Download Korean Movie'}",
+   "modified": "2026-02-21T10:08:58",
+   "completed_at": 1788789216
+  },
+  "https://thenkiri.com/misdirection-2026-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "149983|https://thenkiri.com/misdirection-2026-download-hollywood-movie/|2026-02-10T13:06:44|2026-02-10T13:06:44|{'rendered': 'Misdirection (2026) | Download Hollywood Movie'}",
+   "modified": "2026-02-10T13:06:44",
+   "completed_at": 1788789268
   }
  },
  "series_links": {
@@ -423,6 +463,12 @@
   "https://downloadwella.com/d9ojryqw7tuq/Once.We.Were.Us.(THENKIRI.COM).2025.CPNG.WEB.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/B9JsfRTjDOyKs0rwYGQ7uGorleCsWaeL",
   "https://downloadwella.com/ai8zkj7gxt0h/Hannah.Montana.20th.Anniversary.Special.(THENKIRI.COM).2026.WEB-DL.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/yXfo1vh2stgb6MFhoIYDKCqWstt1PvgL",
   "https://downloadwella.com/4o499e0b6jxq/The.First.Ride.(THENKIRI.COM).2025.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/dMQaa9TA6b7rSu173BgcFLjsXlVfEBP8",
-  "https://downloadwella.com/y1y6wetgd36y/Subedaar.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/1Sf4Vg-NeyftXeW0y3OEmD69VB4TtCH-"
+  "https://downloadwella.com/y1y6wetgd36y/Subedaar.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/1Sf4Vg-NeyftXeW0y3OEmD69VB4TtCH-",
+  "https://downloadwella.com/uxeg8ankmilj/Only.God.Knows.Everything.(THENKIRI.COM).2025.NF.WEB-DL.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/qR06k5azLNIiKtkAn1ZLW6JlBsmQ-EBJ",
+  "https://downloadwella.com/krusb9yvqcvp/New.Normal.2023.(THENKIRI.COM).WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/nl1-i3urZgy821wnCZ_RF8LbwYw4bUaq",
+  "https://downloadwella.com/teeev7gh0q81/War.Machine.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/qnCrOExJV1FyOUQfOGwnM2oJlgDaKLc3",
+  "https://downloadwella.com/hhjh1bgmpff2/Whistle.(2025).(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yvYjxNAAcaQaWPV-GUZU7pzgh6m0_SAu",
+  "https://downloadwella.com/w5ov41dw9it5/Pavane.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/AYjIgW7etzK-8vEC2sgvwjEyjeCLHwQW",
+  "https://downloadwella.com/brtysr5ncmvd/Misdirection.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/g040fRlACqRnb6j1i35--pRZ1tME5w_9"
  }
 }
