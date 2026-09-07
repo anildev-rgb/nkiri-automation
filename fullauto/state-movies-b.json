@@ -127,10 +127,10 @@
    "completed_at": 1788782395
   },
   "https://thenkiri.com/wasteman-2026-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "161494|https://thenkiri.com/wasteman-2026-download-hollywood-movie/|2026-07-10T11:50:34|2026-07-10T11:50:34|{'rendered': 'Wasteman (2026) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788782408.8299992
+   "modified": "2026-07-10T11:50:34",
+   "completed_at": 1788784507
   },
   "https://thenkiri.com/passenger-2026-download-hollywood-movie/": {
    "status": "done",
@@ -215,6 +215,48 @@
    "signature": "157422|https://thenkiri.com/scarlet-2025-download-hollywood-movie/|2026-05-20T14:05:18|2026-07-15T15:53:52|{'rendered': 'Scarlet (2025) | Download Japanese Animation'}",
    "modified": "2026-07-15T15:53:52",
    "completed_at": 1788783393
+  },
+  "https://thenkiri.com/mile-end-kicks-2026-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "157334|https://thenkiri.com/mile-end-kicks-2026-download-hollywood-movie/|2026-05-19T13:37:10|2026-05-19T13:37:10|{'rendered': 'Mile End Kicks (2026) | Download Hollywood Movie'}",
+   "modified": "2026-05-19T13:37:10",
+   "completed_at": 1788784567
+  },
+  "https://thenkiri.com/the-mummy-2026-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "157222|https://thenkiri.com/the-mummy-2026-download-hollywood-movie/|2026-05-18T10:20:40|2026-05-18T10:20:40|{'rendered': 'The Mummy (2026) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788784568.6416585
+  },
+  "https://thenkiri.com/untold-uk-jamie-vardy-2026-download-hollywood-documentary/": {
+   "status": "done",
+   "signature": "156905|https://thenkiri.com/untold-uk-jamie-vardy-2026-download-hollywood-documentary/|2026-05-14T09:36:09|2026-05-14T09:36:09|{'rendered': 'Untold UK: Jamie Vardy (2026) | Download Hollywood Documentary'}",
+   "modified": "2026-05-14T09:36:09",
+   "completed_at": 1788784619
+  },
+  "https://thenkiri.com/the-legend-of-hei-2021-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "156562|https://thenkiri.com/the-legend-of-hei-2021-download-hollywood-movie/|2026-05-08T17:38:32|2026-08-10T14:48:57|{'rendered': 'The Legend of Hei (2019) | Download Chinese Animation'}",
+   "modified": "2026-08-10T14:48:57",
+   "completed_at": 1788784748
+  },
+  "https://thenkiri.com/you-cant-win-2026-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "156416|https://thenkiri.com/you-cant-win-2026-download-hollywood-movie/|2026-05-08T08:55:40|2026-05-08T09:01:33|{'rendered': 'You Can’t Win (2026) | Download Hollywood Movie'}",
+   "modified": "2026-05-08T09:01:33",
+   "completed_at": 1788784811
+  },
+  "https://thenkiri.com/raakaasa-2026-download-foreign-movie/": {
+   "status": "done",
+   "signature": "156323|https://thenkiri.com/raakaasa-2026-download-foreign-movie/|2026-05-07T09:35:17|2026-05-07T09:35:17|{'rendered': 'Raakaasa (2026) | Download Foreign Movie'}",
+   "modified": "2026-05-07T09:35:17",
+   "completed_at": 1788784857
+  },
+  "https://thenkiri.com/youre-dating-a-narcissist-2026-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "156051|https://thenkiri.com/youre-dating-a-narcissist-2026-download-hollywood-movie/|2026-05-04T11:08:56|2026-05-04T11:24:33|{'rendered': 'You’re Dating a Narcissist! (2026) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788784859.2518
   }
  },
  "series_links": {
@@ -293,6 +335,12 @@
   "https://downloadwella.com/b51on32bidua/Miss.You.Love.You.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/k2kcfWM79UstG7ZcNxGxnnEC9wv1YY-h",
   "https://downloadwella.com/iejlemasbye0/Northern.Limit.Line.2015.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/aS2CvR4l1JXmTXfJUGPf-iFKIY8k2JZx",
   "https://downloadwella.com/hgvjsx0bfdei/Scare.Out.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/pZWsW4H-j2k8pZSACOfS8py2Ua4_eGo3",
-  "https://downloadwella.com/s7mkh5iaoed6/Scarlet.(THENKIRI.COM).2025.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/f87m-AHMa2v0ZP5vgRgNaGhMchAdAjgX"
+  "https://downloadwella.com/s7mkh5iaoed6/Scarlet.(THENKIRI.COM).2025.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/f87m-AHMa2v0ZP5vgRgNaGhMchAdAjgX",
+  "https://downloadwella.com/btug4oz1toiq/Wasteman.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/UQVpEoQSwQqs544faUyGniMKNOuNTWJG",
+  "https://downloadwella.com/dabvjc9ntzmb/Mile.End.Kicks.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/5X6F0--xgBZzkqlSpz7iIDhsjohNdn6y",
+  "https://downloadwella.com/7uliyq2ei0ty/Untold.UK.Jamie.Vardy.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/PCDQLT0XH70dWxFJD-ks4ZE_UArtxjj_",
+  "https://downloadwella.com/6vj4dyqw302s/The.Legend.of.Hei.(THENKIRI.COM).2019.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/_Fjcf4Rpxio55_9pPUymHqhE4wKoGndV",
+  "https://downloadwella.com/7lma6x1kgr6y/You.Cant.Win(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/Dp3s5O12-cN6WcpGITKiTiUB_Kfik187",
+  "https://downloadwella.com/85714wz67e75/Raakaasa.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/IUGO5qRUAkVl3w2t_7aULyUMEB945WWp"
  }
 }
