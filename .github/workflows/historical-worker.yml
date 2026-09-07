@@ -36,6 +36,21 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Reclaim disposable runner space
+        run: |
+          # GitHub-hosted runners are temporary. Remove only large preinstalled
+          # toolchains that this worker does not use; repository state is kept.
+          sudo rm -rf /usr/local/lib/android /usr/share/dotnet /opt/ghc /opt/hostedtoolcache/CodeQL
+          sudo docker system prune -af --volumes >/dev/null 2>&1 || true
+          echo "Runner storage after disposable-cache cleanup:"
+          df -h . /tmp
+          python3 - <<'PY'
+          import shutil
+          total, used, free = shutil.disk_usage('.')
+          print(f"workspace_total_gb={total / 1024**3:.2f}")
+          print(f"workspace_free_gb={free / 1024**3:.2f}")
+          PY
+
       - name: Check runner storage
         run: |
           echo "Runner storage before processing:"
