@@ -12,6 +12,7 @@ concurrency:
   cancel-in-progress: false
 
 permissions:
+  actions: write
   contents: write
 
 jobs:
@@ -164,3 +165,60 @@ jobs:
                   print(f"- `{path.name}`: unreadable ({exc})")
           print("- Lanes have a 90-minute hard timeout. Partial uploads are saved after each file and resume next run.")
           PY
+
+      - id: progress
+        name: Decide whether more historical work remains
+        run: |
+          remaining="$(python3 - <<'PY'
+          import csv
+          import json
+          from pathlib import Path
+
+          lanes = [
+              ("queue/missing-movies.csv", "fullauto/state-movies-a.json", 0, 2),
+              ("queue/missing-movies.csv", "fullauto/state-movies-b.json", 1, 2),
+              ("queue/missing-series.csv", "fullauto/state-english-series.json", 0, 1),
+              ("queue/missing-korean-dramas.csv", "fullauto/state-korean-dramas.json", 0, 1),
+          ]
+
+          def load(path):
+              try:
+                  return json.loads(Path(path).read_text(encoding="utf-8")).get("processed", {})
+              except Exception:
+                  return {}
+
+          def complete(value):
+              if isinstance(value, str):
+                  return value == "done" or value.startswith("skipped")
+              return isinstance(value, dict) and value.get("status") in {"done", "blocked"}
+
+          remaining = 0
+          for queue_file, state_file, shard_index, shard_count in lanes:
+              processed = load(state_file)
+              with open(queue_file, encoding="utf-8-sig", newline="") as fh:
+                  rows = [row for row in csv.DictReader(fh)
+                          if (row.get("source_url") or "").strip() and (row.get("title") or row.get("name") or "").strip()]
+              for position, row in enumerate(rows):
+                  if position % shard_count != shard_index:
+                      continue
+                  if not complete(processed.get((row.get("source_url") or "").strip())):
+                      remaining += 1
+          print(remaining)
+          PY
+          )"
+          echo "remaining=$remaining" >> "$GITHUB_OUTPUT"
+          echo "- Actionable queue rows remaining: $remaining" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Queue the next fleet run when work remains
+        if: steps.progress.outputs.remaining != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          curl --fail-with-body --retry 3 --retry-delay 5 \
+            -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/workflows/352142163/dispatches" \
+            -d '{"ref":"main"}'
+          echo "Queued the next fleet run."
