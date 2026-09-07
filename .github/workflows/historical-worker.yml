@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Avoid GitHub's busiest top-of-hour window. The worker fleet starts twice
-    # per hour; every lane has a hard timeout and resumes from its own state.
+    # per hour; four runners each launch four independent queue workers.
     - cron: '7,37 * * * *'
 
 concurrency:
@@ -25,38 +25,18 @@ jobs:
       max-parallel: 4
       matrix:
         include:
-          - id: movies-a
-            label: Movies lane A
-            queue_file: queue/missing-movies.csv
-            state_file: fullauto/state-movies-a.json
-            shard_index: 0
-            shard_count: 2
-            post_limit: 8
-            start_delay: 0
-          - id: movies-b
-            label: Movies lane B
-            queue_file: queue/missing-movies.csv
-            state_file: fullauto/state-movies-b.json
-            shard_index: 1
-            shard_count: 2
-            post_limit: 8
-            start_delay: 15
-          - id: english-series
-            label: English and other series lane
-            queue_file: queue/missing-series.csv
-            state_file: fullauto/state-english-series.json
-            shard_index: 0
-            shard_count: 1
-            post_limit: 2
-            start_delay: 30
-          - id: korean-dramas
-            label: Korean drama lane
-            queue_file: queue/missing-korean-dramas.csv
-            state_file: fullauto/state-korean-dramas.json
-            shard_index: 0
-            shard_count: 1
-            post_limit: 2
-            start_delay: 45
+          - id: runner-0
+            label: Runner 1 (4 workers)
+            runner_index: 0
+          - id: runner-1
+            label: Runner 2 (4 workers)
+            runner_index: 1
+          - id: runner-2
+            label: Runner 3 (4 workers)
+            runner_index: 2
+          - id: runner-3
+            label: Runner 4 (4 workers)
+            runner_index: 3
     env:
       NKIRI_URL: https://nkiri.vip
       NKIRI_API_TOKEN: ${{ secrets.NKIRI_API_TOKEN }}
@@ -93,34 +73,25 @@ jobs:
       - name: Install worker dependencies
         run: python -m pip install --disable-pip-version-check -r requirements.txt
 
-      - name: Stagger worker start
-        run: sleep ${{ matrix.start_delay }}
-
-      - name: Process assigned queue lane
-        env:
-          NKIRI_DOWNLOAD_DIR: ${{ runner.temp }}/nkiri-downloads/${{ matrix.id }}
-        run: >-
-          python fullauto/nkiri_agent.py --once
-          --queue-file "${{ matrix.queue_file }}"
-          --state-file "${{ matrix.state_file }}"
-          --seed-state-file fullauto/state.json
-          --shard-index ${{ matrix.shard_index }}
-          --shard-count ${{ matrix.shard_count }}
-          --limit ${{ matrix.post_limit }}
-          --no-sync
+      - name: Process four assigned queue workers
+        run: python fullauto/parallel_worker.py --runner-index "${{ matrix.runner_index }}"
 
       - name: Persist this lane's resumable state
         env:
-          STATE_FILE: ${{ matrix.state_file }}
           LANE_NAME: ${{ matrix.id }}
         run: |
-          if [ ! -f "$STATE_FILE" ]; then
-            echo "No lane-state change to commit."
+          mapfile -t state_files < <(find fullauto -maxdepth 1 -type f \( \
+            -name 'state-movies-shard-*.json' -o \
+            -name 'state-english-series-shard-*.json' -o \
+            -name 'state-korean-dramas-shard-*.json' \
+          \) -print)
+          if [ "${#state_files[@]}" -eq 0 ]; then
+            echo "No sharded lane-state files found."
             exit 0
           fi
           git config user.name "nkiri-automation[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add "$STATE_FILE"
+          git add "${state_files[@]}"
           git diff --cached --quiet && exit 0
           git commit -m "Update $LANE_NAME historical state"
           for attempt in 1 2 3 4 5; do
@@ -153,7 +124,7 @@ jobs:
           from pathlib import Path
 
           print("## Nkiri historical worker fleet")
-          for path in sorted(Path("fullauto").glob("state-*.json")):
+          for path in sorted(Path("fullauto").glob("state-*-shard-*.json")):
               try:
                   state = json.loads(path.read_text(encoding="utf-8"))
                   records = list((state.get("processed") or {}).values())
@@ -174,12 +145,12 @@ jobs:
           import json
           from pathlib import Path
 
-          lanes = [
-              ("queue/missing-movies.csv", "fullauto/state-movies-a.json", 0, 2),
-              ("queue/missing-movies.csv", "fullauto/state-movies-b.json", 1, 2),
-              ("queue/missing-series.csv", "fullauto/state-english-series.json", 0, 1),
-              ("queue/missing-korean-dramas.csv", "fullauto/state-korean-dramas.json", 0, 1),
-          ]
+          lanes = []
+          for index in range(8):
+              lanes.append(("queue/missing-movies.csv", f"fullauto/state-movies-shard-{index}.json", index, 8))
+          for index in range(4):
+              lanes.append(("queue/missing-series.csv", f"fullauto/state-english-series-shard-{index}.json", index, 4))
+              lanes.append(("queue/missing-korean-dramas.csv", f"fullauto/state-korean-dramas-shard-{index}.json", index, 4))
 
           def load(path):
               try:
