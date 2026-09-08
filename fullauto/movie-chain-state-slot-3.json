@@ -283,10 +283,12 @@
    "completed_at": 1788877150
   },
   "https://thenkiri.com/believer-2018-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "69042|https://thenkiri.com/believer-2018-download-korean-movie/|10/25/2022 11:37:15|09/02/2023 16:25:57|{'rendered': 'Believer (2018) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788879446.7841728
+   "last_attempt": 1788879446.7841728,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788879544
   },
   "https://thenkiri.com/werewolf-by-night-2022-download-hollywood-movie/": {
    "status": "done",
@@ -303,8 +305,8 @@
   "https://thenkiri.com/jujutsu-kaisen-0-2021-download-japanese-movie/": {
    "status": "pending",
    "signature": "66028|https://thenkiri.com/jujutsu-kaisen-0-2021-download-japanese-movie/|09/21/2022 07:15:30|09/02/2023 15:42:42|{'rendered': 'Jujutsu Kaisen 0 (2021) | Download JAPANESE Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788878591.23581
+   "attempts": 3,
+   "last_attempt": 1788879553.1190124
   },
   "https://thenkiri.com/where-the-crawdads-sing-2022-download-hollywood-movie/": {
    "status": "pending",
