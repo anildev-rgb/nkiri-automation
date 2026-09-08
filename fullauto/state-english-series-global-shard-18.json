@@ -226,16 +226,24 @@
    "blocked_at": 1788841359
   },
   "https://thenkiri.com/man-on-fire-s01-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "155781|https://thenkiri.com/man-on-fire-s01-complete-tv-series/|2026-04-30T11:00:18|2026-05-01T10:10:38|{'rendered': 'Man on Fire S01 (Complete) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788841697.7029104
+   "last_attempt": 1788841697.7029104,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857675
   },
   "https://thenkiri.com/bergerac-s01-complete-tv-series/": {
-   "status": "pending",
+   "status": "done",
    "signature": "154892|https://thenkiri.com/bergerac-s01-complete-tv-series/|2026-04-20T14:15:49|2026-04-20T14:15:49|{'rendered': 'Bergerac S01 (Complete)  | TV Series'}",
+   "modified": "2026-04-20T14:15:49",
+   "completed_at": 1788857848
+  },
+  "https://thenkiri.com/bandi-s01-complete-foreign-tv-series/": {
+   "status": "pending",
+   "signature": "154016|https://thenkiri.com/bandi-s01-complete-foreign-tv-series/|2026-04-10T08:03:20|2026-05-15T08:40:02|{'rendered': 'Bandi S01 (Complete) | Foreign TV Series'}",
    "attempts": 1,
-   "last_attempt": 1788841876.9530494
+   "last_attempt": 1788858770.8401892
   }
  },
  "series_links": {
@@ -461,6 +469,14 @@
   "https://downloadwella.com/mbjq8ww34xcq/Sugar.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wzY38boIWHYaD-GdOgn4b92tplOJrJa2",
   "https://downloadwella.com/7lcezok3nuvy/Sugar.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/g3Cq_OHyZW1HVZSXmjDTd3IVkEAmub-_",
   "https://downloadwella.com/15opm0xnmkfy/Sugar.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jmBsPihiPNBZVQYbkqxGysZ5LHiDY71w",
-  "https://downloadwella.com/jhvw4t2guu4u/Sugar.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6F7IdAW0wZKoMc9rvxa7AXvWwDKLplNo"
+  "https://downloadwella.com/jhvw4t2guu4u/Sugar.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6F7IdAW0wZKoMc9rvxa7AXvWwDKLplNo",
+  "https://downloadwella.com/7mvp0bfgyw7b/Bergerac.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0kKO5H08MISdgb2tczbDH8ZNyIhol-es",
+  "https://downloadwella.com/a5u85rxbnep4/Bergerac.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cpIYDTmqTiwuh_qFgLmW--Qa10zcf_mS",
+  "https://downloadwella.com/fba81tvpkgyi/Bergerac.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/P7KmDoLu_R3s9J-ng41Jiz7RdZe8NHH8",
+  "https://downloadwella.com/8rp1isnozcks/Bergerac.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5805VUedC2GVF41m37nhHVEcjg7_aau5",
+  "https://downloadwella.com/e64ere22wu81/Bergerac.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BJBIq7CDt_HrjR2vZMvm0CY3-Kj1aZGb",
+  "https://downloadwella.com/3q5xudqjxh3f/Bergerac.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7-pBBGt-RevbHvTh4OI_LtXu6b2TJIo8",
+  "https://downloadwella.com/b30x2am4yk6c/Bandi.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XT4I8kooqRkDdz7CgRHLW-4tOapIHGAM",
+  "https://downloadwella.com/kt6jkn950wsb/Bandi.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GVvsyf5mbaE72dzN0YPZtTViqxqjzHdX"
  }
 }

@@ -1169,52 +1169,108 @@
    "blocked_at": 1788841329
   },
   "https://thenkiri.com/spiderhead-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "44274|https://thenkiri.com/spiderhead-2022-download-hollywood-movie/|2022-06-17T09:53:20|2023-09-02T14:08:54|{'rendered': 'Spiderhead (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841330.598866
+   "last_attempt": 1788841330.598866,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857645
   },
   "https://thenkiri.com/the-last-victim-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "42031|https://thenkiri.com/the-last-victim-2022-download-hollywood-movie/|2022-05-13T19:56:14|2023-09-02T13:57:58|{'rendered': 'The Last Victim (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841331.7185764
+   "last_attempt": 1788841331.7185764,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857645
   },
   "https://thenkiri.com/constantine-the-house-of-mystery-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39815|https://thenkiri.com/constantine-the-house-of-mystery-2022-download-hollywood-movie/|2022-04-17T09:10:32|2023-09-02T13:44:02|{'rendered': 'Constantine The House of Mystery (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841332.9028552
+   "last_attempt": 1788841332.9028552,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857645
   },
   "https://thenkiri.com/loveland-aka-expired-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "38253|https://thenkiri.com/loveland-aka-expired-2022-download-hollywood-movie/|2022-03-20T03:42:52|2023-09-02T13:14:23|{'rendered': 'Loveland aka Expired (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841334.343687
+   "last_attempt": 1788841334.343687,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857645
   },
   "https://thenkiri.com/licorice-pizza-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "36853|https://thenkiri.com/licorice-pizza-2021-download-hollywood-movie/|2022-02-19T20:22:34|2023-09-02T13:41:53|{'rendered': 'Licorice Pizza (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841335.4186823
+   "last_attempt": 1788841335.4186823,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857645
   },
   "https://thenkiri.com/the-fallout-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "35709|https://thenkiri.com/the-fallout-2022-download-hollywood-movie/|2022-01-27T11:42:53|2023-09-02T13:30:18|{'rendered': 'The Fallout (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841336.4709256
+   "last_attempt": 1788841336.4709256,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857645
   },
   "https://thenkiri.com/scream-2-1997-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "34599|https://thenkiri.com/scream-2-1997-download-hollywood-movie/|2022-01-06T08:19:18|2023-09-02T13:21:18|{'rendered': 'Scream 2 (1997) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841337.454587
+   "last_attempt": 1788841337.454587,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857645
   },
   "https://thenkiri.com/boxing-day-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "33729|https://thenkiri.com/boxing-day-2021-download-hollywood-movie/|2021-12-18T10:19:37|2023-09-02T13:13:16|{'rendered': 'Boxing Day (2021) | Download Hollywood Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788857647.7050474
+  },
+  "https://thenkiri.com/dhamaka-2021-download-bollywood-movie/": {
+   "status": "pending",
+   "signature": "32292|https://thenkiri.com/dhamaka-2021-download-bollywood-movie/|2021-11-20T10:55:26|2023-09-02T11:02:57|{'rendered': 'Dhamaka (2021) | Download Bollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788841338.594243
+   "last_attempt": 1788857651.2716503
+  },
+  "https://thenkiri.com/snakehead-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "31255|https://thenkiri.com/snakehead-2021-download-hollywood-movie/|2021-10-30T05:45:23|2023-09-02T10:53:39|{'rendered': 'Snakehead (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788857656.0120919
+  },
+  "https://thenkiri.com/mortal-kombat-legends-battle-of-the-realm-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "28853|https://thenkiri.com/mortal-kombat-legends-battle-of-the-realm-2021-download-hollywood-movie/|2021-08-31T14:04:52|2024-02-25T08:32:54|{'rendered': 'Mortal Kombat Legends Battle of the Realm (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788857665.7032807
+  },
+  "https://thenkiri.com/akillas-escape-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "17414|https://thenkiri.com/akillas-escape-2021-download-hollywood-movie/|2021-06-12T09:06:23|2023-09-02T09:22:08|{'rendered': 'Akillas Escape (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788857681.237209
+  },
+  "https://thenkiri.com/new-york-2009-download-bollywood-movie/": {
+   "status": "done",
+   "signature": "14549|https://thenkiri.com/new-york-2009-download-bollywood-movie/|2021-04-02T09:25:18|2023-09-02T08:54:39|{'rendered': 'New York (2009) | Download Bollywood Movie'}",
+   "modified": "2023-09-02T08:54:39",
+   "completed_at": 1788857722
+  },
+  "https://thenkiri.com/schools-out-forever-2021-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "13241|https://thenkiri.com/schools-out-forever-2021-download-hollywood-movie/|2021-02-17T11:46:08|2023-09-02T08:36:26|{'rendered': 'School’s Out Forever (2021) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T08:36:26",
+   "completed_at": 1788857767
+  },
+  "https://thenkiri.com/wander-2020-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "9695|https://thenkiri.com/wander-2020-download-hollywood-movie/|2020-12-07T05:58:48|2023-09-02T08:23:26|{'rendered': 'Wander (2020) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T08:23:26",
+   "completed_at": 1788857795
   }
  },
  "series_links": {
@@ -1424,6 +1480,9 @@
   "https://downloadwella.com/am7q63jxnfp4/Nezha.Demon.Child.is.Back.(NKIRI.COM).2024.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/k6gP3VojOquQc22AAkuslWw-B0H2LCI2",
   "https://downloadwella.com/ezvobo7mkrx5/Am.I.OK.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/kWrfI0uAOmD12Et8ngr5eTo2MqHqCXvT",
   "https://downloadwella.com/goaqji6xir2n/The.Hunger.Games.The.Ballad.Of.Songbirds.Snakes.(NKIRI.COM).2023.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/wD4VAFmi_52-DjZq5tgsdAgm8Uon-YNP",
-  "https://downloadwella.com/f8gy7l2y4r2f/Dont.Look.Away.(NKIRI.COM).2023.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/L0k2siCR7BLZ5vFQswLHnO2H9f5sofz7"
+  "https://downloadwella.com/f8gy7l2y4r2f/Dont.Look.Away.(NKIRI.COM).2023.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/L0k2siCR7BLZ5vFQswLHnO2H9f5sofz7",
+  "https://downloadwella.com/vgub2twpmtx5/New.York.(NKIRI.COM).2009..BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/-WqO0ayvd6KYMGH8e47e9rzI0UJ0ZQxP",
+  "https://downloadwella.com/63k7jhh3il3a/Schools.Out.Forever.(NKIRI.COM).2021.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/R32J8lTejgCW7dR1ZckPu3KQt98vNgJO",
+  "https://downloadwella.com/yw7p66uci1d7/Wander.(NKIRI.COM).2020.480p.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/zL2p9CdHspPQudhshmLpE8NOse_HYFZY"
  }
 }

@@ -191,16 +191,32 @@
    "blocked_at": 1788837949
   },
   "https://thenkiri.com/song-of-the-bandits-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "100046|https://thenkiri.com/song-of-the-bandits-s01-complete-korean-drama/|2023-09-22T15:04:28|2023-12-15T05:34:42|{'rendered': 'Song of the Bandits S01 (Episode 7-9 Added) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788841696.4211824
+   "last_attempt": 1788841696.4211824,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857690
   },
   "https://thenkiri.com/the-prime-minister-and-i-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "92304|https://thenkiri.com/the-prime-minister-and-i-complete-korean-drama/|2023-06-27T16:58:27|2023-09-02T17:05:46|{'rendered': 'The Prime Minister and I (Complete) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788842283.2698016
+   "last_attempt": 1788842283.2698016,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857690
+  },
+  "https://thenkiri.com/strangers-again-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "79901|https://thenkiri.com/strangers-again-s01-complete-korean-drama/|2023-01-20T14:32:08|2023-12-19T06:21:34|{'rendered': 'Strangers Again S01 (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788858957.8799345
+  },
+  "https://thenkiri.com/happy-ending-romance-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "73881|https://thenkiri.com/happy-ending-romance-complete-korean-drama/|2022-11-24T16:16:53|2024-02-24T19:23:42|{'rendered': 'Happy Ending Romance (Episode 7 & 8 Added) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788860839.3635693
   }
  },
  "series_links": {
@@ -484,6 +500,24 @@
   "https://downloadwella.com/qg4d20qgq3ob/The.Defects.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hBWJf8pTZy7U2c0nG4XW7vWcJgeCr538",
   "https://downloadwella.com/1gx967f8mj2g/The.Winning.Try.E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9nasNIm5nE-wZlZpGtkS9LmDgqiARsJT",
   "https://downloadwella.com/92djopr5fv7g/Spice.Up.Our.Love.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gjSOc9NDPqvkoUvdmBgKSpDHk-z0yw38",
-  "https://downloadwella.com/1rx6cjuofpz8/Spice.Up.Our.Love.E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/THi8R08EpfCkif-ON3k3DvPsXGIbDBBQ"
+  "https://downloadwella.com/1rx6cjuofpz8/Spice.Up.Our.Love.E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/THi8R08EpfCkif-ON3k3DvPsXGIbDBBQ",
+  "https://downloadwella.com/i81iigciupkf/Strangers.Again.E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/a91kKTEXXKSAB6Kis0sGVDZmRzxnYZ1J",
+  "https://downloadwella.com/lc6cena0mlrr/Strangers.Again.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/78mtnA8DPMhpqqiFr0HhgmL7cFXRDeNx",
+  "https://downloadwella.com/q2wa31wy8e0n/Strangers.Again.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kyE5dMDYIt_xOSU1UCkP9HLC2ity5kHU",
+  "https://downloadwella.com/qh1da2fe935g/Strangers.Again.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1gkodO7VNrmZoeeFW4vSM6fRjrpICYeZ",
+  "https://downloadwella.com/4wdueseuj5hd/Strangers.Again.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5g8Hb8MFENQYo43VaSwaDJb5hiGOrWp1",
+  "https://downloadwella.com/v39b4dctwgv4/Strangers.Again.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DhzZfqBEhmTia89l5PA-zrbFdy4xcbTE",
+  "https://downloadwella.com/tmncw20l22pi/Strangers.Again.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fsT9vFHQpq-J11-Iq1UZXWEdUJ8ICPAD",
+  "https://downloadwella.com/gzwwnd62j9sh/Strangers.Again.E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Pg3bUBG-wzXF6JjGs6IMV6LwkwZon27P",
+  "https://downloadwella.com/4zz8lfuou0u9/Strangers.Again.E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WPvABk2Amw8umLmxgfFFofBf3J09rwnS",
+  "https://downloadwella.com/2b60zodw20wp/Strangers.Again.E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Xx9W2Jeq106WChgEHevpUsrCI3bB-KyA",
+  "https://downloadwella.com/2m1eagmvwcbu/Strangers.Again.E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qMH2c6vB1D2USG1Ci0xjZuNrOhGOZSrq",
+  "https://downloadwella.com/88s5wumaf3sw/Happy.Ending.Romance.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MR1AJE0P8C8uYzj5of2kwxZEvcH3ALVM",
+  "https://downloadwella.com/dbehko0e690f/Happy.Ending.Romance.E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7F1ev3zcez_PLHaNQiWz4dznLq6gkN4C",
+  "https://downloadwella.com/d6v2c5lhon8n/Happy.Ending.Romance.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bkQX-AOmN2_tM-8U0pjJufP21ZuTtqMK",
+  "https://downloadwella.com/mtz22gcvwtdq/Happy.Ending.Romance.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/t2upA8jXGPdeTLeCcDOf9x81rq-qA8bz",
+  "https://downloadwella.com/2q5ovj897yxl/Happy.Ending.Romance.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gPJG5PQrrX9WZM931WWL00cRtnMu2ce9",
+  "https://downloadwella.com/qe3pasu19vcn/Happy.Ending.Romance.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bQn_6vggJHeHtpQL7Xett0FQq7Vq66o8",
+  "https://downloadwella.com/pi8x0isa1k9h/Happy.Ending.Romance.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_wzd5VBD_QYQXim2z-iJ5oht72XiBuGr"
  }
 }
