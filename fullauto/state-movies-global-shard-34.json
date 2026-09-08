@@ -1149,52 +1149,60 @@
    "blocked_at": 1788834118
   },
   "https://thenkiri.com/stars-at-noon-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "67920|https://thenkiri.com/stars-at-noon-2022-download-hollywood-movie/|2022-10-14T10:31:37|2023-09-02T16:09:38|{'rendered': 'Stars at Noon (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834119.7929814
+   "last_attempt": 1788834119.7929814,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837898
   },
   "https://thenkiri.com/easter-sunday-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "62572|https://thenkiri.com/easter-sunday-2022-download-hollywood-movie/|2022-08-23T10:59:07|2023-09-02T15:15:21|{'rendered': 'Easter Sunday (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788834152.011366
+   "attempts": 3,
+   "last_attempt": 1788837931.5988388
   },
   "https://thenkiri.com/z-o-m-b-i-e-3-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "46502|https://thenkiri.com/z-o-m-b-i-e-3-2022-download-hollywood-movie/|2022-07-15T15:38:50|2023-09-02T14:47:40|{'rendered': 'Z-O-M-B-I-E 3 (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788834153.1436718
+   "attempts": 2,
+   "last_attempt": 1788837933.094891
   },
   "https://thenkiri.com/the-lost-girls-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "44286|https://thenkiri.com/the-lost-girls-2022-download-hollywood-movie/|2022-06-17T13:47:35|2023-09-02T14:08:52|{'rendered': 'The Lost Girls (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788834154.1816077
+   "attempts": 2,
+   "last_attempt": 1788837934.5144997
   },
   "https://thenkiri.com/on-the-line-2021-download-korean-movie/": {
    "status": "pending",
    "signature": "42458|https://thenkiri.com/on-the-line-2021-download-korean-movie/|2022-05-20T09:02:44|2023-09-02T13:56:55|{'rendered': 'On the Line (2021) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788834155.2623472
+   "attempts": 2,
+   "last_attempt": 1788837936.0868974
   },
   "https://thenkiri.com/all-eyez-on-me-2017-download-hollywood-movie/": {
    "status": "pending",
    "signature": "39899|https://thenkiri.com/all-eyez-on-me-2017-download-hollywood-movie/|2022-04-19T06:31:01|2023-09-02T13:43:54|{'rendered': 'All Eyez on Me (2017) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788834156.3336704
+   "attempts": 2,
+   "last_attempt": 1788837937.554375
   },
   "https://thenkiri.com/black-crab-2022-download-swedish-movie/": {
    "status": "pending",
    "signature": "38564|https://thenkiri.com/black-crab-2022-download-swedish-movie/|2022-03-25T07:53:58|2023-09-02T13:25:00|{'rendered': 'Black Crab (2022) | Download Swedish Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788834157.793363
+   "attempts": 2,
+   "last_attempt": 1788837938.9029512
   },
   "https://thenkiri.com/fireheart-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "36989|https://thenkiri.com/fireheart-2022-download-hollywood-movie/|2022-02-23T08:31:57|2023-09-02T13:08:44|{'rendered': 'Fireheart (2022) | Download Hollywood Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788837940.2727814
+  },
+  "https://thenkiri.com/clean-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "35798|https://thenkiri.com/clean-2022-download-hollywood-movie/|2022-01-29T08:21:55|2023-09-02T13:30:07|{'rendered': 'Clean (2022) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788834159.1648877
+   "last_attempt": 1788837941.690405
   }
  },
  "series_links": {
