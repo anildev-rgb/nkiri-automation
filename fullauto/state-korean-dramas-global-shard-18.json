@@ -173,6 +173,18 @@
    "signature": "122510|https://thenkiri.com/spice-up-our-love-s01-complete-korean-drama/|2024-10-03T17:10:03|2024-10-03T17:10:03|{'rendered': 'Spice Up Our Love S01 (Episode 1 & 2 Added) | Korean Drama'}",
    "modified": "2024-10-03T17:10:03",
    "completed_at": 1788812650
+  },
+  "https://thenkiri.com/my-sweet-mobster-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "116877|https://thenkiri.com/my-sweet-mobster-s01-complete-korean-drama/|2024-06-12T17:31:34|2024-08-01T14:59:23|{'rendered': 'My Sweet Mobster S01 (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788829132.6609454
+  },
+  "https://thenkiri.com/a-shop-for-killers-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "107072|https://thenkiri.com/a-shop-for-killers-s01-complete-korean-drama/|2024-01-17T11:56:14|2024-02-22T20:07:40|{'rendered': 'A Shop for Killers S01 (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788829435.0784872
   }
  },
  "series_links": {
