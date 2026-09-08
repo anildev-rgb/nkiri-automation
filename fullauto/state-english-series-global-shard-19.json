@@ -206,6 +206,18 @@
    "signature": "159683|https://thenkiri.com/i-will-find-you-s01-complete-tv-series/|2026-06-18T11:05:05|2026-06-19T16:07:58|{'rendered': 'I Will Find You S01 (Complete) | TV Series'}",
    "modified": "2026-06-19T16:07:58",
    "completed_at": 1788814856
+  },
+  "https://thenkiri.com/michael-jackson-the-verdict-s01-complete-tv-series/": {
+   "status": "pending",
+   "signature": "158476|https://thenkiri.com/michael-jackson-the-verdict-s01-complete-tv-series/|2026-06-03T14:21:16|2026-06-03T14:21:16|{'rendered': 'Michael Jackson: The Verdict S01 (Complete) | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788828696.3401713
+  },
+  "https://thenkiri.com/nemesis-s01-complete-tv-series/": {
+   "status": "pending",
+   "signature": "157188|https://thenkiri.com/nemesis-s01-complete-tv-series/|2026-05-17T08:29:36|2026-05-17T08:29:36|{'rendered': 'Nemesis S01 (Complete) | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788828939.011345
   }
  },
  "series_links": {
