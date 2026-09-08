@@ -469,10 +469,12 @@
    "completed_at": 1788880250
   },
   "https://thenkiri.com/chickenhare-and-the-hamster-of-darkness-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "43872|https://thenkiri.com/chickenhare-and-the-hamster-of-darkness-2022-download-hollywood-movie/|06/11/2022 06:36:47|09/02/2023 14:06:43|{'rendered': 'Chickenhare and the Hamster of Darkness (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788881625.1616032
+   "last_attempt": 1788881625.1616032,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788881705
   },
   "https://thenkiri.com/the-professor-2018-download-hollywood-movie/": {
    "status": "done",
