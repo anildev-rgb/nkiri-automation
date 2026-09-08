@@ -505,76 +505,100 @@
    "blocked_at": 1788882192
   },
   "https://thenkiri.com/my-annoying-brother-2016-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "42745|https://thenkiri.com/my-annoying-brother-2016-download-korean-movie/|05/24/2022 05:13:09|09/02/2023 13:59:22|{'rendered': 'My Annoying Brother (2016) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882262.9276311
+   "last_attempt": 1788882262.9276311,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882392
   },
   "https://thenkiri.com/the-valet-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "42470|https://thenkiri.com/the-valet-2022-download-hollywood-movie/|05/20/2022 09:35:38|09/02/2023 13:56:51|{'rendered': 'The Valet (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882264.5948918
+   "last_attempt": 1788882264.5948918,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882392
   },
   "https://thenkiri.com/thar-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41967|https://thenkiri.com/thar-2022-download-indian-movie/|05/13/2022 11:21:40|09/02/2023 13:54:37|{'rendered': 'Thar (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882265.9665926
+   "last_attempt": 1788882265.9665926,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882392
   },
   "https://thenkiri.com/operation-mincemeat-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41795|https://thenkiri.com/operation-mincemeat-2022-download-hollywood-movie/|05/11/2022 11:42:56|09/02/2023 13:55:08|{'rendered': 'Operation Mincemeat (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882267.3597856
+   "last_attempt": 1788882267.3597856,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882392
   },
   "https://thenkiri.com/the-twin-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41479|https://thenkiri.com/the-twin-2022-download-hollywood-movie/|05/06/2022 08:22:35|09/02/2023 13:52:53|{'rendered': 'The Twin (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882268.8655767
+   "last_attempt": 1788882268.8655767,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882392
   },
   "https://thenkiri.com/survive-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41240|https://thenkiri.com/survive-2022-download-hollywood-movie/|05/03/2022 09:11:57|09/02/2023 13:50:15|{'rendered': 'Survive (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882270.3886364
+   "last_attempt": 1788882270.3886364,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882392
   },
   "https://thenkiri.com/looop-lapeta-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41119|https://thenkiri.com/looop-lapeta-2022-download-indian-movie/|05/01/2022 08:11:30|09/02/2023 13:50:43|{'rendered': 'Looop Lapeta (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882271.541418
+   "last_attempt": 1788882271.541418,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882392
   },
   "https://thenkiri.com/perfect-proposal-2015-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "40225|https://thenkiri.com/perfect-proposal-2015-download-korean-movie/|04/21/2022 20:07:58|09/02/2023 13:46:03|{'rendered': 'Perfect Proposal (2015) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882273.2245135
+   "last_attempt": 1788882273.2245135,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882392
   },
   "https://thenkiri.com/the-batman-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39921|https://thenkiri.com/the-batman-2022-download-hollywood-movie/|04/19/2022 07:35:40|09/02/2023 13:43:40|{'rendered': 'The Batman (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882274.7351353
+   "last_attempt": 1788882274.7351353,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882392
   },
   "https://thenkiri.com/constantine-the-house-of-mystery-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39815|https://thenkiri.com/constantine-the-house-of-mystery-2022-download-hollywood-movie/|04/17/2022 09:10:32|09/02/2023 13:44:02|{'rendered': 'Constantine The House of Mystery (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882276.0675874
+   "last_attempt": 1788882276.0675874,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882392
   },
   "https://thenkiri.com/x-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39618|https://thenkiri.com/x-2022-download-hollywood-movie/|04/14/2022 08:42:40|09/02/2023 13:41:26|{'rendered': 'X (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882277.2919052
+   "last_attempt": 1788882277.2919052,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882392
   },
   "https://thenkiri.com/infinite-storm-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39513|https://thenkiri.com/infinite-storm-2022-download-hollywood-movie/|04/12/2022 20:16:37|09/02/2023 13:41:46|{'rendered': 'Infinite Storm (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882278.6647825
+   "last_attempt": 1788882278.6647825,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882392
   },
   "https://thenkiri.com/gabriels-rapture-part-ii-2022-download-hollywood-movie/": {
    "status": "pending",
