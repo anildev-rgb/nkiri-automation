@@ -1137,52 +1137,92 @@
    "blocked_at": 1788834133
   },
   "https://thenkiri.com/dragon-ball-super-super-hero-2022-download-japanese-animation/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "76681|https://thenkiri.com/dragon-ball-super-super-hero-2022-download-japanese-animation/|2022-12-15T19:26:42|2023-09-02T14:07:21|{'rendered': 'Dragon Ball Super: Super Hero (2022) | Download Japanese Animation'}",
    "attempts": 3,
-   "last_attempt": 1788837914.6925018
+   "last_attempt": 1788837914.6925018,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841408
   },
   "https://thenkiri.com/weird-the-al-yankovic-story-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "70515|https://thenkiri.com/weird-the-al-yankovic-story-2022-download-hollywood-movie/|2022-11-05T06:09:11|2024-02-24T12:37:35|{'rendered': 'Weird The Al Yankovic Story (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837948.6898892
+   "last_attempt": 1788837948.6898892,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841408
   },
   "https://thenkiri.com/rosaline-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "67905|https://thenkiri.com/rosaline-2022-download-hollywood-movie/|2022-10-14T09:21:54|2023-09-02T16:09:54|{'rendered': 'Rosaline (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837950.3277707
+   "last_attempt": 1788837950.3277707,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841408
   },
   "https://thenkiri.com/dc-league-of-super-pets-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "62565|https://thenkiri.com/dc-league-of-super-pets-2022-download-hollywood-movie/|2022-08-23T10:53:02|2023-09-02T15:15:26|{'rendered': 'DC League of Super-Pets (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837983.9238863
+   "last_attempt": 1788837983.9238863,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841408
   },
   "https://thenkiri.com/persuasion-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "46469|https://thenkiri.com/persuasion-2022-download-hollywood-movie/|2022-07-15T11:48:50|2023-09-02T14:47:48|{'rendered': 'Persuasion (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837985.292992
+   "last_attempt": 1788837985.292992,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841408
   },
   "https://thenkiri.com/cha-cha-real-smooth-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "44280|https://thenkiri.com/cha-cha-real-smooth-2022-download-hollywood-movie/|2022-06-17T10:24:18|2023-09-02T14:08:54|{'rendered': 'Cha Cha Real Smooth (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788837998.5036578
+   "attempts": 3,
+   "last_attempt": 1788841422.0335462
   },
   "https://thenkiri.com/morbius-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "42051|https://thenkiri.com/morbius-2022-download-hollywood-movie/|2022-05-14T12:22:37|2023-09-02T13:57:54|{'rendered': 'Morbius (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788837999.842017
+   "attempts": 3,
+   "last_attempt": 1788841423.231947
   },
   "https://thenkiri.com/midnight-2021-download-korean-movie/": {
    "status": "pending",
    "signature": "39866|https://thenkiri.com/midnight-2021-download-korean-movie/|2022-04-18T15:55:24|2023-09-02T13:43:58|{'rendered': 'Midnight (2021) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788838001.11416
+   "attempts": 3,
+   "last_attempt": 1788841424.4266174
+  },
+  "https://thenkiri.com/jackass-forever-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "38398|https://thenkiri.com/jackass-forever-2022-download-hollywood-movie/|2022-03-22T08:44:56|2023-09-02T13:14:15|{'rendered': 'Jackass Forever (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841425.7582645
+  },
+  "https://thenkiri.com/tokyo-revenger-2021-download-japanese-movie/": {
+   "status": "pending",
+   "signature": "36926|https://thenkiri.com/tokyo-revenger-2021-download-japanese-movie/|2022-02-21T08:28:25|2023-09-02T13:08:53|{'rendered': 'Tokyo Revenger (2021) | Download JAPANESE Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841426.8605795
+  },
+  "https://thenkiri.com/the-ledge-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "35723|https://thenkiri.com/the-ledge-2022-download-hollywood-movie/|2022-01-28T07:32:01|2023-09-02T13:30:14|{'rendered': 'The Ledge (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841428.0688488
+  },
+  "https://thenkiri.com/scream-1996-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "34606|https://thenkiri.com/scream-1996-download-hollywood-movie/|2022-01-06T08:23:02|2023-09-02T13:21:14|{'rendered': 'Scream (1996) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841429.3916047
+  },
+  "https://thenkiri.com/swan-song-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "33735|https://thenkiri.com/swan-song-2021-download-hollywood-movie/|2021-12-18T10:23:17|2023-09-02T13:13:12|{'rendered': 'Swan Song (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841430.7525234
   }
  },
  "series_links": {

@@ -212,16 +212,32 @@
    "blocked_at": 1788832347
   },
   "https://thenkiri.com/the-witness-s08-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "158563|https://thenkiri.com/the-witness-s08-complete-tv-series/|2026-06-04T11:17:42|2026-06-04T14:58:07|{'rendered': 'The Witness (Complete ) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788838023.209566
+   "last_attempt": 1788838023.209566,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841423
   },
   "https://thenkiri.com/maximum-pleasure-guaranteed-s01-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "157358|https://thenkiri.com/maximum-pleasure-guaranteed-s01-complete-tv-series/|2026-05-20T07:25:50|2026-07-15T11:49:31|{'rendered': 'Maximum Pleasure Guaranteed  S01 (Episode 10 Added) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788838333.4801881
+   "last_attempt": 1788838333.4801881,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841423
+  },
+  "https://thenkiri.com/half-man-complete-tv-series/": {
+   "status": "pending",
+   "signature": "155847|https://thenkiri.com/half-man-complete-tv-series/|2026-05-01T10:00:45|2026-05-29T08:44:36|{'rendered': 'Half Man (Episode 6 Added)  | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788841626.592208
+  },
+  "https://thenkiri.com/bergerac-s02-complete-tv-series/": {
+   "status": "pending",
+   "signature": "154911|https://thenkiri.com/bergerac-s02-complete-tv-series/|2026-04-21T08:57:32|2026-04-21T14:16:30|{'rendered': 'Bergerac S02 (Complete)  | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788841811.804692
   }
  },
  "series_links": {
