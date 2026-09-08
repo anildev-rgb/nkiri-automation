@@ -287,28 +287,28 @@
    "last_attempt": 1788878288.4374335
   },
   "https://thenkiri.com/werewolf-by-night-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "67386|https://thenkiri.com/werewolf-by-night-2022-download-hollywood-movie/|10/07/2022 20:05:21|02/24/2024 10:50:33|{'rendered': 'Werewolf By Night (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788877295.3938231
+   "modified": "02/24/2024 10:50:33",
+   "completed_at": 1788878542
   },
   "https://thenkiri.com/goodbye-summer-2019-download-korean-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "66616|https://thenkiri.com/goodbye-summer-2019-download-korean-movie/|09/28/2022 10:42:51|09/02/2023 15:54:50|{'rendered': 'Goodbye Summer (2019) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788877339.9651384
+   "modified": "09/02/2023 15:54:50",
+   "completed_at": 1788878577
   },
   "https://thenkiri.com/jujutsu-kaisen-0-2021-download-japanese-movie/": {
    "status": "pending",
    "signature": "66028|https://thenkiri.com/jujutsu-kaisen-0-2021-download-japanese-movie/|09/21/2022 07:15:30|09/02/2023 15:42:42|{'rendered': 'Jujutsu Kaisen 0 (2021) | Download JAPANESE Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788877356.5594532
+   "attempts": 2,
+   "last_attempt": 1788878591.23581
   },
   "https://thenkiri.com/where-the-crawdads-sing-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "64608|https://thenkiri.com/where-the-crawdads-sing-2022-download-hollywood-movie/|09/06/2022 10:39:49|09/02/2023 15:33:02|{'rendered': 'Where the Crawdads Sing (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788877409.3730059
+   "attempts": 2,
+   "last_attempt": 1788878651.7361476
   },
   "https://thenkiri.com/khuda-haafiz-chapter-2-2022-download-indian-movie/": {
    "status": "done",
@@ -393,6 +393,24 @@
    "signature": "45742|https://thenkiri.com/jurassic-world-2015-download-hollywood-movie/|07/07/2022 08:02:51|09/02/2023 14:36:51|{'rendered': 'Jurassic World (2015) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788878086.3395858
+  },
+  "https://thenkiri.com/rubikon-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "45448|https://thenkiri.com/rubikon-2022-download-hollywood-movie/|07/01/2022 10:50:20|09/02/2023 14:27:20|{'rendered': 'Rubikon (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788878653.2743354
+  },
+  "https://thenkiri.com/force-2011-download-bollywood-movie/": {
+   "status": "pending",
+   "signature": "45261|https://thenkiri.com/force-2011-download-bollywood-movie/|06/29/2022 08:51:18|09/02/2023 14:28:19|{'rendered': 'Force (2011) | Download Bollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788878737.1903467
+  },
+  "https://thenkiri.com/murder-at-yellowstone-city-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "45037|https://thenkiri.com/murder-at-yellowstone-city-2022-download-hollywood-movie/|06/25/2022 13:06:00|09/02/2023 14:21:14|{'rendered': 'Murder at Yellowstone City (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788878738.4781451
   }
  },
  "series_links": {
@@ -417,6 +435,8 @@
   "https://downloadwella.com/inwgnnurh8dr/Khuda.Haafiz.Chapter.2.Agni.Pariksha.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mp4.html": "https://v1.vidfiles.com/d/S6OzsgrNZNJ3fQuDzlbxEnne27BmYJe0",
   "https://downloadwella.com/v0qbq0qlc8kt/Decision.To.Leave.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mp4.html": "https://v1.vidfiles.com/d/hvCHWu02JWk1Ra_VPtpNW3Tb5git3osV",
   "https://downloadwella.com/bovucdoh5vy7/My.Name.Is.Vendetta.(NKIRI.COM).2022.DUBBED.NF.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/4Y86FPNcX3VgaYkgRFlWZx779oxYAM2L",
-  "https://downloadwella.com/412z20fxq1w9/Thats.Amor.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COMbc.mp4": "https://v1.vidfiles.com/d/YLiukoMl17WudOEae9HhwXvcypBH61jQ"
+  "https://downloadwella.com/412z20fxq1w9/Thats.Amor.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COMbc.mp4": "https://v1.vidfiles.com/d/YLiukoMl17WudOEae9HhwXvcypBH61jQ",
+  "https://downloadwella.com/cw095imsrd5u/Werewolf.by.Night.(NKIRI.COM).2022.WEB.DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/cKFlpEtuqcreQqX8i4pgplU9qo8p7wTC",
+  "https://downloadwella.com/ce6vrt343jej/Goodbye.Summer.(NKIRI.COM).2019.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/7f-LRK30RFYgGtO2Vde8mLLR0SBgxZUc"
  }
 }
