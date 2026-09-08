@@ -447,16 +447,20 @@
    "blocked_at": 1788880837
   },
   "https://thenkiri.com/true-things-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "44655|https://thenkiri.com/true-things-2022-download-hollywood-movie/|06/21/2022 16:58:38|09/02/2023 14:10:55|{'rendered': 'True Things (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788881040.267916
+   "last_attempt": 1788881040.267916,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788881177
   },
   "https://thenkiri.com/american-carnage-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "44454|https://thenkiri.com/american-carnage-2022-download-hollywood-movie/|06/19/2022 07:46:27|09/02/2023 14:11:27|{'rendered': 'American Carnage (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788881056.0304313
+   "last_attempt": 1788881056.0304313,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788881177
   },
   "https://thenkiri.com/ip-man-the-awakening-2022-download-chinese-movie/": {
    "status": "done",
@@ -491,8 +495,8 @@
   "https://thenkiri.com/the-girl-on-a-bulldozer-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "42843|https://thenkiri.com/the-girl-on-a-bulldozer-2022-download-korean-movie/|05/25/2022 12:58:56|09/02/2023 14:02:46|{'rendered': 'The Girl on a Bulldozer (2022) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788880251.3098822
+   "attempts": 2,
+   "last_attempt": 1788881180.5780604
   },
   "https://thenkiri.com/my-annoying-brother-2016-download-korean-movie/": {
    "status": "pending",
