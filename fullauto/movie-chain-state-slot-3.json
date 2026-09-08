@@ -97,34 +97,44 @@
    "completed_at": 1788874857
   },
   "https://thenkiri.com/good-grief-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "106579|https://thenkiri.com/good-grief-2023-download-hollywood-movie/|01/06/2024 11:49:43|01/06/2024 11:49:43|{'rendered': 'Good Grief (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788875972.974537
+   "last_attempt": 1788875972.974537,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788876034
   },
   "https://thenkiri.com/diary-of-a-wimpy-kid-christmas-fever-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "104286|https://thenkiri.com/diary-of-a-wimpy-kid-christmas-fever-2023-download-hollywood-movie/|12/13/2023 05:48:01|12/13/2023 05:48:01|{'rendered': 'Diary of a Wimpy Kid Christmas Fever (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788875974.7587366
+   "last_attempt": 1788875974.7587366,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788876034
   },
   "https://thenkiri.com/creation-of-the-gods-i-kingdom-of-storms-2023-download-chinese-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "103160|https://thenkiri.com/creation-of-the-gods-i-kingdom-of-storms-2023-download-chinese-movie/|11/19/2023 04:04:42|11/19/2023 04:04:42|{'rendered': 'Creation of the Gods I: Kingdom of Storms (2023) | Download Chinese Movie'}",
    "attempts": 3,
-   "last_attempt": 1788875976.915885
+   "last_attempt": 1788875976.915885,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788876034
   },
   "https://thenkiri.com/the-exorcist-believer-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "101818|https://thenkiri.com/the-exorcist-believer-2023-download-hollywood-movie/|10/24/2023 08:39:33|10/24/2023 08:39:33|{'rendered': 'The Exorcist: Believer (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788875979.7845573
+   "last_attempt": 1788875979.7845573,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788876034
   },
   "https://thenkiri.com/mission-impossible-collection-1-6-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "100282|https://thenkiri.com/mission-impossible-collection-1-6-download-hollywood-movie/|09/27/2023 08:00:49|09/27/2023 08:00:49|{'rendered': 'Mission: Impossible Collection 1 – 6 | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788875980.685103
+   "last_attempt": 1788875980.685103,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788876034
   },
   "https://thenkiri.com/next-sohee-2023-download-korean-movie/": {
    "status": "done",
@@ -203,6 +213,42 @@
    "signature": "76719|https://thenkiri.com/renegades-2022-download-hollywood-movie/|12/16/2022 07:47:11|12/25/2023 06:37:51|{'rendered': 'Renegades (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788875982.3662677
+  },
+  "https://thenkiri.com/warriors-of-future-2022-download-chinese-movie/": {
+   "status": "pending",
+   "signature": "75134|https://thenkiri.com/warriors-of-future-2022-download-chinese-movie/|12/02/2022 16:21:24|02/24/2024 20:46:01|{'rendered': 'Warriors of Future (2022) | Download Chinese Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788876045.431622
+  },
+  "https://thenkiri.com/my-name-is-vendetta-2022-download-italian-movie/": {
+   "status": "pending",
+   "signature": "74926|https://thenkiri.com/my-name-is-vendetta-2022-download-italian-movie/|12/01/2022 07:51:46|09/02/2023 13:50:26|{'rendered': 'My Name is Vendetta DUBBED (2022) | Download Italian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788876094.1238124
+  },
+  "https://thenkiri.com/hit-and-run-squad-2019-download-korean-movie/": {
+   "status": "done",
+   "signature": "74737|https://thenkiri.com/hit-and-run-squad-2019-download-korean-movie/|11/29/2022 19:35:56|09/02/2023 13:50:53|{'rendered': 'Hit and Run Squad (2019) | Download Korean Movie'}",
+   "modified": "09/02/2023 13:50:53",
+   "completed_at": 1788876583
+  },
+  "https://thenkiri.com/black-adam-hdrip-korsub-2022-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "72990|https://thenkiri.com/black-adam-hdrip-korsub-2022-download-hollywood-movie/|11/16/2022 09:13:48|09/02/2023 16:53:37|{'rendered': 'Black Adam HDRip KORSub (2022) | Download Hollywood Movie'}",
+   "modified": "09/02/2023 16:53:37",
+   "completed_at": 1788876685
+  },
+  "https://thenkiri.com/weird-the-al-yankovic-story-2022-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "70515|https://thenkiri.com/weird-the-al-yankovic-story-2022-download-hollywood-movie/|11/05/2022 06:09:11|02/24/2024 12:37:35|{'rendered': 'Weird The Al Yankovic Story (2022) | Download Hollywood Movie'}",
+   "modified": "02/24/2024 12:37:35",
+   "completed_at": 1788876748
+  },
+  "https://thenkiri.com/wendell-wild-2022-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "69783|https://thenkiri.com/wendell-wild-2022-download-hollywood-movie/|10/28/2022 11:38:05|02/24/2024 20:36:04|{'rendered': 'Wendell & Wild (2022) | Download Hollywood Movie'}",
+   "modified": "02/24/2024 20:36:04",
+   "completed_at": 1788876807
   }
  },
  "series_links": {
@@ -217,6 +263,10 @@
   "https://downloadwella.com/s3glpkw9siak/Saving.Bikini.Bottom.The.Sandy.Cheeks.Movie.(NKIRI.COM).2024.WebRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/9WSfY0bILGxJSJpKgVOZAD0bfFVygDV3",
   "https://downloadwella.com/zb67v20wegyy/Next.Sohee.(NKIRI.COM).2022.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/6Y-5ZdjIxTzJ05o988TsrEwiGxAZKU09",
   "https://downloadwella.com/q25fjazu28fl/When.You.Finish.Saving.the.World.(NKIRI.COM).2023.AMZN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/yLTtDJKTWyki3N4dAlo9kAdD7iv25uNe",
-  "https://downloadwella.com/6iduf5rzu2re/Greenland.2.Migration.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/4Ej_tRWFx-kt7lUMGkiKDAvQ0M3ZdemH"
+  "https://downloadwella.com/6iduf5rzu2re/Greenland.2.Migration.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/4Ej_tRWFx-kt7lUMGkiKDAvQ0M3ZdemH",
+  "https://downloadwella.com/6d8623m5vl12/%7Bnkiri.com%7D_Hit_and_Run_Sqad_(2019).mkv.html": "https://v1.vidfiles.com/d/o5HO-hIdzERwrnlP8LQoXzIozEiGko_d",
+  "https://downloadwella.com/sl8n90f6ohhb/Black.Adam.(NKIRI.COM).2022.HC.HDRip.DOWNLOADED.FROM.NKIRI.COM.1.mkv.html": "https://v1.vidfiles.com/d/SH9uzPcuXBd19H4knkx2VZAF-FtoNKb_",
+  "https://downloadwella.com/56qyhah6nhs6/Weird.The.Al.Yankovic.Story.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/XzARXCrzSCoH2ix7cqGx3HxHxQbcTEsl",
+  "https://downloadwella.com/jlebtagjo4rl/Wendell.and.Wild.(NKIRI.COM).2022.NF.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/GeSXTPcjhCRehiT04SFX6c-zJqQ4AqRW"
  }
 }
