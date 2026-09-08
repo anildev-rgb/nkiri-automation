@@ -1,0 +1,212 @@
+name: Nkiri movie batch worker
+
+on:
+  workflow_dispatch:
+    inputs:
+      repo_slot:
+        description: Five-repository slot (0-4)
+        required: true
+        type: string
+      run_slot:
+        description: Parallel run slot in this repository (0-1)
+        required: true
+        type: string
+      limit:
+        description: Maximum movies for this run
+        required: false
+        default: '20'
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  movie-batch:
+    name: Movies slot ${{ inputs.repo_slot }}-${{ inputs.run_slot }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      NKIRI_URL: https://nkiri.vip
+      NKIRI_API_TOKEN: ${{ secrets.NKIRI_API_TOKEN }}
+      API_TOKEN: ${{ secrets.NKIRI_API_TOKEN }}
+      TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+      VIDFILES_API_KEY: ${{ secrets.VIDFILES_API_KEY }}
+      NKIRI_MIN_FREE_GB: '4'
+      PYTHONUNBUFFERED: '1'
+      REPO_SLOT: ${{ inputs.repo_slot }}
+      RUN_SLOT: ${{ inputs.run_slot }}
+      BATCH_LIMIT: ${{ inputs.limit }}
+
+    steps:
+      - name: Start timer
+        run: date -u +%s > /tmp/movie-batch-start
+
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Reclaim disposable runner space
+        run: |
+          timeout 75s sudo rm -rf /usr/local/lib/android /usr/share/dotnet /opt/ghc /opt/hostedtoolcache/CodeQL || true
+          timeout 20s sudo docker system prune -af --volumes >/dev/null 2>&1 || true
+          df -h .
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install worker dependencies
+        run: python -m pip install --disable-pip-version-check -r requirements.txt
+
+      - name: Select this repository's unfinished movie slice
+        run: |
+          python3 - <<'PY'
+          import csv
+          import json
+          import os
+          from pathlib import Path
+
+          repo_slot = int(os.environ['REPO_SLOT'])
+          run_slot = int(os.environ['RUN_SLOT'])
+          limit = int(os.environ.get('BATCH_LIMIT') or '20')
+          lane = repo_slot * 2 + run_slot
+          total_lanes = 10
+          state_path = Path(f'fullauto/movie-batch-state-slot-{repo_slot}-{run_slot}.json')
+          processed = {}
+          if state_path.exists():
+              try:
+                  processed = json.loads(state_path.read_text(encoding='utf-8')).get('processed') or {}
+              except (OSError, ValueError, TypeError):
+                  processed = {}
+
+          def complete(value):
+              if isinstance(value, str):
+                  return value == 'done' or value.startswith('skipped')
+              return isinstance(value, dict) and value.get('status') in {'done', 'blocked'}
+
+          rows = []
+          with Path('queue/missing-movies-current.csv').open(encoding='utf-8-sig', newline='') as fh:
+              for position, row in enumerate(csv.DictReader(fh)):
+                  source_url = (row.get('source_url') or '').strip()
+                  title = (row.get('title') or row.get('name') or '').strip()
+                  if position % total_lanes == lane and source_url and title:
+                      if not complete(processed.get(source_url)):
+                          rows.append(row)
+
+          selected = rows[:limit]
+          if not selected:
+              raise SystemExit(f'No unfinished movies remain for repository slot {repo_slot}, run slot {run_slot}')
+          with Path('/tmp/movie-batch.csv').open('w', encoding='utf-8', newline='') as fh:
+              writer = csv.DictWriter(fh, fieldnames=selected[0].keys())
+              writer.writeheader()
+              writer.writerows(selected)
+          print(f'assigned_lane={lane}/{total_lanes}')
+          print(f'assigned_unfinished_before_run={len(rows)}')
+          print(f'selected_movies={len(selected)}')
+          for index, row in enumerate(selected, 1):
+              print(f"selected_{index:02d}={(row.get('title') or row.get('name') or '').strip()}")
+          PY
+
+      - name: Process selected movies
+        id: process
+        run: |
+          set -uo pipefail
+          process_start=$(date -u +%s)
+          echo "process_started_epoch=$process_start"
+          set +e
+          python fullauto/nkiri_agent.py \
+            --once \
+            --queue-file /tmp/movie-batch.csv \
+            --state-file "fullauto/movie-batch-state-slot-${REPO_SLOT}-${RUN_SLOT}.json" \
+            --limit "${BATCH_LIMIT:-20}" \
+            --no-sync 2>&1 | tee /tmp/movie-batch.log
+          agent_exit=${PIPESTATUS[0]}
+          set -e
+          echo "agent_exit=$agent_exit" >> "$GITHUB_OUTPUT"
+          exit "$agent_exit"
+
+      - name: Write persistent batch result
+        if: always()
+        env:
+          AGENT_EXIT: ${{ steps.process.outputs.agent_exit }}
+        run: |
+          python3 - <<'PY'
+          import csv
+          import json
+          import os
+          import re
+          import time
+          from pathlib import Path
+
+          state_path = Path(f"fullauto/movie-batch-state-slot-{os.environ['REPO_SLOT']}-{os.environ['RUN_SLOT']}.json")
+          state = {}
+          if state_path.exists():
+              try:
+                  state = json.loads(state_path.read_text(encoding='utf-8'))
+              except (OSError, ValueError, TypeError):
+                  state = {}
+          records = state.get('processed') or {}
+          selected = []
+          if Path('/tmp/movie-batch.csv').exists():
+              with Path('/tmp/movie-batch.csv').open(encoding='utf-8-sig', newline='') as fh:
+                  selected = list(csv.DictReader(fh))
+          selected_urls = {(row.get('source_url') or '').strip() for row in selected}
+          complete = lambda value: (
+              value == 'done' or (isinstance(value, str) and value.startswith('skipped')) or
+              (isinstance(value, dict) and value.get('status') in {'done', 'blocked'})
+          )
+          completed_this_run = sum(1 for url in selected_urls if complete(records.get(url)))
+          attempted = len(re.findall(r'processing \[movie\]', Path('/tmp/movie-batch.log').read_text(encoding='utf-8', errors='replace'))) if Path('/tmp/movie-batch.log').exists() else 0
+          site_posts = len(re.findall(r'✓ site:', Path('/tmp/movie-batch.log').read_text(encoding='utf-8', errors='replace'))) if Path('/tmp/movie-batch.log').exists() else 0
+          uploaded = len(re.findall(r'✓ uploaded', Path('/tmp/movie-batch.log').read_text(encoding='utf-8', errors='replace'))) if Path('/tmp/movie-batch.log').exists() else 0
+          failed = len(selected) - completed_this_run
+          result = {
+              'generated_at_epoch': int(time.time()),
+              'repository': os.environ.get('GITHUB_REPOSITORY'),
+              'run_id': os.environ.get('GITHUB_RUN_ID'),
+              'repo_slot': int(os.environ['REPO_SLOT']),
+              'run_slot': int(os.environ['RUN_SLOT']),
+              'queue': 'queue/missing-movies-current.csv',
+              'selected_movies': len(selected),
+              'attempted_posts': attempted,
+              'completed_movies': completed_this_run,
+              'not_completed_movies': failed,
+              'site_posts_sent': site_posts,
+              'vidfiles_uploads': uploaded,
+              'agent_exit': int(os.environ.get('AGENT_EXIT') or '1'),
+              'state_file': str(state_path),
+              'note': 'State files are the resumable progress ledger; the live site is not required for routine remaining-count checks.'
+          }
+          progress_path = Path(f"fullauto/movie-batch-progress-{os.environ.get('GITHUB_RUN_ID', 'unknown')}.json")
+          progress_path.write_text(json.dumps(result, indent=2), encoding='utf-8')
+          print(json.dumps(result, indent=2))
+          PY
+
+      - name: Commit resumable state and result
+        if: always()
+        run: |
+          git config user.name "nkiri-automation[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "fullauto/movie-batch-state-slot-${REPO_SLOT}-${RUN_SLOT}.json" "fullauto/movie-batch-progress-${GITHUB_RUN_ID}.json"
+          git diff --cached --quiet || git commit -m "Record movie batch ${REPO_SLOT}-${RUN_SLOT}"
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            git rebase --abort || true
+            sleep $((attempt * 5))
+          done
+          echo 'Could not persist movie batch state after five retries.'
+          exit 1
+
+      - name: Upload batch evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: nkiri-movie-batch-${{ github.run_id }}
+          path: |
+            /tmp/movie-batch.log
+            /tmp/movie-batch.csv
+            fullauto/movie-batch-state-slot-${{ inputs.repo_slot }}-${{ inputs.run_slot }}.json
+            fullauto/movie-batch-progress-${{ github.run_id }}.json
+          if-no-files-found: ignore
