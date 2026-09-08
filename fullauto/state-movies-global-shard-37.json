@@ -1061,16 +1061,20 @@
    "completed_at": 1788812354
   },
   "https://thenkiri.com/demon-city-2025-download-foreign-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "132117|https://thenkiri.com/demon-city-2025-download-foreign-movie/|2025-02-27T17:07:28|2025-02-27T17:07:28|{'rendered': 'Demon City (2025) | Download Foreign Movie'}",
    "attempts": 3,
-   "last_attempt": 1788831054.957449
+   "last_attempt": 1788831054.957449,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832284
   },
   "https://thenkiri.com/weekend-in-taipei-2024-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "126690|https://thenkiri.com/weekend-in-taipei-2024-download-hollywood-movie/|2024-12-03T12:05:46|2024-12-03T12:05:46|{'rendered': 'Weekend in Taipei (2024) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788831056.41369
+   "last_attempt": 1788831056.41369,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832284
   },
   "https://thenkiri.com/didi-2024-download-hollywood-movie/": {
    "status": "done",
@@ -1085,10 +1089,12 @@
    "completed_at": 1788812574
   },
   "https://thenkiri.com/eagle-2023-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "111768|https://thenkiri.com/eagle-2023-download-indian-movie/|2024-03-04T14:18:05|2024-03-04T14:18:05|{'rendered': 'Eagle (2023) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788831090.2230895
+   "last_attempt": 1788831090.2230895,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832284
   },
   "https://thenkiri.com/fast-charlie-2023-download-hollywood-movie/": {
    "status": "done",
@@ -1105,32 +1111,50 @@
   "https://thenkiri.com/the-assassin-2023-download-korean-movie/": {
    "status": "pending",
    "signature": "95503|https://thenkiri.com/the-assassin-2023-download-korean-movie/|2023-07-17T07:49:30|2023-09-02T17:20:54|{'rendered': 'The Assassin (2023) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831122.4274576
+   "attempts": 3,
+   "last_attempt": 1788832317.796163
   },
   "https://thenkiri.com/the-devils-deal-2023-download-korean-movie/": {
    "status": "pending",
    "signature": "88579|https://thenkiri.com/the-devils-deal-2023-download-korean-movie/|2023-05-03T16:28:32|2024-02-25T02:14:35|{'rendered': 'The Devil’s Deal (2023) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831124.0150754
+   "attempts": 3,
+   "last_attempt": 1788832319.2376266
   },
   "https://thenkiri.com/kingmaker-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "82634|https://thenkiri.com/kingmaker-2022-download-korean-movie/|2023-02-19T08:08:45|2023-02-19T08:08:45|{'rendered': 'Kingmaker (2022) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831196.1365798
+   "attempts": 3,
+   "last_attempt": 1788832413.881358
   },
   "https://thenkiri.com/the-fabelmans-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "76402|https://thenkiri.com/the-fabelmans-2022-download-hollywood-movie/|2022-12-13T18:58:52|2023-09-02T14:02:15|{'rendered': 'The Fabelmans (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831197.6615229
+   "attempts": 3,
+   "last_attempt": 1788832416.122022
   },
   "https://thenkiri.com/1-800-hot-nite-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "70489|https://thenkiri.com/1-800-hot-nite-2022-download-hollywood-movie/|2022-11-05T00:51:42|2024-02-23T10:25:01|{'rendered': '1-800-HOT-NITE (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831229.4152367
+   "attempts": 3,
+   "last_attempt": 1788832447.97446
+  },
+  "https://thenkiri.com/werewolf-by-night-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "67386|https://thenkiri.com/werewolf-by-night-2022-download-hollywood-movie/|2022-10-07T20:05:21|2024-02-24T10:50:33|{'rendered': 'Werewolf By Night (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788832479.2825942
+  },
+  "https://thenkiri.com/orphan-first-kill-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "60105|https://thenkiri.com/orphan-first-kill-2022-download-hollywood-movie/|2022-08-19T11:30:44|2023-09-02T15:16:02|{'rendered': 'Orphan First Kill (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788832480.8168337
+  },
+  "https://thenkiri.com/lightyear-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "46377|https://thenkiri.com/lightyear-2022-download-hollywood-movie/|2022-07-14T13:32:18|2023-09-02T14:40:26|{'rendered': 'Lightyear (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788832482.1370535
   }
  },
  "series_links": {

@@ -1085,10 +1085,12 @@
    "completed_at": 1788812919
   },
   "https://thenkiri.com/argyvlle-2024-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "111792|https://thenkiri.com/argyvlle-2024-download-hollywood-movie/|2024-03-05T08:13:29|2024-03-05T08:13:29|{'rendered': 'Argyvlle (2024) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788831041.4548202
+   "last_attempt": 1788831041.4548202,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832269
   },
   "https://thenkiri.com/the-hunger-games-the-ballad-of-songbirds-and-snakes-2023-download-hollywood-movie/": {
    "status": "done",
@@ -1105,44 +1107,50 @@
   "https://thenkiri.com/rally-road-racer-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "95713|https://thenkiri.com/rally-road-racer-2023-download-hollywood-movie/|2023-07-21T11:41:37|2023-09-02T17:27:30|{'rendered': 'Rally Road Racer (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831074.6614916
+   "attempts": 3,
+   "last_attempt": 1788832303.5905132
   },
   "https://thenkiri.com/toxic-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "88588|https://thenkiri.com/toxic-2022-download-korean-movie/|2023-05-03T16:46:04|2023-09-02T17:50:08|{'rendered': 'Toxic (2022) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831107.3000271
+   "attempts": 3,
+   "last_attempt": 1788832335.54403
   },
   "https://thenkiri.com/women-talking-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "82862|https://thenkiri.com/women-talking-2022-download-hollywood-movie/|2023-02-21T11:46:12|2023-12-25T06:47:26|{'rendered': 'Women Talking (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831139.3035834
+   "attempts": 3,
+   "last_attempt": 1788832367.9707315
   },
   "https://thenkiri.com/black-2008-download-indian-movie/": {
    "status": "pending",
    "signature": "76504|https://thenkiri.com/black-2008-download-indian-movie/|2022-12-14T12:11:42|2023-09-02T14:07:36|{'rendered': 'Black (2005) | Download Indian Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831140.8862066
+   "attempts": 3,
+   "last_attempt": 1788832369.486114
   },
   "https://thenkiri.com/the-independent-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "70508|https://thenkiri.com/the-independent-2022-download-hollywood-movie/|2022-11-05T05:40:11|2023-09-02T16:37:44|{'rendered': 'The Independent (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831142.4644213
+   "attempts": 3,
+   "last_attempt": 1788832371.073082
   },
   "https://thenkiri.com/hallowen-ends-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "67899|https://thenkiri.com/hallowen-ends-2022-download-hollywood-movie/|2022-10-14T09:00:21|2024-02-24T17:43:01|{'rendered': 'Hallowen Ends (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831176.4376009
+   "attempts": 3,
+   "last_attempt": 1788832403.8117473
   },
   "https://thenkiri.com/the-next-365-days-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "60539|https://thenkiri.com/the-next-365-days-2022-download-hollywood-movie/|2022-08-20T13:44:12|2023-09-02T15:15:40|{'rendered': 'The Next 365 Days (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831178.0605226
+   "attempts": 3,
+   "last_attempt": 1788832405.1578107
+  },
+  "https://thenkiri.com/love-accidentally-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "46458|https://thenkiri.com/love-accidentally-2022-download-hollywood-movie/|2022-07-15T06:03:35|2023-09-02T14:47:55|{'rendered': 'Love Accidentally (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788832406.501416
   }
  },
  "series_links": {

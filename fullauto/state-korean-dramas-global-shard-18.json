@@ -185,6 +185,18 @@
    "signature": "107072|https://thenkiri.com/a-shop-for-killers-s01-complete-korean-drama/|2024-01-17T11:56:14|2024-02-22T20:07:40|{'rendered': 'A Shop for Killers S01 (Complete) | Korean Drama'}",
    "attempts": 2,
    "last_attempt": 1788831921.8890073
+  },
+  "https://thenkiri.com/song-of-the-bandits-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "100046|https://thenkiri.com/song-of-the-bandits-s01-complete-korean-drama/|2023-09-22T15:04:28|2023-12-15T05:34:42|{'rendered': 'Song of the Bandits S01 (Episode 7-9 Added) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788832643.427554
+  },
+  "https://thenkiri.com/the-prime-minister-and-i-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "92304|https://thenkiri.com/the-prime-minister-and-i-complete-korean-drama/|2023-06-27T16:58:27|2023-09-02T17:05:46|{'rendered': 'The Prime Minister and I (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788833243.492265
   }
  },
  "series_links": {
