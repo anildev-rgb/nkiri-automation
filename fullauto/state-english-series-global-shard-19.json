@@ -224,16 +224,32 @@
    "blocked_at": 1788834204
   },
   "https://thenkiri.com/widows-bay-s02-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "155725|https://thenkiri.com/widows-bay-s02-complete-tv-series/|2026-04-29T15:11:44|2026-06-17T08:54:10|{'rendered': 'Widow’s Bay S01 (Episode 10 Added) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788841666.1459925
+   "last_attempt": 1788841666.1459925,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857714
   },
   "https://thenkiri.com/hate-the-player-the-ben-johnson-story-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "154896|https://thenkiri.com/hate-the-player-the-ben-johnson-story-complete-tv-series/|2026-04-20T13:48:49|2026-04-20T14:06:58|{'rendered': 'Hate the Player: The Ben Johnson Story (Complete)  | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788841847.9059737
+   "last_attempt": 1788841847.9059737,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857714
+  },
+  "https://thenkiri.com/the-miniature-wife-complete-tv-series/": {
+   "status": "done",
+   "signature": "154001|https://thenkiri.com/the-miniature-wife-complete-tv-series/|2026-04-09T14:40:28|2026-04-09T14:40:28|{'rendered': 'The Miniature Wife  (Complete) | TV Series'}",
+   "modified": "2026-04-09T14:40:28",
+   "completed_at": 1788859227
+  },
+  "https://thenkiri.com/for-all-man-kind-s05-complete-tv-series/": {
+   "status": "pending",
+   "signature": "153069|https://thenkiri.com/for-all-man-kind-s05-complete-tv-series/|2026-03-27T15:46:58|2026-05-29T09:09:18|{'rendered': 'For All ManKind S05 (Complete) | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788861543.407574
   }
  },
  "series_links": {
@@ -457,6 +473,21 @@
   "https://downloadwella.com/efo9927677km/I.Will.Find.YouS01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RjsAZRqg7yNFuFNHOBLdqZNOmeIdZs4V",
   "https://downloadwella.com/86ch39te3wj1/I.Will.Find.YouS01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FWGC_8MqFIJkHIdA09OTjD9i4nLxW6CT",
   "https://downloadwella.com/iartrdjrurw2/I.Will.Find.YouS01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u7YVoNcg7EKFF5n4Rk79bfIo6KkjnJP1",
-  "https://downloadwella.com/83ba0ldaxabt/I.Will.Find.YouS01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UV3p4hBD1gsxqdHX9l4H2RWjioDOG_Jb"
+  "https://downloadwella.com/83ba0ldaxabt/I.Will.Find.YouS01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UV3p4hBD1gsxqdHX9l4H2RWjioDOG_Jb",
+  "https://downloadwella.com/71jqxjwilgm2/The.Minature.Wife.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3vYjTQ4q_6-2R7gReTEmGW59bEmoypau",
+  "https://downloadwella.com/1rs3b9v01dla/The.Minature.Wife.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/591hFLWXm_bTDwuesX5Cv00sVDK9Ulk4",
+  "https://downloadwella.com/lydop8o55v0q/The.Minature.Wife.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Qmueo-2dURWh3s_3AXu0hADxDZrSDWV3",
+  "https://downloadwella.com/9haj0gqdop8a/The.Minature.Wife.S01E04(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ue648QuaeqZ7bKA-SW1SizHbPNT1JXes",
+  "https://downloadwella.com/ytwe3q07jhee/The.Minature.Wife.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tBK3d-6731ZQ7x9q6dC_Dg5o_JEsOxDN",
+  "https://downloadwella.com/337q29k8gb4i/The.Minature.Wife.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gLR-B6Bs4_wa9RR3KCsHva8h-Tc2U8dY",
+  "https://downloadwella.com/vmfrpoohqc2d/The.Minature.Wife.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Yg6YxN33atja8ZRll2qeequHf9idRWQS",
+  "https://downloadwella.com/tqw4xgvnt355/The.Minature.Wife.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/d6YJL_vAcbpzK4OO1ZsdjlRhdGd-UjMR",
+  "https://downloadwella.com/uz0h0om5cwjl/The.Minature.Wife.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Khvqgq-pVjwZzKFszTJvthcR5EPMHGVj",
+  "https://downloadwella.com/442q2vc08v2k/The.Minature.Wife.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xEyAdF47K4KAuCJRJbKlB7CFsHy4SD0j",
+  "https://downloadwella.com/b8th3ijiphi3/For.All.Mankind.S05E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FGYcuFq9-KYSZfAWUmyEhB5z802a6vA9",
+  "https://downloadwella.com/etl2l4idotor/For.All.Mankind.S05E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Objfcem5QUEYOTLVOXh0IqrbWY9F-XpT",
+  "https://downloadwella.com/d0827trc1qyb/For.All.Mankind.S0505.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/c5nuw1-EwrtxlrtW0gwjMIlQfGlwcX8X",
+  "https://downloadwella.com/h578esdnxdsa/For.All.Mankind.S05E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5Vl6SylshPPek7er_Vvvd6ODhb8iP3Mr",
+  "https://downloadwella.com/0niq4xgerj4j/For.All.Mankind.S0507.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Twt3qUz9DDzT9o6z7LNWi6i2WJ1LKBI3"
  }
 }

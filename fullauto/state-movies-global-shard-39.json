@@ -1173,52 +1173,92 @@
    "blocked_at": 1788841345
   },
   "https://thenkiri.com/crawlspace-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "44037|https://thenkiri.com/crawlspace-2022-download-hollywood-movie/|2022-06-14T07:36:12|2023-09-02T14:09:32|{'rendered': 'Crawlspace (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841356.5157855
+   "last_attempt": 1788841356.5157855,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857699
   },
   "https://thenkiri.com/thar-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41967|https://thenkiri.com/thar-2022-download-indian-movie/|2022-05-13T11:21:40|2023-09-02T13:54:37|{'rendered': 'Thar (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841357.6678905
+   "last_attempt": 1788841357.6678905,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857699
   },
   "https://thenkiri.com/choose-or-die-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39700|https://thenkiri.com/choose-or-die-2022-download-hollywood-movie/|2022-04-15T09:04:27|2023-09-02T13:41:09|{'rendered': 'Choose or Die (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841358.8226953
+   "last_attempt": 1788841358.8226953,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857699
   },
   "https://thenkiri.com/rescued-by-ruby-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "38194|https://thenkiri.com/rescued-by-ruby-2022-download-hollywood-movie/|2022-03-18T13:41:14|2023-09-02T13:14:42|{'rendered': 'Rescued by Ruby (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841360.0468092
+   "last_attempt": 1788841360.0468092,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857699
   },
   "https://thenkiri.com/fistful-of-vengeance-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "36772|https://thenkiri.com/fistful-of-vengeance-2022-download-hollywood-movie/|2022-02-17T13:26:43|2023-09-02T13:42:14|{'rendered': 'Fistful of Vengeance (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841361.2412267
+   "last_attempt": 1788841361.2412267,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857699
   },
   "https://thenkiri.com/tom-and-jerry-cowboy-up-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "35611|https://thenkiri.com/tom-and-jerry-cowboy-up-2022-download-hollywood-movie/|2022-01-25T18:09:19|2023-09-02T13:30:40|{'rendered': 'Tom and Jerry Cowboy Up! (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841362.3904543
+   "attempts": 2,
+   "last_attempt": 1788857702.8677495
   },
   "https://thenkiri.com/a-mouthful-of-air-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "34523|https://thenkiri.com/a-mouthful-of-air-2021-download-hollywood-movie/|2022-01-04T12:53:21|2023-09-02T13:21:37|{'rendered': 'A Mouthful of Air (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841363.5830305
+   "attempts": 2,
+   "last_attempt": 1788857704.4440217
   },
   "https://thenkiri.com/mother-android-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "33693|https://thenkiri.com/mother-android-2021-download-hollywood-movie/|2021-12-18T00:17:32|2023-09-02T13:13:31|{'rendered': 'Mother Android (2021) | Download Hollywood Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788857707.4548204
+  },
+  "https://thenkiri.com/the-princess-switch-3-romancing-the-star-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "32249|https://thenkiri.com/the-princess-switch-3-romancing-the-star-2021-download-hollywood-movie/|2021-11-19T12:05:53|2023-09-02T11:03:22|{'rendered': 'The Princess Switch 3 Romancing the Star (2021) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788841364.5872574
+   "last_attempt": 1788857710.4201045
+  },
+  "https://thenkiri.com/hypnotics-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "31212|https://thenkiri.com/hypnotics-2021-download-hollywood-movie/|2021-10-28T05:38:48|2023-09-02T10:53:48|{'rendered': 'Hypnotics (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788857713.668351
+  },
+  "https://thenkiri.com/vivo-2021-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "19706|https://thenkiri.com/vivo-2021-download-hollywood-movie/|2021-08-07T10:34:43|2023-09-02T09:38:29|{'rendered': 'Vivo (2021) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T09:38:29",
+   "completed_at": 1788857754
+  },
+  "https://thenkiri.com/thor-2-dark-world-2013-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "17345|https://thenkiri.com/thor-2-dark-world-2013-download-hollywood-movie/|2021-06-11T13:50:53|2023-09-02T09:22:36|{'rendered': 'Thor 2 Dark World (2013) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T09:22:36",
+   "completed_at": 1788857790
+  },
+  "https://thenkiri.com/pharaohs-war-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "13999|https://thenkiri.com/pharaohs-war-2021-download-hollywood-movie/|2021-03-22T13:53:00|2024-02-25T08:14:16|{'rendered': 'Pharaohs War (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788857799.7847986
   }
  },
  "series_links": {
@@ -1426,6 +1466,8 @@
   "https://downloadwella.com/quid64mfmghx/Christmas.on.Windmill.Way.(NKIRI.COM).2023.NF.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/4VAtK5npuPW9lTd-leO77bf_6NbAMjM9",
   "https://downloadwella.com/9zk5n1ocdj5i/Gangnam.Blues.(NKIRI.COM).2015.NF.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/F68f6jLp_28dnwtGO3e7Iuvxbab0Igho",
   "https://downloadwella.com/n7c3vzf64f9l/My.Oni.Girl.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/bgdRS094LTpdK3IFQUcnB-DNkdnhbT2_",
-  "https://downloadwella.com/tgcptgazdfmc/The.Parades.(NKIRI.COM).2024.NF.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/y_VPmb-ywhGvDH-UIdinAd6h_kM8fsWF"
+  "https://downloadwella.com/tgcptgazdfmc/The.Parades.(NKIRI.COM).2024.NF.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/y_VPmb-ywhGvDH-UIdinAd6h_kM8fsWF",
+  "https://downloadwella.com/rgrbl8k1ln41/Vivo.(NKIRI.COM).2021.Downloaded.from.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/GiNXfLA2Y29vC2Xn0uoA5QebY1yBx1AP",
+  "https://downloadwella.com/bb3mwobupvip/Thor.The.Dark.World.(NKIRI.COM).2013.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/f8SmsNWUGImY0x2RdwZirwZqAs9wc4sW"
  }
 }

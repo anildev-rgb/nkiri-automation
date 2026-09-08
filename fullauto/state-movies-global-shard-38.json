@@ -1171,52 +1171,100 @@
    "blocked_at": 1788841330
   },
   "https://thenkiri.com/ip-man-the-awakening-2022-download-chinese-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "44169|https://thenkiri.com/ip-man-the-awakening-2022-download-chinese-movie/|2022-06-16T10:02:45|2024-02-24T15:45:10|{'rendered': 'IP Man: The Awakening (2022) | Download Chinese Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841362.0180864
+   "last_attempt": 1788841362.0180864,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857685
   },
   "https://thenkiri.com/senior-year-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41984|https://thenkiri.com/senior-year-2022-download-hollywood-movie/|2022-05-13T13:39:53|2023-09-02T13:54:34|{'rendered': 'Senior Year (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841362.9983447
+   "last_attempt": 1788841362.9983447,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857685
   },
   "https://thenkiri.com/the-star-next-door-2017-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39717|https://thenkiri.com/the-star-next-door-2017-download-korean-movie/|2022-04-15T16:49:38|2023-09-02T13:41:00|{'rendered': 'The Star Next Door (2017) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841364.0328293
+   "last_attempt": 1788841364.0328293,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857685
   },
   "https://thenkiri.com/cheaper-by-the-dozen-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "38211|https://thenkiri.com/cheaper-by-the-dozen-2022-download-hollywood-movie/|2022-03-18T15:09:59|2023-09-02T13:14:39|{'rendered': 'Cheaper by the Dozen (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841365.165291
+   "last_attempt": 1788841365.165291,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857685
   },
   "https://thenkiri.com/pursuit-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "36798|https://thenkiri.com/pursuit-2022-download-hollywood-movie/|2022-02-18T08:48:34|2023-09-02T13:42:10|{'rendered': 'Pursuit (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841366.130346
+   "last_attempt": 1788841366.130346,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857685
   },
   "https://thenkiri.com/gold-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "35622|https://thenkiri.com/gold-2022-download-hollywood-movie/|2022-01-25T18:29:26|2023-09-02T13:30:37|{'rendered': 'Gold (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841367.1490169
+   "last_attempt": 1788841367.1490169,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788857685
   },
   "https://thenkiri.com/scream-4-2011-download-hollywood-movie/": {
    "status": "pending",
    "signature": "34585|https://thenkiri.com/scream-4-2011-download-hollywood-movie/|2022-01-06T08:09:11|2023-09-02T13:21:26|{'rendered': 'Scream 4 (2011) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841368.247453
+   "attempts": 2,
+   "last_attempt": 1788857687.0663695
   },
   "https://thenkiri.com/kanye-with-special-guest-drake-free-larry-hoover-benefit-concert-2021-download-music-special/": {
    "status": "pending",
    "signature": "33717|https://thenkiri.com/kanye-with-special-guest-drake-free-larry-hoover-benefit-concert-2021-download-music-special/|2021-12-18T10:09:09|2023-09-02T13:13:25|{'rendered': 'Kanye With Special Guest Drake: Free Larry Hoover – Benefit Concert (2021) | Download Music Special'}",
+   "attempts": 2,
+   "last_attempt": 1788857688.413493
+  },
+  "https://thenkiri.com/king-richard-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "32261|https://thenkiri.com/king-richard-2021-download-hollywood-movie/|2021-11-19T16:01:01|2023-09-02T11:03:12|{'rendered': 'King Richard (2021) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788841369.3168871
+   "last_attempt": 1788857691.9945488
+  },
+  "https://thenkiri.com/lair-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "31239|https://thenkiri.com/lair-2021-download-hollywood-movie/|2021-10-30T05:32:01|2023-09-02T10:53:42|{'rendered': 'Lair (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788857695.0498762
+  },
+  "https://thenkiri.com/about-us-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "19923|https://thenkiri.com/about-us-2021-download-hollywood-movie/|2021-08-14T20:39:19|2023-09-02T09:38:06|{'rendered': 'About Us (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788857709.012883
+  },
+  "https://thenkiri.com/skater-girl-2021-download-bollywood-movie/": {
+   "status": "done",
+   "signature": "17378|https://thenkiri.com/skater-girl-2021-download-bollywood-movie/|2021-06-11T18:34:34|2023-09-02T09:22:19|{'rendered': 'Skater Girl (2021) | Download Bollywood Movie'}",
+   "modified": "2023-09-02T09:22:19",
+   "completed_at": 1788857744
+  },
+  "https://thenkiri.com/zack-snyders-justice-league-2021-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "14052|https://thenkiri.com/zack-snyders-justice-league-2021-download-hollywood-movie/|2021-03-23T18:08:51|2023-12-25T06:48:58|{'rendered': 'Zack Snyder’s Justice League (2021) | Download Hollywood Movie'}",
+   "modified": "2023-12-25T06:48:58",
+   "completed_at": 1788857782
+  },
+  "https://thenkiri.com/to-all-the-boys-ive-love-always-and-forever-2021-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "13182|https://thenkiri.com/to-all-the-boys-ive-love-always-and-forever-2021-download-hollywood-movie/|2021-02-13T18:44:45|2023-09-02T08:36:51|{'rendered': 'To All the Boys Ive Love Always and Forever (2021) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T08:36:51",
+   "completed_at": 1788857815
   }
  },
  "series_links": {
@@ -1425,6 +1473,9 @@
   "https://downloadwella.com/9ydr4xgyep5l/Deck.the.Walls.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/3IdvnPnU2uWBJVkHE_R7uGmWbElXHosn",
   "https://downloadwella.com/zxzjb96rtnun/Crew.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/sQZ_eB3QsIUd1NHIGcVsJByls2gw8y03",
   "https://downloadwella.com/wpm26yj9ulsq/The.Pig.the.Snake.and.the.Pigeon.(NKIRI.COM).2023.NF.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/7iCQ3yvnQ7bNGE_uQTkWtTPK5BSotT2f",
-  "https://downloadwella.com/mds3zv9uhm1q/Deliver.Us.(NKIRI.COM).2023.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/UCEQLpNlu4DhpGgdD1lh0KeViTvJCtF4"
+  "https://downloadwella.com/mds3zv9uhm1q/Deliver.Us.(NKIRI.COM).2023.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/UCEQLpNlu4DhpGgdD1lh0KeViTvJCtF4",
+  "https://downloadwella.com/zk12nwhg8qdw/Skater.Girl.(NKIRI.COM).2021.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/esmZf05L3jnQwt0-5a9W8s4_ekeaay-D",
+  "https://downloadwella.com/llmn8117uwak/Justice.League.Snyders.Cut.(NKIRI.COM).2021.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.ncdiccd.mkv.html": "https://v1.vidfiles.com/d/nr3128A6wKSzQ11Y6ey3RC0AzXhbDs-c",
+  "https://downloadwella.com/4e13l7879tga/To.All.The.Boys.Always.And.Forever.(NKIRI.COM).2021.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/bjhIq6YZ85Do1T49nXIb5SKeSTB8XDKn"
  }
 }
