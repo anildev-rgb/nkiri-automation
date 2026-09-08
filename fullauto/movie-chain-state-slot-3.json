@@ -235,8 +235,8 @@
   "https://thenkiri.com/warriors-of-future-2022-download-chinese-movie/": {
    "status": "pending",
    "signature": "75134|https://thenkiri.com/warriors-of-future-2022-download-chinese-movie/|12/02/2022 16:21:24|02/24/2024 20:46:01|{'rendered': 'Warriors of Future (2022) | Download Chinese Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788877673.6009648
+   "attempts": 3,
+   "last_attempt": 1788878919.4004111
   },
   "https://thenkiri.com/my-name-is-vendetta-2022-download-italian-movie/": {
    "status": "done",
@@ -331,20 +331,20 @@
   "https://thenkiri.com/the-immaculate-room-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "60098|https://thenkiri.com/the-immaculate-room-2022-download-hollywood-movie/|08/19/2022 11:19:28|09/02/2023 15:16:16|{'rendered': 'The Immaculate Room (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788877865.3543088
+   "attempts": 2,
+   "last_attempt": 1788878932.0187714
   },
   "https://thenkiri.com/top-gun-maverick-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "59300|https://thenkiri.com/top-gun-maverick-2022-download-hollywood-movie/|08/17/2022 12:27:25|09/02/2023 15:10:17|{'rendered': 'Top Gun Maverick (2022) KOR Sub | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788877866.2408102
+   "attempts": 2,
+   "last_attempt": 1788878933.2631867
   },
   "https://thenkiri.com/thirteen-lives-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "58247|https://thenkiri.com/thirteen-lives-2022-download-hollywood-movie/|08/16/2022 08:52:08|09/02/2023 14:56:17|{'rendered': 'Thirteen Lives (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788877867.831445
+   "attempts": 2,
+   "last_attempt": 1788878935.0770657
   },
   "https://thenkiri.com/carter-2022-download-korean-movie/": {
    "status": "pending",
@@ -411,6 +411,18 @@
    "signature": "45037|https://thenkiri.com/murder-at-yellowstone-city-2022-download-hollywood-movie/|06/25/2022 13:06:00|09/02/2023 14:21:14|{'rendered': 'Murder at Yellowstone City (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788878738.4781451
+  },
+  "https://thenkiri.com/true-things-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "44655|https://thenkiri.com/true-things-2022-download-hollywood-movie/|06/21/2022 16:58:38|09/02/2023 14:10:55|{'rendered': 'True Things (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788878936.3876028
+  },
+  "https://thenkiri.com/american-carnage-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "44454|https://thenkiri.com/american-carnage-2022-download-hollywood-movie/|06/19/2022 07:46:27|09/02/2023 14:11:27|{'rendered': 'American Carnage (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788878952.273026
   }
  },
  "series_links": {
