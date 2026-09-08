@@ -1069,10 +1069,12 @@
    "completed_at": 1788812304
   },
   "https://thenkiri.com/amaran-2024-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "128541|https://thenkiri.com/amaran-2024-download-indian-movie/|2024-12-10T16:53:05|2024-12-10T16:53:05|{'rendered': 'Amaran (2024) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788831034.0187871
+   "last_attempt": 1788831034.0187871,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832317
   },
   "https://thenkiri.com/sleep-2023-download-korean-movie/": {
    "status": "done",
@@ -1101,44 +1103,50 @@
   "https://thenkiri.com/the-devils-deal-2023-download-korean-movie-2/": {
    "status": "pending",
    "signature": "100907|https://thenkiri.com/the-devils-deal-2023-download-korean-movie-2/|2023-10-07T09:37:31|2024-02-25T02:14:29|{'rendered': 'The Devil’s Deal (2023) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831035.2843437
+   "attempts": 3,
+   "last_attempt": 1788832318.6415765
   },
   "https://thenkiri.com/the-venture-bros-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "95794|https://thenkiri.com/the-venture-bros-2023-download-hollywood-movie/|2023-07-23T12:12:29|2023-09-02T17:26:25|{'rendered': 'The Venture Bros (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831104.744931
+   "attempts": 3,
+   "last_attempt": 1788832388.2545073
   },
   "https://thenkiri.com/evil-dead-rise-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "88970|https://thenkiri.com/evil-dead-rise-2023-download-hollywood-movie/|2023-05-09T08:47:01|2023-09-02T17:53:37|{'rendered': 'Evil Dead Rise (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831135.6403878
+   "attempts": 3,
+   "last_attempt": 1788832418.4621637
   },
   "https://thenkiri.com/the-strays-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "83072|https://thenkiri.com/the-strays-2023-download-hollywood-movie/|2023-02-23T10:41:51|2023-12-25T06:46:55|{'rendered': 'The Strays (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831166.6978045
+   "attempts": 3,
+   "last_attempt": 1788832448.3161254
   },
   "https://thenkiri.com/mindcage-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "76713|https://thenkiri.com/mindcage-2022-download-hollywood-movie/|2022-12-16T07:39:40|2023-12-25T06:24:43|{'rendered': 'Mindcage (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831197.3460217
+   "attempts": 3,
+   "last_attempt": 1788832478.5287724
   },
   "https://thenkiri.com/brahmastra-part-one-shiva-2022-download-indian-movie/": {
    "status": "pending",
    "signature": "70596|https://thenkiri.com/brahmastra-part-one-shiva-2022-download-indian-movie/|2022-11-05T15:51:05|2023-09-02T16:36:44|{'rendered': 'Brahmāstra Part One: Shiva (2022) | Download Indian Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831230.5417583
+   "attempts": 3,
+   "last_attempt": 1788832519.3257778
   },
   "https://thenkiri.com/stars-at-noon-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "67920|https://thenkiri.com/stars-at-noon-2022-download-hollywood-movie/|2022-10-14T10:31:37|2023-09-02T16:09:38|{'rendered': 'Stars at Noon (2022) | Download Hollywood Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788832520.315252
+  },
+  "https://thenkiri.com/easter-sunday-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "62572|https://thenkiri.com/easter-sunday-2022-download-hollywood-movie/|2022-08-23T10:59:07|2023-09-02T15:15:21|{'rendered': 'Easter Sunday (2022) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788831231.8283856
+   "last_attempt": 1788832551.5989964
   }
  },
  "series_links": {

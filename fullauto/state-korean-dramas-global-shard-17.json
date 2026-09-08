@@ -169,22 +169,24 @@
    "completed_at": 1788792618
   },
   "https://thenkiri.com/family-by-choice-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "122924|https://thenkiri.com/family-by-choice-s01-complete-korean-drama/|2024-10-09T16:43:15|2024-11-27T16:31:57|{'rendered': 'Family by Choice S01 (Complete) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788831173.7581975
+   "last_attempt": 1788831173.7581975,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832362
   },
   "https://thenkiri.com/miss-night-and-day-s01complete-korean-drama/": {
    "status": "pending",
    "signature": "117020|https://thenkiri.com/miss-night-and-day-s01complete-korean-drama/|2024-06-15T16:47:01|2024-08-04T16:41:29|{'rendered': 'Miss Night and Day S01 (Complete) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788830280.779301
+   "attempts": 2,
+   "last_attempt": 1788832855.1626363
   },
   "https://thenkiri.com/ltns-s01-complete-korean-drama/": {
    "status": "pending",
    "signature": "107189|https://thenkiri.com/ltns-s01-complete-korean-drama/|2024-01-19T18:45:18|2024-02-01T18:50:06|{'rendered': 'LTNS S01 (Complete) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788831380.2026622
+   "attempts": 2,
+   "last_attempt": 1788833076.3646574
   }
  },
  "series_links": {

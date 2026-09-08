@@ -1055,10 +1055,12 @@
    "completed_at": 1788791536
   },
   "https://thenkiri.com/final-destination-collection-1-5-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "137542|https://thenkiri.com/final-destination-collection-1-5-download-hollywood-movie/|2025-06-02T18:02:32|2025-06-02T18:02:32|{'rendered': 'Final Destination Collection 1 – 5 | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788831016.3859706
+   "last_attempt": 1788831016.3859706,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832332
   },
   "https://thenkiri.com/heart-eyes-2025-download-hollywood-movie/": {
    "status": "done",
@@ -1079,46 +1081,84 @@
    "completed_at": 1788812474
   },
   "https://thenkiri.com/the-strangers-chapter-1-2024-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "116584|https://thenkiri.com/the-strangers-chapter-1-2024-download-hollywood-movie/|2024-06-07T06:38:05|2026-03-07T10:21:01|{'rendered': 'The Strangers: Chapter 1 (2024) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788831017.5797625
+   "last_attempt": 1788831017.5797625,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832332
   },
   "https://thenkiri.com/usury-academy-2024-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "111984|https://thenkiri.com/usury-academy-2024-download-korean-movie/|2024-03-08T09:47:03|2024-03-08T09:47:03|{'rendered': 'Usury Academy (2024) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788831048.149928
+   "last_attempt": 1788831048.149928,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832332
   },
   "https://thenkiri.com/diary-of-a-wimpy-kid-christmas-fever-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "104286|https://thenkiri.com/diary-of-a-wimpy-kid-christmas-fever-2023-download-hollywood-movie/|2023-12-13T05:48:01|2023-12-13T05:48:01|{'rendered': 'Diary of a Wimpy Kid Christmas Fever (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788831049.3312933
+   "last_attempt": 1788831049.3312933,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832332
   },
   "https://thenkiri.com/desperation-road-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "100901|https://thenkiri.com/desperation-road-2023-download-hollywood-movie/|2023-10-07T09:29:07|2024-02-23T13:18:38|{'rendered': 'Desperation Road (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788831081.1204283
+   "last_attempt": 1788831081.1204283,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832332
   },
   "https://thenkiri.com/disquiet-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "95758|https://thenkiri.com/disquiet-2023-download-hollywood-movie/|2023-07-22T10:39:44|2023-09-02T17:26:45|{'rendered': 'Disquiet (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831111.3289433
+   "attempts": 3,
+   "last_attempt": 1788832362.1251216
   },
   "https://thenkiri.com/mafia-mamma-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "88666|https://thenkiri.com/mafia-mamma-2023-download-hollywood-movie/|2023-05-04T09:26:05|2023-09-02T17:49:51|{'rendered': 'Mafia Mamma (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831112.5316522
+   "attempts": 3,
+   "last_attempt": 1788832363.142394
   },
   "https://thenkiri.com/why-cant-my-life-be-a-rom-com-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "82896|https://thenkiri.com/why-cant-my-life-be-a-rom-com-2023-download-hollywood-movie/|2023-02-21T19:25:47|2023-09-02T17:13:13|{'rendered': 'Why Can’t My Life Be a Rom-Com? (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831143.5017655
+   "attempts": 3,
+   "last_attempt": 1788832394.0451052
+  },
+  "https://thenkiri.com/dragon-ball-super-super-hero-2022-download-japanese-animation/": {
+   "status": "pending",
+   "signature": "76681|https://thenkiri.com/dragon-ball-super-super-hero-2022-download-japanese-animation/|2022-12-15T19:26:42|2023-09-02T14:07:21|{'rendered': 'Dragon Ball Super: Super Hero (2022) | Download Japanese Animation'}",
+   "attempts": 1,
+   "last_attempt": 1788832395.018758
+  },
+  "https://thenkiri.com/weird-the-al-yankovic-story-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "70515|https://thenkiri.com/weird-the-al-yankovic-story-2022-download-hollywood-movie/|2022-11-05T06:09:11|2024-02-24T12:37:35|{'rendered': 'Weird The Al Yankovic Story (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788832425.6124837
+  },
+  "https://thenkiri.com/rosaline-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "67905|https://thenkiri.com/rosaline-2022-download-hollywood-movie/|2022-10-14T09:21:54|2023-09-02T16:09:54|{'rendered': 'Rosaline (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788832426.6203265
+  },
+  "https://thenkiri.com/dc-league-of-super-pets-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "62565|https://thenkiri.com/dc-league-of-super-pets-2022-download-hollywood-movie/|2022-08-23T10:53:02|2023-09-02T15:15:26|{'rendered': 'DC League of Super-Pets (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788832456.8870106
+  },
+  "https://thenkiri.com/persuasion-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "46469|https://thenkiri.com/persuasion-2022-download-hollywood-movie/|2022-07-15T11:48:50|2023-09-02T14:47:48|{'rendered': 'Persuasion (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788832457.7882214
   }
  },
  "series_links": {
