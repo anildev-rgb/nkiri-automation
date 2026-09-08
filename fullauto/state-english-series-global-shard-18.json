@@ -218,16 +218,24 @@
    "blocked_at": 1788837934
   },
   "https://thenkiri.com/regular-show-the-lost-tapes-s01-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "157244|https://thenkiri.com/regular-show-the-lost-tapes-s01-complete-tv-series/|2026-05-18T11:41:54|2026-05-18T11:41:54|{'rendered': 'Regular Show: The Lost Tapes  S01 (Episode 1 – 9 Added) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788838210.9341204
+   "last_attempt": 1788838210.9341204,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841359
   },
   "https://thenkiri.com/man-on-fire-s01-complete-tv-series/": {
    "status": "pending",
    "signature": "155781|https://thenkiri.com/man-on-fire-s01-complete-tv-series/|2026-04-30T11:00:18|2026-05-01T10:10:38|{'rendered': 'Man on Fire S01 (Complete) | TV Series'}",
-   "attempts": 2,
-   "last_attempt": 1788838556.533178
+   "attempts": 3,
+   "last_attempt": 1788841697.7029104
+  },
+  "https://thenkiri.com/bergerac-s01-complete-tv-series/": {
+   "status": "pending",
+   "signature": "154892|https://thenkiri.com/bergerac-s01-complete-tv-series/|2026-04-20T14:15:49|2026-04-20T14:15:49|{'rendered': 'Bergerac S01 (Complete)  | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788841876.9530494
   }
  },
  "series_links": {

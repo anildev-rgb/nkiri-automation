@@ -1149,52 +1149,76 @@
    "blocked_at": 1788834194
   },
   "https://thenkiri.com/werewolf-by-night-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "67386|https://thenkiri.com/werewolf-by-night-2022-download-hollywood-movie/|2022-10-07T20:05:21|2024-02-24T10:50:33|{'rendered': 'Werewolf By Night (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837951.6690948
+   "last_attempt": 1788837951.6690948,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841344
   },
   "https://thenkiri.com/orphan-first-kill-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "60105|https://thenkiri.com/orphan-first-kill-2022-download-hollywood-movie/|2022-08-19T11:30:44|2023-09-02T15:16:02|{'rendered': 'Orphan First Kill (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837953.3352716
+   "last_attempt": 1788837953.3352716,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841344
   },
   "https://thenkiri.com/lightyear-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "46377|https://thenkiri.com/lightyear-2022-download-hollywood-movie/|2022-07-14T13:32:18|2023-09-02T14:40:26|{'rendered': 'Lightyear (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837954.8481116
+   "last_attempt": 1788837954.8481116,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841344
   },
   "https://thenkiri.com/mad-god-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "44216|https://thenkiri.com/mad-god-2022-download-hollywood-movie/|2022-06-16T19:41:34|2023-09-02T14:09:05|{'rendered': 'Mad God (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788837956.0507522
+   "attempts": 3,
+   "last_attempt": 1788841345.0085678
   },
   "https://thenkiri.com/on-the-count-of-three-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "42024|https://thenkiri.com/on-the-count-of-three-2022-download-hollywood-movie/|2022-05-13T19:47:43|2023-09-02T13:58:02|{'rendered': 'On the Count of Three (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788837957.2301831
+   "attempts": 3,
+   "last_attempt": 1788841346.077255
   },
   "https://thenkiri.com/the-gangster-the-cop-the-devil-2019-download-korean-movie/": {
    "status": "pending",
    "signature": "39759|https://thenkiri.com/the-gangster-the-cop-the-devil-2019-download-korean-movie/|2022-04-16T08:08:19|2023-09-02T13:40:54|{'rendered': 'The Gangster the Cop the Devil (2019) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788837958.414132
+   "attempts": 3,
+   "last_attempt": 1788841347.1611986
   },
   "https://thenkiri.com/windfall-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "38227|https://thenkiri.com/windfall-2022-download-hollywood-movie/|2022-03-18T18:12:02|2023-09-02T13:14:30|{'rendered': 'Windfall (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788837959.5981898
+   "attempts": 3,
+   "last_attempt": 1788841348.406605
   },
   "https://thenkiri.com/texas-chainsaw-massacre-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "36818|https://thenkiri.com/texas-chainsaw-massacre-2022-download-hollywood-movie/|2022-02-18T12:24:11|2023-09-02T13:41:58|{'rendered': 'Texas Chainsaw Massacre (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788837960.9710948
+   "attempts": 3,
+   "last_attempt": 1788841349.6470945
+  },
+  "https://thenkiri.com/the-355-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "35686|https://thenkiri.com/the-355-2022-download-hollywood-movie/|2022-01-27T10:16:12|2023-09-02T13:30:21|{'rendered': 'The 355 (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841350.5709743
+  },
+  "https://thenkiri.com/scream-3-2000-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "34592|https://thenkiri.com/scream-3-2000-download-hollywood-movie/|2022-01-06T08:13:51|2023-09-02T13:21:25|{'rendered': 'Scream 3 (2000) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841351.7693799
+  },
+  "https://thenkiri.com/juice-wrld-into-the-abyss-2021-download-hollywood-documentary/": {
+   "status": "pending",
+   "signature": "33723|https://thenkiri.com/juice-wrld-into-the-abyss-2021-download-hollywood-documentary/|2021-12-18T10:14:54|2023-09-02T13:13:20|{'rendered': 'Juice WRLD: Into the Abyss (2021) | Download Hollywood Documentary'}",
+   "attempts": 1,
+   "last_attempt": 1788841352.8943372
   }
  },
  "series_links": {

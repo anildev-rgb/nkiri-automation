@@ -1161,52 +1161,60 @@
    "blocked_at": 1788834179
   },
   "https://thenkiri.com/love-accidentally-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "46458|https://thenkiri.com/love-accidentally-2022-download-hollywood-movie/|2022-07-15T06:03:35|2023-09-02T14:47:55|{'rendered': 'Love Accidentally (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837905.9305186
+   "last_attempt": 1788837905.9305186,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841329
   },
   "https://thenkiri.com/spiderhead-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "44274|https://thenkiri.com/spiderhead-2022-download-hollywood-movie/|2022-06-17T09:53:20|2023-09-02T14:08:54|{'rendered': 'Spiderhead (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788837907.322111
+   "attempts": 3,
+   "last_attempt": 1788841330.598866
   },
   "https://thenkiri.com/the-last-victim-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "42031|https://thenkiri.com/the-last-victim-2022-download-hollywood-movie/|2022-05-13T19:56:14|2023-09-02T13:57:58|{'rendered': 'The Last Victim (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788837908.7701068
+   "attempts": 3,
+   "last_attempt": 1788841331.7185764
   },
   "https://thenkiri.com/constantine-the-house-of-mystery-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "39815|https://thenkiri.com/constantine-the-house-of-mystery-2022-download-hollywood-movie/|2022-04-17T09:10:32|2023-09-02T13:44:02|{'rendered': 'Constantine The House of Mystery (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788837910.0839343
+   "attempts": 3,
+   "last_attempt": 1788841332.9028552
   },
   "https://thenkiri.com/loveland-aka-expired-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "38253|https://thenkiri.com/loveland-aka-expired-2022-download-hollywood-movie/|2022-03-20T03:42:52|2023-09-02T13:14:23|{'rendered': 'Loveland aka Expired (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788837911.6263137
+   "attempts": 3,
+   "last_attempt": 1788841334.343687
   },
   "https://thenkiri.com/licorice-pizza-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "36853|https://thenkiri.com/licorice-pizza-2021-download-hollywood-movie/|2022-02-19T20:22:34|2023-09-02T13:41:53|{'rendered': 'Licorice Pizza (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788837913.0557091
+   "attempts": 3,
+   "last_attempt": 1788841335.4186823
   },
   "https://thenkiri.com/the-fallout-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "35709|https://thenkiri.com/the-fallout-2022-download-hollywood-movie/|2022-01-27T11:42:53|2023-09-02T13:30:18|{'rendered': 'The Fallout (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788837914.478677
+   "attempts": 3,
+   "last_attempt": 1788841336.4709256
   },
   "https://thenkiri.com/scream-2-1997-download-hollywood-movie/": {
    "status": "pending",
    "signature": "34599|https://thenkiri.com/scream-2-1997-download-hollywood-movie/|2022-01-06T08:19:18|2023-09-02T13:21:18|{'rendered': 'Scream 2 (1997) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788837915.9091585
+   "attempts": 3,
+   "last_attempt": 1788841337.454587
+  },
+  "https://thenkiri.com/boxing-day-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "33729|https://thenkiri.com/boxing-day-2021-download-hollywood-movie/|2021-12-18T10:19:37|2023-09-02T13:13:16|{'rendered': 'Boxing Day (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841338.594243
   }
  },
  "series_links": {
