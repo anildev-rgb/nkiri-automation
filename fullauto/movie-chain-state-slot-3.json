@@ -303,16 +303,18 @@
    "completed_at": 1788878577
   },
   "https://thenkiri.com/jujutsu-kaisen-0-2021-download-japanese-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "66028|https://thenkiri.com/jujutsu-kaisen-0-2021-download-japanese-movie/|09/21/2022 07:15:30|09/02/2023 15:42:42|{'rendered': 'Jujutsu Kaisen 0 (2021) | Download JAPANESE Movie'}",
    "attempts": 3,
-   "last_attempt": 1788879553.1190124
+   "last_attempt": 1788879553.1190124,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788879603
   },
   "https://thenkiri.com/where-the-crawdads-sing-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "64608|https://thenkiri.com/where-the-crawdads-sing-2022-download-hollywood-movie/|09/06/2022 10:39:49|09/02/2023 15:33:02|{'rendered': 'Where the Crawdads Sing (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788878651.7361476
+   "attempts": 3,
+   "last_attempt": 1788879657.4748719
   },
   "https://thenkiri.com/khuda-haafiz-chapter-2-2022-download-indian-movie/": {
    "status": "done",
@@ -401,8 +403,8 @@
   "https://thenkiri.com/rubikon-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "45448|https://thenkiri.com/rubikon-2022-download-hollywood-movie/|07/01/2022 10:50:20|09/02/2023 14:27:20|{'rendered': 'Rubikon (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788878653.2743354
+   "attempts": 2,
+   "last_attempt": 1788879659.0622828
   },
   "https://thenkiri.com/force-2011-download-bollywood-movie/": {
    "status": "pending",
@@ -433,6 +435,12 @@
    "signature": "44169|https://thenkiri.com/ip-man-the-awakening-2022-download-chinese-movie/|06/16/2022 10:02:45|02/24/2024 15:45:10|{'rendered': 'IP Man: The Awakening (2022) | Download Chinese Movie'}",
    "attempts": 1,
    "last_attempt": 1788879237.3354468
+  },
+  "https://thenkiri.com/chickenhare-and-the-hamster-of-darkness-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "43872|https://thenkiri.com/chickenhare-and-the-hamster-of-darkness-2022-download-hollywood-movie/|06/11/2022 06:36:47|09/02/2023 14:06:43|{'rendered': 'Chickenhare and the Hamster of Darkness (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788879722.7084842
   }
  },
  "series_links": {
