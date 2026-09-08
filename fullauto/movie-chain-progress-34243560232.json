@@ -1,0 +1,17 @@
+{
+  "generated_at_epoch": 1788880642,
+  "repository": "anildev-rgb/nkiri-automation",
+  "run_id": "34243560232",
+  "repo_slot": 3,
+  "run_slot": null,
+  "queue": "queue/missing-movies-current.csv",
+  "selected_movies": 20,
+  "attempted_posts": 2,
+  "completed_movies": 0,
+  "not_completed_movies": 20,
+  "site_posts_sent": 0,
+  "vidfiles_uploads": 0,
+  "agent_exit": 0,
+  "state_file": "fullauto/movie-chain-state-slot-3.json",
+  "note": "State files are the resumable progress ledger; the live site is not required for routine remaining-count checks."
+}
