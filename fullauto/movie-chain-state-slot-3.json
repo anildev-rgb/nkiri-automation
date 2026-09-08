@@ -439,10 +439,12 @@
    "completed_at": 1788880791
   },
   "https://thenkiri.com/murder-at-yellowstone-city-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45037|https://thenkiri.com/murder-at-yellowstone-city-2022-download-hollywood-movie/|06/25/2022 13:06:00|09/02/2023 14:21:14|{'rendered': 'Murder at Yellowstone City (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880792.971024
+   "last_attempt": 1788880792.971024,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880837
   },
   "https://thenkiri.com/true-things-2022-download-hollywood-movie/": {
    "status": "pending",
@@ -563,6 +565,18 @@
    "signature": "39513|https://thenkiri.com/infinite-storm-2022-download-hollywood-movie/|04/12/2022 20:16:37|09/02/2023 13:41:46|{'rendered': 'Infinite Storm (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788880366.0445993
+  },
+  "https://thenkiri.com/gabriels-rapture-part-ii-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "39396|https://thenkiri.com/gabriels-rapture-part-ii-2022-download-hollywood-movie/|04/10/2022 09:51:51|09/02/2023 13:38:59|{'rendered': 'Gabriel’s Rapture Part II (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788880838.6481774
+  },
+  "https://thenkiri.com/umma-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "39272|https://thenkiri.com/umma-2022-download-hollywood-movie/|04/08/2022 10:30:36|07/08/2023 11:08:36|{'rendered': 'Umma (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788880839.8946474
   }
  },
  "series_links": {
