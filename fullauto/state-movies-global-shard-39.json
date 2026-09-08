@@ -1215,32 +1215,32 @@
   "https://thenkiri.com/tom-and-jerry-cowboy-up-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "35611|https://thenkiri.com/tom-and-jerry-cowboy-up-2022-download-hollywood-movie/|2022-01-25T18:09:19|2023-09-02T13:30:40|{'rendered': 'Tom and Jerry Cowboy Up! (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788857702.8677495
+   "attempts": 3,
+   "last_attempt": 1788867833.6112292
   },
   "https://thenkiri.com/a-mouthful-of-air-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "34523|https://thenkiri.com/a-mouthful-of-air-2021-download-hollywood-movie/|2022-01-04T12:53:21|2023-09-02T13:21:37|{'rendered': 'A Mouthful of Air (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788857704.4440217
+   "attempts": 3,
+   "last_attempt": 1788867834.5668483
   },
   "https://thenkiri.com/mother-android-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "33693|https://thenkiri.com/mother-android-2021-download-hollywood-movie/|2021-12-18T00:17:32|2023-09-02T13:13:31|{'rendered': 'Mother Android (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788857707.4548204
+   "attempts": 3,
+   "last_attempt": 1788867835.6429236
   },
   "https://thenkiri.com/the-princess-switch-3-romancing-the-star-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "32249|https://thenkiri.com/the-princess-switch-3-romancing-the-star-2021-download-hollywood-movie/|2021-11-19T12:05:53|2023-09-02T11:03:22|{'rendered': 'The Princess Switch 3 Romancing the Star (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788857710.4201045
+   "attempts": 2,
+   "last_attempt": 1788867836.5524035
   },
   "https://thenkiri.com/hypnotics-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "31212|https://thenkiri.com/hypnotics-2021-download-hollywood-movie/|2021-10-28T05:38:48|2023-09-02T10:53:48|{'rendered': 'Hypnotics (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788857713.668351
+   "attempts": 2,
+   "last_attempt": 1788867837.4350073
   },
   "https://thenkiri.com/vivo-2021-download-hollywood-movie/": {
    "status": "done",
@@ -1255,10 +1255,22 @@
    "completed_at": 1788857790
   },
   "https://thenkiri.com/pharaohs-war-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "13999|https://thenkiri.com/pharaohs-war-2021-download-hollywood-movie/|2021-03-22T13:53:00|2024-02-25T08:14:16|{'rendered': 'Pharaohs War (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788857799.7847986
+   "modified": "2024-02-25T08:14:16",
+   "completed_at": 1788867882
+  },
+  "https://thenkiri.com/the-swordsman-2020-download-korean-movie/": {
+   "status": "done",
+   "signature": "13162|https://thenkiri.com/the-swordsman-2020-download-korean-movie/|2021-02-13T09:36:22|2023-09-02T08:36:58|{'rendered': 'The Swordsman (2020) | Download Korean Movie'}",
+   "modified": "2023-09-02T08:36:58",
+   "completed_at": 1788867910
+  },
+  "https://thenkiri.com/life-in-a-year-2020-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "9608|https://thenkiri.com/life-in-a-year-2020-download-hollywood-movie/|2020-12-02T09:38:11|2023-09-02T08:24:00|{'rendered': 'Life in a Year (2020) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T08:24:00",
+   "completed_at": 1788867959
   }
  },
  "series_links": {
@@ -1468,6 +1480,9 @@
   "https://downloadwella.com/n7c3vzf64f9l/My.Oni.Girl.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/bgdRS094LTpdK3IFQUcnB-DNkdnhbT2_",
   "https://downloadwella.com/tgcptgazdfmc/The.Parades.(NKIRI.COM).2024.NF.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/y_VPmb-ywhGvDH-UIdinAd6h_kM8fsWF",
   "https://downloadwella.com/rgrbl8k1ln41/Vivo.(NKIRI.COM).2021.Downloaded.from.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/GiNXfLA2Y29vC2Xn0uoA5QebY1yBx1AP",
-  "https://downloadwella.com/bb3mwobupvip/Thor.The.Dark.World.(NKIRI.COM).2013.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/f8SmsNWUGImY0x2RdwZirwZqAs9wc4sW"
+  "https://downloadwella.com/bb3mwobupvip/Thor.The.Dark.World.(NKIRI.COM).2013.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/f8SmsNWUGImY0x2RdwZirwZqAs9wc4sW",
+  "https://downloadwella.com/she2h8osm4xu/Pharaohs.War.(NKIRI.COM).2021.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/9FcHaIz976qCq94JF2iVTH2OpO6s0sxk",
+  "https://downloadwella.com/4zodieo36hoz/The.Swordsman.(NKIRI.COM).2020.KOREAN.480p.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/saJFx6c2S0FCWalNTLQgt8yXtK9u0WhN",
+  "https://downloadwella.com/hb59euloehx8/Life.in.a.Year.(NKIRI.COM).2020.480p.AMZN.WEBRip.DOWNLOADED.FROM.NKIRI.Com.mkv.html": "https://v1.vidfiles.com/d/OsuSyJV63DY7Q03ilkvoZL2p51_FkELD"
  }
 }
