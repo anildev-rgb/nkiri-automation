@@ -204,14 +204,14 @@
   "https://thenkiri.com/sugar-s02-complete-tv-series/": {
    "status": "pending",
    "signature": "159722|https://thenkiri.com/sugar-s02-complete-tv-series/|2026-06-19T09:08:39|2026-08-07T09:25:27|{'rendered': 'Sugar S02 (Episode 8 Added) | TV Series'}",
-   "attempts": 2,
-   "last_attempt": 1788828594.135764
+   "attempts": 3,
+   "last_attempt": 1788831071.9090736
   },
   "https://thenkiri.com/tyler-perrys-zatima-s04-complete-tv-series/": {
    "status": "pending",
    "signature": "158489|https://thenkiri.com/tyler-perrys-zatima-s04-complete-tv-series/|2026-06-03T17:45:31|2026-07-07T08:27:50|{'rendered': 'Tyler Perry’s Zatima S04 (Episode 20 Added)  | TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788829212.3403013
+   "attempts": 2,
+   "last_attempt": 1788831685.811106
   }
  },
  "series_links": {
