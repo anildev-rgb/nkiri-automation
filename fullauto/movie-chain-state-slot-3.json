@@ -203,10 +203,12 @@
    "blocked_at": 1788877662
   },
   "https://thenkiri.com/whitney-houston-i-wanna-dance-with-somebody-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "81540|https://thenkiri.com/whitney-houston-i-wanna-dance-with-somebody-2022-download-hollywood-movie/|02/07/2023 09:08:25|09/02/2023 17:01:13|{'rendered': 'Whitney Houston: I Wanna Dance with Somebody (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788878077.9403403
+   "last_attempt": 1788878077.9403403,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878190
   },
   "https://thenkiri.com/when-you-finish-saving-the-world-2023-download-hollywood-movie/": {
    "status": "done",
@@ -215,16 +217,20 @@
    "completed_at": 1788875669
   },
   "https://thenkiri.com/hell-dogs-2022-download-japanese-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "77995|https://thenkiri.com/hell-dogs-2022-download-japanese-movie/|12/26/2022 14:49:26|09/02/2023 14:26:54|{'rendered': 'Hell Dogs (2022) | Download JAPANESE Movie'}",
    "attempts": 3,
-   "last_attempt": 1788878078.9696019
+   "last_attempt": 1788878078.9696019,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878190
   },
   "https://thenkiri.com/renegades-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "76719|https://thenkiri.com/renegades-2022-download-hollywood-movie/|12/16/2022 07:47:11|12/25/2023 06:37:51|{'rendered': 'Renegades (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788878079.936378
+   "last_attempt": 1788878079.936378,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878190
   },
   "https://thenkiri.com/warriors-of-future-2022-download-chinese-movie/": {
    "status": "pending",
@@ -277,8 +283,8 @@
   "https://thenkiri.com/believer-2018-download-korean-movie/": {
    "status": "pending",
    "signature": "69042|https://thenkiri.com/believer-2018-download-korean-movie/|10/25/2022 11:37:15|09/02/2023 16:25:57|{'rendered': 'Believer (2018) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788877248.3784325
+   "attempts": 2,
+   "last_attempt": 1788878288.4374335
   },
   "https://thenkiri.com/werewolf-by-night-2022-download-hollywood-movie/": {
    "status": "pending",
