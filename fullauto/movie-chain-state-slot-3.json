@@ -483,10 +483,12 @@
    "completed_at": 1788879922
   },
   "https://thenkiri.com/white-elephant-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "43456|https://thenkiri.com/white-elephant-2022-download-hollywood-movie/|06/03/2022 10:52:39|09/02/2023 14:05:13|{'rendered': 'White Elephant (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882028.842612
+   "last_attempt": 1788882028.842612,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882087
   },
   "https://thenkiri.com/heropanti-2-2022-download-indian-movie/": {
    "status": "done",
@@ -497,8 +499,8 @@
   "https://thenkiri.com/the-girl-on-a-bulldozer-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "42843|https://thenkiri.com/the-girl-on-a-bulldozer-2022-download-korean-movie/|05/25/2022 12:58:56|09/02/2023 14:02:46|{'rendered': 'The Girl on a Bulldozer (2022) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788881180.5780604
+   "attempts": 3,
+   "last_attempt": 1788882088.1767855
   },
   "https://thenkiri.com/my-annoying-brother-2016-download-korean-movie/": {
    "status": "pending",
