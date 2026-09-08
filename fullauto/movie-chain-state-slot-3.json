@@ -337,70 +337,92 @@
    "completed_at": 1788877857
   },
   "https://thenkiri.com/the-immaculate-room-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "60098|https://thenkiri.com/the-immaculate-room-2022-download-hollywood-movie/|08/19/2022 11:19:28|09/02/2023 15:16:16|{'rendered': 'The Immaculate Room (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880036.0318973
+   "last_attempt": 1788880036.0318973,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880183
   },
   "https://thenkiri.com/top-gun-maverick-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "59300|https://thenkiri.com/top-gun-maverick-2022-download-hollywood-movie/|08/17/2022 12:27:25|09/02/2023 15:10:17|{'rendered': 'Top Gun Maverick (2022) KOR Sub | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880036.9451005
+   "last_attempt": 1788880036.9451005,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880183
   },
   "https://thenkiri.com/thirteen-lives-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "58247|https://thenkiri.com/thirteen-lives-2022-download-hollywood-movie/|08/16/2022 08:52:08|09/02/2023 14:56:17|{'rendered': 'Thirteen Lives (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880038.0784724
+   "last_attempt": 1788880038.0784724,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880183
   },
   "https://thenkiri.com/carter-2022-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "58195|https://thenkiri.com/carter-2022-download-korean-movie/|08/16/2022 08:22:18|09/02/2023 14:58:04|{'rendered': 'Carter (2022) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880039.2760887
+   "last_attempt": 1788880039.2760887,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880183
   },
   "https://thenkiri.com/paradise-highway-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "47297|https://thenkiri.com/paradise-highway-2022-download-hollywood-movie/|07/29/2022 10:41:30|09/02/2023 15:06:32|{'rendered': 'Paradise Highway (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880040.5600681
+   "last_attempt": 1788880040.5600681,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880183
   },
   "https://thenkiri.com/man-of-god-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "47109|https://thenkiri.com/man-of-god-2022-download-hollywood-movie/|07/26/2022 10:30:23|09/02/2023 14:52:21|{'rendered': 'Man of God (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880041.591943
+   "last_attempt": 1788880041.591943,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880183
   },
   "https://thenkiri.com/the-roundup-2022-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "47001|https://thenkiri.com/the-roundup-2022-download-korean-movie/|07/24/2022 16:20:08|09/02/2023 14:53:10|{'rendered': 'The Roundup (2022) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880042.4971669
+   "last_attempt": 1788880042.4971669,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880183
   },
   "https://thenkiri.com/the-forgiven-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "46671|https://thenkiri.com/the-forgiven-2022-download-hollywood-movie/|07/19/2022 09:10:51|09/02/2023 14:47:14|{'rendered': 'The Forgiven (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880043.4649599
+   "last_attempt": 1788880043.4649599,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880183
   },
   "https://thenkiri.com/wrong-place-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "46370|https://thenkiri.com/wrong-place-2022-download-hollywood-movie/|07/14/2022 11:58:01|09/02/2023 14:40:33|{'rendered': 'Wrong Place (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880044.4252603
+   "last_attempt": 1788880044.4252603,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880183
   },
   "https://thenkiri.com/1up-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45883|https://thenkiri.com/1up-2022-download-hollywood-movie/|07/08/2022 17:09:48|09/02/2023 14:35:56|{'rendered': '1Up (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880045.6435294
+   "last_attempt": 1788880045.6435294,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880183
   },
   "https://thenkiri.com/jurassic-world-2015-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45742|https://thenkiri.com/jurassic-world-2015-download-hollywood-movie/|07/07/2022 08:02:51|09/02/2023 14:36:51|{'rendered': 'Jurassic World (2015) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880046.6633916
+   "last_attempt": 1788880046.6633916,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880183
   },
   "https://thenkiri.com/rubikon-2022-download-hollywood-movie/": {
    "status": "pending",
@@ -433,10 +455,10 @@
    "last_attempt": 1788880061.5538726
   },
   "https://thenkiri.com/ip-man-the-awakening-2022-download-chinese-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "44169|https://thenkiri.com/ip-man-the-awakening-2022-download-chinese-movie/|06/16/2022 10:02:45|02/24/2024 15:45:10|{'rendered': 'IP Man: The Awakening (2022) | Download Chinese Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788879237.3354468
+   "modified": "02/24/2024 15:45:10",
+   "completed_at": 1788880250
   },
   "https://thenkiri.com/chickenhare-and-the-hamster-of-darkness-2022-download-hollywood-movie/": {
    "status": "pending",
@@ -461,6 +483,12 @@
    "signature": "43285|https://thenkiri.com/heropanti-2-2022-download-indian-movie/|06/01/2022 05:09:16|09/02/2023 14:02:08|{'rendered': 'Heropanti 2 (2022) | Download Indian Movie'}",
    "modified": "09/02/2023 14:02:08",
    "completed_at": 1788880122
+  },
+  "https://thenkiri.com/the-girl-on-a-bulldozer-2022-download-korean-movie/": {
+   "status": "pending",
+   "signature": "42843|https://thenkiri.com/the-girl-on-a-bulldozer-2022-download-korean-movie/|05/25/2022 12:58:56|09/02/2023 14:02:46|{'rendered': 'The Girl on a Bulldozer (2022) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788880251.3098822
   }
  },
  "series_links": {
@@ -489,6 +517,7 @@
   "https://downloadwella.com/cw095imsrd5u/Werewolf.by.Night.(NKIRI.COM).2022.WEB.DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/cKFlpEtuqcreQqX8i4pgplU9qo8p7wTC",
   "https://downloadwella.com/ce6vrt343jej/Goodbye.Summer.(NKIRI.COM).2019.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/7f-LRK30RFYgGtO2Vde8mLLR0SBgxZUc",
   "https://downloadwella.com/0eto7gxhbevp/The_Professor_2018_%7Bnkiri.com%7D.mkv.html": "https://v1.vidfiles.com/d/GexkMB0x16g210VnluyFaXRqiQ9mdgIU",
-  "https://downloadwella.com/b2ri0c8tibua/Heropanti.2.2022.Hindi.1080p.AMZN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/NlbGnywNO8Sx2eOqpPa3kUTjNDMYaW84"
+  "https://downloadwella.com/b2ri0c8tibua/Heropanti.2.2022.Hindi.1080p.AMZN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/NlbGnywNO8Sx2eOqpPa3kUTjNDMYaW84",
+  "https://downloadwella.com/thyvrene0460/Ip.Man.The.Awakening.(NKIRI.COM).2022.CHINESE.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/qS3lQ9A4TjbcxXN4OGlyhqX5yD_lgqoF"
  }
 }
