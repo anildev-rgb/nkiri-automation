@@ -121,10 +121,12 @@
    "completed_at": 1788789112
   },
   "https://thenkiri.com/beyond-the-bar-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "140360|https://thenkiri.com/beyond-the-bar-s01-complete-korean-drama/|2025-08-02T17:31:09|2025-09-07T19:28:19|{'rendered': 'Beyond the Bar S01 (Episode 12 Added) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788832373.1732812
+   "last_attempt": 1788832373.1732812,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788834175
   },
   "https://thenkiri.com/the-nice-guy-s01-complete-korean-drama/": {
    "status": "done",
@@ -173,6 +175,18 @@
    "signature": "123794|https://thenkiri.com/my-merry-marriage-s01-complete-korean-drama/|2024-10-24T14:31:09|2024-11-24T08:21:56|{'rendered': 'My Merry Marriage S01 (Episode 31 – 34 Added) | Korean Drama'}",
    "attempts": 2,
    "last_attempt": 1788833396.8604395
+  },
+  "https://thenkiri.com/scandal-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "117391|https://thenkiri.com/scandal-s01-complete-korean-drama/|2024-06-24T09:33:38|2024-11-24T08:20:42|{'rendered': 'Scandal S01 (Episode 93 – 97 Added) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788837197.5636165
+  },
+  "https://thenkiri.com/captivating-of-the-king-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "107263|https://thenkiri.com/captivating-of-the-king-s01-complete-korean-drama/|2024-01-21T18:31:37|2024-03-03T18:15:20|{'rendered': 'Captivating of the King S01 (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788837784.8281612
   }
  },
  "series_links": {
