@@ -575,14 +575,14 @@
   "https://thenkiri.com/gabriels-rapture-part-ii-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "39396|https://thenkiri.com/gabriels-rapture-part-ii-2022-download-hollywood-movie/|04/10/2022 09:51:51|09/02/2023 13:38:59|{'rendered': 'Gabriel’s Rapture Part II (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788880838.6481774
+   "attempts": 2,
+   "last_attempt": 1788881822.6246438
   },
   "https://thenkiri.com/umma-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "39272|https://thenkiri.com/umma-2022-download-hollywood-movie/|04/08/2022 10:30:36|07/08/2023 11:08:36|{'rendered': 'Umma (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788880839.8946474
+   "attempts": 2,
+   "last_attempt": 1788881825.5805857
   },
   "https://thenkiri.com/pirates-2022-download-hollywood-movie/": {
    "status": "pending",
@@ -601,6 +601,12 @@
    "signature": "38603|https://thenkiri.com/all-my-friends-hate-me-2022-download-hollywood-movie/|03/25/2022 18:59:58|09/02/2023 13:24:47|{'rendered': 'All My Friends Hate Me (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788881323.3018079
+  },
+  "https://thenkiri.com/loveland-aka-expired-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "38253|https://thenkiri.com/loveland-aka-expired-2022-download-hollywood-movie/|03/20/2022 03:42:52|09/02/2023 13:14:23|{'rendered': 'Loveland aka Expired (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788881826.9046247
   }
  },
  "series_links": {
