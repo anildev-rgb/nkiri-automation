@@ -25,10 +25,12 @@
    "completed_at": 1788875859
   },
   "https://thenkiri.com/noise-2025-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "141400|https://thenkiri.com/noise-2025-download-korean-movie/|08/28/2025 06:23:34|08/28/2025 06:23:34|{'rendered': 'Noise (2025) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788875870.7727292
+   "last_attempt": 1788875870.7727292,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788875971
   },
   "https://thenkiri.com/panda-plan-2024-download-chinese-movie/": {
    "status": "done",
@@ -43,16 +45,20 @@
    "completed_at": 1788873628
   },
   "https://thenkiri.com/revolver-2024-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "121026|https://thenkiri.com/revolver-2024-download-korean-movie/|09/09/2024 07:22:01|09/09/2024 07:22:01|{'rendered': 'Revolver (2024) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788875871.3302228
+   "last_attempt": 1788875871.3302228,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788875971
   },
   "https://thenkiri.com/we-are-zombies-2024-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "119602|https://thenkiri.com/we-are-zombies-2024-download-hollywood-movie/|08/13/2024 08:00:31|08/13/2024 08:00:31|{'rendered': 'We Are Zombies (2024) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788875872.9267592
+   "last_attempt": 1788875872.9267592,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788875971
   },
   "https://thenkiri.com/wonderland-2024-download-korean-movie/": {
    "status": "done",
@@ -61,22 +67,28 @@
    "completed_at": 1788873692
   },
   "https://thenkiri.com/godzilla-minus-one-2024-download-japanese-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "114772|https://thenkiri.com/godzilla-minus-one-2024-download-japanese-movie/|05/02/2024 15:37:54|05/02/2024 15:37:54|{'rendered': 'Godzilla Minus One (2024) | Download Japanese Movie'}",
    "attempts": 3,
-   "last_attempt": 1788875882.9115376
+   "last_attempt": 1788875882.9115376,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788875971
   },
   "https://thenkiri.com/french-girl-2024-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "112524|https://thenkiri.com/french-girl-2024-download-hollywood-movie/|03/19/2024 07:48:52|03/19/2024 07:48:52|{'rendered': 'French Girl (2024) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788875884.2273397
+   "last_attempt": 1788875884.2273397,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788875971
   },
   "https://thenkiri.com/sometimes-i-think-about-dying-2024-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "112175|https://thenkiri.com/sometimes-i-think-about-dying-2024-download-hollywood-movie/|03/12/2024 09:37:31|03/12/2024 09:37:31|{'rendered': 'Sometimes I Think About Dying (2024) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788875885.7737098
+   "last_attempt": 1788875885.7737098,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788875971
   },
   "https://thenkiri.com/saving-bikini-bottom-the-sandy-cheeks-movie-2023-download-hollywood-movie/": {
    "status": "done",
@@ -87,32 +99,32 @@
   "https://thenkiri.com/good-grief-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "106579|https://thenkiri.com/good-grief-2023-download-hollywood-movie/|01/06/2024 11:49:43|01/06/2024 11:49:43|{'rendered': 'Good Grief (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788874860.3583298
+   "attempts": 3,
+   "last_attempt": 1788875972.974537
   },
   "https://thenkiri.com/diary-of-a-wimpy-kid-christmas-fever-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "104286|https://thenkiri.com/diary-of-a-wimpy-kid-christmas-fever-2023-download-hollywood-movie/|12/13/2023 05:48:01|12/13/2023 05:48:01|{'rendered': 'Diary of a Wimpy Kid Christmas Fever (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788874863.7563627
+   "attempts": 3,
+   "last_attempt": 1788875974.7587366
   },
   "https://thenkiri.com/creation-of-the-gods-i-kingdom-of-storms-2023-download-chinese-movie/": {
    "status": "pending",
    "signature": "103160|https://thenkiri.com/creation-of-the-gods-i-kingdom-of-storms-2023-download-chinese-movie/|11/19/2023 04:04:42|11/19/2023 04:04:42|{'rendered': 'Creation of the Gods I: Kingdom of Storms (2023) | Download Chinese Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788874864.9507806
+   "attempts": 3,
+   "last_attempt": 1788875976.915885
   },
   "https://thenkiri.com/the-exorcist-believer-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "101818|https://thenkiri.com/the-exorcist-believer-2023-download-hollywood-movie/|10/24/2023 08:39:33|10/24/2023 08:39:33|{'rendered': 'The Exorcist: Believer (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788874867.8100326
+   "attempts": 3,
+   "last_attempt": 1788875979.7845573
   },
   "https://thenkiri.com/mission-impossible-collection-1-6-download-hollywood-movie/": {
    "status": "pending",
    "signature": "100282|https://thenkiri.com/mission-impossible-collection-1-6-download-hollywood-movie/|09/27/2023 08:00:49|09/27/2023 08:00:49|{'rendered': 'Mission: Impossible Collection 1 – 6 | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788874870.902739
+   "attempts": 3,
+   "last_attempt": 1788875980.685103
   },
   "https://thenkiri.com/next-sohee-2023-download-korean-movie/": {
    "status": "done",
@@ -185,6 +197,12 @@
    "signature": "77995|https://thenkiri.com/hell-dogs-2022-download-japanese-movie/|12/26/2022 14:49:26|09/02/2023 14:26:54|{'rendered': 'Hell Dogs (2022) | Download JAPANESE Movie'}",
    "attempts": 1,
    "last_attempt": 1788875887.2194526
+  },
+  "https://thenkiri.com/renegades-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "76719|https://thenkiri.com/renegades-2022-download-hollywood-movie/|12/16/2022 07:47:11|12/25/2023 06:37:51|{'rendered': 'Renegades (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788875982.3662677
   }
  },
  "series_links": {
