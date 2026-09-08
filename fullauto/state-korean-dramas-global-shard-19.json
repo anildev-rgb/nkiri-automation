@@ -185,22 +185,24 @@
    "blocked_at": 1788832361
   },
   "https://thenkiri.com/knight-flower-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "106924|https://thenkiri.com/knight-flower-s01-complete-korean-drama/|2024-01-13T07:28:16|2024-02-23T15:16:18|{'rendered': 'Knight Flower S01 (Episode 12 Added) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788838331.7485383
+   "last_attempt": 1788838331.7485383,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841375
   },
   "https://thenkiri.com/the-escape-of-the-seven-s01-complete-korean-drama/": {
    "status": "pending",
    "signature": "99754|https://thenkiri.com/the-escape-of-the-seven-s01-complete-korean-drama/|2023-09-15T21:09:10|2024-02-24T09:16:24|{'rendered': 'The Escape of the Seven S01 (Complete) | Korean Drama'}",
-   "attempts": 2,
-   "last_attempt": 1788839081.1034405
+   "attempts": 3,
+   "last_attempt": 1788842195.0186188
   },
   "https://thenkiri.com/numbers-complete-korean-drama/": {
    "status": "pending",
    "signature": "92152|https://thenkiri.com/numbers-complete-korean-drama/|2023-06-23T17:47:52|2023-09-02T17:06:52|{'rendered': 'Numbers S01 (Complete) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788834933.9030464
+   "attempts": 2,
+   "last_attempt": 1788843113.2427611
   }
  },
  "series_links": {
@@ -500,6 +502,9 @@
   "https://downloadwella.com/rpmpa6kix1pm/The.Player.S02E06.(NKIRI.COM).S.mkv.html": "https://v1.vidfiles.com/d/GHpLZyY48_TeFnntyXpsFP6l5hKkGj3Y",
   "https://downloadwella.com/6z4x5dolpcgu/The.Player.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PD_8eyIr33S3lWKWPD17y1b8mR6sTSJT",
   "https://downloadwella.com/cauz1uywy4du/The.Player.S02E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kmNpdL0NsCoe_nmzl7juFYfLL7AEiz-y",
-  "https://downloadwella.com/futhqprgvr17/The.Player.S02E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cxbDiYKL2t8lpqH0I6yrsrmp-GLhHZ5Z"
+  "https://downloadwella.com/futhqprgvr17/The.Player.S02E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cxbDiYKL2t8lpqH0I6yrsrmp-GLhHZ5Z",
+  "https://downloadwella.com/0qzwrrtgg1ur/Numbers.E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nGxxkEa1tTIBxmWsrcUyUEET7QFFE1qb",
+  "https://downloadwella.com/63kl5g2i8uso/Numbers.E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NrEgGOLeSEavFQaiiLha_Pgcb3P7rr6z",
+  "https://downloadwella.com/3m7b55okvapa/Numbers.E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TLZ3Yrg6yT3yRTEKS8AkUHxZhzRDdsjG"
  }
 }
