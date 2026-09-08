@@ -198,14 +198,14 @@
   "https://thenkiri.com/ride-or-die-s01-complete-tv-series/": {
    "status": "pending",
    "signature": "161879|https://thenkiri.com/ride-or-die-s01-complete-tv-series/|2026-07-15T15:32:14|2026-07-15T15:32:14|{'rendered': 'Ride or Die S01 (Complete) | TV Series'}",
-   "attempts": 2,
-   "last_attempt": 1788828816.2297864
+   "attempts": 3,
+   "last_attempt": 1788831241.9615777
   },
   "https://thenkiri.com/classroom-of-the-elite-s03-complete-anime-series/": {
    "status": "pending",
    "signature": "159756|https://thenkiri.com/classroom-of-the-elite-s03-complete-anime-series/|2026-06-19T16:11:03|2026-06-19T16:11:03|{'rendered': 'Classroom of the Elite S03 (Complete) | Anime Series'}",
-   "attempts": 2,
-   "last_attempt": 1788828877.2506437
+   "attempts": 3,
+   "last_attempt": 1788831303.1691525
   }
  },
  "series_links": {
