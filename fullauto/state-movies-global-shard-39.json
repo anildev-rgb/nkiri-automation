@@ -1055,10 +1055,12 @@
    "completed_at": 1788791536
   },
   "https://thenkiri.com/rosario-2025-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "136170|https://thenkiri.com/rosario-2025-download-hollywood-movie/|2025-05-21T08:47:27|2025-05-21T08:47:27|{'rendered': 'Rosario (2025) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788831045.6862638
+   "last_attempt": 1788831045.6862638,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832331
   },
   "https://thenkiri.com/millers-in-marriage-2025-download-hollywood-movie/": {
    "status": "done",
@@ -1091,46 +1093,68 @@
    "completed_at": 1788812853
   },
   "https://thenkiri.com/killers-of-the-flower-moon-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "103943|https://thenkiri.com/killers-of-the-flower-moon-2023-download-hollywood-movie/|2023-12-05T05:57:59|2023-12-05T05:57:59|{'rendered': 'Killers of the Flower Moon (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788831046.821449
+   "last_attempt": 1788831046.821449,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832331
   },
   "https://thenkiri.com/concrete-utopia-2023-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "100451|https://thenkiri.com/concrete-utopia-2023-download-korean-movie/|2023-09-29T12:12:02|2023-09-29T12:12:02|{'rendered': 'Concrete Utopia (2023) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788831080.0090837
+   "last_attempt": 1788831080.0090837,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832331
   },
   "https://thenkiri.com/the-roundup-no-way-out-2023-download-korean-movie/": {
    "status": "pending",
    "signature": "94458|https://thenkiri.com/the-roundup-no-way-out-2023-download-korean-movie/|2023-07-09T05:58:10|2023-09-02T17:14:57|{'rendered': 'The Roundup: No Way Out (2023) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831154.248636
+   "attempts": 3,
+   "last_attempt": 1788832411.3187284
   },
   "https://thenkiri.com/soul-of-light-2023-download-chinese-movie/": {
    "status": "pending",
    "signature": "88325|https://thenkiri.com/soul-of-light-2023-download-chinese-movie/|2023-04-30T10:06:02|2023-09-02T17:47:08|{'rendered': 'Soul of Light (2023) | Download Chinese Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831185.992432
+   "attempts": 3,
+   "last_attempt": 1788832444.4582484
   },
   "https://thenkiri.com/unlocked-2023-download-korean-movie/": {
    "status": "pending",
    "signature": "82540|https://thenkiri.com/unlocked-2023-download-korean-movie/|2023-02-17T11:54:13|2023-09-02T17:14:46|{'rendered': 'Unlocked (2023) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831217.2254539
+   "attempts": 3,
+   "last_attempt": 1788832477.2273946
   },
   "https://thenkiri.com/detective-knight-redemption-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "75973|https://thenkiri.com/detective-knight-redemption-2022-download-hollywood-movie/|2022-12-09T16:45:58|2023-09-02T14:04:34|{'rendered': 'Detective Knight: Redemption (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831248.0309227
+   "attempts": 3,
+   "last_attempt": 1788832510.5048096
   },
   "https://thenkiri.com/on-the-line-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "70430|https://thenkiri.com/on-the-line-2022-download-hollywood-movie/|2022-11-04T10:53:24|2023-09-02T16:33:25|{'rendered': 'On  the Line (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831283.2961805
+   "attempts": 3,
+   "last_attempt": 1788832542.249038
+  },
+  "https://thenkiri.com/my-best-friends-exorcism-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "67231|https://thenkiri.com/my-best-friends-exorcism-2022-download-hollywood-movie/|2022-10-05T18:30:43|2024-02-23T21:21:12|{'rendered': 'My Best Friend’s Exorcism (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788832575.1575413
+  },
+  "https://thenkiri.com/rise-of-the-teenage-mutant-ninja-turtles-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "59616|https://thenkiri.com/rise-of-the-teenage-mutant-ninja-turtles-2022-download-hollywood-movie/|2022-08-18T13:05:59|2023-09-02T15:08:47|{'rendered': 'Rise of the Teenage Mutant Ninja Turtles (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788832610.5775862
+  },
+  "https://thenkiri.com/the-black-phone-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "46363|https://thenkiri.com/the-black-phone-2022-download-hollywood-movie/|2022-07-14T11:53:44|2023-09-02T14:40:37|{'rendered': 'The Black Phone (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788832611.993034
   }
  },
  "series_links": {
