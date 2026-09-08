@@ -187,14 +187,20 @@
   "https://thenkiri.com/knight-flower-s01-complete-korean-drama/": {
    "status": "pending",
    "signature": "106924|https://thenkiri.com/knight-flower-s01-complete-korean-drama/|2024-01-13T07:28:16|2024-02-23T15:16:18|{'rendered': 'Knight Flower S01 (Episode 12 Added) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788832773.7577944
+   "attempts": 2,
+   "last_attempt": 1788834610.3537123
   },
   "https://thenkiri.com/the-escape-of-the-seven-s01-complete-korean-drama/": {
    "status": "pending",
    "signature": "99754|https://thenkiri.com/the-escape-of-the-seven-s01-complete-korean-drama/|2023-09-15T21:09:10|2024-02-24T09:16:24|{'rendered': 'The Escape of the Seven S01 (Complete) | Korean Drama'}",
    "attempts": 1,
    "last_attempt": 1788833619.081835
+  },
+  "https://thenkiri.com/numbers-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "92152|https://thenkiri.com/numbers-complete-korean-drama/|2023-06-23T17:47:52|2023-09-02T17:06:52|{'rendered': 'Numbers S01 (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788834933.9030464
   }
  },
  "series_links": {

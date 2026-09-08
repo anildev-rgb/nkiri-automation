@@ -208,16 +208,32 @@
    "completed_at": 1788814856
   },
   "https://thenkiri.com/michael-jackson-the-verdict-s01-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "158476|https://thenkiri.com/michael-jackson-the-verdict-s01-complete-tv-series/|2026-06-03T14:21:16|2026-06-03T14:21:16|{'rendered': 'Michael Jackson: The Verdict S01 (Complete) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788832441.4825094
+   "last_attempt": 1788832441.4825094,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788834204
   },
   "https://thenkiri.com/nemesis-s01-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "157188|https://thenkiri.com/nemesis-s01-complete-tv-series/|2026-05-17T08:29:36|2026-05-17T08:29:36|{'rendered': 'Nemesis S01 (Complete) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788832703.1149585
+   "last_attempt": 1788832703.1149585,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788834204
+  },
+  "https://thenkiri.com/widows-bay-s02-complete-tv-series/": {
+   "status": "pending",
+   "signature": "155725|https://thenkiri.com/widows-bay-s02-complete-tv-series/|2026-04-29T15:11:44|2026-06-17T08:54:10|{'rendered': 'Widow’s Bay S01 (Episode 10 Added) | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788834515.797837
+  },
+  "https://thenkiri.com/hate-the-player-the-ben-johnson-story-complete-tv-series/": {
+   "status": "pending",
+   "signature": "154896|https://thenkiri.com/hate-the-player-the-ben-johnson-story-complete-tv-series/|2026-04-20T13:48:49|2026-04-20T14:06:58|{'rendered': 'Hate the Player: The Ben Johnson Story (Complete)  | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788834693.7918005
   }
  },
  "series_links": {
