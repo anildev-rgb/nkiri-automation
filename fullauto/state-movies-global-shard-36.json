@@ -1227,32 +1227,32 @@
   "https://thenkiri.com/boxing-day-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "33729|https://thenkiri.com/boxing-day-2021-download-hollywood-movie/|2021-12-18T10:19:37|2023-09-02T13:13:16|{'rendered': 'Boxing Day (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788857647.7050474
+   "attempts": 3,
+   "last_attempt": 1788863118.5091054
   },
   "https://thenkiri.com/dhamaka-2021-download-bollywood-movie/": {
    "status": "pending",
    "signature": "32292|https://thenkiri.com/dhamaka-2021-download-bollywood-movie/|2021-11-20T10:55:26|2023-09-02T11:02:57|{'rendered': 'Dhamaka (2021) | Download Bollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788857651.2716503
+   "attempts": 2,
+   "last_attempt": 1788863120.3653004
   },
   "https://thenkiri.com/snakehead-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "31255|https://thenkiri.com/snakehead-2021-download-hollywood-movie/|2021-10-30T05:45:23|2023-09-02T10:53:39|{'rendered': 'Snakehead (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788857656.0120919
+   "attempts": 2,
+   "last_attempt": 1788863121.688106
   },
   "https://thenkiri.com/mortal-kombat-legends-battle-of-the-realm-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "28853|https://thenkiri.com/mortal-kombat-legends-battle-of-the-realm-2021-download-hollywood-movie/|2021-08-31T14:04:52|2024-02-25T08:32:54|{'rendered': 'Mortal Kombat Legends Battle of the Realm (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788857665.7032807
+   "attempts": 2,
+   "last_attempt": 1788863135.6129093
   },
   "https://thenkiri.com/akillas-escape-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "17414|https://thenkiri.com/akillas-escape-2021-download-hollywood-movie/|2021-06-12T09:06:23|2023-09-02T09:22:08|{'rendered': 'Akillas Escape (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788857681.237209
+   "attempts": 2,
+   "last_attempt": 1788863152.4462585
   },
   "https://thenkiri.com/new-york-2009-download-bollywood-movie/": {
    "status": "done",
@@ -1271,6 +1271,24 @@
    "signature": "9695|https://thenkiri.com/wander-2020-download-hollywood-movie/|2020-12-07T05:58:48|2023-09-02T08:23:26|{'rendered': 'Wander (2020) | Download Hollywood Movie'}",
    "modified": "2023-09-02T08:23:26",
    "completed_at": 1788857795
+  },
+  "https://thenkiri.com/rabbit-hole-2010-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "7712|https://thenkiri.com/rabbit-hole-2010-download-hollywood-movie/|2020-08-13T10:05:25|2023-09-02T07:55:43|{'rendered': 'Rabbit Hole (2010) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T07:55:43",
+   "completed_at": 1788863858
+  },
+  "https://thenkiri.com/fast-and-furious-the-fate-of-the-furious-f8-2017-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "5558|https://thenkiri.com/fast-and-furious-the-fate-of-the-furious-f8-2017-download-hollywood-movie/|2020-06-05T06:38:53|2023-09-02T07:30:01|{'rendered': 'Fast and Furious: The Fate of the Furious F8 (2017) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T07:30:01",
+   "completed_at": 1788864293
+  },
+  "https://thenkiri.com/ma-2019/": {
+   "status": "pending",
+   "signature": "447|https://thenkiri.com/ma-2019/|2019-08-20T07:14:09|2023-09-02T07:03:20|{'rendered': 'MA (2019) |Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788864296.4361546
   }
  },
  "series_links": {
@@ -1483,6 +1501,8 @@
   "https://downloadwella.com/f8gy7l2y4r2f/Dont.Look.Away.(NKIRI.COM).2023.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/L0k2siCR7BLZ5vFQswLHnO2H9f5sofz7",
   "https://downloadwella.com/vgub2twpmtx5/New.York.(NKIRI.COM).2009..BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/-WqO0ayvd6KYMGH8e47e9rzI0UJ0ZQxP",
   "https://downloadwella.com/63k7jhh3il3a/Schools.Out.Forever.(NKIRI.COM).2021.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/R32J8lTejgCW7dR1ZckPu3KQt98vNgJO",
-  "https://downloadwella.com/yw7p66uci1d7/Wander.(NKIRI.COM).2020.480p.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/zL2p9CdHspPQudhshmLpE8NOse_HYFZY"
+  "https://downloadwella.com/yw7p66uci1d7/Wander.(NKIRI.COM).2020.480p.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/zL2p9CdHspPQudhshmLpE8NOse_HYFZY",
+  "https://downloadwella.com/2v3ludp4e4f7/Rabbit.Hole.(NKIRI.COM).2010.Downloaded.from.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/wWwYNyzVi-lJxMBy_LqnZ5ThtpEK_7xD",
+  "https://downloadwella.com/a0bfb7gsizxy/The.Fate.Of.The.Furious.(NKIRI.COM).2017.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/7ZYSwIUM5uJuW44WP8_9Flnn-5XWlw7x"
  }
 }

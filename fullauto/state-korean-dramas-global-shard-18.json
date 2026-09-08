@@ -209,14 +209,14 @@
   "https://thenkiri.com/strangers-again-s01-complete-korean-drama/": {
    "status": "pending",
    "signature": "79901|https://thenkiri.com/strangers-again-s01-complete-korean-drama/|2023-01-20T14:32:08|2023-12-19T06:21:34|{'rendered': 'Strangers Again S01 (Complete) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788858957.8799345
+   "attempts": 2,
+   "last_attempt": 1788863183.846163
   },
   "https://thenkiri.com/happy-ending-romance-complete-korean-drama/": {
-   "status": "pending",
+   "status": "done",
    "signature": "73881|https://thenkiri.com/happy-ending-romance-complete-korean-drama/|2022-11-24T16:16:53|2024-02-24T19:23:42|{'rendered': 'Happy Ending Romance (Episode 7 & 8 Added) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788860839.3635693
+   "modified": "2024-02-24T19:23:42",
+   "completed_at": 1788863891
   }
  },
  "series_links": {
@@ -518,6 +518,7 @@
   "https://downloadwella.com/mtz22gcvwtdq/Happy.Ending.Romance.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/t2upA8jXGPdeTLeCcDOf9x81rq-qA8bz",
   "https://downloadwella.com/2q5ovj897yxl/Happy.Ending.Romance.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gPJG5PQrrX9WZM931WWL00cRtnMu2ce9",
   "https://downloadwella.com/qe3pasu19vcn/Happy.Ending.Romance.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bQn_6vggJHeHtpQL7Xett0FQq7Vq66o8",
-  "https://downloadwella.com/pi8x0isa1k9h/Happy.Ending.Romance.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_wzd5VBD_QYQXim2z-iJ5oht72XiBuGr"
+  "https://downloadwella.com/pi8x0isa1k9h/Happy.Ending.Romance.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_wzd5VBD_QYQXim2z-iJ5oht72XiBuGr",
+  "https://downloadwella.com/vvolwn1dnm96/Happy.Ending.Romance.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/x7CTkjnFZhIT0Wk_45-gnFXTBIIQjUdc"
  }
 }

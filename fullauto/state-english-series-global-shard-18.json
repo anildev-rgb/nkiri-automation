@@ -242,8 +242,14 @@
   "https://thenkiri.com/bandi-s01-complete-foreign-tv-series/": {
    "status": "pending",
    "signature": "154016|https://thenkiri.com/bandi-s01-complete-foreign-tv-series/|2026-04-10T08:03:20|2026-05-15T08:40:02|{'rendered': 'Bandi S01 (Complete) | Foreign TV Series'}",
+   "attempts": 2,
+   "last_attempt": 1788863901.3475704
+  },
+  "https://thenkiri.com/privileges-s01-complete-foreign-tv-series/": {
+   "status": "pending",
+   "signature": "153102|https://thenkiri.com/privileges-s01-complete-foreign-tv-series/|2026-03-28T07:13:01|2026-05-01T10:27:31|{'rendered': 'Privileges S01 (Episode 6 Added) | Foreign TV Series'}",
    "attempts": 1,
-   "last_attempt": 1788858770.8401892
+   "last_attempt": 1788866858.7792041
   }
  },
  "series_links": {
@@ -477,6 +483,13 @@
   "https://downloadwella.com/e64ere22wu81/Bergerac.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BJBIq7CDt_HrjR2vZMvm0CY3-Kj1aZGb",
   "https://downloadwella.com/3q5xudqjxh3f/Bergerac.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7-pBBGt-RevbHvTh4OI_LtXu6b2TJIo8",
   "https://downloadwella.com/b30x2am4yk6c/Bandi.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XT4I8kooqRkDdz7CgRHLW-4tOapIHGAM",
-  "https://downloadwella.com/kt6jkn950wsb/Bandi.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GVvsyf5mbaE72dzN0YPZtTViqxqjzHdX"
+  "https://downloadwella.com/kt6jkn950wsb/Bandi.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GVvsyf5mbaE72dzN0YPZtTViqxqjzHdX",
+  "https://downloadwella.com/k6dnjnr4lzo3/Bandi.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eSCBDC6Rc8fF_UqMFamKld6_W5mJNmD4",
+  "https://downloadwella.com/0a7y6pwv9rcv/Bandi.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dhBNHQHw7lSg4vbCmAT0XD1Bb8bp6fu9",
+  "https://downloadwella.com/gqdz8azmmjnu/Privileges.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/g5CbkKva6AyfLN6665oEg1uOUzen4ZqJ",
+  "https://downloadwella.com/dbwcik4tnsdi/Privileges.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KyJ7cMBR4-3g8GMkmPPths9CZLNgM2vE",
+  "https://downloadwella.com/sdlgtdcz9jqr/Privileges.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IEI_4lOiCUWkg_Ii0Oh9hk6A3paU6OUk",
+  "https://downloadwella.com/lppkx5dlnh6h/Privileges.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9lkrMSBo0V7IeSb0ybuNkOPsXktuZa5W",
+  "https://downloadwella.com/a37g02hgteqm/Privileges.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/chietvGfB2TR0_t_0ZgIABUVsv0o88Qq"
  }
 }
