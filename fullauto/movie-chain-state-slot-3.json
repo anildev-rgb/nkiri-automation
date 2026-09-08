@@ -601,16 +601,20 @@
    "blocked_at": 1788882392
   },
   "https://thenkiri.com/gabriels-rapture-part-ii-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39396|https://thenkiri.com/gabriels-rapture-part-ii-2022-download-hollywood-movie/|04/10/2022 09:51:51|09/02/2023 13:38:59|{'rendered': 'Gabriel’s Rapture Part II (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882739.0127337
+   "last_attempt": 1788882739.0127337,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882806
   },
   "https://thenkiri.com/umma-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39272|https://thenkiri.com/umma-2022-download-hollywood-movie/|04/08/2022 10:30:36|07/08/2023 11:08:36|{'rendered': 'Umma (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882740.164274
+   "last_attempt": 1788882740.164274,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882806
   },
   "https://thenkiri.com/pirates-2022-download-hollywood-movie/": {
    "status": "pending",
