@@ -1165,52 +1165,100 @@
    "blocked_at": 1788841394
   },
   "https://thenkiri.com/z-o-m-b-i-e-3-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "46502|https://thenkiri.com/z-o-m-b-i-e-3-2022-download-hollywood-movie/|2022-07-15T15:38:50|2023-09-02T14:47:40|{'rendered': 'Z-O-M-B-I-E 3 (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841396.2582326
+   "last_attempt": 1788841396.2582326,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788863087
   },
   "https://thenkiri.com/the-lost-girls-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "44286|https://thenkiri.com/the-lost-girls-2022-download-hollywood-movie/|2022-06-17T13:47:35|2023-09-02T14:08:52|{'rendered': 'The Lost Girls (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841397.7152898
+   "last_attempt": 1788841397.7152898,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788863087
   },
   "https://thenkiri.com/on-the-line-2021-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "42458|https://thenkiri.com/on-the-line-2021-download-korean-movie/|2022-05-20T09:02:44|2023-09-02T13:56:55|{'rendered': 'On the Line (2021) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841399.1662703
+   "last_attempt": 1788841399.1662703,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788863087
   },
   "https://thenkiri.com/all-eyez-on-me-2017-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39899|https://thenkiri.com/all-eyez-on-me-2017-download-hollywood-movie/|2022-04-19T06:31:01|2023-09-02T13:43:54|{'rendered': 'All Eyez on Me (2017) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841400.5597768
+   "last_attempt": 1788841400.5597768,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788863087
   },
   "https://thenkiri.com/black-crab-2022-download-swedish-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "38564|https://thenkiri.com/black-crab-2022-download-swedish-movie/|2022-03-25T07:53:58|2023-09-02T13:25:00|{'rendered': 'Black Crab (2022) | Download Swedish Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841402.1169355
+   "last_attempt": 1788841402.1169355,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788863087
   },
   "https://thenkiri.com/fireheart-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "36989|https://thenkiri.com/fireheart-2022-download-hollywood-movie/|2022-02-23T08:31:57|2023-09-02T13:08:44|{'rendered': 'Fireheart (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841403.4273882
+   "last_attempt": 1788841403.4273882,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788863087
   },
   "https://thenkiri.com/clean-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "35798|https://thenkiri.com/clean-2022-download-hollywood-movie/|2022-01-29T08:21:55|2023-09-02T13:30:07|{'rendered': 'Clean (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841404.8187807
+   "attempts": 3,
+   "last_attempt": 1788863088.6919491
   },
   "https://thenkiri.com/the-monkey-king-reborn-2021-download-chinese-movie/": {
    "status": "pending",
    "signature": "34631|https://thenkiri.com/the-monkey-king-reborn-2021-download-chinese-movie/|2022-01-07T07:48:44|2023-09-02T13:21:07|{'rendered': 'The Monkey King: Reborn (2021) | Download Chinese Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788863090.4686453
+  },
+  "https://thenkiri.com/kurup-2021-download-bollywood-movie/": {
+   "status": "pending",
+   "signature": "33800|https://thenkiri.com/kurup-2021-download-bollywood-movie/|2021-12-20T07:23:18|2023-09-02T13:13:00|{'rendered': 'Kurup (2021) | Download Bollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788841406.126171
+   "last_attempt": 1788863092.2757611
+  },
+  "https://thenkiri.com/most-eligible-bachelor-2021-download-bollywood-movie/": {
+   "status": "pending",
+   "signature": "32449|https://thenkiri.com/most-eligible-bachelor-2021-download-bollywood-movie/|2021-11-23T22:30:32|2023-09-02T13:06:26|{'rendered': 'Most Eligible Bachelor (2021) | Download Bollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788863093.5701408
+  },
+  "https://thenkiri.com/lamb-2021-download-icelandic-movie/": {
+   "status": "pending",
+   "signature": "31297|https://thenkiri.com/lamb-2021-download-icelandic-movie/|2021-11-01T06:32:37|2023-09-02T10:53:28|{'rendered': 'Lamb (2021) | Download Icelandic Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788863094.7158358
+  },
+  "https://thenkiri.com/yakuza-princess-2021-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "28988|https://thenkiri.com/yakuza-princess-2021-download-hollywood-movie/|2021-09-04T07:27:07|2024-02-26T14:02:05|{'rendered': 'Yakuza Princess (2021) | Download Hollywood Movie'}",
+   "modified": "2024-02-26T14:02:05",
+   "completed_at": 1788863127
+  },
+  "https://thenkiri.com/a-perfect-enemy-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "17494|https://thenkiri.com/a-perfect-enemy-2021-download-hollywood-movie/|2021-06-14T17:08:43|2023-09-02T09:21:43|{'rendered': 'A Perfect Enemy (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788863142.9625604
+  },
+  "https://thenkiri.com/crawlers-2020-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "14657|https://thenkiri.com/crawlers-2020-download-hollywood-movie/|2021-04-05T14:46:32|2023-09-02T08:58:20|{'rendered': 'Crawlers (2020) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788863154.5876644
   }
  },
  "series_links": {
@@ -1419,6 +1467,7 @@
   "https://downloadwella.com/o5azygsn5517/Sleep.(NKIRI.COM).2023.KOR.WEBRip.ESUB.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/_JYM1lXM7dYJaAS3wsuHwXr2Ft8Kv8zN",
   "https://downloadwella.com/ctiihelsdx8m/Savoring.Paris.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/qYiEihCCxuFXdjQcB8Hb4VNQDLSeN_le",
   "https://downloadwella.com/jpkctpeksyc6/Weak.Layers.(NKIRI.COM).2023.AMZN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/JqLtAKzTSSJxUi2UldQPeRJScd8-6SEG",
-  "https://downloadwella.com/jot31d3gotx8/Chicken.Run.Dawn.of.the.Nugget.(NKIRI.COM).2023.NF.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/SRTWZBWiJktwSOvcQeAwb4keys3JhkUR"
+  "https://downloadwella.com/jot31d3gotx8/Chicken.Run.Dawn.of.the.Nugget.(NKIRI.COM).2023.NF.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/SRTWZBWiJktwSOvcQeAwb4keys3JhkUR",
+  "https://downloadwella.com/fw2aixhgzrax/Yakuza.Princess.(NKIRI.COM).2021.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/7EnnguXxXCDZBEsB8AezxjUTqjGLWV_M"
  }
 }

@@ -228,16 +228,16 @@
    "blocked_at": 1788841423
   },
   "https://thenkiri.com/half-man-complete-tv-series/": {
-   "status": "pending",
+   "status": "done",
    "signature": "155847|https://thenkiri.com/half-man-complete-tv-series/|2026-05-01T10:00:45|2026-05-29T08:44:36|{'rendered': 'Half Man (Episode 6 Added)  | TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788841626.592208
+   "modified": "2026-05-29T08:44:36",
+   "completed_at": 1788863275
   },
   "https://thenkiri.com/bergerac-s02-complete-tv-series/": {
-   "status": "pending",
+   "status": "done",
    "signature": "154911|https://thenkiri.com/bergerac-s02-complete-tv-series/|2026-04-21T08:57:32|2026-04-21T14:16:30|{'rendered': 'Bergerac S02 (Complete)  | TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788841811.804692
+   "modified": "2026-04-21T14:16:30",
+   "completed_at": 1788863386
   }
  },
  "series_links": {
@@ -459,6 +459,18 @@
   "https://downloadwella.com/0lyeeb5fp3pu/Classroom.of.the.Elite.S03E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pijVQDtgJpyLbTuGHb8jDX8peKntLq-2",
   "https://downloadwella.com/3we8up0kk2za/Classroom.of.the.Elite.S03E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/blMvvuIXepx5j420sBfT3PpBTNpQOQaY",
   "https://downloadwella.com/tfilkrkqujtc/Classroom.of.the.Elite.S03E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IVkBgdIumVbvKQjW29f5qIzKCv1XwX7V",
-  "https://downloadwella.com/eeaufgp3nabq/Classroom.of.the.Elite.S03E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LDAmYx3mC-2l120CIPcqGiYR8FKQYs_9"
+  "https://downloadwella.com/eeaufgp3nabq/Classroom.of.the.Elite.S03E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LDAmYx3mC-2l120CIPcqGiYR8FKQYs_9",
+  "https://downloadwella.com/8ocscrwvn6d1/Half.Man.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iYGqDdq8y1sQG11fZZ-wNpchaLLsv9B2",
+  "https://downloadwella.com/78nrv0okq7ow/Half.Man.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tHUnoH2DvMGIMxYvHLOihu8t07t3_8VW",
+  "https://downloadwella.com/3q0fcd2u6k09/Half.Man.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TdKlh3lMQb9dp-qVZn9wKKyjf47vw79I",
+  "https://downloadwella.com/eeeaj20xz9xp/Half.Man.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bW2ECtLIz7zXy49tf_wPSU556j2yzKgH",
+  "https://downloadwella.com/ualof6szsrci/Half.Man.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-xtrzoEIw0-P7QAsn3r3ll6ajbllMbM1",
+  "https://downloadwella.com/sg7s1zdlnd50/Half.Man.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZZuO3fBnjUxJFG-AmH-ea-RocwPfwGIB",
+  "https://downloadwella.com/0wyt3ssc1nl6/Bergerac.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qgqmPHGgassoudVzGEQdB9gdRE46cZzz",
+  "https://downloadwella.com/uxlagxh1a42o/Bergerac.S02E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-enRWWeyv_05uef260GUFDE-RWsITzeX",
+  "https://downloadwella.com/4ky4wqd7xgy1/Bergerac.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PHvORgH8KfCwLQR-0P-5zDSWs1anI38N",
+  "https://downloadwella.com/bn7lk0m91vol/Bergerac.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8jQQfhkBv3zDfEFi8L2D48j4dRDJZXSq",
+  "https://downloadwella.com/6gax7jj51nvl/Bergerac.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/drADP_9yMLVtXEnnUZ0uu6Yap5KB0N5V",
+  "https://downloadwella.com/hqpaf66tnexy/Bergerac.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uR3y4szB9pJgLapf-Vk-lKLwX6FgBzE9"
  }
 }
