@@ -311,10 +311,12 @@
    "blocked_at": 1788879603
   },
   "https://thenkiri.com/where-the-crawdads-sing-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "64608|https://thenkiri.com/where-the-crawdads-sing-2022-download-hollywood-movie/|09/06/2022 10:39:49|09/02/2023 15:33:02|{'rendered': 'Where the Crawdads Sing (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788879657.4748719
+   "last_attempt": 1788879657.4748719,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788879778
   },
   "https://thenkiri.com/khuda-haafiz-chapter-2-2022-download-indian-movie/": {
    "status": "done",
@@ -409,14 +411,14 @@
   "https://thenkiri.com/force-2011-download-bollywood-movie/": {
    "status": "pending",
    "signature": "45261|https://thenkiri.com/force-2011-download-bollywood-movie/|06/29/2022 08:51:18|09/02/2023 14:28:19|{'rendered': 'Force (2011) | Download Bollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788878737.1903467
+   "attempts": 2,
+   "last_attempt": 1788879829.3093667
   },
   "https://thenkiri.com/murder-at-yellowstone-city-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "45037|https://thenkiri.com/murder-at-yellowstone-city-2022-download-hollywood-movie/|06/25/2022 13:06:00|09/02/2023 14:21:14|{'rendered': 'Murder at Yellowstone City (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788878738.4781451
+   "attempts": 2,
+   "last_attempt": 1788879830.1754
   },
   "https://thenkiri.com/true-things-2022-download-hollywood-movie/": {
    "status": "pending",
@@ -441,6 +443,12 @@
    "signature": "43872|https://thenkiri.com/chickenhare-and-the-hamster-of-darkness-2022-download-hollywood-movie/|06/11/2022 06:36:47|09/02/2023 14:06:43|{'rendered': 'Chickenhare and the Hamster of Darkness (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788879722.7084842
+  },
+  "https://thenkiri.com/the-professor-2018-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "43621|https://thenkiri.com/the-professor-2018-download-hollywood-movie/|06/07/2022 07:40:35|09/02/2023 14:04:28|{'rendered': 'The Professor (2018) | Download Hollywood Movie'}",
+   "modified": "09/02/2023 14:04:28",
+   "completed_at": 1788879922
   }
  },
  "series_links": {
@@ -467,6 +475,7 @@
   "https://downloadwella.com/bovucdoh5vy7/My.Name.Is.Vendetta.(NKIRI.COM).2022.DUBBED.NF.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/4Y86FPNcX3VgaYkgRFlWZx779oxYAM2L",
   "https://downloadwella.com/412z20fxq1w9/Thats.Amor.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COMbc.mp4": "https://v1.vidfiles.com/d/YLiukoMl17WudOEae9HhwXvcypBH61jQ",
   "https://downloadwella.com/cw095imsrd5u/Werewolf.by.Night.(NKIRI.COM).2022.WEB.DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/cKFlpEtuqcreQqX8i4pgplU9qo8p7wTC",
-  "https://downloadwella.com/ce6vrt343jej/Goodbye.Summer.(NKIRI.COM).2019.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/7f-LRK30RFYgGtO2Vde8mLLR0SBgxZUc"
+  "https://downloadwella.com/ce6vrt343jej/Goodbye.Summer.(NKIRI.COM).2019.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/7f-LRK30RFYgGtO2Vde8mLLR0SBgxZUc",
+  "https://downloadwella.com/0eto7gxhbevp/The_Professor_2018_%7Bnkiri.com%7D.mkv.html": "https://v1.vidfiles.com/d/GexkMB0x16g210VnluyFaXRqiQ9mdgIU"
  }
 }
