@@ -151,26 +151,26 @@
   "https://thenkiri.com/pardoned-by-grace-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "95927|https://thenkiri.com/pardoned-by-grace-2023-download-hollywood-movie/|07/26/2023 07:45:00|09/02/2023 17:24:59|{'rendered': 'Pardoned By Grace (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788875436.7949529
+   "attempts": 3,
+   "last_attempt": 1788876935.4355154
   },
   "https://thenkiri.com/guardians-of-the-galaxy-vol-3-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "92952|https://thenkiri.com/guardians-of-the-galaxy-vol-3-2023-download-hollywood-movie/|07/07/2023 08:01:43|09/02/2023 17:16:48|{'rendered': 'Guardians of the Galaxy Vol. 3 (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788875438.6550388
+   "attempts": 3,
+   "last_attempt": 1788876936.4998236
   },
   "https://thenkiri.com/john-wick-chapter-4-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "89991|https://thenkiri.com/john-wick-chapter-4-2023-download-hollywood-movie/|05/22/2023 18:48:08|09/02/2023 18:00:10|{'rendered': 'John Wick Chapter 4 (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788875440.3002458
+   "attempts": 3,
+   "last_attempt": 1788876937.5438366
   },
   "https://thenkiri.com/return-to-seoul-2023-download-french-movie/": {
    "status": "pending",
    "signature": "88234|https://thenkiri.com/return-to-seoul-2023-download-french-movie/|04/28/2023 17:58:26|09/02/2023 17:47:31|{'rendered': 'Return to Seoul (2023) | Download French Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788875443.6223125
+   "attempts": 3,
+   "last_attempt": 1788876938.6665852
   },
   "https://thenkiri.com/kill-boksoon-2023-download-korean-movie/": {
    "status": "done",
@@ -181,20 +181,20 @@
   "https://thenkiri.com/wedding-dress-2010-download-korean-movie/": {
    "status": "pending",
    "signature": "84248|https://thenkiri.com/wedding-dress-2010-download-korean-movie/|03/13/2023 09:36:13|09/02/2023 17:22:54|{'rendered': 'Wedding Dress (2010) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788875447.7255847
+   "attempts": 3,
+   "last_attempt": 1788876939.705
   },
   "https://thenkiri.com/die-hart-the-movie-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "83191|https://thenkiri.com/die-hart-the-movie-2023-download-hollywood-movie/|02/24/2023 12:01:13|09/02/2023 17:17:34|{'rendered': 'Die Hart the Movie (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788875451.3036542
+   "attempts": 3,
+   "last_attempt": 1788876940.944652
   },
   "https://thenkiri.com/whitney-houston-i-wanna-dance-with-somebody-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "81540|https://thenkiri.com/whitney-houston-i-wanna-dance-with-somebody-2022-download-hollywood-movie/|02/07/2023 09:08:25|09/02/2023 17:01:13|{'rendered': 'Whitney Houston: I Wanna Dance with Somebody (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788875550.0303645
+   "attempts": 2,
+   "last_attempt": 1788877038.7899282
   },
   "https://thenkiri.com/when-you-finish-saving-the-world-2023-download-hollywood-movie/": {
    "status": "done",
@@ -205,14 +205,14 @@
   "https://thenkiri.com/hell-dogs-2022-download-japanese-movie/": {
    "status": "pending",
    "signature": "77995|https://thenkiri.com/hell-dogs-2022-download-japanese-movie/|12/26/2022 14:49:26|09/02/2023 14:26:54|{'rendered': 'Hell Dogs (2022) | Download JAPANESE Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788875887.2194526
+   "attempts": 2,
+   "last_attempt": 1788877039.8284142
   },
   "https://thenkiri.com/renegades-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "76719|https://thenkiri.com/renegades-2022-download-hollywood-movie/|12/16/2022 07:47:11|12/25/2023 06:37:51|{'rendered': 'Renegades (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788875982.3662677
+   "attempts": 2,
+   "last_attempt": 1788877040.996595
   },
   "https://thenkiri.com/warriors-of-future-2022-download-chinese-movie/": {
    "status": "pending",
@@ -249,6 +249,60 @@
    "signature": "69783|https://thenkiri.com/wendell-wild-2022-download-hollywood-movie/|10/28/2022 11:38:05|02/24/2024 20:36:04|{'rendered': 'Wendell & Wild (2022) | Download Hollywood Movie'}",
    "modified": "02/24/2024 20:36:04",
    "completed_at": 1788876807
+  },
+  "https://thenkiri.com/piku-2015-download-bollywood-movie/": {
+   "status": "done",
+   "signature": "69465|https://thenkiri.com/piku-2015-download-bollywood-movie/|10/26/2022 15:00:51|09/02/2023 16:32:50|{'rendered': 'Piku (2015) | Download Indian Movie'}",
+   "modified": "09/02/2023 16:32:50",
+   "completed_at": 1788877109
+  },
+  "https://thenkiri.com/highway-2014-download-bollywood-movie/": {
+   "status": "done",
+   "signature": "69226|https://thenkiri.com/highway-2014-download-bollywood-movie/|10/25/2022 14:37:59|09/02/2023 16:25:14|{'rendered': 'Highway (2014) | Download Indian Movie'}",
+   "modified": "09/02/2023 16:25:14",
+   "completed_at": 1788877150
+  },
+  "https://thenkiri.com/believer-2018-download-korean-movie/": {
+   "status": "pending",
+   "signature": "69042|https://thenkiri.com/believer-2018-download-korean-movie/|10/25/2022 11:37:15|09/02/2023 16:25:57|{'rendered': 'Believer (2018) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788877248.3784325
+  },
+  "https://thenkiri.com/werewolf-by-night-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "67386|https://thenkiri.com/werewolf-by-night-2022-download-hollywood-movie/|10/07/2022 20:05:21|02/24/2024 10:50:33|{'rendered': 'Werewolf By Night (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788877295.3938231
+  },
+  "https://thenkiri.com/goodbye-summer-2019-download-korean-movie/": {
+   "status": "pending",
+   "signature": "66616|https://thenkiri.com/goodbye-summer-2019-download-korean-movie/|09/28/2022 10:42:51|09/02/2023 15:54:50|{'rendered': 'Goodbye Summer (2019) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788877339.9651384
+  },
+  "https://thenkiri.com/jujutsu-kaisen-0-2021-download-japanese-movie/": {
+   "status": "pending",
+   "signature": "66028|https://thenkiri.com/jujutsu-kaisen-0-2021-download-japanese-movie/|09/21/2022 07:15:30|09/02/2023 15:42:42|{'rendered': 'Jujutsu Kaisen 0 (2021) | Download JAPANESE Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788877356.5594532
+  },
+  "https://thenkiri.com/where-the-crawdads-sing-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "64608|https://thenkiri.com/where-the-crawdads-sing-2022-download-hollywood-movie/|09/06/2022 10:39:49|09/02/2023 15:33:02|{'rendered': 'Where the Crawdads Sing (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788877409.3730059
+  },
+  "https://thenkiri.com/khuda-haafiz-chapter-2-2022-download-indian-movie/": {
+   "status": "done",
+   "signature": "64436|https://thenkiri.com/khuda-haafiz-chapter-2-2022-download-indian-movie/|09/05/2022 06:27:22|09/02/2023 15:27:14|{'rendered': 'Khuda Haafiz: Chapter 2 (2022) | Download Indian Movie'}",
+   "modified": "09/02/2023 15:27:14",
+   "completed_at": 1788877487
+  },
+  "https://thenkiri.com/decision-ro-leave-2022-download-korean-movie/": {
+   "status": "done",
+   "signature": "64063|https://thenkiri.com/decision-ro-leave-2022-download-korean-movie/|08/31/2022 17:19:36|09/02/2023 15:20:43|{'rendered': 'Decision to Leave (2022) | Download Korean Movie'}",
+   "modified": "09/02/2023 15:20:43",
+   "completed_at": 1788877535
   }
  },
  "series_links": {
@@ -267,6 +321,10 @@
   "https://downloadwella.com/6d8623m5vl12/%7Bnkiri.com%7D_Hit_and_Run_Sqad_(2019).mkv.html": "https://v1.vidfiles.com/d/o5HO-hIdzERwrnlP8LQoXzIozEiGko_d",
   "https://downloadwella.com/sl8n90f6ohhb/Black.Adam.(NKIRI.COM).2022.HC.HDRip.DOWNLOADED.FROM.NKIRI.COM.1.mkv.html": "https://v1.vidfiles.com/d/SH9uzPcuXBd19H4knkx2VZAF-FtoNKb_",
   "https://downloadwella.com/56qyhah6nhs6/Weird.The.Al.Yankovic.Story.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/XzARXCrzSCoH2ix7cqGx3HxHxQbcTEsl",
-  "https://downloadwella.com/jlebtagjo4rl/Wendell.and.Wild.(NKIRI.COM).2022.NF.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/GeSXTPcjhCRehiT04SFX6c-zJqQ4AqRW"
+  "https://downloadwella.com/jlebtagjo4rl/Wendell.and.Wild.(NKIRI.COM).2022.NF.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/GeSXTPcjhCRehiT04SFX6c-zJqQ4AqRW",
+  "https://downloadwella.com/eydalzy926re/Piku.2015.480p.BluRay.x264_(nkiri.com).mkv.html": "https://v1.vidfiles.com/d/rKd8eSJbHYAhHnSZEIhkV-hn6MgZ4lk_",
+  "https://downloadwella.com/g5ne4py836r1/Highway.(2014).480p.BluRay.x264.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/YN0axi2sKYSlJejhJxw_Qo3sdCd0KWsf",
+  "https://downloadwella.com/inwgnnurh8dr/Khuda.Haafiz.Chapter.2.Agni.Pariksha.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mp4.html": "https://v1.vidfiles.com/d/S6OzsgrNZNJ3fQuDzlbxEnne27BmYJe0",
+  "https://downloadwella.com/v0qbq0qlc8kt/Decision.To.Leave.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mp4.html": "https://v1.vidfiles.com/d/hvCHWu02JWk1Ra_VPtpNW3Tb5git3osV"
  }
 }
