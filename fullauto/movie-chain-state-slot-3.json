@@ -497,10 +497,12 @@
    "completed_at": 1788880122
   },
   "https://thenkiri.com/the-girl-on-a-bulldozer-2022-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "42843|https://thenkiri.com/the-girl-on-a-bulldozer-2022-download-korean-movie/|05/25/2022 12:58:56|09/02/2023 14:02:46|{'rendered': 'The Girl on a Bulldozer (2022) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882088.1767855
+   "last_attempt": 1788882088.1767855,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882192
   },
   "https://thenkiri.com/my-annoying-brother-2016-download-korean-movie/": {
    "status": "pending",
@@ -609,6 +611,12 @@
    "signature": "38253|https://thenkiri.com/loveland-aka-expired-2022-download-hollywood-movie/|03/20/2022 03:42:52|09/02/2023 13:14:23|{'rendered': 'Loveland aka Expired (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788881826.9046247
+  },
+  "https://thenkiri.com/master-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "38166|https://thenkiri.com/master-2022-download-hollywood-movie/|03/18/2022 11:30:57|09/02/2023 13:14:54|{'rendered': 'Master (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788882195.2548447
   }
  },
  "series_links": {
