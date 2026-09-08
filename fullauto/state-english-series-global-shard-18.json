@@ -210,22 +210,24 @@
    "blocked_at": 1788832299
   },
   "https://thenkiri.com/tyler-perrys-zatima-s04-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "158489|https://thenkiri.com/tyler-perrys-zatima-s04-complete-tv-series/|2026-06-03T17:45:31|2026-07-07T08:27:50|{'rendered': 'Tyler Perry’s Zatima S04 (Episode 20 Added)  | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788834823.6772275
+   "last_attempt": 1788834823.6772275,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837934
   },
   "https://thenkiri.com/regular-show-the-lost-tapes-s01-complete-tv-series/": {
    "status": "pending",
    "signature": "157244|https://thenkiri.com/regular-show-the-lost-tapes-s01-complete-tv-series/|2026-05-18T11:41:54|2026-05-18T11:41:54|{'rendered': 'Regular Show: The Lost Tapes  S01 (Episode 1 – 9 Added) | TV Series'}",
-   "attempts": 2,
-   "last_attempt": 1788835091.0581572
+   "attempts": 3,
+   "last_attempt": 1788838210.9341204
   },
   "https://thenkiri.com/man-on-fire-s01-complete-tv-series/": {
    "status": "pending",
    "signature": "155781|https://thenkiri.com/man-on-fire-s01-complete-tv-series/|2026-04-30T11:00:18|2026-05-01T10:10:38|{'rendered': 'Man on Fire S01 (Complete) | TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788832919.0869818
+   "attempts": 2,
+   "last_attempt": 1788838556.533178
   }
  },
  "series_links": {
