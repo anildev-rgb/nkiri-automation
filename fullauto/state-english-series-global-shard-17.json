@@ -214,14 +214,14 @@
   "https://thenkiri.com/the-witness-s08-complete-tv-series/": {
    "status": "pending",
    "signature": "158563|https://thenkiri.com/the-witness-s08-complete-tv-series/|2026-06-04T11:17:42|2026-06-04T14:58:07|{'rendered': 'The Witness (Complete ) | TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788832434.3589828
+   "attempts": 2,
+   "last_attempt": 1788834238.5406656
   },
   "https://thenkiri.com/maximum-pleasure-guaranteed-s01-complete-tv-series/": {
    "status": "pending",
    "signature": "157358|https://thenkiri.com/maximum-pleasure-guaranteed-s01-complete-tv-series/|2026-05-20T07:25:50|2026-07-15T11:49:31|{'rendered': 'Maximum Pleasure Guaranteed  S01 (Episode 10 Added) | TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788832731.7973478
+   "attempts": 2,
+   "last_attempt": 1788834535.5019734
   }
  },
  "series_links": {
