@@ -1,0 +1,247 @@
+name: Nkiri English series queue worker
+
+on:
+  workflow_dispatch:
+    inputs:
+      repo_slot:
+        description: Four-account slot (0-3)
+        required: true
+        type: string
+      limit:
+        description: Seasons per run (start with one for safe episode-heavy series)
+        required: false
+        default: '1'
+        type: string
+
+permissions:
+  actions: write
+  contents: write
+
+concurrency:
+  # A season can contain many episode files. Keep exactly one series worker
+  # active for each repository and let it persist every uploaded episode URL.
+  group: nkiri-series-queue-${{ github.repository }}
+  cancel-in-progress: false
+
+jobs:
+  series-batch:
+    name: English series repository slot ${{ inputs.repo_slot }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      NKIRI_URL: https://nkiri.vip
+      NKIRI_API_TOKEN: ${{ secrets.NKIRI_API_TOKEN }}
+      API_TOKEN: ${{ secrets.NKIRI_API_TOKEN }}
+      TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+      VIDFILES_API_KEY: ${{ secrets.VIDFILES_API_KEY }}
+      NKIRI_MIN_FREE_GB: '4'
+      PYTHONUNBUFFERED: '1'
+      REPO_SLOT: ${{ inputs.repo_slot }}
+      BATCH_LIMIT: ${{ inputs.limit }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Reclaim disposable runner space
+        run: |
+          timeout 75s sudo rm -rf /usr/local/lib/android /usr/share/dotnet /opt/ghc /opt/hostedtoolcache/CodeQL || true
+          timeout 20s sudo docker system prune -af --volumes >/dev/null 2>&1 || true
+          df -h .
+
+      - name: Ensure FFmpeg is available for filename and metadata cleanup
+        run: |
+          if ! command -v ffmpeg >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install -y ffmpeg
+          fi
+          ffmpeg -version | head -1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install worker dependencies
+        run: python -m pip install --disable-pip-version-check -r requirements.txt
+
+      - name: Select this repository's next season
+        run: |
+          python3 - <<'PY'
+          import csv
+          import json
+          import os
+          from pathlib import Path
+
+          slot = int(os.environ['REPO_SLOT'])
+          limit = int(os.environ.get('BATCH_LIMIT') or '1')
+          if slot < 0 or slot >= 4:
+              raise SystemExit('repo_slot must be 0-3')
+          state_path = Path(f'fullauto/series-historic-20260909-state-slot-{slot}.json')
+          # Carry forward earlier English-series attempts so this new queue
+          # does not download a season that is already terminal.
+          if not state_path.exists():
+              seed = {'processed': {}, 'series_links': {}}
+              for legacy_path in Path('fullauto').glob('state-english-series*.json'):
+                  try:
+                      legacy = json.loads(legacy_path.read_text(encoding='utf-8'))
+                  except (OSError, ValueError, TypeError):
+                      continue
+                  seed['processed'].update(legacy.get('processed') or {})
+                  seed['series_links'].update(legacy.get('series_links') or {})
+              state_path.write_text(json.dumps(seed, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
+          try:
+              processed = json.loads(state_path.read_text(encoding='utf-8')).get('processed') or {}
+          except (OSError, ValueError, TypeError):
+              processed = {}
+
+          def terminal(value):
+              if isinstance(value, str):
+                  return value == 'done' or value.startswith('skipped')
+              return isinstance(value, dict) and value.get('status') in {
+                  'done', 'partial', 'blocked', 'skipped_unavailable', 'skipped_error'
+              }
+
+          rows = []
+          with Path('queue/missing-series.csv').open(encoding='utf-8-sig', newline='') as fh:
+              for position, row in enumerate(csv.DictReader(fh)):
+                  url = (row.get('source_url') or '').strip()
+                  title = (row.get('title') or row.get('name') or '').strip()
+                  if position % 4 == slot and url and title and not terminal(processed.get(url)):
+                      rows.append(row)
+          selected = rows[:limit]
+          if not selected:
+              raise SystemExit(f'No unfinished English-series seasons remain for slot {slot}')
+          with Path('/tmp/series-batch.csv').open('w', encoding='utf-8', newline='') as fh:
+              writer = csv.DictWriter(fh, fieldnames=selected[0].keys())
+              writer.writeheader()
+              writer.writerows(selected)
+          print(f'assigned_slot={slot}/4')
+          print(f'untouched_seasons_before_run={len(rows)}')
+          for row in selected:
+              print(f"selected_season={(row.get('title') or row.get('name') or '').strip()}")
+          PY
+
+      - name: Process one complete series season
+        id: process
+        run: |
+          set -uo pipefail
+          set +e
+          python fullauto/nkiri_agent.py \
+            --once \
+            --queue-file /tmp/series-batch.csv \
+            --state-file "fullauto/series-historic-20260909-state-slot-${REPO_SLOT}.json" \
+            --limit "${BATCH_LIMIT}" \
+            --no-sync 2>&1 | tee /tmp/series-batch.log
+          agent_exit=${PIPESTATUS[0]}
+          set -e
+          echo "agent_exit=$agent_exit" >> "$GITHUB_OUTPUT"
+          exit "$agent_exit"
+
+      - name: Persist resumable episode and season state
+        if: always()
+        run: |
+          git config user.name "nkiri-automation[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          local_state="${GITHUB_WORKSPACE}/fullauto/series-historic-20260909-state-slot-${REPO_SLOT}.json"
+          cp "$local_state" /tmp/nkiri-series-local-state.json
+
+          for attempt in 1 2 3 4 5; do
+            worktree="/tmp/nkiri-series-state-sync-${GITHUB_RUN_ID}-${attempt}"
+            git fetch origin main
+            git worktree add --detach "$worktree" origin/main
+            python3 - "$worktree/fullauto/series-historic-20260909-state-slot-${REPO_SLOT}.json" /tmp/nkiri-series-local-state.json <<'PY'
+          import json
+          import sys
+          from pathlib import Path
+
+          remote_path, local_path = map(Path, sys.argv[1:])
+          try:
+              remote = json.loads(remote_path.read_text(encoding='utf-8'))
+          except (OSError, ValueError, TypeError):
+              remote = {}
+          try:
+              local = json.loads(local_path.read_text(encoding='utf-8'))
+          except (OSError, ValueError, TypeError):
+              local = {}
+          merged = dict(remote)
+          for key in ('processed', 'series_links'):
+              merged[key] = {**(remote.get(key) or {}), **(local.get(key) or {})}
+          remote_path.write_text(json.dumps(merged, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
+          PY
+            git -C "$worktree" add "fullauto/series-historic-20260909-state-slot-${REPO_SLOT}.json"
+            if git -C "$worktree" diff --cached --quiet; then
+              git worktree remove "$worktree"
+              exit 0
+            fi
+            git -C "$worktree" commit -m "Record English series queue batch ${REPO_SLOT}"
+            if git -C "$worktree" push origin HEAD:main; then
+              git worktree remove "$worktree"
+              exit 0
+            fi
+            git worktree remove "$worktree"
+            sleep $((attempt * 5))
+          done
+          echo 'Could not persist English-series state after five retries.'
+          exit 1
+
+      - name: Count this repository's remaining seasons
+        id: remaining
+        if: success()
+        run: |
+          python3 - <<'PY'
+          import csv
+          import json
+          import os
+          from pathlib import Path
+
+          slot = int(os.environ['REPO_SLOT'])
+          state_path = Path(f'fullauto/series-historic-20260909-state-slot-{slot}.json')
+          try:
+              processed = json.loads(state_path.read_text(encoding='utf-8')).get('processed') or {}
+          except (OSError, ValueError, TypeError):
+              processed = {}
+          def terminal(value):
+              if isinstance(value, str):
+                  return value == 'done' or value.startswith('skipped')
+              return isinstance(value, dict) and value.get('status') in {
+                  'done', 'partial', 'blocked', 'skipped_unavailable', 'skipped_error'
+              }
+          remaining = 0
+          with Path('queue/missing-series.csv').open(encoding='utf-8-sig', newline='') as fh:
+              for position, row in enumerate(csv.DictReader(fh)):
+                  url = (row.get('source_url') or '').strip()
+                  title = (row.get('title') or row.get('name') or '').strip()
+                  if position % 4 == slot and url and title and not terminal(processed.get(url)):
+                      remaining += 1
+          print(f'queued_seasons_remaining={remaining}')
+          with Path(os.environ['GITHUB_OUTPUT']).open('a', encoding='utf-8') as fh:
+              fh.write(f'remaining={remaining}\n')
+          PY
+
+      - name: Queue exactly one next season
+        if: success() && steps.remaining.outputs.remaining != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          curl --fail-with-body --retry 3 --retry-delay 5 \
+            -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/workflows/series-batch.yml/dispatches" \
+            -d "{\"ref\":\"main\",\"inputs\":{\"repo_slot\":\"${REPO_SLOT}\",\"limit\":\"${BATCH_LIMIT}\"}}"
+          echo 'Queued one next English-series season after this runner exited.'
+
+      - name: Upload batch evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: nkiri-series-queue-${{ github.run_id }}
+          path: |
+            /tmp/series-batch.log
+            /tmp/series-batch.csv
+            fullauto/series-historic-20260909-state-slot-${{ inputs.repo_slot }}.json
+          if-no-files-found: ignore
