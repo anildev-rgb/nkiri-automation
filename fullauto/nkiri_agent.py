@@ -764,8 +764,8 @@ def process_post(post: dict, state: dict, args) -> str:
     links = post["links"]
     log(f"processing [{kind}] {name} S{season} — {len(links)} link(s)")
     if not links:
-        log("  no download links found — will retry")
-        return "pending"
+        log("  no download links found")
+        return "unavailable"
     if getattr(args, "dry_run", False):
         log(f"  dry-run: parser found {len(links)} link(s); no download/upload/site write")
         return "pending"
@@ -820,7 +820,7 @@ def process_post(post: dict, state: dict, args) -> str:
 
     if not skydrops:
         log("  nothing uploaded — post skipped")
-        return "pending"
+        return "unavailable"
 
     # build the site payload
     episodes = []
@@ -1029,7 +1029,9 @@ def main():
             elif isinstance(prev, dict) and prev.get("status") == "done":
                 if prev.get("signature") == source_signature(wp):
                     continue
-            elif isinstance(prev, dict) and prev.get("status") == "blocked":
+            elif isinstance(prev, dict) and prev.get("status") in {
+                "blocked", "partial", "skipped_unavailable", "skipped_error"
+            }:
                 continue
             elif isinstance(prev, dict) and prev.get("status") == "pending":
                 attempts = int(prev.get("attempts") or 0)
@@ -1037,12 +1039,12 @@ def main():
                     if not args.dry_run:
                         state["processed"][key] = {
                             **prev,
-                            "status": "blocked",
-                            "reason": "source failed three historical retries",
-                            "blocked_at": int(time.time()),
+                            "status": "skipped_unavailable",
+                            "reason": "source failed historical retries",
+                            "skipped_at": int(time.time()),
                         }
                         save_state(state)
-                    log(f"  queue: blocked after 3 failed retries: {p['name']}")
+                    log(f"  queue: unavailable after historical retries: {p['name']}")
                     continue
                 last = float(prev.get("last_attempt") or 0)
                 if time.time() - last < max(60, args.interval):
@@ -1072,6 +1074,26 @@ def main():
                         "modified": wp.get("modified") or "", "completed_at": int(time.time()),
                     }
                     changed = True
+                elif args.queue_file and result == "partial":
+                    # A post with some uploaded files is useful on the site, but
+                    # permanently unavailable source links must not keep it in a
+                    # retry loop during a historical backfill.
+                    state["processed"][wp["link"]] = {
+                        "status": "partial", "signature": source_signature(wp),
+                        "modified": wp.get("modified") or "", "completed_at": int(time.time()),
+                        "reason": "one or more source links were unavailable",
+                    }
+                    changed = True
+                elif args.queue_file and result == "unavailable":
+                    # Historical queues get one real attempt per source post.
+                    # Dead hosts, blocked downloads, and unresolvable links are
+                    # recorded separately and never consume another runner slot.
+                    state["processed"][wp["link"]] = {
+                        "status": "skipped_unavailable",
+                        "signature": source_signature(wp),
+                        "modified": wp.get("modified") or "", "skipped_at": int(time.time()),
+                        "reason": "no usable downloadable source link",
+                    }
                 else:
                     state["processed"][wp["link"]] = {
                         "status": "pending", "signature": source_signature(wp),
@@ -1082,13 +1104,20 @@ def main():
             except Exception as e:
                 log(f"  ✗ {p['name']}: {e}")
                 if not args.dry_run and not args.no_upload:
-                    previous = state["processed"].get(wp["link"])
-                    attempts = int(previous.get("attempts") or 0) if isinstance(previous, dict) else 0
-                    state["processed"][wp["link"]] = {
-                        "status": "pending", "signature": source_signature(wp),
-                        "attempts": attempts + 1,
-                        "last_attempt": time.time(),
-                    }
+                    if args.queue_file:
+                        state["processed"][wp["link"]] = {
+                            "status": "skipped_error", "signature": source_signature(wp),
+                            "modified": wp.get("modified") or "", "skipped_at": int(time.time()),
+                            "reason": "worker could not process source post",
+                        }
+                    else:
+                        previous = state["processed"].get(wp["link"])
+                        attempts = int(previous.get("attempts") or 0) if isinstance(previous, dict) else 0
+                        state["processed"][wp["link"]] = {
+                            "status": "pending", "signature": source_signature(wp),
+                            "attempts": attempts + 1,
+                            "last_attempt": time.time(),
+                        }
                     save_state(state)
         if changed and not args.dry_run and not args.no_upload:
             # Each post was already published directly to the VPS API.  The API
