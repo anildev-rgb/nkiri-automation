@@ -368,6 +368,13 @@
       "signature": "154911|https://thenkiri.com/bergerac-s02-complete-tv-series/|2026-04-21T08:57:32|2026-04-21T14:16:30|{'rendered': 'Bergerac S02 (Complete)  | TV Series'}",
       "modified": "2026-04-21T14:16:30",
       "completed_at": 1788863386
+    },
+    "https://thenkiri.com/seeking-persephone-complete-tv-series/": {
+      "status": "partial",
+      "signature": "162991|https://thenkiri.com/seeking-persephone-complete-tv-series/|2026-07-28T11:28:10|2026-07-28T11:28:10|{'rendered': 'Seeking Persephone (Complete) | TV Series'}",
+      "modified": "2026-07-28T11:28:10",
+      "completed_at": 1788973255,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -674,6 +681,9 @@
     "https://downloadwella.com/hqpaf66tnexy/Bergerac.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uR3y4szB9pJgLapf-Vk-lKLwX6FgBzE9",
     "https://downloadwella.com/cwlpjljmr1cz/One.Hundred.Years.of.Solitude.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mEzudr6GSqJszlvBg8Bf_OBC8RptNYli",
     "https://downloadwella.com/k7b48zj0sn00/One.Hundred.Years.of.Solitude.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zdnO_W9pADn79SMXgyyC_TbX8TKRPP2E",
-    "https://downloadwella.com/uxju1xe21iww/Wrath.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/m3PI0kXXHFwj-crqOr6H2gsnMOrMoKbo"
+    "https://downloadwella.com/uxju1xe21iww/Wrath.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/m3PI0kXXHFwj-crqOr6H2gsnMOrMoKbo",
+    "https://downloadwella.com/lpa4aefjpj8i/Seeking.Persephone.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1l5PPOoQ0yeIvyytwFkVyzCrd6E7j3jP",
+    "https://downloadwella.com/azu3c77inbvd/Seeking.Persephone.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iLn2EdrKfhd6Pm_4TJIW7Q3TLVCmN9C2",
+    "https://downloadwella.com/8yyk83aozrm8/Seeking.Persephone.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/h2QYkp1QVUv1dRjvuWNZMfpjjg1u8sIp"
   }
 }
