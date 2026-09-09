@@ -625,118 +625,144 @@
    "blocked_at": 1788882997
   },
   "https://thenkiri.com/moonshot-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "38887|https://thenkiri.com/moonshot-2022-download-hollywood-movie/|03/31/2022 16:42:22|09/02/2023 13:36:50|{'rendered': 'Moonshot (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788882279.9893334
+   "modified": "09/02/2023 13:36:50",
+   "skipped_at": 1788921467,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/all-my-friends-hate-me-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "38603|https://thenkiri.com/all-my-friends-hate-me-2022-download-hollywood-movie/|03/25/2022 18:59:58|09/02/2023 13:24:47|{'rendered': 'All My Friends Hate Me (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788882281.2916515
+   "modified": "09/02/2023 13:24:47",
+   "skipped_at": 1788921469,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/loveland-aka-expired-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "38253|https://thenkiri.com/loveland-aka-expired-2022-download-hollywood-movie/|03/20/2022 03:42:52|09/02/2023 13:14:23|{'rendered': 'Loveland aka Expired (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788882741.1529012
+   "modified": "09/02/2023 13:14:23",
+   "skipped_at": 1788921470,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/master-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "38166|https://thenkiri.com/master-2022-download-hollywood-movie/|03/18/2022 11:30:57|09/02/2023 13:14:54|{'rendered': 'Master (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788882195.2548447
+   "modified": "09/02/2023 13:14:54",
+   "skipped_at": 1788921471,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/for-the-love-of-money-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "37960|https://thenkiri.com/for-the-love-of-money-2021-download-hollywood-movie/|03/15/2022 08:22:32|09/02/2023 13:12:08|{'rendered': 'For the Love of Money (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788882282.5505297
+   "modified": "09/02/2023 13:12:08",
+   "skipped_at": 1788921472,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/dog-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "37797|https://thenkiri.com/dog-2022-download-hollywood-movie/|03/11/2022 09:51:11|09/02/2023 13:12:33|{'rendered': 'Dog (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788882445.9939044
+   "modified": "09/02/2023 13:12:33",
+   "skipped_at": 1788921474,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/fresh-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "37500|https://thenkiri.com/fresh-2022-download-hollywood-movie/|03/04/2022 13:40:10|09/02/2023 13:10:09|{'rendered': 'Fresh (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788882448.7256317
+   "modified": "09/02/2023 13:10:09",
+   "skipped_at": 1788921475,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/against-the-ice-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "37350|https://thenkiri.com/against-the-ice-2022-download-hollywood-movie/|03/02/2022 21:31:44|09/02/2023 13:10:45|{'rendered': 'Against the Ice (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788882449.6311634
+   "modified": "09/02/2023 13:10:45",
+   "skipped_at": 1788921476,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/big-gold-brick-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "37120|https://thenkiri.com/big-gold-brick-2022-download-hollywood-movie/|02/25/2022 14:53:27|09/02/2023 13:06:44|{'rendered': 'Big Gold Brick (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788882452.1676214
+   "modified": "09/02/2023 13:06:44",
+   "skipped_at": 1788921477,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/project-gemini-2022-download-russian-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "37038|https://thenkiri.com/project-gemini-2022-download-russian-movie/|02/24/2022 18:05:22|09/02/2023 13:08:34|{'rendered': 'Project Gemini (2022) | Download Russian Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788882453.248145
+   "modified": "09/02/2023 13:08:34",
+   "skipped_at": 1788921478,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/texas-chainsaw-massacre-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "36818|https://thenkiri.com/texas-chainsaw-massacre-2022-download-hollywood-movie/|02/18/2022 12:24:11|09/02/2023 13:41:58|{'rendered': 'Texas Chainsaw Massacre (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788882455.9221509
+   "modified": "09/02/2023 13:41:58",
+   "skipped_at": 1788921479,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/the-souvenir-part-ii-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "36690|https://thenkiri.com/the-souvenir-part-ii-2021-download-hollywood-movie/|02/16/2022 08:22:04|09/02/2023 13:42:27|{'rendered': 'The Souvenir: Part II (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788882456.8286638
+   "modified": "09/02/2023 13:42:27",
+   "skipped_at": 1788921480,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/catch-the-fair-one-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "36491|https://thenkiri.com/catch-the-fair-one-2022-download-hollywood-movie/|02/11/2022 16:07:25|09/02/2023 13:39:57|{'rendered': 'Catch the Fair One (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788882459.6766832
+   "modified": "09/02/2023 13:39:57",
+   "skipped_at": 1788921481,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/pirates-of-the-caribbean-complete-collection-1-5-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "36395|https://thenkiri.com/pirates-of-the-caribbean-complete-collection-1-5-download-hollywood-movie/|02/10/2022 17:35:55|09/02/2023 13:40:15|{'rendered': 'Pirates of the Caribbean Complete Collection 1 – 5 | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788882460.3528526
+   "modified": "09/02/2023 13:40:15",
+   "skipped_at": 1788921482,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/dallas-buyers-club-2013-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "36305|https://thenkiri.com/dallas-buyers-club-2013-download-hollywood-movie/|02/08/2022 18:07:28|09/02/2023 13:40:33|{'rendered': 'Dallas Buyers Club (2013) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788882462.9722319
+   "modified": "09/02/2023 13:40:33",
+   "skipped_at": 1788921483,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/immanence-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "36150|https://thenkiri.com/immanence-2022-download-hollywood-movie/|02/04/2022 14:02:22|09/02/2023 13:37:49|{'rendered': 'Immanence (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788882465.7370238
+   "modified": "09/02/2023 13:37:49",
+   "skipped_at": 1788921484,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/juniper-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "36097|https://thenkiri.com/juniper-2021-download-hollywood-movie/|02/04/2022 07:23:55|09/02/2023 13:38:11|{'rendered': 'Juniper (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788882466.5970957
+   "modified": "09/02/2023 13:38:11",
+   "skipped_at": 1788921485,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/catwoman-hunted-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "35900|https://thenkiri.com/catwoman-hunted-2022-download-hollywood-movie/|01/30/2022 11:19:52|09/02/2023 13:29:50|{'rendered': 'Catwoman Hunted (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788882881.1356704
+   "modified": "09/02/2023 13:29:50",
+   "skipped_at": 1788921486,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/the-355-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "35686|https://thenkiri.com/the-355-2022-download-hollywood-movie/|01/27/2022 10:16:12|09/02/2023 13:30:21|{'rendered': 'The 355 (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788882882.9983382
+   "modified": "09/02/2023 13:30:21",
+   "skipped_at": 1788921487,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/munich-the-edge-of-war-2022-download-hollywood-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "35488|https://thenkiri.com/munich-the-edge-of-war-2022-download-hollywood-movie/|01/23/2022 13:11:36|09/02/2023 13:27:33|{'rendered': 'Munich The Edge of War (2022) | Download Hollywood Movie'}",
+   "modified": "09/02/2023 13:27:33",
+   "skipped_at": 1788921488,
+   "reason": "no usable downloadable source link"
   }
  },
  "series_links": {
