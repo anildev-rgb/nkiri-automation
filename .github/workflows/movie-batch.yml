@@ -82,10 +82,12 @@ jobs:
               except (OSError, ValueError, TypeError):
                   processed = {}
 
-          def complete(value):
+          def terminal(value):
               if isinstance(value, str):
                   return value == 'done' or value.startswith('skipped')
-              return isinstance(value, dict) and value.get('status') in {'done', 'blocked'}
+              return isinstance(value, dict) and value.get('status') in {
+                  'done', 'partial', 'blocked', 'skipped_unavailable', 'skipped_error'
+              }
 
           rows = []
           with Path('queue/missing-movies-current.csv').open(encoding='utf-8-sig', newline='') as fh:
@@ -93,7 +95,7 @@ jobs:
                   source_url = (row.get('source_url') or '').strip()
                   title = (row.get('title') or row.get('name') or '').strip()
                   if position % total_lanes == lane and source_url and title:
-                      if not complete(processed.get(source_url)):
+                      if not terminal(processed.get(source_url)):
                           rows.append(row)
 
           selected = rows[:limit]
@@ -154,11 +156,19 @@ jobs:
               with Path('/tmp/movie-batch.csv').open(encoding='utf-8-sig', newline='') as fh:
                   selected = list(csv.DictReader(fh))
           selected_urls = {(row.get('source_url') or '').strip() for row in selected}
-          complete = lambda value: (
-              value == 'done' or (isinstance(value, str) and value.startswith('skipped')) or
-              (isinstance(value, dict) and value.get('status') in {'done', 'blocked'})
-          )
-          completed_this_run = sum(1 for url in selected_urls if complete(records.get(url)))
+          def status(value):
+              if value == 'done':
+                  return 'done'
+              if isinstance(value, str) and value.startswith('skipped'):
+                  return 'skipped'
+              if isinstance(value, dict):
+                  return value.get('status') or 'unprocessed'
+              return 'unprocessed'
+
+          statuses = [status(records.get(url)) for url in selected_urls]
+          completed_this_run = sum(value == 'done' for value in statuses)
+          partial_this_run = sum(value == 'partial' for value in statuses)
+          skipped_this_run = sum(value in {'blocked', 'skipped_unavailable', 'skipped_error', 'skipped'} for value in statuses)
           attempted = len(re.findall(r'processing \[movie\]', Path('/tmp/movie-batch.log').read_text(encoding='utf-8', errors='replace'))) if Path('/tmp/movie-batch.log').exists() else 0
           site_posts = len(re.findall(r'✓ site:', Path('/tmp/movie-batch.log').read_text(encoding='utf-8', errors='replace'))) if Path('/tmp/movie-batch.log').exists() else 0
           uploaded = len(re.findall(r'✓ uploaded', Path('/tmp/movie-batch.log').read_text(encoding='utf-8', errors='replace'))) if Path('/tmp/movie-batch.log').exists() else 0
@@ -173,6 +183,8 @@ jobs:
               'selected_movies': len(selected),
               'attempted_posts': attempted,
               'completed_movies': completed_this_run,
+              'partial_movies': partial_this_run,
+              'skipped_unavailable_movies': skipped_this_run,
               'not_completed_movies': failed,
               'site_posts_sent': site_posts,
               'vidfiles_uploads': uploaded,
@@ -216,10 +228,12 @@ jobs:
           except (OSError, ValueError, TypeError):
               processed = {}
 
-          def complete(value):
+          def terminal(value):
               if isinstance(value, str):
                   return value == 'done' or value.startswith('skipped')
-              return isinstance(value, dict) and value.get('status') in {'done', 'blocked'}
+              return isinstance(value, dict) and value.get('status') in {
+                  'done', 'partial', 'blocked', 'skipped_unavailable', 'skipped_error'
+              }
 
           lane = int(os.environ['REPO_SLOT'])
           remaining = 0
@@ -227,7 +241,7 @@ jobs:
               for position, row in enumerate(csv.DictReader(fh)):
                   source_url = (row.get('source_url') or '').strip()
                   title = (row.get('title') or row.get('name') or '').strip()
-                  if position % 5 == lane and source_url and title and not complete(processed.get(source_url)):
+                  if position % 5 == lane and source_url and title and not terminal(processed.get(source_url)):
                       remaining += 1
           print(f'queued_movies_remaining={remaining}')
           with Path(os.environ['GITHUB_OUTPUT']).open('a', encoding='utf-8') as fh:
