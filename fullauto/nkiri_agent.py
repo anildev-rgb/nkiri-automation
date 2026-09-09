@@ -10,7 +10,7 @@ One script, keeps running:
   4. Uploads each file to VidFiles (sha1 dedup — re-runs are cheap)
   5. Sends the post data and VidFiles URLs to the VPS site API
      (movies: TMDB; Korean dramas: MyDramaList; English TV/web series: IMDb)
-  6. The VPS API updates its own database and queues a safe background build
+  6. The VPS API updates its own database; public pages reflect it immediately
   7. Sleeps, repeats. State: state.json — safe to stop/resume anytime.
 
 Usage:
@@ -785,7 +785,7 @@ def _season_of(post: dict) -> int | None:
 
 def api_find(kind: str, name: str, season: str | None = None,
              year: str = "", index: list[dict] | None = None) -> dict | None:
-    """Find one post, preferring exact name + season to avoid cross-season merges."""
+    """Find only an unambiguous existing post; never merge a similar title."""
     try:
         if index is None:
             res = http_json(f"{SITE_API}/api/posts?kind={kind}&limit=5000", token=NKIRI_TOKEN)
@@ -794,16 +794,12 @@ def api_find(kind: str, name: str, season: str | None = None,
         sn = int(season) if season and str(season).isdigit() else None
         def find_in(pool: list[dict]) -> list[dict]:
             exact = [p for p in pool if normalize_name(p.get("name") or "") == q]
-            if not exact:
-                exact = [p for p in pool if q and q in normalize_name(p.get("name") or "")]
             if sn is not None:
                 # A different season is not a safe match. Returning no match
                 # lets the caller try a legacy kind or create the right row.
                 exact = [p for p in exact if _season_of(p) == sn]
             if kind == "movie" and year:
-                by_year = [p for p in exact if str(p.get("year") or "") == str(year)]
-                if by_year:
-                    exact = by_year
+                exact = [p for p in exact if str(p.get("year") or "") == str(year)]
             return exact
 
         exact = find_in([p for p in index if p.get("kind") == kind])
