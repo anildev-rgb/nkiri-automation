@@ -251,7 +251,7 @@ jobs:
               for position, row in enumerate(csv.DictReader(fh)):
                   source_url = (row.get('source_url') or '').strip()
                   title = (row.get('title') or row.get('name') or '').strip()
-          if position % 4 == lane and source_url and title and not terminal(processed.get(source_url)):
+                  if position % 4 == lane and source_url and title and not terminal(processed.get(source_url)):
                       remaining += 1
           print(f'queued_movies_remaining={remaining}')
           with Path(os.environ['GITHUB_OUTPUT']).open('a', encoding='utf-8') as fh:
