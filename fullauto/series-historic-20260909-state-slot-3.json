@@ -190,10 +190,10 @@
       "completed_at": 1788791550
     },
     "https://thenkiri.com/wrath-s01-complete-foreign-tv-series/": {
-      "status": "pending",
+      "status": "done",
       "signature": "163192|https://thenkiri.com/wrath-s01-complete-foreign-tv-series/|2026-07-30T07:31:42|2026-07-30T07:33:33|{'rendered': 'Wrath S01 (Complete) | Foreign TV Series'}",
-      "attempts": 1,
-      "last_attempt": 1788792075.8923242
+      "modified": "2026-07-30T07:33:33",
+      "completed_at": 1788972788
     },
     "https://thenkiri.com/golden-kamuy-2-the-hunt-of-prisoners-in-hokkaido-s01-complete-japanese-drama/": {
       "status": "done",
@@ -673,6 +673,7 @@
     "https://downloadwella.com/6gax7jj51nvl/Bergerac.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/drADP_9yMLVtXEnnUZ0uu6Yap5KB0N5V",
     "https://downloadwella.com/hqpaf66tnexy/Bergerac.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uR3y4szB9pJgLapf-Vk-lKLwX6FgBzE9",
     "https://downloadwella.com/cwlpjljmr1cz/One.Hundred.Years.of.Solitude.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mEzudr6GSqJszlvBg8Bf_OBC8RptNYli",
-    "https://downloadwella.com/k7b48zj0sn00/One.Hundred.Years.of.Solitude.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zdnO_W9pADn79SMXgyyC_TbX8TKRPP2E"
+    "https://downloadwella.com/k7b48zj0sn00/One.Hundred.Years.of.Solitude.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zdnO_W9pADn79SMXgyyC_TbX8TKRPP2E",
+    "https://downloadwella.com/uxju1xe21iww/Wrath.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/m3PI0kXXHFwj-crqOr6H2gsnMOrMoKbo"
   }
 }
