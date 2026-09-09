@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       repo_slot:
-        description: Five-repository slot (0-4)
+        description: Four-account slot (0-3)
         required: true
         type: string
       limit:
@@ -18,7 +18,7 @@ permissions:
   contents: write
 
 concurrency:
-  # Exactly one GitHub runner works for each repository.  The next 20-movie
+  # Exactly one GitHub runner works for each repository. The next 20-movie
   # batch is dispatched only after this run has saved its state and exited.
   group: nkiri-movie-queue-${{ github.repository }}
   cancel-in-progress: false
@@ -81,8 +81,10 @@ jobs:
           repo_slot = int(os.environ['REPO_SLOT'])
           limit = int(os.environ.get('BATCH_LIMIT') or '20')
           lane = repo_slot
-          total_lanes = 5
-          state_path = Path(f'fullauto/movie-chain-state-slot-{repo_slot}.json')
+          total_lanes = 4
+          if lane < 0 or lane >= total_lanes:
+              raise SystemExit(f'repo_slot must be 0-{total_lanes - 1}')
+          state_path = Path(f'fullauto/movie-historic-20260909-state-slot-{repo_slot}.json')
           processed = {}
           if state_path.exists():
               try:
@@ -130,7 +132,7 @@ jobs:
           python fullauto/nkiri_agent.py \
             --once \
             --queue-file /tmp/movie-batch.csv \
-            --state-file "fullauto/movie-chain-state-slot-${REPO_SLOT}.json" \
+            --state-file "fullauto/movie-historic-20260909-state-slot-${REPO_SLOT}.json" \
             --limit "${BATCH_LIMIT:-20}" \
             --no-sync 2>&1 | tee /tmp/movie-batch.log
           agent_exit=${PIPESTATUS[0]}
@@ -151,7 +153,7 @@ jobs:
           import time
           from pathlib import Path
 
-          state_path = Path(f"fullauto/movie-chain-state-slot-{os.environ['REPO_SLOT']}.json")
+          state_path = Path(f"fullauto/movie-historic-20260909-state-slot-{os.environ['REPO_SLOT']}.json")
           state = {}
           if state_path.exists():
               try:
@@ -210,7 +212,7 @@ jobs:
         run: |
           git config user.name "nkiri-automation[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add "fullauto/movie-chain-state-slot-${REPO_SLOT}.json" "fullauto/movie-chain-progress-${GITHUB_RUN_ID}.json"
+          git add "fullauto/movie-historic-20260909-state-slot-${REPO_SLOT}.json" "fullauto/movie-chain-progress-${GITHUB_RUN_ID}.json"
           git diff --cached --quiet || git commit -m "Record movie queue batch ${REPO_SLOT}"
           for attempt in 1 2 3 4 5; do
             git pull --rebase origin main && git push origin HEAD:main && exit 0
@@ -230,7 +232,7 @@ jobs:
           import os
           from pathlib import Path
 
-          state_path = Path(f"fullauto/movie-chain-state-slot-{os.environ['REPO_SLOT']}.json")
+          state_path = Path(f"fullauto/movie-historic-20260909-state-slot-{os.environ['REPO_SLOT']}.json")
           try:
               processed = json.loads(state_path.read_text(encoding='utf-8')).get('processed') or {}
           except (OSError, ValueError, TypeError):
@@ -249,7 +251,7 @@ jobs:
               for position, row in enumerate(csv.DictReader(fh)):
                   source_url = (row.get('source_url') or '').strip()
                   title = (row.get('title') or row.get('name') or '').strip()
-                  if position % 5 == lane and source_url and title and not terminal(processed.get(source_url)):
+          if position % 4 == lane and source_url and title and not terminal(processed.get(source_url)):
                       remaining += 1
           print(f'queued_movies_remaining={remaining}')
           with Path(os.environ['GITHUB_OUTPUT']).open('a', encoding='utf-8') as fh:
@@ -278,6 +280,6 @@ jobs:
           path: |
             /tmp/movie-batch.log
             /tmp/movie-batch.csv
-            fullauto/movie-chain-state-slot-${{ inputs.repo_slot }}.json
+            fullauto/movie-historic-20260909-state-slot-${{ inputs.repo_slot }}.json
             fullauto/movie-chain-progress-${{ github.run_id }}.json
           if-no-files-found: ignore
