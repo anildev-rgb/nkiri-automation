@@ -31,6 +31,7 @@ import sys
 import time
 import html as html_mod
 import shutil
+import unicodedata
 import urllib.parse
 import urllib.request
 import urllib.error
@@ -94,14 +95,15 @@ def cleanup_downloads(files: list[Path]) -> None:
         log(f"  🗑 cleaned {count} local file(s), freed {api_uploader.format_bytes(freed)}")
 
 def cleanup_partial_downloads() -> None:
-    """Remove resumeless fragments left when the worker is interrupted."""
+    """Remove resumeless download and remux fragments left by an interrupted worker."""
     removed = 0
-    for path in DOWNLOAD_DIR.glob("*.part"):
-        try:
-            path.unlink()
-            removed += 1
-        except OSError:
-            pass
+    for pattern in ("*.part", "*.source.*", ".*.cleaning.*"):
+        for path in DOWNLOAD_DIR.glob(pattern):
+            try:
+                path.unlink()
+                removed += 1
+            except OSError:
+                pass
     if removed:
         log(f"startup cleanup: removed {removed} partial download(s)")
 
@@ -388,6 +390,75 @@ def download_file(direct_url: str, dest: Path) -> bool:
         partial.unlink(missing_ok=True)
         dest.unlink(missing_ok=True)
         return False
+
+
+def clean_release_filename(post: dict, label: str, page_link: str) -> str:
+    """Build the only filename that may be sent to VidFiles.
+
+    Source hosts often place their own branding, release group, and misleading
+    metadata in filenames.  We retain only the title, year and (where needed)
+    a deterministic season/episode token, and always remux the result as MKV.
+    """
+    def clean_part(value: str) -> str:
+        ascii_value = unicodedata.normalize("NFKD", str(value or "")).encode("ascii", "ignore").decode()
+        return re.sub(r"\s+", ".", re.sub(r"[^A-Za-z0-9]+", " ", ascii_value).strip())
+
+    name = clean_part(post.get("name") or "Nkiri") or "Nkiri"
+    year = str(post.get("year") or "").strip()
+    parts = [name]
+    if re.fullmatch(r"(?:19|20)\d{2}", year) and year not in name:
+        parts.append(year)
+
+    if post.get("kind") != "movie":
+        marker = f"{page_link} {label}"
+        match = re.search(r"S(?:eason)?\s*0?(\d{1,2})\D{0,12}E(?:pisode)?\s*0?(\d{1,3})", marker, re.I)
+        if match:
+            token = f"S{int(match.group(1)):02d}E{int(match.group(2)):02d}"
+        else:
+            episode = re.search(r"(?:E|Episode)\s*0?(\d{1,3})", marker, re.I)
+            season = int(str(post.get("season") or "1"))
+            token = f"S{season:02d}E{int(episode.group(1)) if episode else 0:02d}"
+        parts.append(token)
+    return ".".join(parts)[:180] + ".mkv"
+
+
+def clean_media_metadata(source: Path, cleaned: Path) -> bool:
+    """Remux media without source metadata or attachments, without re-encoding."""
+    ffmpeg = os.environ.get("NKIRI_FFMPEG") or shutil.which("ffmpeg")
+    if not ffmpeg:
+        log("  ✗ metadata cleanup unavailable: ffmpeg was not found")
+        return False
+    try:
+        free = shutil.disk_usage(cleaned.parent).free
+        if free < MIN_FREE_BYTES + source.stat().st_size:
+            log("  ✗ metadata cleanup skipped: insufficient free space for safe remux")
+            return False
+    except OSError:
+        return False
+
+    temporary = cleaned.with_name(f".{cleaned.stem}.cleaning{cleaned.suffix}")
+    temporary.unlink(missing_ok=True)
+    try:
+        result = subprocess.run(
+            [ffmpeg, "-hide_banner", "-loglevel", "error", "-y", "-i", str(source),
+             "-map", "0:v?", "-map", "0:a?", "-map", "0:s?",
+             "-map_metadata", "-1", "-map_metadata:s", "-1", "-map_chapters", "-1",
+             "-c", "copy", str(temporary)],
+            capture_output=True, text=True, timeout=7200, check=False,
+        )
+        if result.returncode or not temporary.exists() or temporary.stat().st_size <= 500:
+            detail = (result.stderr or "remux produced no media").strip().replace("\n", " ")[:180]
+            log(f"  ✗ metadata cleanup failed: {detail}")
+            return False
+        temporary.replace(cleaned)
+        source.unlink(missing_ok=True)
+        log(f"  ✓ cleaned filename and metadata: {cleaned.name}")
+        return True
+    except (OSError, subprocess.SubprocessError) as exc:
+        log(f"  ✗ metadata cleanup failed: {str(exc)[:180]}")
+        return False
+    finally:
+        temporary.unlink(missing_ok=True)
 
 # ------------------------------------------------------------
 # metadata: TMDB (movies) / MDL (Korean dramas) / IMDb (English TV/web series)
@@ -795,14 +866,23 @@ def process_post(post: dict, state: dict, args) -> str:
             log(f"  ✗ no direct URL: {page_link[:70]}")
             all_links_ok = False
             continue
-        fname = os.path.basename(urllib.parse.urlparse(direct).path) or f"{slugify(name)}.mkv"
+        fname = clean_release_filename(post, label, page_link)
         dest = DOWNLOAD_DIR / fname
         was_present = dest.exists() and dest.stat().st_size > 500
-        log(f"  ↓ downloading {fname}…")
-        if not download_file(direct, dest):
-            log("  ✗ download failed")
-            all_links_ok = False
-            continue
+        if not was_present:
+            source_ext = Path(urllib.parse.urlparse(direct).path).suffix.lower()
+            if source_ext not in {".mkv", ".mp4", ".m4v", ".mov", ".avi", ".webm", ".ts"}:
+                source_ext = ".bin"
+            source_file = dest.with_name(f"{dest.stem}.source{source_ext}")
+            log(f"  ↓ downloading source for {fname}…")
+            if not download_file(direct, source_file):
+                log("  ✗ download failed")
+                all_links_ok = False
+                continue
+            if not clean_media_metadata(source_file, dest):
+                source_file.unlink(missing_ok=True)
+                all_links_ok = False
+                continue
         if not was_present:
             downloaded_files.append(dest)
         try:
