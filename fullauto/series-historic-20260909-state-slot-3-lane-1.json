@@ -841,6 +841,13 @@
       "modified": "2025-09-25T09:17:44",
       "skipped_at": 1789076634,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/platonic-turkish-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "142387|https://thenkiri.com/platonic-turkish-s01-complete-tv-series/|2025-09-19T13:19:48|2025-09-19T13:19:48|{'rendered': 'Platonic Turkish S01 (Complete) | Turkish TV Series'}",
+      "modified": "2025-09-19T13:19:48",
+      "skipped_at": 1789077101,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
