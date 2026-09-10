@@ -796,6 +796,13 @@
       "modified": "2025-10-28T12:48:09",
       "completed_at": 1789066922,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/mayor-of-kingstown-s04-complete-tv-series/": {
+      "status": "partial",
+      "signature": "144779|https://thenkiri.com/mayor-of-kingstown-s04-complete-tv-series/|2025-10-26T10:38:24|2025-12-28T07:56:53|{'rendered': 'Mayor of Kingstown S04 (Episode 10 Added) | TV Series'}",
+      "modified": "2025-12-28T07:56:53",
+      "completed_at": 1789067604,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1506,6 +1513,7 @@
     "https://downloadwella.com/9lxbst0ul56f/pb.s01e13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lnNYTuX7sDDNJ8ocTHGPvMMOnX1qZ1ya",
     "https://downloadwella.com/siauxp3idomk/pb.s01e14.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qKyPprEl33n6qVQ39pDmkzOpa9ia_MVv",
     "https://downloadwella.com/rp8txmpa8zcu/pb.s01e17.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z8_OH_LhxHhWiy9nrgfwnr6XZ_OEDJD7",
-    "https://downloadwella.com/jxm7tg8aw0rd/pb.s01e18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bCxxY_QmizInhLGafUfRGyazdKLfB3NX"
+    "https://downloadwella.com/jxm7tg8aw0rd/pb.s01e18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bCxxY_QmizInhLGafUfRGyazdKLfB3NX",
+    "https://downloadwella.com/5brwb8vyvdy8/Mayor.Of.Kingstown.S04E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6RMxOU4XvRIZHLN4OxyjGUmmKJoaW7gu"
   }
 }
