@@ -762,6 +762,13 @@
       "signature": "146708|https://thenkiri.com/wondla-s03-complete-tv-series/|2025-11-27T10:56:18|2025-11-27T10:56:18|{'rendered': 'WondLa S03 (Complete) | TV Series'}",
       "modified": "2025-11-27T10:56:18",
       "completed_at": 1789058403
+    },
+    "https://thenkiri.com/stumble-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "146075|https://thenkiri.com/stumble-s01-complete-tv-series/|2025-11-17T13:55:34|2026-03-14T12:39:10|{'rendered': 'Stumble S01 (Episode 13 Added) | TV Series'}",
+      "modified": "2026-03-14T12:39:10",
+      "completed_at": 1789060153,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1440,6 +1447,15 @@
     "https://downloadwella.com/uwi87vs4prai/WondLa.S03E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/98v9KWx5_TM1rqZ7AMwmBfXDOgA_I4ju",
     "https://downloadwella.com/4rmlfbk3b47u/WondLa.S03E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VnSmZsnQRNTUGXN77teUA1XkwHYt99HC",
     "https://downloadwella.com/wkmje3nmiefk/WondLa.S03E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/64em4UHDKK1xVgSrhIsWueOHy4Q9qWwO",
-    "https://downloadwella.com/yifpu0gm6tvn/WondLa.S03E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pZKDWudunKi1kYGDIznI_L81g8wmitSL"
+    "https://downloadwella.com/yifpu0gm6tvn/WondLa.S03E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pZKDWudunKi1kYGDIznI_L81g8wmitSL",
+    "https://downloadwella.com/0gnvumtnx1wh/Stumble.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fWJ8JZACPN5rMhKTQExKSKFvva-mGozP",
+    "https://downloadwella.com/xqdz9fwudods/Stumble.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9n4kCLKq6oaA7e-q5FLAgRTXwYF2c6D3",
+    "https://downloadwella.com/w6ajtutu8d4t/Stumble.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IS-itLchLHQB2G8aQahICtr6kriXpsLD",
+    "https://downloadwella.com/yw91ss5e4ks4/Stumble.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NbU10-kmUhRduuAMBRefv__Q7_6WWNuS",
+    "https://downloadwella.com/grm2awogr2wp/Stumble.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yLq0DyRL76dhrcULstwaTGUm0hHdz5-x",
+    "https://downloadwella.com/kek00u8pax4s/Stumble.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KTCS-z7TC9r9JZBYjN4gF0ZkNbE3NeMm",
+    "https://downloadwella.com/s5bmmsgzvfo3/Stumble.S01E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iZ7g5z-PPqP3N2rzsgNTYJlskjS9Duap",
+    "https://downloadwella.com/dbqrwklxdsmr/Stumble.S01E12.Downloaded.from.THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GetFOqV7g2d8b0gcKXg0clMxGy_VM8Tv",
+    "https://downloadwella.com/c9ho5king45l/Stumble.S01E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/10mai_V-GK9zMg6ZUCfls9aOg07qhAv1"
   }
 }
