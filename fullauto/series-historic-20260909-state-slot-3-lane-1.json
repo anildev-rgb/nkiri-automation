@@ -743,7 +743,14 @@
       "skipped_at": 1789053932,
       "reason": "no usable downloadable source link"
     },
-    "https://thenkiri.com/wwe-saturday-nights-main-event-john-cenas-final-match-2025-wrestling-special/": "skipped (wwe)"
+    "https://thenkiri.com/wwe-saturday-nights-main-event-john-cenas-final-match-2025-wrestling-special/": "skipped (wwe)",
+    "https://thenkiri.com/sean-combs-the-reckoning-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "146874|https://thenkiri.com/sean-combs-the-reckoning-s01-complete-tv-series/|2025-12-02T10:31:21|2025-12-02T11:04:12|{'rendered': 'Sean Combs The Reckoning S01 (Complete) | TV Series'}",
+      "modified": "2025-12-02T11:04:12",
+      "completed_at": 1789055285,
+      "reason": "one or more source links were unavailable"
+    }
   },
   "series_links": {
     "https://downloadwella.com/te81x1qd9nt7/Madfabulous.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/K3v4aHpPg1cKHEmUnhxwkVYwpoU_4YH9",
@@ -1402,6 +1409,8 @@
     "https://downloadwella.com/qlcn1tfmesj0/Drops.of.God.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-rayUwoL1X9bRsfTmfZo3qxvX3Sgzf8J",
     "https://downloadwella.com/0xewpj8psey2/Agatha.Christies.Seven.Dials.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L64JoTBvrs9UUq1MpmULxDVDO4H-mouf",
     "https://downloadwella.com/qmx0on4ufvzr/His.and.Hers.2026.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hc8U8kZbvQK6KLF3tXEhvOZGuUeBxIw3",
-    "https://downloadwella.com/7x1jsd4nqg10/His.and.Hers.2026.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OUp-aAN1phdATFbzinnKsE5enXquiYRS"
+    "https://downloadwella.com/7x1jsd4nqg10/His.and.Hers.2026.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OUp-aAN1phdATFbzinnKsE5enXquiYRS",
+    "https://downloadwella.com/95oalv2uinl0/Sean.Combs.The.Reckoning.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aeSRmXk1KB7Y9bZoZ2FixVjo8g677WWH",
+    "https://downloadwella.com/7j29uq5z5l7s/Sean.Combs.The.Reckoning.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eNDiBlYYp2SLVj_EXeHPu9KNSw7FcCQa"
   }
 }
