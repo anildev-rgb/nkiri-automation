@@ -769,6 +769,13 @@
       "modified": "2026-03-14T12:39:10",
       "completed_at": 1789060153,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/maxton-hall-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "145589|https://thenkiri.com/maxton-hall-s02-complete-tv-series/|2025-11-07T13:56:00|2025-11-28T09:56:47|{'rendered': 'Maxton Hall S02 (Episode 6 Added) | TV Series'}",
+      "modified": "2025-11-28T09:56:47",
+      "completed_at": 1789060774,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1456,6 +1463,10 @@
     "https://downloadwella.com/kek00u8pax4s/Stumble.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KTCS-z7TC9r9JZBYjN4gF0ZkNbE3NeMm",
     "https://downloadwella.com/s5bmmsgzvfo3/Stumble.S01E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iZ7g5z-PPqP3N2rzsgNTYJlskjS9Duap",
     "https://downloadwella.com/dbqrwklxdsmr/Stumble.S01E12.Downloaded.from.THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GetFOqV7g2d8b0gcKXg0clMxGy_VM8Tv",
-    "https://downloadwella.com/c9ho5king45l/Stumble.S01E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/10mai_V-GK9zMg6ZUCfls9aOg07qhAv1"
+    "https://downloadwella.com/c9ho5king45l/Stumble.S01E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/10mai_V-GK9zMg6ZUCfls9aOg07qhAv1",
+    "https://downloadwella.com/ngk8tukrsg1e/Maxton.Hall.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mQjYKxkhmRCiKH9LVjhijcKrY6Hs5eUt",
+    "https://downloadwella.com/69yn3y2fn39l/Maxton.Hall.S02E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z4jwXClk4mp-y4WFxthijMOiB15_xdhb",
+    "https://downloadwella.com/u3sqhb02108h/Maxton.Hall.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pQwK-Zl0nemd2kcUvAaMzovx6P9PAm-8",
+    "https://downloadwella.com/cp72zhw379ht/Maxton.Hall.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fHTUlZwuQDulpSCdgaogZWDywaxZD2Pk"
   }
 }
