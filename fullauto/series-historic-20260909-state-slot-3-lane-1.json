@@ -820,6 +820,13 @@
       "modified": "2026-05-04T08:50:01",
       "completed_at": 1789074468,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-last-frontier-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "143482|https://thenkiri.com/the-last-frontier-s01-complete-tv-series/|2025-10-10T13:59:00|2025-12-05T07:36:30|{'rendered': 'The Last Frontier S01 (Episode 10 Added) | TV Series'}",
+      "modified": "2025-12-05T07:36:30",
+      "completed_at": 1789075366,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1557,6 +1564,10 @@
     "https://downloadwella.com/bbndx4sk0f9n/Watson.S02E16.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0bbASvSVg_BdntNURkQd9OB7I91w7d-T",
     "https://downloadwella.com/ousiqb90e25q/Watson.S02E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sBoXSIyGhAcmoq4xgcc9ik3fTa2Jn0qM",
     "https://downloadwella.com/yjf8mgyid6ng/Watson.S02E19.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/enxrxqFN0q96eGWPcw6PprGHay05iG52",
-    "https://downloadwella.com/4hk74ym28i5q/Watson.S02E20.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DHzmQ49GDn_JCYhoGM643W2IEUbQEGKa"
+    "https://downloadwella.com/4hk74ym28i5q/Watson.S02E20.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DHzmQ49GDn_JCYhoGM643W2IEUbQEGKa",
+    "https://downloadwella.com/xf5ahqxgjd18/The.Last.Frontier.2025.S01E01.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/rBVV7U5aL3csKrtI9Jvgofn3c_6KSy3i",
+    "https://downloadwella.com/b1larx6lfrby/The.Last.Frontier.2025.S01E02.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/AGcgVp-L0Ww8t6TBqneEmnL2r8SFCVg_",
+    "https://downloadwella.com/6d4vr289gkcy/the.last.frontier.2025.s01e03.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/m0m-0bl5Pa2gpN2lB5YEMOcQ5kVY4MRa",
+    "https://downloadwella.com/w7njdzlxktbq/The.Last.Frontier.2025.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5It-RIiWBVc-XbyCeVEKt02wvNKfjpdg"
   }
 }
