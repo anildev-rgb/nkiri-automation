@@ -543,6 +543,13 @@
       "modified": "2026-05-20T08:23:27",
       "completed_at": 1789030768,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/malcolm-in-the-middle-lifes-still-unfair-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "154162|https://thenkiri.com/malcolm-in-the-middle-lifes-still-unfair-complete-tv-series/|2026-04-11T18:59:05|2026-04-11T18:59:05|{'rendered': 'Malcolm in the Middle: Life’s Still Unfair (Complete) | TV Series'}",
+      "modified": "2026-04-11T18:59:05",
+      "skipped_at": 1789031251,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
