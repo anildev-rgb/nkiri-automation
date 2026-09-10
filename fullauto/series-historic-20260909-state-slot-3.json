@@ -686,6 +686,13 @@
       "modified": "2026-02-10T07:20:24",
       "skipped_at": 1789047350,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/michael-jackson-the-trial-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "149758|https://thenkiri.com/michael-jackson-the-trial-s01-complete-tv-series/|2026-02-05T08:36:32|2026-02-13T10:35:01|{'rendered': 'Michael Jackson: The Trial S01 (Complete) | TV Series'}",
+      "modified": "2026-02-13T10:35:01",
+      "completed_at": 1789047590,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1324,6 +1331,9 @@
     "https://downloadwella.com/rhwao853wp63/Love.Is.Blind.S10E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n5GESgoRD0m-vC5hL0gPia_zhzOm2lCf",
     "https://downloadwella.com/fd7l78vm17j7/Love.Is.Blind.S10E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rRoStnnMvSKPeni_8LCxD__l59DTX8Gw",
     "https://downloadwella.com/d3upmuqz5hmh/Love.Is.Blind.S10E12.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eEdr4hN8YcIdIZ3OR1YNJCRNjhCSrWKm",
-    "https://downloadwella.com/nfhczgwducgk/Love.Is.Blind.S10E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/INpF68--q6KdzTA43ARhY1Y7_9sTCz8o"
+    "https://downloadwella.com/nfhczgwducgk/Love.Is.Blind.S10E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/INpF68--q6KdzTA43ARhY1Y7_9sTCz8o",
+    "https://downloadwella.com/ukzv8l03zsgi/Michael.Jackson.The.Trial.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zIkRj3HDrUQt2arVA_X3zCPaCKhp8YWN",
+    "https://downloadwella.com/wx70037zhjm0/Michael.Jackson.The.Trial.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IXyG6Pl6FTKnGoyRi763XDdiVt6u0J2d",
+    "https://downloadwella.com/svexe5v6sc62/Michael.Jackson.The.Trial.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YkmQM7gWigJgIuZ1zU2ZT-Kfat1qf479"
   }
 }
