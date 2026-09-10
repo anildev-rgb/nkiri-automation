@@ -700,6 +700,13 @@
       "modified": "2026-02-22T15:55:18",
       "completed_at": 1789047985,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/shrinking-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "149316|https://thenkiri.com/shrinking-s01-complete-tv-series/|2026-01-28T09:36:03|2026-04-08T08:55:21|{'rendered': 'Shrinking S03 (Episode 11 Added) | TV Series'}",
+      "modified": "2026-04-08T08:55:21",
+      "completed_at": 1789048665,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1342,6 +1349,11 @@
     "https://downloadwella.com/ukzv8l03zsgi/Michael.Jackson.The.Trial.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zIkRj3HDrUQt2arVA_X3zCPaCKhp8YWN",
     "https://downloadwella.com/wx70037zhjm0/Michael.Jackson.The.Trial.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IXyG6Pl6FTKnGoyRi763XDdiVt6u0J2d",
     "https://downloadwella.com/svexe5v6sc62/Michael.Jackson.The.Trial.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YkmQM7gWigJgIuZ1zU2ZT-Kfat1qf479",
-    "https://downloadwella.com/c5njytfwp2wo/Vanished.2026.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-40AbSpdw-LMVUPQAyIOjm1hQF4og0lZ"
+    "https://downloadwella.com/c5njytfwp2wo/Vanished.2026.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-40AbSpdw-LMVUPQAyIOjm1hQF4og0lZ",
+    "https://downloadwella.com/vxajqh4xfyt6/Shrinking.S03E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IqqNlsooZi32VOKuMss_nVuDOL1qxN5u",
+    "https://downloadwella.com/2ld1r7o4z5w2/Shrinking.S03E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PhZJT02S7xAsd0tNUqak7sB9qiZeLYqS",
+    "https://downloadwella.com/i9sbpu7v96dw/Shrinking.S03E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Yp9J_2SJgouFc6t3XLME-cHFhFz3jS91",
+    "https://downloadwella.com/uogeed9znftg/Shrinking.S03E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/A7DeS0bg1cfjinCaCMK76zKM2cyLpYOW",
+    "https://downloadwella.com/2oylay7m5dme/Shrinking.S03E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UOLCqWmH99d05mCGYziM5EHlYrAYEIvE"
   }
 }
