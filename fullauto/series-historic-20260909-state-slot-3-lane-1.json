@@ -848,6 +848,13 @@
       "modified": "2025-09-19T13:19:48",
       "skipped_at": 1789077101,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/futurama-s13-complete-tv-series/": {
+      "status": "partial",
+      "signature": "142221|https://thenkiri.com/futurama-s13-complete-tv-series/|2025-09-16T10:58:03|2025-09-16T10:58:03|{'rendered': 'Futurama S13 (Complete) | TV Series'}",
+      "modified": "2025-09-16T10:58:03",
+      "completed_at": 1789078073,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1592,6 +1599,8 @@
     "https://downloadwella.com/w7njdzlxktbq/The.Last.Frontier.2025.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5It-RIiWBVc-XbyCeVEKt02wvNKfjpdg",
     "https://downloadwella.com/9km07sqlc1tm/the.sisters.grimm.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8liusv4gTupIKU8nNllXkTKpN1XJCmKF",
     "https://downloadwella.com/wck9cf1tcyxs/The.Sisters.Grimm.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FiPuyg8f4xPlGi97XyfZL0ezYUEDHjEL",
-    "https://downloadwella.com/zq09cj2inmg0/The.Sisters.Grimm.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ku4GJJ94EBf5UdzazkWYo1PZH7p5hpGR"
+    "https://downloadwella.com/zq09cj2inmg0/The.Sisters.Grimm.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ku4GJJ94EBf5UdzazkWYo1PZH7p5hpGR",
+    "https://downloadwella.com/hl68ph0wdsrq/futurama.s13e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rp7HflCGWNFwy1YJxTxNtIGYTsPaxLbF",
+    "https://downloadwella.com/xw8dxpail3s1/futurama.s13e10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZUboMPwV1ynyWAs5Uu3Noq8BHlX86bOv"
   }
 }
