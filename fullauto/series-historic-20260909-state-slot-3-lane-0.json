@@ -803,6 +803,13 @@
       "modified": "2025-12-28T07:56:53",
       "completed_at": 1789067604,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/slow-horses-s03-and-s04-complete-tv-series/": {
+      "status": "partial",
+      "signature": "144325|https://thenkiri.com/slow-horses-s03-and-s04-complete-tv-series/|2025-10-21T13:00:02|2025-10-21T13:00:02|{'rendered': 'Slow Horses S03 and S04 (Complete) | TV Series'}",
+      "modified": "2025-10-21T13:00:02",
+      "completed_at": 1789068370,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1514,6 +1521,8 @@
     "https://downloadwella.com/siauxp3idomk/pb.s01e14.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qKyPprEl33n6qVQ39pDmkzOpa9ia_MVv",
     "https://downloadwella.com/rp8txmpa8zcu/pb.s01e17.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z8_OH_LhxHhWiy9nrgfwnr6XZ_OEDJD7",
     "https://downloadwella.com/jxm7tg8aw0rd/pb.s01e18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bCxxY_QmizInhLGafUfRGyazdKLfB3NX",
-    "https://downloadwella.com/5brwb8vyvdy8/Mayor.Of.Kingstown.S04E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6RMxOU4XvRIZHLN4OxyjGUmmKJoaW7gu"
+    "https://downloadwella.com/5brwb8vyvdy8/Mayor.Of.Kingstown.S04E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6RMxOU4XvRIZHLN4OxyjGUmmKJoaW7gu",
+    "https://downloadwella.com/82pxiy4zda63/Slow.Horses.S03E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/75SQELId93Uv8EY6IFIKfVpi92cyJ8RQ",
+    "https://downloadwella.com/4reqpy67kgme/Slow.Horses.S04E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dtbBdeIfgwCcl_KhP2uB_vYzpEVQzr6s"
   }
 }
