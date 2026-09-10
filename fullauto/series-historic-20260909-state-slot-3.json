@@ -442,6 +442,13 @@
       "modified": "2026-06-04T15:43:36",
       "completed_at": 1789015558,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/star-city-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "158044|https://thenkiri.com/star-city-s01-complete-tv-series/|2026-05-29T13:55:25|2026-07-10T10:04:45|{'rendered': 'Star City S01 (Episode 8 Added) | TV Series'}",
+      "modified": "2026-07-10T10:04:45",
+      "completed_at": 1789016658,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -823,6 +830,11 @@
     "https://downloadwella.com/0m7jwwb5dyn9/Two.Year.Later.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LvNmXA3pmTJxLbmzxjKttWTCrtTw2rMa",
     "https://downloadwella.com/rmlyvvuum5l7/Two.Year.Later.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/otDWTKVOH0XjYBdU3J3y4MWIv-VIK6r_",
     "https://downloadwella.com/v4vcduik0hyk/Two.Year.Later.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/v1RhZdfjPYIzU0MQ37hfBOVqM_1N8Nu1",
-    "https://downloadwella.com/k9x3bioej12w/Two.Year.Later.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xN5VaPMU5ko6lrvmMJa4bskQI6OlZSG0"
+    "https://downloadwella.com/k9x3bioej12w/Two.Year.Later.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xN5VaPMU5ko6lrvmMJa4bskQI6OlZSG0",
+    "https://downloadwella.com/i1yh2sao0veq/Star.City.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LFekLi7m6qh7g6v7kqaoSTFfli-lYD6L",
+    "https://downloadwella.com/n677tdh4eekn/Star.City.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6P_0XTFCVOjVX2iyvtc8iIdpyL8rbiid",
+    "https://downloadwella.com/mbnbggqqz4x5/Star.City.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YBB0QPF7vKpk9F9kyRZdRyUfy-WaXsdV",
+    "https://downloadwella.com/pkh96eycjnop/Star.City.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UnXxFMw9E5eKVD-ifRXYYcPRl4ofzTK0",
+    "https://downloadwella.com/eubdry7qq8kc/Star.City.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9t_v1XyTdj0C7kdSxDD6FoNufK9U7zgN"
   }
 }
