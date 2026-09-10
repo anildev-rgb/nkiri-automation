@@ -799,6 +799,13 @@
       "modified": "2025-10-22T14:34:15",
       "completed_at": 1789067362,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/spy-x-family-s02-complete-anime-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "144294|https://thenkiri.com/spy-x-family-s02-complete-anime-tv-series/|2025-10-21T09:20:49|2025-10-21T09:20:49|{'rendered': 'Spy x Family S02 (Complete) | Anime TV Series'}",
+      "modified": "2025-10-21T09:20:49",
+      "skipped_at": 1789067512,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
