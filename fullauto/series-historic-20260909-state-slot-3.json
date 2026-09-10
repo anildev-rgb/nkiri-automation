@@ -522,6 +522,13 @@
       "signature": "154995|https://thenkiri.com/unchosen-s01complete-tv-series-drama/|2026-04-21T12:00:41|2026-04-21T12:05:21|{'rendered': 'Unchosen S01(Complete) | Tv series Drama'}",
       "modified": "2026-04-21T12:05:21",
       "completed_at": 1789027215
+    },
+    "https://thenkiri.com/gotham-s03-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "154594|https://thenkiri.com/gotham-s03-complete-tv-series/|2026-04-18T09:53:21|2026-04-18T10:15:03|{'rendered': 'Gotham S03 (Complete) | TV Series'}",
+      "modified": "2026-04-18T10:15:03",
+      "skipped_at": 1789029381,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
