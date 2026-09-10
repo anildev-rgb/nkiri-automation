@@ -757,6 +757,13 @@
       "modified": "2025-12-10T07:25:31",
       "completed_at": 1789056873,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/bat-fam-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "145780|https://thenkiri.com/bat-fam-s01-complete-tv-series/|2025-11-12T08:36:21|2025-11-12T08:36:21|{'rendered': 'BAT-FAM S01 (Complete) | TV Series'}",
+      "modified": "2025-11-12T08:36:21",
+      "completed_at": 1789057997,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1422,6 +1429,11 @@
     "https://downloadwella.com/igtfjpa5rzlp/Bel-Air.S04E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Qf1WoJifgPlnZY8K7k_6PIYIMQ69OX0W",
     "https://downloadwella.com/z7m30fdq7ahg/Bel-Air.S04E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uUTlqtk8vSkQ2QUrqVZ4p5x6S3kg9ZWS",
     "https://downloadwella.com/ffe3schv291s/Bel-Air.S04E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4vE9V5EN5mt73itML9F-ofPPMHSZOOOH",
-    "https://downloadwella.com/qv7i5p6nifys/Bel-Air.S04E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q-Wa7Hf3OcjnEYl67Wln5es5Xs-6vUnr"
+    "https://downloadwella.com/qv7i5p6nifys/Bel-Air.S04E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q-Wa7Hf3OcjnEYl67Wln5es5Xs-6vUnr",
+    "https://downloadwella.com/1j0q3z2wscg3/BAT-FAM.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u5GGseHopgdSJhSrTvUR789WhwgvmHzr",
+    "https://downloadwella.com/reo86zevef59/BAT-FAM.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VMDyJXRGasMF-FaiChjopc1XSfbAC_Un",
+    "https://downloadwella.com/mi49h8slrolo/BAT-FAM.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/clhohR5vf-xijCHYPQW0CXc-n-jR5uHz",
+    "https://downloadwella.com/mpeboh2hp784/BAT-FAM.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zYlfcjGpa1aewgzVFbmvkUKVpluPVP7u",
+    "https://downloadwella.com/l7o0s6z1h359/BAT-FAM.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/g7i5qia-cSy9vv3sMcHY8mKcGOWWHfj1"
   }
 }
