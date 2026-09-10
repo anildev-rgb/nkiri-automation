@@ -855,6 +855,13 @@
       "modified": "2025-09-16T10:58:03",
       "completed_at": 1789078073,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-paper-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "141776|https://thenkiri.com/the-paper-s01-complete-tv-series/|2025-09-05T08:25:16|2025-09-05T08:25:16|{'rendered': 'The Paper S01 (Complete) | TV Series'}",
+      "modified": "2025-09-05T08:25:16",
+      "completed_at": 1789080024,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1601,6 +1608,12 @@
     "https://downloadwella.com/wck9cf1tcyxs/The.Sisters.Grimm.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FiPuyg8f4xPlGi97XyfZL0ezYUEDHjEL",
     "https://downloadwella.com/zq09cj2inmg0/The.Sisters.Grimm.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ku4GJJ94EBf5UdzazkWYo1PZH7p5hpGR",
     "https://downloadwella.com/hl68ph0wdsrq/futurama.s13e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rp7HflCGWNFwy1YJxTxNtIGYTsPaxLbF",
-    "https://downloadwella.com/xw8dxpail3s1/futurama.s13e10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZUboMPwV1ynyWAs5Uu3Noq8BHlX86bOv"
+    "https://downloadwella.com/xw8dxpail3s1/futurama.s13e10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZUboMPwV1ynyWAs5Uu3Noq8BHlX86bOv",
+    "https://downloadwella.com/qhquoswls1ek/The.Paper.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vOweI8ftTiMDpyvK4BZUj95faXN-jrbn",
+    "https://downloadwella.com/6yi0kxzstvbe/The.Paper.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oWMN4we2o3txFfVpgP11kr2v6tM0oYXk",
+    "https://downloadwella.com/rsrqhvah725g/The.Paper.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RS1n6G_wI8rV4XB8KmIlW9WeGa8LuBeS",
+    "https://downloadwella.com/hizw13ql7a4l/The.Paper.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pY7BkVPs0lQKNuBm3zx8GFMNl7S1YYfU",
+    "https://downloadwella.com/3esexgs6nvq2/The.Paper.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UUtGYnd5w65KE_7gT-aqCyflZ8HYR8pE",
+    "https://downloadwella.com/i0jf74u1q4ub/The.Paper.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zVmD1-wUuHcRpixT_H05E6_u8nm2NmBS"
   }
 }
