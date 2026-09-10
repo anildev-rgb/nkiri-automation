@@ -576,6 +576,13 @@
       "signature": "153140|https://thenkiri.com/the-rookie-s02-complete-tv-series-2/|2026-03-28T11:59:22|2026-03-28T12:00:34|{'rendered': 'The Rookie S03 (Complete) | TV Series'}",
       "modified": "2026-03-28T12:00:34",
       "completed_at": 1789035741
+    },
+    "https://thenkiri.com/bait-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "152943|https://thenkiri.com/bait-s01-complete-tv-series/|2026-03-25T15:00:20|2026-03-25T15:00:33|{'rendered': 'Bait S01 (Complete) | TV Series'}",
+      "modified": "2026-03-25T15:00:33",
+      "completed_at": 1789036524,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1111,6 +1118,10 @@
     "https://downloadwella.com/o4slchukngrn/The.Rookie.S03E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wE7RtRublZxjqep6sxwymsf7BgKi8zZk",
     "https://downloadwella.com/dmml6t7sx8jt/The.Rookie.S03E14.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jyiXOav2bmldXa2DrogOlaDwDEBSVq0A",
     "https://downloadwella.com/0dcerqtnwdfn/For.All.Mankind.S05E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z7b5mmmk0FzSRn1dks7ORvlyeMy-8MR7",
-    "https://downloadwella.com/iuss2hcka0eg/For.All.Mankind.S05E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jBRpu7u-uV4KkA4iqATRcPQvjlnHP9KN"
+    "https://downloadwella.com/iuss2hcka0eg/For.All.Mankind.S05E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jBRpu7u-uV4KkA4iqATRcPQvjlnHP9KN",
+    "https://downloadwella.com/7v2jd1h97hiw/Bait.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UIrgSy5BE6EZqGT0wHkCJ0LmRaQdvDYW",
+    "https://downloadwella.com/bs5yj4p95xf8/Bait.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hB-lT4aXIeqjUHclBip9hq2qv88Yk6ga",
+    "https://downloadwella.com/tfw00ta5c0vg/Bait.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-02yIQvP7ZZmkG1pPiZ9hHhqegeOutRO",
+    "https://downloadwella.com/si7by8thf1x0/Bait.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ozv5GzmJ45GhAvKrpHbdjQ_VlAe3YBQz"
   }
 }
