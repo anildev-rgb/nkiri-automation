@@ -556,6 +556,13 @@
       "signature": "153796|https://thenkiri.com/kabul-s01-complete-tv-series/|2026-04-06T19:22:26|2026-04-06T19:23:12|{'rendered': 'Kabul S01 (Complete) | TV Series'}",
       "modified": "2026-04-06T19:23:12",
       "completed_at": 1789031579
+    },
+    "https://thenkiri.com/xo-kitty-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "153526|https://thenkiri.com/xo-kitty-s03-complete-tv-series/|2026-04-02T11:49:09|2026-04-02T11:49:09|{'rendered': 'XO, Kitty S03 (Complete) | TV Series'}",
+      "modified": "2026-04-02T11:49:09",
+      "completed_at": 1789032401,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1052,6 +1059,13 @@
     "https://downloadwella.com/m89hvdrw76k9/Kabul.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/G4YjxUxH9wCwrnvSn0U-xGdJdC7h1sJj",
     "https://downloadwella.com/82l8zpv2f4mk/Kabul.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hyUd93J0iBP2nToRRhhBiE0_BMbMWTnz",
     "https://downloadwella.com/0x7dxa9b9kaq/Kabul.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TPsSY1fxS48jbjHqmCOqdPmdKs88Sq4M",
-    "https://downloadwella.com/k764a66axasw/Kabul.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/emKORypImcIr9zd02wXRGvc4ac4FXFsU"
+    "https://downloadwella.com/k764a66axasw/Kabul.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/emKORypImcIr9zd02wXRGvc4ac4FXFsU",
+    "https://downloadwella.com/9ofnividqa3v/XO.Kitty.S03E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CjHVZ2DtlRMeQXhapLSyFNjEz0B9gCxO",
+    "https://downloadwella.com/o7rxl3wqjzmi/XO.Kitty.S03E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/13u2UOKPeftnVChIRE3OZGC381UvrrMR",
+    "https://downloadwella.com/cku8pzl7ry9l/XO.Kitty.S03E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pVsNuyJ7U4tqORf9WPnnZjbwzMC_Y8Jq",
+    "https://downloadwella.com/5hwwd230ux9j/XO.Kitty.S03E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kcsYWvM9x1YSHuA7Qj5S0sBGH7Phv4Un",
+    "https://downloadwella.com/zk2esuvzu0hp/XO.Kitty.S03E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/r_pdL0n2kJFGhq75_KyNGfwdVwTIHzhR",
+    "https://downloadwella.com/qmwd4uwd3uld/XO.Kitty.S03E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9TgY450rtsxrVYf1iwAnfq6tBRoKrVKf",
+    "https://downloadwella.com/veb3ryjtg9m5/XO.Kitty.S03E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4cw_u-5NEJUeT10etE6kA0JKI3WxpGj3"
   }
 }
