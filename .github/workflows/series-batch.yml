@@ -54,6 +54,10 @@ jobs:
       - name: Ensure FFmpeg is available for filename and metadata cleanup
         run: |
           if ! command -v ffmpeg >/dev/null 2>&1; then
+            # The hosted Ubuntu image sometimes has a stale Chrome APT index.
+            # Chrome is not used by this worker, and removing that temporary
+            # source keeps the required FFmpeg install independent of it.
+            sudo rm -f /etc/apt/sources.list.d/google-chrome.list
             sudo apt-get update
             sudo apt-get install -y ffmpeg
           fi
