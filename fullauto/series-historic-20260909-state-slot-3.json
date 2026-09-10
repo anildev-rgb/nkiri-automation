@@ -402,6 +402,13 @@
       "modified": "2026-07-02T07:34:45",
       "completed_at": 1789010279,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/avatar-the-last-airbender-s02-complete-tv-series-2/": {
+      "status": "partial",
+      "signature": "160204|https://thenkiri.com/avatar-the-last-airbender-s02-complete-tv-series-2/|2026-06-25T09:49:32|2026-06-25T09:49:32|{'rendered': 'Avatar: The Last Airbender S02 (Complete) | TV Series'}",
+      "modified": "2026-06-25T09:49:32",
+      "completed_at": 1789010701,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -743,6 +750,8 @@
     "https://downloadwella.com/ws578e8oaqev/Elle.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dyQ_yhKetoHIvquvLmlzYW-15OgfhQ0L",
     "https://downloadwella.com/v6bnwlivrpk8/Elle.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7Hb3lPuqc-1XZgfqF2abTLX14VJMDwY0",
     "https://downloadwella.com/pjtwtqjtdy82/Elle.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/i4f5eZgqVM3GqSat-2ZtBUWf0-ujC-HW",
-    "https://downloadwella.com/c6f23nsv7hj0/Elle.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sL7fr_lHmtuOH6uXFZehWjjAbzaqc4e1"
+    "https://downloadwella.com/c6f23nsv7hj0/Elle.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sL7fr_lHmtuOH6uXFZehWjjAbzaqc4e1",
+    "https://downloadwella.com/93jkpvdb4oum/Avatar.The.Last.Airbender.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GvY6KE_flBhg1zbifxtbtxnfzTzgrHKn",
+    "https://downloadwella.com/ukt3tqk4bjll/Avatar.The.Last.Airbender.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bP3wxrZNv-6bLpFEGs_e7yX08YX2HlnX"
   }
 }
