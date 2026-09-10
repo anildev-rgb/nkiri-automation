@@ -314,10 +314,10 @@
       "completed_at": 1788859227
     },
     "https://thenkiri.com/for-all-man-kind-s05-complete-tv-series/": {
-      "status": "pending",
+      "status": "done",
       "signature": "153069|https://thenkiri.com/for-all-man-kind-s05-complete-tv-series/|2026-03-27T15:46:58|2026-05-29T09:09:18|{'rendered': 'For All ManKind S05 (Complete) | TV Series'}",
-      "attempts": 2,
-      "last_attempt": 1788867953.2770412
+      "modified": "2026-05-29T09:09:18",
+      "completed_at": 1789035957
     },
     "https://thenkiri.com/ted-complete-tv-series-s02-complete-tv-series/": {
       "status": "pending",
@@ -1109,6 +1109,8 @@
     "https://downloadwella.com/juwv66x2u67f/The.Rookie.S03E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TFiHWm_Aj4Oi6nxNYt1En0IPSs5-sAVh",
     "https://downloadwella.com/t79z9kgin3un/The.Rookie.S03E12.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZfpKNG70DhH-srlsRqPwjPStPXj5hEbP",
     "https://downloadwella.com/o4slchukngrn/The.Rookie.S03E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wE7RtRublZxjqep6sxwymsf7BgKi8zZk",
-    "https://downloadwella.com/dmml6t7sx8jt/The.Rookie.S03E14.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jyiXOav2bmldXa2DrogOlaDwDEBSVq0A"
+    "https://downloadwella.com/dmml6t7sx8jt/The.Rookie.S03E14.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jyiXOav2bmldXa2DrogOlaDwDEBSVq0A",
+    "https://downloadwella.com/0dcerqtnwdfn/For.All.Mankind.S05E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z7b5mmmk0FzSRn1dks7ORvlyeMy-8MR7",
+    "https://downloadwella.com/iuss2hcka0eg/For.All.Mankind.S05E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jBRpu7u-uV4KkA4iqATRcPQvjlnHP9KN"
   }
 }
