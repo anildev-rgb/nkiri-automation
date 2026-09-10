@@ -611,6 +611,13 @@
       "modified": "2026-03-10T11:01:08",
       "completed_at": 1789039288,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/vladimir-complete-tv-series/": {
+      "status": "partial",
+      "signature": "151504|https://thenkiri.com/vladimir-complete-tv-series/|2026-03-05T13:04:05|2026-05-05T08:07:00|{'rendered': 'Vladimir (Complete) | TV Series'}",
+      "modified": "2026-05-05T08:07:00",
+      "completed_at": 1789039770,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1173,6 +1180,13 @@
     "https://downloadwella.com/ixv47an9xjz5/Agents.of.Mystery.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/H7nD1DfkUQxbpuv60jPXC7YUrCm2RqU8",
     "https://downloadwella.com/07fccflm9ozk/Agents.of.Mystery.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PhhvRbR_L-sheesmq69BCSQedzRWOyxm",
     "https://downloadwella.com/mcktt37jputj/Agents.of.Mystery.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dTmxkd8njcsx7TvuuJBoZ0k2zx2O0Dru",
-    "https://downloadwella.com/br80wf637b9u/Agents.of.Mystery.S02E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VxgI960dVTxTSTp90vvbjFLZWMtCfGzl"
+    "https://downloadwella.com/br80wf637b9u/Agents.of.Mystery.S02E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VxgI960dVTxTSTp90vvbjFLZWMtCfGzl",
+    "https://downloadwella.com/40rdeir4i75u/Vladimir.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mHnDVmjYBiH9kkx-e2_2UfNvbzAvfdYm",
+    "https://downloadwella.com/3oz83zxjrocc/Vladimir.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/D7XQbEwMWGuDLt7FU4OMHPIUnNhvlYsm",
+    "https://downloadwella.com/2p072rtzgawi/Vladimir.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/47uDcQDVxoP7gaAEz83gcvIeIFitxa0-",
+    "https://downloadwella.com/gd7lt469yedf/Vladimir.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W8oqPAP65LhVbJFAD-bwd1-DANaxyl0u",
+    "https://downloadwella.com/4p4igx63pe1j/Vladimir.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kIXSqZYXAJUkd_GoFSXJvlVxzv-tNEyk",
+    "https://downloadwella.com/f1vvlzctcfm6/Vladimir.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/98qlBRDgMrxJzdIPzNeN2ycj_VPI0JXF",
+    "https://downloadwella.com/8xg13pggwakx/Vladimir.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q8Yi1a19JgOHxoWbIL-LIciHlPvxKym6"
   }
 }
