@@ -735,6 +735,13 @@
       "modified": "2026-01-08T14:50:12",
       "completed_at": 1789053820,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/amadeus-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "148125|https://thenkiri.com/amadeus-s01-complete-tv-series/|2025-12-28T17:30:15|2026-05-29T13:56:57|{'rendered': 'Amadeus S01 (Complete) | TV Series'}",
+      "modified": "2026-05-29T13:56:57",
+      "skipped_at": 1789053932,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
