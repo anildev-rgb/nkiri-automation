@@ -35,6 +35,14 @@ jobs:
           gh api "repos/${GITHUB_REPOSITORY}/actions/workflows/series-batch.yml/runs?status=in_progress&per_page=100" > "$active_json"
           gh api "repos/${GITHUB_REPOSITORY}/actions/workflows/series-batch.yml/runs?status=queued&per_page=100" > "$queued_json"
 
+          # During the one-time upgrade, an already-running workflow has the
+          # former generic title and owns one of this account's two shards.
+          # Wait for it to finish rather than guessing its lane and duplicating it.
+          if jq -e '.workflow_runs[] | select(.display_title == "Nkiri English series queue worker")' "$active_json" "$queued_json" >/dev/null; then
+            echo 'Legacy single-lane run is still active; rescue will check again next cycle.'
+            exit 0
+          fi
+
           for lane in 0 1; do
             title="English series slot ${REPO_SLOT} lane ${lane}"
             if jq -e --arg title "$title" '.workflow_runs[] | select(.display_title == $title)' "$active_json" "$queued_json" >/dev/null; then
