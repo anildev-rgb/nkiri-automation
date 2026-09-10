@@ -618,6 +618,13 @@
       "modified": "2026-05-05T08:07:00",
       "completed_at": 1789039770,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/under-salt-mash-complete-tv-series/": {
+      "status": "partial",
+      "signature": "151350|https://thenkiri.com/under-salt-mash-complete-tv-series/|2026-03-03T12:22:39|2026-03-03T12:22:39|{'rendered': 'Under Salt Mash (Episode 1 – 6 Added) | TV Series'}",
+      "modified": "2026-03-03T12:22:39",
+      "completed_at": 1789040179,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1187,6 +1194,11 @@
     "https://downloadwella.com/gd7lt469yedf/Vladimir.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W8oqPAP65LhVbJFAD-bwd1-DANaxyl0u",
     "https://downloadwella.com/4p4igx63pe1j/Vladimir.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kIXSqZYXAJUkd_GoFSXJvlVxzv-tNEyk",
     "https://downloadwella.com/f1vvlzctcfm6/Vladimir.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/98qlBRDgMrxJzdIPzNeN2ycj_VPI0JXF",
-    "https://downloadwella.com/8xg13pggwakx/Vladimir.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q8Yi1a19JgOHxoWbIL-LIciHlPvxKym6"
+    "https://downloadwella.com/8xg13pggwakx/Vladimir.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q8Yi1a19JgOHxoWbIL-LIciHlPvxKym6",
+    "https://downloadwella.com/z6gsisl9h38e/Under.Salt.Marsh.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FfTKKqQmLrb8d9NQ_-aWprZPVZjblgrb",
+    "https://downloadwella.com/4upk2jezexoa/Under.Salt.Marsh.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/D_t_0mJQHHJwV97-u91_MQLMcQUzs4lc",
+    "https://downloadwella.com/cqod1ys92h3t/Under.Salt.Marsh.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SzCyhGmd5EAoRU3tl991dJw2mX_F1coR",
+    "https://downloadwella.com/97eqj6prbrmp/Under.Salt.Marsh.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PBcK1qx9W-oCO3ugR1QbJ_rUWUkgMxA5",
+    "https://downloadwella.com/c3clzolsovrr/Under.Salt.Marsh.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NNUVFcQcWalN2WDyo7INMmg9VETdiDPi"
   }
 }
