@@ -320,10 +320,10 @@
       "completed_at": 1789035957
     },
     "https://thenkiri.com/ted-complete-tv-series-s02-complete-tv-series/": {
-      "status": "pending",
+      "status": "done",
       "signature": "152020|https://thenkiri.com/ted-complete-tv-series-s02-complete-tv-series/|2026-03-12T13:19:26|2026-03-12T13:21:28|{'rendered': 'ted S02 (Complete) | TV Series'}",
-      "attempts": 1,
-      "last_attempt": 1788870086.0649064
+      "modified": "2026-03-12T13:21:28",
+      "completed_at": 1789038629
     },
     "https://thenkiri.com/ride-or-die-s01-complete-tv-series/": {
       "status": "blocked",
@@ -1158,6 +1158,7 @@
     "https://downloadwella.com/n4o15iawiu9y/Fatal.Seduction.S03E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VO3mdKh_kG9Oe4iMkLk_cRJFohumrkO3",
     "https://downloadwella.com/70l9o4nbdf4v/Fatal.Seduction.S03E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/53BOiFwM1HLd3UToIOluZ6H5nSHXTTSm",
     "https://downloadwella.com/8snp399xevfl/Fatal.Seduction.S03E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/03a4MVd1_R79jn4N5rWojsh57l7iUBkH",
-    "https://downloadwella.com/k3955el7e4zl/Fatal.Seduction.S03E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tU8O3IEdCbTkfuHePvgA527QVwLicCZX"
+    "https://downloadwella.com/k3955el7e4zl/Fatal.Seduction.S03E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tU8O3IEdCbTkfuHePvgA527QVwLicCZX",
+    "https://downloadwella.com/etnf0fz0m2gb/ted.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-irA1NYVCdsU3gGoUV2MaTihuyUcl7hP"
   }
 }
