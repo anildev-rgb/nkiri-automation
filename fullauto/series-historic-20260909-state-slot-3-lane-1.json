@@ -834,6 +834,13 @@
       "modified": "2025-10-03T09:58:55",
       "completed_at": 1789076467,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/billionaires-bunker-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "142663|https://thenkiri.com/billionaires-bunker-s01-complete-tv-series/|2025-09-25T09:17:44|2025-09-25T09:17:44|{'rendered': 'Billionaires Bunker S01 (Complete) | TV Series'}",
+      "modified": "2025-09-25T09:17:44",
+      "skipped_at": 1789076634,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
