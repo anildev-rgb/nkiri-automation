@@ -728,6 +728,13 @@
       "modified": "2026-01-16T07:20:40",
       "completed_at": 1789050430,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/star-trek-starfleet-academy-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "148714|https://thenkiri.com/star-trek-starfleet-academy-s01-complete-tv-series/|2026-01-15T09:52:10|2026-03-12T06:55:31|{'rendered': 'Star Trek: Starfleet Academy S01 (Episode 10 Added) | TV Series'}",
+      "modified": "2026-03-12T06:55:31",
+      "completed_at": 1789051393,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1385,6 +1392,7 @@
     "https://downloadwella.com/v8thz1hc9lx2/Drops.of.God.2023.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jOM95wQ938mB0ApxNjb0Lp3B7JFu9OA3",
     "https://downloadwella.com/6i7rj8oyhj2y/Drops.of.God.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BQ-3sh2CNqt5meCcrBMsB7nDDj3uiETc",
     "https://downloadwella.com/qlcn1tfmesj0/Drops.of.God.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-rayUwoL1X9bRsfTmfZo3qxvX3Sgzf8J",
-    "https://downloadwella.com/0xewpj8psey2/Agatha.Christies.Seven.Dials.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L64JoTBvrs9UUq1MpmULxDVDO4H-mouf"
+    "https://downloadwella.com/0xewpj8psey2/Agatha.Christies.Seven.Dials.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L64JoTBvrs9UUq1MpmULxDVDO4H-mouf",
+    "https://downloadwella.com/e8706u9s0tvy/star.trek.starfleet.academy.s01e02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RoP2d4QDrEjjdN--M4rKH-410XAhWxb9"
   }
 }
