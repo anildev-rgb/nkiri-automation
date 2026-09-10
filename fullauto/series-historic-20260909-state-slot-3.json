@@ -435,6 +435,13 @@
       "signature": "158839|https://thenkiri.com/the-vampire-lestat-s01-complete-tv-series/|2026-06-07T12:18:36|2026-07-19T08:56:43|{'rendered': 'The Vampire Lestat S01 (Episode 7 Added) | TV Series'}",
       "modified": "2026-07-19T08:56:43",
       "completed_at": 1789014703
+    },
+    "https://thenkiri.com/two-years-later-complete-tv-series/": {
+      "status": "partial",
+      "signature": "158608|https://thenkiri.com/two-years-later-complete-tv-series/|2026-06-04T15:42:49|2026-06-04T15:43:36|{'rendered': 'Two Years Later (Complete ) | TV Series'}",
+      "modified": "2026-06-04T15:43:36",
+      "completed_at": 1789015558,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -812,6 +819,10 @@
     "https://downloadwella.com/wdit8480ozi1/The.Vampire.Lestat.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/v4b3-gSQN4qcn2KbaL_3WI10q4jazav4",
     "https://downloadwella.com/v1mrxqlupisf/The.Vampire.Lestat.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yt_u4hSCixaZZUEyTY8A4WxlR_17MObM",
     "https://downloadwella.com/rkyq0dxkr3b0/The.Vampire.Lestat.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zEBbeZuuA4VMmpcnAX4RteADD4C68rpd",
-    "https://downloadwella.com/c4p3e3aa95mf/The.Vampire.Lestat.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Nj0fqLFgu9VHbwFlF-ax-YpMdyiDAvod"
+    "https://downloadwella.com/c4p3e3aa95mf/The.Vampire.Lestat.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Nj0fqLFgu9VHbwFlF-ax-YpMdyiDAvod",
+    "https://downloadwella.com/0m7jwwb5dyn9/Two.Year.Later.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LvNmXA3pmTJxLbmzxjKttWTCrtTw2rMa",
+    "https://downloadwella.com/rmlyvvuum5l7/Two.Year.Later.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/otDWTKVOH0XjYBdU3J3y4MWIv-VIK6r_",
+    "https://downloadwella.com/v4vcduik0hyk/Two.Year.Later.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/v1RhZdfjPYIzU0MQ37hfBOVqM_1N8Nu1",
+    "https://downloadwella.com/k9x3bioej12w/Two.Year.Later.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xN5VaPMU5ko6lrvmMJa4bskQI6OlZSG0"
   }
 }
