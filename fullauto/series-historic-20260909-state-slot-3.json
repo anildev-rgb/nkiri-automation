@@ -672,6 +672,13 @@
       "signature": "150232|https://thenkiri.com/the-borderline-s01-complete-tv-series/|2026-02-14T14:48:44|2026-04-06T18:51:40|{'rendered': 'The Borderline S01 (Complete) | TV Series'}",
       "modified": "2026-04-06T18:51:40",
       "completed_at": 1789046311
+    },
+    "https://thenkiri.com/love-is-blind-s10-complete-tv-series/": {
+      "status": "partial",
+      "signature": "150113|https://thenkiri.com/love-is-blind-s10-complete-tv-series/|2026-02-12T10:22:17|2026-03-12T12:15:16|{'rendered': 'Love is Blind S10 (Episode 11 -13 Added) | TV Series'}",
+      "modified": "2026-03-12T12:15:16",
+      "completed_at": 1789047078,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1299,6 +1306,17 @@
     "https://downloadwella.com/lqma0ox2jcra/The.Borderline.S01E03(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ozN5Z9rnWZqsbRvPK6dTro_PMLTTkOaA",
     "https://downloadwella.com/lwrdoqqsv5he/The.Borderline.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BXJhL7F60edTs42pkByuJyiuwWd2sa2b",
     "https://downloadwella.com/plfaj3hlxr7x/The.Borderline.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-t9MuZtxb4Ktj0XXC_zumNPeH7kv56Lr",
-    "https://downloadwella.com/vahnvpz9mwx1/The.Borderline.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ai4m85x4BPyc48zvKtGs5oDWjb3FPPEG"
+    "https://downloadwella.com/vahnvpz9mwx1/The.Borderline.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ai4m85x4BPyc48zvKtGs5oDWjb3FPPEG",
+    "https://downloadwella.com/233p1e9schf8/Love.Is.Blind.S10E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XZeqkLe2F56ikwiQBSGoXKorREmWLnpc",
+    "https://downloadwella.com/8z9ds2kgov9b/Love.Is.Blind.S10E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CXbuNlxkYDK0dzuaiGqItJStrBGZJ5jB",
+    "https://downloadwella.com/e718pw7qbul8/Love.Is.Blind.S10E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/K5lTcseqg8zTmrsnoLSYGA0rpVm6fflX",
+    "https://downloadwella.com/dyl5l5qsxk10/Love.Is.Blind.S10E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/E1hn7SGnyjTiynXu9z8w_p0g8E7Xrvbr",
+    "https://downloadwella.com/q4l9h8d19x1f/Love.Is.Blind.S10E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tEOykRH3j3LIx7sUN9GAQtsvCT0h0jJX",
+    "https://downloadwella.com/nd2hmpaojxpq/Love.Is.Blind.S10E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tHjwZrrsEX7uxnOraqMk49FiRW-2twAr",
+    "https://downloadwella.com/dfgatpxllbeg/Love.Is.Blind.S10E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WPxFBHeHtchnAl4kDzvqkbXPEOXC6nBI",
+    "https://downloadwella.com/rhwao853wp63/Love.Is.Blind.S10E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n5GESgoRD0m-vC5hL0gPia_zhzOm2lCf",
+    "https://downloadwella.com/fd7l78vm17j7/Love.Is.Blind.S10E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rRoStnnMvSKPeni_8LCxD__l59DTX8Gw",
+    "https://downloadwella.com/d3upmuqz5hmh/Love.Is.Blind.S10E12.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eEdr4hN8YcIdIZ3OR1YNJCRNjhCSrWKm",
+    "https://downloadwella.com/nfhczgwducgk/Love.Is.Blind.S10E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/INpF68--q6KdzTA43ARhY1Y7_9sTCz8o"
   }
 }
