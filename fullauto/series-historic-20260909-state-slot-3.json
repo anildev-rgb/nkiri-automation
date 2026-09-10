@@ -625,6 +625,13 @@
       "modified": "2026-03-03T12:22:39",
       "completed_at": 1789040179,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/scrubs-complete-tv-series/": {
+      "status": "partial",
+      "signature": "151078|https://thenkiri.com/scrubs-complete-tv-series/|2026-02-26T15:29:35|2026-04-16T15:10:19|{'rendered': 'Scrubs (Complete) | TV Series'}",
+      "modified": "2026-04-16T15:10:19",
+      "completed_at": 1789040678,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1199,6 +1206,14 @@
     "https://downloadwella.com/4upk2jezexoa/Under.Salt.Marsh.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/D_t_0mJQHHJwV97-u91_MQLMcQUzs4lc",
     "https://downloadwella.com/cqod1ys92h3t/Under.Salt.Marsh.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SzCyhGmd5EAoRU3tl991dJw2mX_F1coR",
     "https://downloadwella.com/97eqj6prbrmp/Under.Salt.Marsh.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PBcK1qx9W-oCO3ugR1QbJ_rUWUkgMxA5",
-    "https://downloadwella.com/c3clzolsovrr/Under.Salt.Marsh.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NNUVFcQcWalN2WDyo7INMmg9VETdiDPi"
+    "https://downloadwella.com/c3clzolsovrr/Under.Salt.Marsh.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NNUVFcQcWalN2WDyo7INMmg9VETdiDPi",
+    "https://downloadwella.com/1o6e2hj0cju0/Scrubs.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IjtOmXCIGhgbRXdskZMmLDy0y_6yE5Ac",
+    "https://downloadwella.com/dpj7z82pk1oa/Scrubs.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aJQMdGlN51dEOCCQOj7Yn_33AYaqzqgd",
+    "https://downloadwella.com/gn1knxxmo5c8/Scrubs.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BwaqLo8O5juSsmqMrZuZMTIzkieB2Ojm",
+    "https://downloadwella.com/t21l6kfomjpw/Scrubs.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ISL89sQ_Y5EWQvgAvnfw-z6bwR-iuXfy",
+    "https://downloadwella.com/9hjal0g8k2yg/Scrubs.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AI437JQH0NYIA2a06g8QICBDQ9zG-1Yt",
+    "https://downloadwella.com/fdoe76icnrv4/Scrubs.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wMeL1gkuoOA35zEJjrpMRkXJMNcE7tp8",
+    "https://downloadwella.com/lvxvc6mbbq7v/Scrubs.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eeWxBJb1VY1t0OsbUUXGaQEwtBzbOWNN",
+    "https://downloadwella.com/qbgi6wpc1dvq/Scrubs.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/D0ziBQtuLx2U2h8pWvyyhIcFAaApgrEc"
   }
 }
