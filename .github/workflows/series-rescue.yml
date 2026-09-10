@@ -1,0 +1,51 @@
+name: Nkiri English series lane rescue
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: read
+
+concurrency:
+  group: nkiri-series-lane-rescue-${{ github.repository }}
+  cancel-in-progress: true
+
+jobs:
+  rescue:
+    runs-on: ubuntu-slim
+    timeout-minutes: 5
+    env:
+      GH_TOKEN: ${{ github.token }}
+      REPO_SLOT: ${{ vars.NKIRI_REPO_SLOT }}
+    steps:
+      - name: Restart any missing lane
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ ! "$REPO_SLOT" =~ ^[0-3]$ ]]; then
+            echo 'Repository variable NKIRI_REPO_SLOT must be 0-3.'
+            exit 1
+          fi
+
+          active_json=$(mktemp)
+          queued_json=$(mktemp)
+          gh api "repos/${GITHUB_REPOSITORY}/actions/workflows/series-batch.yml/runs?status=in_progress&per_page=100" > "$active_json"
+          gh api "repos/${GITHUB_REPOSITORY}/actions/workflows/series-batch.yml/runs?status=queued&per_page=100" > "$queued_json"
+
+          for lane in 0 1; do
+            title="English series slot ${REPO_SLOT} lane ${lane}"
+            if jq -e --arg title "$title" '.workflow_runs[] | select(.display_title == $title)' "$active_json" "$queued_json" >/dev/null; then
+              echo "Healthy: ${title} already active or queued"
+              continue
+            fi
+
+            jq -n --arg slot "$REPO_SLOT" --arg lane "$lane" \
+              '{ref:"main",inputs:{repo_slot:$slot,lane:$lane,limit:"1"}}' |
+              gh api --method POST \
+                "repos/${GITHUB_REPOSITORY}/actions/workflows/series-batch.yml/dispatches" \
+                --input -
+            echo "Rescued: ${title}"
+          done
