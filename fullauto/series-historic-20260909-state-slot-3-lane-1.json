@@ -827,6 +827,13 @@
       "modified": "2025-12-05T07:36:30",
       "completed_at": 1789075366,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-sisters-grimm-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "143073|https://thenkiri.com/the-sisters-grimm-s01-complete-tv-series/|2025-10-03T09:58:55|2025-10-03T09:58:55|{'rendered': 'The Sisters Grimm S01 (Complete) | TV Series'}",
+      "modified": "2025-10-03T09:58:55",
+      "completed_at": 1789076467,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1568,6 +1575,9 @@
     "https://downloadwella.com/xf5ahqxgjd18/The.Last.Frontier.2025.S01E01.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/rBVV7U5aL3csKrtI9Jvgofn3c_6KSy3i",
     "https://downloadwella.com/b1larx6lfrby/The.Last.Frontier.2025.S01E02.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/AGcgVp-L0Ww8t6TBqneEmnL2r8SFCVg_",
     "https://downloadwella.com/6d4vr289gkcy/the.last.frontier.2025.s01e03.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/m0m-0bl5Pa2gpN2lB5YEMOcQ5kVY4MRa",
-    "https://downloadwella.com/w7njdzlxktbq/The.Last.Frontier.2025.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5It-RIiWBVc-XbyCeVEKt02wvNKfjpdg"
+    "https://downloadwella.com/w7njdzlxktbq/The.Last.Frontier.2025.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5It-RIiWBVc-XbyCeVEKt02wvNKfjpdg",
+    "https://downloadwella.com/9km07sqlc1tm/the.sisters.grimm.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8liusv4gTupIKU8nNllXkTKpN1XJCmKF",
+    "https://downloadwella.com/wck9cf1tcyxs/The.Sisters.Grimm.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FiPuyg8f4xPlGi97XyfZL0ezYUEDHjEL",
+    "https://downloadwella.com/zq09cj2inmg0/The.Sisters.Grimm.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ku4GJJ94EBf5UdzazkWYo1PZH7p5hpGR"
   }
 }
