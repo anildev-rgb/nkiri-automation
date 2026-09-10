@@ -771,6 +771,13 @@
       "modified": "2025-11-06T14:27:35",
       "completed_at": 1789058800,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/robin-hood-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "145282|https://thenkiri.com/robin-hood-s01-complete-tv-series/|2025-11-02T12:36:37|2025-12-28T08:08:12|{'rendered': 'Robin Hood S01 (Episode 10 Added) | TV Series'}",
+      "modified": "2025-12-28T08:08:12",
+      "completed_at": 1789060454,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1445,6 +1452,13 @@
     "https://downloadwella.com/frtsbi3eq5qw/The.Bad.Guys.Breaking.In.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bir8RgmyjIMstfENk6VTIoG7XRuIDMhq",
     "https://downloadwella.com/vgwoyf596ar6/The.Bad.Guys.Breaking.In.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/50CfIcf549EhSzsq4ulPdPj4-hpQWHSB",
     "https://downloadwella.com/krxdu5hxwk70/The.Bad.Guys.Breaking.In.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ytzzq7jEUAFVb6H4w2QM9sCmmGDFl-X2",
-    "https://downloadwella.com/txvn13qe8hgi/The.Bad.Guys.Breaking.In.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KeZnJ4NyUwcWzm_lmBQfreLepohcyTuZ"
+    "https://downloadwella.com/txvn13qe8hgi/The.Bad.Guys.Breaking.In.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KeZnJ4NyUwcWzm_lmBQfreLepohcyTuZ",
+    "https://downloadwella.com/5eel7jpdzz8v/robin.hood.2025.s01e02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ne5rLVIXsotRtCRJLKdA2324OSZjRWwL",
+    "https://downloadwella.com/x3h4np5naqk5/Robin.Hood.2025.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bk8f-shDq20TjFpwEgpD0cqP-Ykj3zuW",
+    "https://downloadwella.com/wxh2s0eoalzz/Robin.Hood.2025.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dJBjjwgFR3M3P8FRmADu1yg-SdtbsuMF",
+    "https://downloadwella.com/c6xa9n1vyotn/Robin.Hood.2025.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LafLukjaGHNBfYD7lxnryM7Q3El2wuRR",
+    "https://downloadwella.com/yhmk28ii1ei8/Robin.Hood.2025.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GFOg5Cwj3Yeqze4cPvVKbJvvVC_4fjQ5",
+    "https://downloadwella.com/g5be08koqq3k/Robin.Hood.2025.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u0_q1tRXdMYPeyU-XYDtD6DxTNxPfgrX",
+    "https://downloadwella.com/xmt8jx78q9q9/Robin.Hood.2025.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L3ZRuDslxAzkwi6UFUY1WON4wTYF0Iv9"
   }
 }
