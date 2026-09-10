@@ -395,6 +395,13 @@
       "modified": "2026-07-08T12:00:07",
       "completed_at": 1788975157,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/elle-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "160682|https://thenkiri.com/elle-s01-complete-tv-series/|2026-07-01T14:50:10|2026-07-02T07:34:45|{'rendered': 'Elle S01 (Complete) | TV Series'}",
+      "modified": "2026-07-02T07:34:45",
+      "completed_at": 1789010279,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -730,6 +737,12 @@
     "https://downloadwella.com/u2r81rggt4hd/Saga.of.Tanya.the.Evil.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MbXG2qp7A3BiORmDcs0l3-vmVrnGj0lG",
     "https://downloadwella.com/xq66evri9t7y/Saga.of.Tanya.the.Evil.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZUB2I-W1Os_3zuTOfPOcLydjKT5-5r_3",
     "https://downloadwella.com/m9jgzq31wrnr/Saga.of.Tanya.the.Evil.S01E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Sxx2TgWeaGfuG5M1_7OTZ8GSQvxQEQYS",
-    "https://downloadwella.com/qywjku8i4epc/Saga.of.Tanya.the.Evil.S01E12.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ey5WSXMJCHYQW88pwi9sC5Ya64j0CT14"
+    "https://downloadwella.com/qywjku8i4epc/Saga.of.Tanya.the.Evil.S01E12.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ey5WSXMJCHYQW88pwi9sC5Ya64j0CT14",
+    "https://downloadwella.com/rmekr6ltwpr8/Elle.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WyR-Y-Cbx0GLaM1PG2T6svVCK-GrWdd-",
+    "https://downloadwella.com/9ajo6o1zal5e/Elle.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9ZuVfzafTlwyiLUHQBFlz1iNLD-T83lP",
+    "https://downloadwella.com/ws578e8oaqev/Elle.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dyQ_yhKetoHIvquvLmlzYW-15OgfhQ0L",
+    "https://downloadwella.com/v6bnwlivrpk8/Elle.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7Hb3lPuqc-1XZgfqF2abTLX14VJMDwY0",
+    "https://downloadwella.com/pjtwtqjtdy82/Elle.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/i4f5eZgqVM3GqSat-2ZtBUWf0-ujC-HW",
+    "https://downloadwella.com/c6f23nsv7hj0/Elle.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sL7fr_lHmtuOH6uXFZehWjjAbzaqc4e1"
   }
 }
