@@ -583,6 +583,13 @@
       "modified": "2026-03-25T15:00:33",
       "completed_at": 1789036524,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/unicorn-academy-secrets-revealed-s01-complete-anime-tv-series/": {
+      "status": "partial",
+      "signature": "152655|https://thenkiri.com/unicorn-academy-secrets-revealed-s01-complete-anime-tv-series/|2026-03-20T14:01:07|2026-03-20T14:05:11|{'rendered': 'Unicorn Academy: Secrets Revealed S01 (Complete) | TV Series'}",
+      "modified": "2026-03-20T14:05:11",
+      "completed_at": 1789037244,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1122,6 +1129,8 @@
     "https://downloadwella.com/7v2jd1h97hiw/Bait.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UIrgSy5BE6EZqGT0wHkCJ0LmRaQdvDYW",
     "https://downloadwella.com/bs5yj4p95xf8/Bait.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hB-lT4aXIeqjUHclBip9hq2qv88Yk6ga",
     "https://downloadwella.com/tfw00ta5c0vg/Bait.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-02yIQvP7ZZmkG1pPiZ9hHhqegeOutRO",
-    "https://downloadwella.com/si7by8thf1x0/Bait.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ozv5GzmJ45GhAvKrpHbdjQ_VlAe3YBQz"
+    "https://downloadwella.com/si7by8thf1x0/Bait.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ozv5GzmJ45GhAvKrpHbdjQ_VlAe3YBQz",
+    "https://downloadwella.com/n950poxtbgbe/Unicorn.Academy.Secrets.Revealed.S01E03%60.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/p-QyNpBRMWkXUu_BIc-iJjTNs3lvWcDB",
+    "https://downloadwella.com/8nqoj0uti6t1/Unicorn.Academy.Secrets.Revealed.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u5QPykOSEEVFCJAiJr3W75ZH2VGz2TRI"
   }
 }
