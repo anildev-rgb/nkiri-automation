@@ -775,6 +775,13 @@
       "signature": "145589|https://thenkiri.com/maxton-hall-s02-complete-tv-series/|2025-11-07T13:56:00|2025-11-28T09:56:47|{'rendered': 'Maxton Hall S02 (Episode 6 Added) | TV Series'}",
       "modified": "2025-11-28T09:56:47",
       "completed_at": 1789061892
+    },
+    "https://thenkiri.com/the-forsytes-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "145360|https://thenkiri.com/the-forsytes-s01-complete-tv-series/|2025-11-04T10:28:43|2025-11-22T16:36:40|{'rendered': 'The Forsytes S01 (Episode 6 Added) | TV Series'}",
+      "modified": "2025-11-22T16:36:40",
+      "completed_at": 1789062992,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1468,6 +1475,8 @@
     "https://downloadwella.com/u3sqhb02108h/Maxton.Hall.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SkB8SgWjhHXZixUf9FjCgmQDG2jPqIRP",
     "https://downloadwella.com/cp72zhw379ht/Maxton.Hall.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-nYqsZRWz8D_A6AW_XcgXC7q9ynw6It1",
     "https://downloadwella.com/uskr3ij6e4b1/Maxton.Hall.The.World.Between.Us.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1hx55Lge5KzRPlKmHvwJaa5-ZUzbq0Gq",
-    "https://downloadwella.com/67dscop4oniq/Maxton.Hall.The.World.Between.Us.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LUY2C9rAiLJBX2Ol7nUzL4FY2Y4CnIhw"
+    "https://downloadwella.com/67dscop4oniq/Maxton.Hall.The.World.Between.Us.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LUY2C9rAiLJBX2Ol7nUzL4FY2Y4CnIhw",
+    "https://downloadwella.com/05l15hssy3l1/the.forsytes.s01e04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ubyg_tZv_KFhuwAvF70WQimTx14SM_WR",
+    "https://downloadwella.com/iz334ravrlbv/the.forsytes.s01e06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jfXrqTivi9jCRYxe9QXjU92u2PHoqIQ2"
   }
 }
