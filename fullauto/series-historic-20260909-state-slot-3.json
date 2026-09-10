@@ -590,6 +590,13 @@
       "modified": "2026-03-20T14:05:11",
       "completed_at": 1789037244,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-hunt-s01-complete-foreign-tv-series/": {
+      "status": "partial",
+      "signature": "152555|https://thenkiri.com/the-hunt-s01-complete-foreign-tv-series/|2026-03-19T08:04:48|2026-04-01T15:09:04|{'rendered': 'The Hunt S01 (Episode 6 Added) | Foreign TV Series'}",
+      "modified": "2026-04-01T15:09:04",
+      "completed_at": 1789037561,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1131,6 +1138,9 @@
     "https://downloadwella.com/tfw00ta5c0vg/Bait.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-02yIQvP7ZZmkG1pPiZ9hHhqegeOutRO",
     "https://downloadwella.com/si7by8thf1x0/Bait.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ozv5GzmJ45GhAvKrpHbdjQ_VlAe3YBQz",
     "https://downloadwella.com/n950poxtbgbe/Unicorn.Academy.Secrets.Revealed.S01E03%60.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/p-QyNpBRMWkXUu_BIc-iJjTNs3lvWcDB",
-    "https://downloadwella.com/8nqoj0uti6t1/Unicorn.Academy.Secrets.Revealed.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u5QPykOSEEVFCJAiJr3W75ZH2VGz2TRI"
+    "https://downloadwella.com/8nqoj0uti6t1/Unicorn.Academy.Secrets.Revealed.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u5QPykOSEEVFCJAiJr3W75ZH2VGz2TRI",
+    "https://downloadwella.com/arj71zmdxln2/The.Hunt.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/__k6AjYSK0UiN24vGr4NsRER_WROre97",
+    "https://downloadwella.com/n2d0faro6x81/The.Hunt.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ASUDbq9fNQ6wImJnuSl9xa4_FgwBgGyc",
+    "https://downloadwella.com/1uwxy9dtckqs/The.Hunt.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PueMPqrizp4ClWxSrucHB1hos3diuCoh"
   }
 }
