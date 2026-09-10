@@ -468,6 +468,13 @@
       "signature": "157452|https://thenkiri.com/skymed-s04-complete-tv-series/|2026-05-21T12:46:36|2026-06-17T16:40:23|{'rendered': 'SkyMed S04 (Complete) | TV Series'}",
       "modified": "2026-06-17T16:40:23",
       "completed_at": 1789019711
+    },
+    "https://thenkiri.com/soul-mate-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "156974|https://thenkiri.com/soul-mate-s01-complete-tv-series/|2026-05-14T17:54:19|2026-05-16T14:37:26|{'rendered': 'Soul Mate S01 (Episode 2 Fixed)  | TV Series'}",
+      "modified": "2026-05-16T14:37:26",
+      "completed_at": 1789021219,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -887,6 +894,12 @@
     "https://downloadwella.com/wkw6qcy13ozl/Sky.Med.S04E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LprQFKtBeXKCdUkpDXrWOKGXdA-giGKr",
     "https://downloadwella.com/pz9j8n3wqgcf/Sky.Med.S04E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/of59zHBAz-ZQ7mhYewg3ZAKCKQ67t4sV",
     "https://downloadwella.com/nxjoeo2rqwbk/Sky.Med.S04E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gdY4XQlbgA389WxTAk9KCJ_irf2tmTYK",
-    "https://downloadwella.com/2ayhkhs8xpdt/Sky.Med.S04E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lw4hPQohGNayeKKwfTTPYNt1-pwx86fw"
+    "https://downloadwella.com/2ayhkhs8xpdt/Sky.Med.S04E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lw4hPQohGNayeKKwfTTPYNt1-pwx86fw",
+    "https://downloadwella.com/xoebth9becvu/Soul.Mate.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3Ea9xUqXzv-K2LW8_gjX9nKxoloZWtfO",
+    "https://downloadwella.com/hpu8e877hsw5/Soul.Mate.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/usJXhl-_FBXbFvpnAjBSbOZJVH6P5yzl",
+    "https://downloadwella.com/mjyx1odoube5/Soul.Mate.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ybx3ni09Pf6qhDBJGxqR99WyKvEkzFmQ",
+    "https://downloadwella.com/vw7opiksboz1/Soul.Mate.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Dfi1xq6lRsRZWaFvQMeMBn460Xvi7uJd",
+    "https://downloadwella.com/zi88udseq31s/Soul.Mate.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lizfnpGc5TKDiCy1sTjbeZFOZFH15u7j",
+    "https://downloadwella.com/mjxs2ih6nkqi/Soul.Mate.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VCgMjIGw6ra08KTj6Sft_Dg49SzADEdX"
   }
 }
