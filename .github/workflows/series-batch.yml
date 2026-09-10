@@ -1,4 +1,5 @@
 name: Nkiri English series queue worker
+run-name: English series slot ${{ inputs.repo_slot }} lane ${{ inputs.lane || '0' }}
 
 on:
   workflow_dispatch:
@@ -6,6 +7,11 @@ on:
       repo_slot:
         description: Four-account slot (0-3)
         required: true
+        type: string
+      lane:
+        description: Independent runner lane within this account (0-1)
+        required: false
+        default: '0'
         type: string
       limit:
         description: Seasons per run (start with one for safe episode-heavy series)
@@ -18,16 +24,16 @@ permissions:
   contents: write
 
 concurrency:
-  # A season can contain many episode files. Keep exactly one series worker
-  # active for each repository and let it persist every uploaded episode URL.
-  group: nkiri-series-queue-${{ github.repository }}
+  # Each account owns two disjoint modulo-8 shards. Only the same lane is
+  # serialized; lane 0 and lane 1 use separate runners and state files.
+  group: nkiri-series-queue-${{ github.repository }}-${{ inputs.lane || '0' }}
   cancel-in-progress: false
 
 jobs:
   series-batch:
-    name: English series repository slot ${{ inputs.repo_slot }}
+    name: English series repository slot ${{ inputs.repo_slot }} lane ${{ inputs.lane || '0' }}
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 150
     env:
       NKIRI_URL: https://nkiri.vip
       NKIRI_API_TOKEN: ${{ secrets.NKIRI_API_TOKEN }}
@@ -37,6 +43,7 @@ jobs:
       NKIRI_MIN_FREE_GB: '4'
       PYTHONUNBUFFERED: '1'
       REPO_SLOT: ${{ inputs.repo_slot }}
+      LANE: ${{ inputs.lane || '0' }}
       BATCH_LIMIT: ${{ inputs.limit }}
 
     steps:
@@ -47,8 +54,13 @@ jobs:
 
       - name: Reclaim disposable runner space
         run: |
-          timeout 75s sudo rm -rf /usr/local/lib/android /usr/share/dotnet /opt/ghc /opt/hostedtoolcache/CodeQL || true
-          timeout 20s sudo docker system prune -af --volumes >/dev/null 2>&1 || true
+          free_gb=$(df --output=avail -BG . | tail -1 | tr -dc '0-9')
+          if [ "${free_gb:-0}" -lt 25 ]; then
+            timeout 75s sudo rm -rf /usr/local/lib/android /usr/share/dotnet /opt/ghc /opt/hostedtoolcache/CodeQL || true
+            timeout 20s sudo docker system prune -af --volumes >/dev/null 2>&1 || true
+          else
+            echo "Skipping cleanup: ${free_gb} GB already free"
+          fi
           df -h .
 
       - name: Ensure FFmpeg is available for filename and metadata cleanup
@@ -80,15 +92,21 @@ jobs:
           from pathlib import Path
 
           slot = int(os.environ['REPO_SLOT'])
+          lane = int(os.environ['LANE'])
           limit = int(os.environ.get('BATCH_LIMIT') or '1')
           if slot < 0 or slot >= 4:
               raise SystemExit('repo_slot must be 0-3')
-          state_path = Path(f'fullauto/series-historic-20260909-state-slot-{slot}.json')
+          if lane < 0 or lane >= 2:
+              raise SystemExit('lane must be 0-1')
+          shard = slot + (lane * 4)
+          state_path = Path(f'fullauto/series-historic-20260909-state-slot-{slot}-lane-{lane}.json')
           # Carry forward earlier English-series attempts so this new queue
           # does not download a season that is already terminal.
           if not state_path.exists():
               seed = {'processed': {}, 'series_links': {}}
-              for legacy_path in Path('fullauto').glob('state-english-series*.json'):
+              legacy_paths = list(Path('fullauto').glob('state-english-series*.json'))
+              legacy_paths.append(Path(f'fullauto/series-historic-20260909-state-slot-{slot}.json'))
+              for legacy_path in legacy_paths:
                   try:
                       legacy = json.loads(legacy_path.read_text(encoding='utf-8'))
                   except (OSError, ValueError, TypeError):
@@ -113,16 +131,16 @@ jobs:
               for position, row in enumerate(csv.DictReader(fh)):
                   url = (row.get('source_url') or '').strip()
                   title = (row.get('title') or row.get('name') or '').strip()
-                  if position % 4 == slot and url and title and not terminal(processed.get(url)):
+                  if position % 8 == shard and url and title and not terminal(processed.get(url)):
                       rows.append(row)
           selected = rows[:limit]
           if not selected:
-              raise SystemExit(f'No unfinished English-series seasons remain for slot {slot}')
+              raise SystemExit(f'No unfinished English-series seasons remain for slot {slot} lane {lane}')
           with Path('/tmp/series-batch.csv').open('w', encoding='utf-8', newline='') as fh:
               writer = csv.DictWriter(fh, fieldnames=selected[0].keys())
               writer.writeheader()
               writer.writerows(selected)
-          print(f'assigned_slot={slot}/4')
+          print(f'assigned_slot={slot}/4 lane={lane}/2 global_shard={shard}/8')
           print(f'untouched_seasons_before_run={len(rows)}')
           for row in selected:
               print(f"selected_season={(row.get('title') or row.get('name') or '').strip()}")
@@ -136,7 +154,7 @@ jobs:
           python fullauto/nkiri_agent.py \
             --once \
             --queue-file /tmp/series-batch.csv \
-            --state-file "fullauto/series-historic-20260909-state-slot-${REPO_SLOT}.json" \
+            --state-file "fullauto/series-historic-20260909-state-slot-${REPO_SLOT}-lane-${LANE}.json" \
             --limit "${BATCH_LIMIT}" \
             --no-sync 2>&1 | tee /tmp/series-batch.log
           agent_exit=${PIPESTATUS[0]}
@@ -149,14 +167,14 @@ jobs:
         run: |
           git config user.name "nkiri-automation[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          local_state="${GITHUB_WORKSPACE}/fullauto/series-historic-20260909-state-slot-${REPO_SLOT}.json"
+          local_state="${GITHUB_WORKSPACE}/fullauto/series-historic-20260909-state-slot-${REPO_SLOT}-lane-${LANE}.json"
           cp "$local_state" /tmp/nkiri-series-local-state.json
 
           for attempt in 1 2 3 4 5; do
             worktree="/tmp/nkiri-series-state-sync-${GITHUB_RUN_ID}-${attempt}"
             git fetch origin main
             git worktree add --detach "$worktree" origin/main
-            python3 - "$worktree/fullauto/series-historic-20260909-state-slot-${REPO_SLOT}.json" /tmp/nkiri-series-local-state.json <<'PY'
+            python3 - "$worktree/fullauto/series-historic-20260909-state-slot-${REPO_SLOT}-lane-${LANE}.json" /tmp/nkiri-series-local-state.json <<'PY'
           import json
           import sys
           from pathlib import Path
@@ -175,12 +193,12 @@ jobs:
               merged[key] = {**(remote.get(key) or {}), **(local.get(key) or {})}
           remote_path.write_text(json.dumps(merged, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
           PY
-            git -C "$worktree" add "fullauto/series-historic-20260909-state-slot-${REPO_SLOT}.json"
+            git -C "$worktree" add "fullauto/series-historic-20260909-state-slot-${REPO_SLOT}-lane-${LANE}.json"
             if git -C "$worktree" diff --cached --quiet; then
               git worktree remove "$worktree"
               exit 0
             fi
-            git -C "$worktree" commit -m "Record English series queue batch ${REPO_SLOT}"
+            git -C "$worktree" commit -m "Record English series queue slot ${REPO_SLOT} lane ${LANE}"
             if git -C "$worktree" push origin HEAD:main; then
               git worktree remove "$worktree"
               exit 0
@@ -202,7 +220,9 @@ jobs:
           from pathlib import Path
 
           slot = int(os.environ['REPO_SLOT'])
-          state_path = Path(f'fullauto/series-historic-20260909-state-slot-{slot}.json')
+          lane = int(os.environ['LANE'])
+          shard = slot + (lane * 4)
+          state_path = Path(f'fullauto/series-historic-20260909-state-slot-{slot}-lane-{lane}.json')
           try:
               processed = json.loads(state_path.read_text(encoding='utf-8')).get('processed') or {}
           except (OSError, ValueError, TypeError):
@@ -218,9 +238,9 @@ jobs:
               for position, row in enumerate(csv.DictReader(fh)):
                   url = (row.get('source_url') or '').strip()
                   title = (row.get('title') or row.get('name') or '').strip()
-                  if position % 4 == slot and url and title and not terminal(processed.get(url)):
+                  if position % 8 == shard and url and title and not terminal(processed.get(url)):
                       remaining += 1
-          print(f'queued_seasons_remaining={remaining}')
+          print(f'queued_seasons_remaining_for_lane={remaining}')
           with Path(os.environ['GITHUB_OUTPUT']).open('a', encoding='utf-8') as fh:
               fh.write(f'remaining={remaining}\n')
           PY
@@ -236,16 +256,16 @@ jobs:
             -H "Authorization: Bearer $GH_TOKEN" \
             -H "X-GitHub-Api-Version: 2022-11-28" \
             "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/workflows/series-batch.yml/dispatches" \
-            -d "{\"ref\":\"main\",\"inputs\":{\"repo_slot\":\"${REPO_SLOT}\",\"limit\":\"${BATCH_LIMIT}\"}}"
-          echo 'Queued one next English-series season after this runner exited.'
+            -d "{\"ref\":\"main\",\"inputs\":{\"repo_slot\":\"${REPO_SLOT}\",\"lane\":\"${LANE}\",\"limit\":\"${BATCH_LIMIT}\"}}"
+          echo "Queued the next English-series season for slot ${REPO_SLOT} lane ${LANE}."
 
       - name: Upload batch evidence
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: nkiri-series-queue-${{ github.run_id }}
+          name: nkiri-series-slot-${{ inputs.repo_slot }}-lane-${{ inputs.lane || '0' }}-${{ github.run_id }}
           path: |
             /tmp/series-batch.log
             /tmp/series-batch.csv
-            fullauto/series-historic-20260909-state-slot-${{ inputs.repo_slot }}.json
+            fullauto/series-historic-20260909-state-slot-${{ inputs.repo_slot }}-lane-${{ inputs.lane || '0' }}.json
           if-no-files-found: ignore
