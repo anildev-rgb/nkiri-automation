@@ -693,6 +693,13 @@
       "modified": "2026-02-13T10:35:01",
       "completed_at": 1789047590,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/vanished-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "149496|https://thenkiri.com/vanished-s01-complete-tv-series/|2026-02-01T20:23:35|2026-02-22T15:55:18|{'rendered': 'Vanished S01 (Episode 4 Added) | TV Series'}",
+      "modified": "2026-02-22T15:55:18",
+      "completed_at": 1789047985,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1334,6 +1341,7 @@
     "https://downloadwella.com/nfhczgwducgk/Love.Is.Blind.S10E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/INpF68--q6KdzTA43ARhY1Y7_9sTCz8o",
     "https://downloadwella.com/ukzv8l03zsgi/Michael.Jackson.The.Trial.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zIkRj3HDrUQt2arVA_X3zCPaCKhp8YWN",
     "https://downloadwella.com/wx70037zhjm0/Michael.Jackson.The.Trial.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IXyG6Pl6FTKnGoyRi763XDdiVt6u0J2d",
-    "https://downloadwella.com/svexe5v6sc62/Michael.Jackson.The.Trial.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YkmQM7gWigJgIuZ1zU2ZT-Kfat1qf479"
+    "https://downloadwella.com/svexe5v6sc62/Michael.Jackson.The.Trial.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YkmQM7gWigJgIuZ1zU2ZT-Kfat1qf479",
+    "https://downloadwella.com/c5njytfwp2wo/Vanished.2026.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-40AbSpdw-LMVUPQAyIOjm1hQF4og0lZ"
   }
 }
