@@ -1125,6 +1125,13 @@
       "modified": "2024-10-25T10:26:48",
       "skipped_at": 1789164338,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/tell-me-lies-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "120806|https://thenkiri.com/tell-me-lies-s02-complete-tv-series/|2024-09-05T07:15:29|2024-10-16T07:06:17|{'rendered': 'Tell Me Lies S02 (Episode 8 Added) | TV Series'}",
+      "modified": "2024-10-16T07:06:17",
+      "skipped_at": 1789164673,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
