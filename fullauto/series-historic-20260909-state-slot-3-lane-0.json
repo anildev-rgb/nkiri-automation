@@ -824,6 +824,13 @@
       "modified": "2025-11-19T07:33:23",
       "completed_at": 1789074269,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/matlock-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "143690|https://thenkiri.com/matlock-s02-complete-tv-series/|2025-10-13T11:01:40|2026-04-27T10:15:40|{'rendered': 'Matlock S02 (Episode 12 – 16 Added) | TV Series'}",
+      "modified": "2026-04-27T10:15:40",
+      "completed_at": 1789085072,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1564,6 +1571,11 @@
     "https://downloadwella.com/7tsq878kcjrt/Matlock.2024.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/umTbWweCcJl9vxkd0MOWaHEy7z1-Ee53",
     "https://downloadwella.com/zjollrrlwb4f/Matlock.2024.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1F6KGMFQ8gtyiz4wbvRMujUa8lvpj2sU",
     "https://downloadwella.com/xw6x5nrzb7dd/Matlock.S02E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BU66xT6Oy9dp-xw5XjAlW40aLU9PUlfS",
-    "https://downloadwella.com/94r0u9ivbbvu/Matlock.2024.S02E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FDPyYQz1WJqLWOYBrgmsTYlAuVFOGsqa"
+    "https://downloadwella.com/94r0u9ivbbvu/Matlock.2024.S02E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FDPyYQz1WJqLWOYBrgmsTYlAuVFOGsqa",
+    "https://downloadwella.com/g8y3shgi1946/Matlock.2024.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZMKhBy1_GQ0H64e6Xew-bKJVxUILjmc7",
+    "https://downloadwella.com/2wbvxsoen43r/Matlock.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uebDA3J8DYNMmGrXpGjYhIT_uNePJHfK",
+    "https://downloadwella.com/mzpc40zn0kqi/Matlock.S02E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vYuzSJOKhfHExm6LuDiIm-UaA0HY08oy",
+    "https://downloadwella.com/1nh7yss3rx0j/Matlock.S02E12.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MTkyEUDx7WSTYTA-daZrF7OWQWg5GEFY",
+    "https://downloadwella.com/z0ni9682bzxk/Matlock.S02E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uPZ9-FvVGq4iVkMSe43tAJy-Nd0Zic5B"
   }
 }
