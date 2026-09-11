@@ -1076,6 +1076,13 @@
       "modified": "2024-11-13T07:53:29",
       "completed_at": 1789151901,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/its-florida-man-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "123916|https://thenkiri.com/its-florida-man-s01-complete-tv-series/|2024-10-26T13:38:21|2024-11-23T19:25:11|{'rendered': 'It’s Florida, Man S01 (Episode 6 Added) | TV Series'}",
+      "modified": "2024-11-23T19:25:11",
+      "completed_at": 1789152563,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2047,6 +2054,9 @@
     "https://downloadwella.com/97466llt7xug/Harley.Quinn.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1YqVAtD9bdhr-GQKUf2c3SOPKmKBNXAx",
     "https://downloadwella.com/pjbfxnkcdyo0/Harley.Quinn.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XphtcQc-4PTzlfnk3tg7dAFHl8Fxm81F",
     "https://downloadwella.com/o3kzw3ebfmbd/Harley.Quinn.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/klZ_wdKEDnSvP4hF8FlnBHNybKoMwQ7W",
-    "https://downloadwella.com/ue6avj7bqci3/Harley.Quinn.S01E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u7dkVvghbdUTiCPrAEmjYZbpJTIg2bc-"
+    "https://downloadwella.com/ue6avj7bqci3/Harley.Quinn.S01E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u7dkVvghbdUTiCPrAEmjYZbpJTIg2bc-",
+    "https://downloadwella.com/5765yay00o9m/Its.florida.man.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3CwEhOGm6bUm7D1bLvoQOkNN4P7xoASB",
+    "https://downloadwella.com/axu0kj0lfvpr/Its.florida.man.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/I2U4lv8BYPseaVulaf8KhEeZRVhjDkV0",
+    "https://downloadwella.com/mav42sb88co5/Its.florida.man.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-C2YqGVLOOc1ng3cdm6sx4v_hW_zcU_t"
   }
 }
