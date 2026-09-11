@@ -1024,6 +1024,13 @@
       "signature": "130555|https://thenkiri.com/paradise-s01-complete-tv-series/|2025-01-27T10:17:55|2025-03-04T12:25:59|{'rendered': 'Paradise S01 (Episode 8 Added) | TV Series'}",
       "modified": "2025-03-04T12:25:59",
       "completed_at": 1789134425
+    },
+    "https://thenkiri.com/the-crow-girl-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "130257|https://thenkiri.com/the-crow-girl-s01-complete-tv-series/|2025-01-21T12:11:20|2025-01-21T12:11:20|{'rendered': 'The Crow Girl S01 (Complete) | TV Series'}",
+      "modified": "2025-01-21T12:11:20",
+      "completed_at": 1789136325,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1942,6 +1949,11 @@
     "https://downloadwella.com/ef5o9tmoq6pq/Paradise.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/09vFA63iqpGFkjmZ9WFCX5NJTNB_PqV-",
     "https://downloadwella.com/p6wlhdm7gxbt/Paradise.2025.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MhtDWZVdLxJKgVU7hq7xke5VOYCfePdx",
     "https://downloadwella.com/hwuef5tnw5rk/paradise.2025.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/t03zCfDDISl7cTsdIjJmXXZdLDfioDI-",
-    "https://downloadwella.com/czhmgiazzj6e/paradise.2025.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6mV1iNcj_K6QwkM21QYOmPg4WyMDQPmJ"
+    "https://downloadwella.com/czhmgiazzj6e/paradise.2025.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6mV1iNcj_K6QwkM21QYOmPg4WyMDQPmJ",
+    "https://downloadwella.com/71p7ktw9cndy/The.Crow.Girl.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jhdasm49kC36HfF8dnWsZZc_EStGKZWp",
+    "https://downloadwella.com/9a34dtao9zua/The.Crow.Girl.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bHj_ND9QcX2WKRAysLov7a-4pwC6mEoZ",
+    "https://downloadwella.com/f08h0mdxgv4t/The.Crow.Girl.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/svvSH8zuk8DNnEUgdhnjx8U0I7voMkh6",
+    "https://downloadwella.com/9awivnmnfhkn/The.Crow.Girl.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bjaUBvTYoJ9P1QWdK9cieaDXieuEKuov",
+    "https://downloadwella.com/s9f37zpkk864/The.Crow.Girl.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/csRYH5v8Poj8K8jh98HTbTpm2FMyV9WX"
   }
 }
