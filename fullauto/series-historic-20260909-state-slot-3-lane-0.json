@@ -838,6 +838,13 @@
       "modified": "2025-10-09T09:20:43",
       "skipped_at": 1789085175,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/billy-the-kid-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "142858|https://thenkiri.com/billy-the-kid-s03-complete-tv-series/|2025-09-29T08:55:41|2025-11-23T08:28:24|{'rendered': 'Billy the Kid S03 (Complete) | TV Series'}",
+      "modified": "2025-11-23T08:28:24",
+      "completed_at": 1789086038,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1583,6 +1590,9 @@
     "https://downloadwella.com/2wbvxsoen43r/Matlock.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uebDA3J8DYNMmGrXpGjYhIT_uNePJHfK",
     "https://downloadwella.com/mzpc40zn0kqi/Matlock.S02E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vYuzSJOKhfHExm6LuDiIm-UaA0HY08oy",
     "https://downloadwella.com/1nh7yss3rx0j/Matlock.S02E12.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MTkyEUDx7WSTYTA-daZrF7OWQWg5GEFY",
-    "https://downloadwella.com/z0ni9682bzxk/Matlock.S02E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uPZ9-FvVGq4iVkMSe43tAJy-Nd0Zic5B"
+    "https://downloadwella.com/z0ni9682bzxk/Matlock.S02E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uPZ9-FvVGq4iVkMSe43tAJy-Nd0Zic5B",
+    "https://downloadwella.com/6eleyg7je85y/Billy.The.Kid.2022.S03E03.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/XpgPo3snk2xsmvgLj_XSDSevFSdHXVO6",
+    "https://downloadwella.com/9v0dox1qaerf/Billy.The.Kid.2022.S03E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wRpmWJRLRPnZls4CY3UmfyBcEsnJxQNJ",
+    "https://downloadwella.com/dptwto1nxfye/Billy.The.Kid.2022.S03E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/F1Y_elohY2hs3Nhyl-PpLA_XN9OuflpE"
   }
 }
