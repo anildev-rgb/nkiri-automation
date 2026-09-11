@@ -948,6 +948,13 @@
       "modified": "2025-05-02T09:43:32",
       "completed_at": 1789113089,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/etoile-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "134931|https://thenkiri.com/etoile-s01-complete-tv-series/|2025-04-24T12:56:04|2025-04-25T07:09:06|{'rendered': 'Etoile S01 (Complete) | TV Series'}",
+      "modified": "2025-04-25T07:09:06",
+      "completed_at": 1789114522,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1793,6 +1800,13 @@
     "https://downloadwella.com/twx6nt4hp07f/The.Eternaut.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JAeVsOCHJUaWFXhICxLF0Ih_f3pAOn-8",
     "https://downloadwella.com/1fe4fta9ttep/The.Eternaut.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0XbZ5jQIr2W8ux-ex2ezf3lcmKqJdwFH",
     "https://downloadwella.com/wdv7o4ckixo8/The.Eternaut.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ayYc_rHB90uYAa563kQzhY0K60bkFHbk",
-    "https://downloadwella.com/nw7a6mrq4nmz/The.Eternaut.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q2dnVVysYNi_xAn8ACT1RquMT2dAi46l"
+    "https://downloadwella.com/nw7a6mrq4nmz/The.Eternaut.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q2dnVVysYNi_xAn8ACT1RquMT2dAi46l",
+    "https://downloadwella.com/s3t7tq9bo3s2/etoile.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/d5fyfOZPtooc4lRfFf-zdB6gevWL3AgI",
+    "https://downloadwella.com/45qqduvbw9sc/etoile.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ADpjLmQmj0XHOZyoVqp8ikrO11cYRvCG",
+    "https://downloadwella.com/8extpj42cckl/etoile.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mYeVKqPYrSbuivbYnyC--llMuD14i6Np",
+    "https://downloadwella.com/vef9wnwe3m0a/etoile.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TTuH5M_ISLV-pMfjLGA3IG4T4p3f5Pmj",
+    "https://downloadwella.com/p7e8xkp1970i/etoile.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_n6nBnpTGYnjejrJIfgIJyeJCy_7GUcZ",
+    "https://downloadwella.com/kzgf1q1iinrn/etoile.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ay8GQSzgVx1zf1Nvo1Up6AOqJvIibfSz",
+    "https://downloadwella.com/pu74q1xmmjy8/etoile.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1GIVDLsflwYeRAvNUb1hOTmD6K47UYwM"
   }
 }
