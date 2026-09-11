@@ -1064,6 +1064,13 @@
       "signature": "126569|https://thenkiri.com/earth-abides-s01-complete-tv-series/|2024-12-01T09:43:01|2025-01-05T08:57:23|{'rendered': 'Earth Abides S01 (Complete) | TV Series'}",
       "modified": "2025-01-05T08:57:23",
       "completed_at": 1789151240
+    },
+    "https://thenkiri.com/cruel-intentions-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "125518|https://thenkiri.com/cruel-intentions-s01-complete-tv-series/|2024-11-21T13:01:27|2024-11-21T13:01:27|{'rendered': 'Cruel Intentions S01 (Complete) | TV Series'}",
+      "modified": "2024-11-21T13:01:27",
+      "completed_at": 1789152832,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2024,6 +2031,12 @@
     "https://downloadwella.com/41z1k3qgo1me/Earth.Abides.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DhdpCeGa2LNj3c6NCUt1ah7rQ-neWUQ3",
     "https://downloadwella.com/pgol7oitbig5/Earth.Abides.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tpiTNivwFzSWZrFGZ_FD69tPstpCm4t-",
     "https://downloadwella.com/j7iyrzqc39z8/Earth.Abides.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JAn1i67a2gt0XGSCrQ4Lrl5ztH5yh9Xb",
-    "https://downloadwella.com/phbpi7h96kz7/Earth.Abides.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ipTHy0Kmz1BlJeJtkjP98yrz-YLdeW1B"
+    "https://downloadwella.com/phbpi7h96kz7/Earth.Abides.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ipTHy0Kmz1BlJeJtkjP98yrz-YLdeW1B",
+    "https://downloadwella.com/rsfy7fsyrszl/Cruel.Intentions.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eASOwgl0aG_MiooKHwC-ufG1U3Lbxn8e",
+    "https://downloadwella.com/i5il6g21bp79/Cruel.Intentions.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WseEMvHziBdfTH_E27FssjW9pG1L4E2Y",
+    "https://downloadwella.com/1p64bpkq0z1n/Cruel.Intentions.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AcHs0dOLoxR_bj5L_10KKUOmbc7tTPmS",
+    "https://downloadwella.com/tf0n35ruko86/Cruel.Intentions.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XRj2iIvjGSFTwY6Rshm7eXZkCasQ6kzg",
+    "https://downloadwella.com/cu4ulbrrmrkj/Cruel.Intentions.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mC5igdkaJ_lMoP085ruOuMyLXT_FdI0K",
+    "https://downloadwella.com/wnm5v2zi1okc/Cruel.Intentions.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hpBlCjUFhHh3Pv-r5mRxEdqUr-O7gNWV"
   }
 }
