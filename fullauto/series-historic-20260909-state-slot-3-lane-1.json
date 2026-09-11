@@ -1027,6 +1027,13 @@
       "modified": "2025-03-21T05:23:50",
       "completed_at": 1789141278,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/on-call-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "129972|https://thenkiri.com/on-call-s01-complete-tv-series/|2025-01-14T12:15:25|2025-01-14T12:15:25|{'rendered': 'On Call S01 (Complete) | TV Series'}",
+      "modified": "2025-01-14T12:15:25",
+      "completed_at": 1789142870,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1965,6 +1972,12 @@
     "https://downloadwella.com/agrhqu4mkj1o/Severance.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u2XcEIAFFuKqJBocIovWGV0TirZTevhI",
     "https://downloadwella.com/vpl7k8gpwc0y/Severance.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YzW2enwb9jladu8DH3nLE3plmMTV6u9t",
     "https://downloadwella.com/ynty2v1mqnrv/Severance.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gO4bPECLRcZkNgy8xC_tM7rwdyvaRdkf",
-    "https://downloadwella.com/vfabsg71m81s/Severance.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wtlqBWQVqBpoIeTr5pJrUlpQQ2jL331x"
+    "https://downloadwella.com/vfabsg71m81s/Severance.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wtlqBWQVqBpoIeTr5pJrUlpQQ2jL331x",
+    "https://downloadwella.com/2f8yx4421go5/On.Call.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hiiQGM_9wV882cZtDPmybbc_H7t8mbFe",
+    "https://downloadwella.com/3sgyczvhjyba/On.Call.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Qfa2VrILUnKQKQfn6A1FBrOv5341H3Zz",
+    "https://downloadwella.com/97ri93haq6fc/On.Call.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HwfeQ_-S2thoDD8aWonEJIxJrJoAdmXw",
+    "https://downloadwella.com/e9tbygv8jnmx/On.Call.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_ERm7qNkrz9QLz6yMsV-4nTslGPR3gnQ",
+    "https://downloadwella.com/6wuw3gvdgqtb/On.Call.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LqdRwPdmXZwGYfuhF8EgNcldWuQfwYOa",
+    "https://downloadwella.com/qjgxqftmxap7/On.Call.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zwDs__zjzWb5YOPo-aLh0TZvU3Sxvf41"
   }
 }
