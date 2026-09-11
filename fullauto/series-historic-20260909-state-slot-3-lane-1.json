@@ -1041,6 +1041,13 @@
       "modified": "2025-01-06T15:17:45",
       "skipped_at": 1789142909,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/what-if-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "129046|https://thenkiri.com/what-if-s03-complete-tv-series/|2024-12-22T12:40:00|2024-12-30T08:09:10|{'rendered': 'What If S03 (Complete)  | TV Series'}",
+      "modified": "2024-12-30T08:09:10",
+      "completed_at": 1789144331,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1985,6 +1992,11 @@
     "https://downloadwella.com/97ri93haq6fc/On.Call.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HwfeQ_-S2thoDD8aWonEJIxJrJoAdmXw",
     "https://downloadwella.com/e9tbygv8jnmx/On.Call.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_ERm7qNkrz9QLz6yMsV-4nTslGPR3gnQ",
     "https://downloadwella.com/6wuw3gvdgqtb/On.Call.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LqdRwPdmXZwGYfuhF8EgNcldWuQfwYOa",
-    "https://downloadwella.com/qjgxqftmxap7/On.Call.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zwDs__zjzWb5YOPo-aLh0TZvU3Sxvf41"
+    "https://downloadwella.com/qjgxqftmxap7/On.Call.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zwDs__zjzWb5YOPo-aLh0TZvU3Sxvf41",
+    "https://downloadwella.com/7iv79fw9omte/What.If.2021.S03E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mQFTxzzoCil19OuTaQK7YyhxnDxy8xJH",
+    "https://downloadwella.com/8868wqf5ox4d/What.If.2021.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WHcgcBh1Yb7Knhhm2l0cVccWNal37FK4",
+    "https://downloadwella.com/f0pmehf6gqc7/What.if.2021.s03e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KLWVq71rZDXPLbck9i_cLs1xe26RlCyS",
+    "https://downloadwella.com/2cfbagfcan3u/What.If.2021.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BdsMaI9AtoVlc7t76SeQ-gbchuur1AYK",
+    "https://downloadwella.com/dcvq6tliz5me/What.If.2021.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ytn-1S8ZzkEwmU4RYPR3ppArEQ6PpggC"
   }
 }
