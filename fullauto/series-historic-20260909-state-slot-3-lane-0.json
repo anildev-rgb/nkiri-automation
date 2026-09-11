@@ -831,6 +831,13 @@
       "modified": "2026-04-27T10:15:40",
       "completed_at": 1789085072,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/nero-the-assassin-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "143394|https://thenkiri.com/nero-the-assassin-s01-complete-tv-series/|2025-10-09T09:20:43|2025-10-09T09:20:43|{'rendered': 'Nero the Assassin S01 (Complete) | TV Series'}",
+      "modified": "2025-10-09T09:20:43",
+      "skipped_at": 1789085175,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
