@@ -1085,6 +1085,12 @@
       "modified": "2024-11-01T08:19:52",
       "completed_at": 1789154540,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/happys-place-s01-complete-tv-series/": {
+      "status": "done",
+      "signature": "123573|https://thenkiri.com/happys-place-s01-complete-tv-series/|2024-10-20T10:19:47|2024-11-10T16:09:37|{'rendered': 'Happy’s Place S01 (Episode 3-4 Added) | TV Series'}",
+      "modified": "2024-11-10T16:09:37",
+      "completed_at": 1789155080
     }
   },
   "series_links": {
@@ -2061,6 +2067,10 @@
     "https://downloadwella.com/p7324gan7xzd/The.Diplomat.US.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lb8452yO7pZ7_hTYIMUBpHEh4FpHOxVF",
     "https://downloadwella.com/g6e6v5cs0bz1/The.Diplomat.US.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SlWjtjoEDPJZB4KCToXvDfYa5SjZA0Ua",
     "https://downloadwella.com/ezx8vjkcqk1d/The.Diplomat.US.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z5YQhrIq-3hxXqCk-kpvdS3DU8dkItsp",
-    "https://downloadwella.com/zvn9frdiaedm/The.Diplomat.US.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6bmDctJJ-kF4gxw8eEp0o2Bt09jF-pnp"
+    "https://downloadwella.com/zvn9frdiaedm/The.Diplomat.US.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6bmDctJJ-kF4gxw8eEp0o2Bt09jF-pnp",
+    "https://downloadwella.com/5dvrt2uri1ke/Happys.place.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NwtT80yCRGy47SglPaIIfZr2K2nQsTC1",
+    "https://downloadwella.com/qdq8elgp0gjl/Happys.place.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8FwEc7pBQ2jNxqZtnrdGgnlpBeyKm4Ao",
+    "https://downloadwella.com/q0hegbqx10y8/Happys.Place.S01E03(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/im5BqeETxkhcnmjxysi9s2Eq6G_FrKK1",
+    "https://downloadwella.com/ml7zr8m3lcb5/Happys.Place.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gETyNzuMqk4bZ2qJD7bxDZpMNHwDP-M1"
   }
 }
