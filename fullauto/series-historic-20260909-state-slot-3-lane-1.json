@@ -952,7 +952,14 @@
       "completed_at": 1789118949,
       "reason": "one or more source links were unavailable"
     },
-    "https://thenkiri.com/wwe-wrestlemania-41-complete-2024-wrestling-special/": "skipped (wwe)"
+    "https://thenkiri.com/wwe-wrestlemania-41-complete-2024-wrestling-special/": "skipped (wwe)",
+    "https://thenkiri.com/the-stolen-girl-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "134475|https://thenkiri.com/the-stolen-girl-s01-complete-tv-series/|2025-04-16T10:47:18|2025-04-16T10:47:24|{'rendered': 'The Stolen Girl S01 (Complete) | TV Series'}",
+      "modified": "2025-04-16T10:47:24",
+      "completed_at": 1789120272,
+      "reason": "one or more source links were unavailable"
+    }
   },
   "series_links": {
     "https://downloadwella.com/te81x1qd9nt7/Madfabulous.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/K3v4aHpPg1cKHEmUnhxwkVYwpoU_4YH9",
@@ -1825,6 +1832,8 @@
     "https://downloadwella.com/buoci4woi8qz/Bravos.Love.Hotel.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mQlyTIfEEPwHngK5sO20qMS8fol6AqMW",
     "https://downloadwella.com/0ylxzfsipt9e/Bravos.Love.Hotel.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pE9VXDfrruV_2x4dyh0MLa_4LAkjCx-k",
     "https://downloadwella.com/bmhqje979oqz/Bravos.Love.Hotel.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u9ie4ZUlELJJhLW1CXOCRV72vNVdYn57",
-    "https://downloadwella.com/m21vpyqn0a2i/Bravos.Love.Hotel.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZPAHqTRgH2as6oAaZDnE8CSwoZ7Azc2X"
+    "https://downloadwella.com/m21vpyqn0a2i/Bravos.Love.Hotel.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZPAHqTRgH2as6oAaZDnE8CSwoZ7Azc2X",
+    "https://downloadwella.com/xlitis37tee0/The.Stolen.Girl.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UUyYIiPGFcY_FNG-QY-ipwhOgmC95Wjx",
+    "https://downloadwella.com/o34lgwu6mtze/The.Stolen.Girl.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zN73i6p5VwISOBd9Y0rLXKkbR8cHhxQG"
   }
 }
