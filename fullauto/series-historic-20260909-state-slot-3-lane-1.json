@@ -1013,6 +1013,13 @@
       "modified": "2025-01-30T06:59:21",
       "completed_at": 1789136884,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/harlem-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "130494|https://thenkiri.com/harlem-s03-complete-tv-series/|2025-01-26T08:21:58|2025-02-10T05:35:12|{'rendered': 'Harlem S03 (Episode 3 – 6 Added) | TV Series'}",
+      "modified": "2025-02-10T05:35:12",
+      "completed_at": 1789138040,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1940,6 +1947,8 @@
     "https://downloadwella.com/yr83i2fm5bi3/The.Fall.of.Diddy.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NpobaButXyO_1lxyDjvxz3hx32SP4v--",
     "https://downloadwella.com/8c9pybq7mga0/The.Fall.of.Diddy.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Eam4LMa75t8UD8Jj7rkhS-GWE-vxWIvv",
     "https://downloadwella.com/9gu2ngbhla7y/The.Fall.of.Diddy.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/r0XnI1Ae9Jv2qt_eZvCvgM_FmW_4Wh5H",
-    "https://downloadwella.com/pcr5lo0bw2s7/The.Fall.of.Diddy.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JzMtZ_IL9_WVNJooSDfAj97Qc-EvUnYR"
+    "https://downloadwella.com/pcr5lo0bw2s7/The.Fall.of.Diddy.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JzMtZ_IL9_WVNJooSDfAj97Qc-EvUnYR",
+    "https://downloadwella.com/54es01n4n3sq/Harlem.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/x0Y4EntthmeDCMR4Eni9yvHPwVN2H3Hz",
+    "https://downloadwella.com/h22sekczf6ic/Harlem.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nji0TkYfEdTEDrbVQ3Uyqn5uMmVUa3XL"
   }
 }
