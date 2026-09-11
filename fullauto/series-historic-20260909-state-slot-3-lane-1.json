@@ -1034,6 +1034,13 @@
       "modified": "2025-01-14T12:15:25",
       "completed_at": 1789142870,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-count-of-monte-cristo-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "129628|https://thenkiri.com/the-count-of-monte-cristo-s01-complete-tv-series/|2025-01-06T15:17:45|2025-01-06T15:17:45|{'rendered': 'The Count of Monte Cristo S01 (Complete) | TV Series'}",
+      "modified": "2025-01-06T15:17:45",
+      "skipped_at": 1789142909,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
