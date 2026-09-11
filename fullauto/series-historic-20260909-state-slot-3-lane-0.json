@@ -913,6 +913,13 @@
       "modified": "2025-08-18T09:06:11",
       "completed_at": 1789106679,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/fubar-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "137977|https://thenkiri.com/fubar-s02-complete-tv-series/|2025-06-12T13:42:16|2025-06-12T14:57:15|{'rendered': 'Fubar S02 (Complete)  | TV Series'}",
+      "modified": "2025-06-12T14:57:15",
+      "completed_at": 1789108302,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1736,6 +1743,12 @@
     "https://downloadwella.com/71d1t83pi665/revival.2025.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YL5J5gdfNY73sxRWChARpClNRlScm1AG",
     "https://downloadwella.com/31bbsn930kbv/Revival.2025.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_XvpcdkBDdfRJPdA4TtKC3CbqarH4pua",
     "https://downloadwella.com/c7s9lx28w3no/Revival.2025.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XU94fLtuNJWFpTBY9eDn8trXWWNMZa0o",
-    "https://downloadwella.com/tbch3iyd1pi8/Revival.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XpTOXzABVcEaqWcQr4wL5y8U6FDIulzc"
+    "https://downloadwella.com/tbch3iyd1pi8/Revival.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XpTOXzABVcEaqWcQr4wL5y8U6FDIulzc",
+    "https://downloadwella.com/wb10s7f70ytk/fubar.s02e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2-xG2RRWyGmv5mN0gPTSkOsdA4Jll6iI",
+    "https://downloadwella.com/d75fd38xzo94/fubar.s02e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mt1qugiHlWzVj6YMw9lJu3UjiimhTjlI",
+    "https://downloadwella.com/7zb20v4n2bxm/fubar.s02e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5A68RfYwaFjvAy-iRrAv0sBUQPGeZtfg",
+    "https://downloadwella.com/uo8scuh8tmdq/fubar.s02e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WFlReez5FnBsWA1hXNv3YFxiKM6388lW",
+    "https://downloadwella.com/8xob4qfwddhi/fubar.s02e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RQgtO5EVpQNAR4FzYmD_aKU76gzUYV1Z",
+    "https://downloadwella.com/me11ndxd7kcy/fubar.s02e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nfhXb2lOvrb4VV0VpxBKQKg6kDK2DImT"
   }
 }
