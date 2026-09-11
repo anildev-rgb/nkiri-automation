@@ -1141,6 +1141,13 @@
       "modified": "2025-02-02T09:10:13",
       "skipped_at": 1789165709,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/heartbreak-high-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "119446|https://thenkiri.com/heartbreak-high-s02-complete-tv-series/|2024-08-09T09:54:38|2024-08-09T09:54:38|{'rendered': 'Heartbreak High S02 (Complete) | TV Series'}",
+      "modified": "2024-08-09T09:54:38",
+      "completed_at": 1789169355,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2137,6 +2144,10 @@
     "https://downloadwella.com/ch2z3vcgvm55/krapopolis.s02e11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uTi8-X0APZHcvmH_BdvzVPRbtRT1MNbL",
     "https://downloadwella.com/4gw8jbxzies7/Krapopolis.S02E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YWAnqQKeGr2dXwLlC4VfTrTtNEDslFuX",
     "https://downloadwella.com/i25apsjag6y3/Krapopolis.S02E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WxivmkdmDoR8wTU3TX6YapmZXM3BYvyp",
-    "https://downloadwella.com/c2fmp5ndptk1/Frasier.2023.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zCT3mCxJiZ2TXcmQ0dV355jz7NeaK1yN"
+    "https://downloadwella.com/c2fmp5ndptk1/Frasier.2023.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zCT3mCxJiZ2TXcmQ0dV355jz7NeaK1yN",
+    "https://downloadwella.com/3wm9d1rpv31q/Heartbreak.High.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Zn-lILpNUG8NyINdndWVccmBmpjw5rmQ",
+    "https://downloadwella.com/3q006c1dngwh/Heartbreak.High.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lqxy5HM6hYSpUabjH65DZX7cMWDIjqvk",
+    "https://downloadwella.com/bfoxn751qmik/Heartbreak.High.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_VD25XNYE4JZ7FZ9e4XpsYSnqZc4O_St",
+    "https://downloadwella.com/jx2axoaozckz/Heartbreak.High.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FxajZtO90ceGhczNzPhPJQ2CCG6R_2wH"
   }
 }
