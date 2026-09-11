@@ -1048,6 +1048,13 @@
       "modified": "2024-12-30T08:09:10",
       "completed_at": 1789144331,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/senna-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "126874|https://thenkiri.com/senna-s01-complete-tv-series/|2024-12-08T06:59:16|2024-12-08T11:06:52|{'rendered': 'Senna S01 (Complete) | TV Series'}",
+      "modified": "2024-12-08T11:06:52",
+      "completed_at": 1789145975,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1997,6 +2004,11 @@
     "https://downloadwella.com/8868wqf5ox4d/What.If.2021.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WHcgcBh1Yb7Knhhm2l0cVccWNal37FK4",
     "https://downloadwella.com/f0pmehf6gqc7/What.if.2021.s03e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KLWVq71rZDXPLbck9i_cLs1xe26RlCyS",
     "https://downloadwella.com/2cfbagfcan3u/What.If.2021.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BdsMaI9AtoVlc7t76SeQ-gbchuur1AYK",
-    "https://downloadwella.com/dcvq6tliz5me/What.If.2021.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ytn-1S8ZzkEwmU4RYPR3ppArEQ6PpggC"
+    "https://downloadwella.com/dcvq6tliz5me/What.If.2021.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ytn-1S8ZzkEwmU4RYPR3ppArEQ6PpggC",
+    "https://downloadwella.com/tl48dzopldil/Senna.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tRP1fGjH4KS7T7ldUstdLIIjq01WQxGx",
+    "https://downloadwella.com/uv5on5m3i6cs/Senna.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iQ1mdlCqVGFpw7YSQDhyGzvW5FzR7qvF",
+    "https://downloadwella.com/u6qbang3kyqo/Senna.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nUvkne2vufgKnnTbERhjs-rjMVpMkvJH",
+    "https://downloadwella.com/cy766jziz25d/Senna.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4ygrrGrxUb805cS7_mSHGrjeEjCXs0Yl",
+    "https://downloadwella.com/d7zquitwyfph/Senna.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Mbbdx0sJla0bcIni7GFGehMLht687hA3"
   }
 }
