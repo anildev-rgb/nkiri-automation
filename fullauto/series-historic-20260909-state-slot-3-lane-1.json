@@ -999,6 +999,13 @@
       "signature": "131743|https://thenkiri.com/good-cop-bad-cop-s01-complete-tv-series/|2025-02-20T12:48:21|2025-04-10T09:40:23|{'rendered': 'Good Cop/Bad Cop S01 (Episode 8 Added) | TV Series'}",
       "modified": "2025-04-10T09:40:23",
       "completed_at": 1789133211
+    },
+    "https://thenkiri.com/ncis-sydney-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "131162|https://thenkiri.com/ncis-sydney-s01-complete-tv-series/|2025-02-08T12:38:50|2025-02-08T12:38:50|{'rendered': 'NCIS: Sydney S01 (Complete) | TV Series'}",
+      "modified": "2025-02-08T12:38:50",
+      "completed_at": 1789134635,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1915,6 +1922,13 @@
     "https://downloadwella.com/cqey2gyml1t6/good.cop.bad.cop.2025.s01e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/clxGyXhHALemOvJfAnwDaH17bXS8wJ06",
     "https://downloadwella.com/cixnvw9ghgfl/good.cop.bad.cop.2025.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_XZSEpE97rHzdT1qRi4_2vdJnlgU6uLA",
     "https://downloadwella.com/4eepc0zswday/Good.Cop.Bad.Cop.2025.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/i3MuMC8E9qsy7rbF54wahNanr5bNCS4a",
-    "https://downloadwella.com/nd0k2lwsig3z/Good.Cop.Bad.Cop.2025.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6ZSZfboKP8toBgCDF9TKam1JKgy2eXSh"
+    "https://downloadwella.com/nd0k2lwsig3z/Good.Cop.Bad.Cop.2025.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6ZSZfboKP8toBgCDF9TKam1JKgy2eXSh",
+    "https://downloadwella.com/9ts1oh4fshhi/NCIS.Sydney.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/U-BR6igZPpjgJspDz_33Q-xtuu0JtlZp",
+    "https://downloadwella.com/3ldr3izmy0d9/NCIS.Sydney.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iZMo-nrw_Vw-R_aOWPPW1qQ3ZiUfHmmR",
+    "https://downloadwella.com/ftk0o89khyco/NCIS.Sydney.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/afwRn5Lss-PScHWWjR7kMdRXyEM2a-RR",
+    "https://downloadwella.com/2bdgm14etw78/NCIS.Sydney.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cqYhMvBGzTzqFLAWkLctGMRlchUiQfSx",
+    "https://downloadwella.com/puwnqau614mp/NCIS.Sydney.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aBmSKDLG5eaTjraU54fe3qonT_55_4Na",
+    "https://downloadwella.com/t6a1g79c2o6b/NCIS.Sydney.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W_PWa_9hMtsXZk0BU6YDQAPnxNr3Uoug",
+    "https://downloadwella.com/sev90twcnk3z/NCIS.Sydney.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_eB56GumGFU_PImQUcmKtCQlXUPUVlXq"
   }
 }
