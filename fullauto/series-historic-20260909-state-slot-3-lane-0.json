@@ -865,7 +865,14 @@
       "modified": "2025-09-10T12:17:06",
       "completed_at": 1789092700
     },
-    "https://thenkiri.com/wwe-clash-in-paris-2025-wrestling-special/": "skipped (wwe)"
+    "https://thenkiri.com/wwe-clash-in-paris-2025-wrestling-special/": "skipped (wwe)",
+    "https://thenkiri.com/irish-blood-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "141298|https://thenkiri.com/irish-blood-s01-complete-tv-series/|2025-08-25T10:09:27|2025-09-08T14:00:43|{'rendered': 'Irish Blood S01 (Episode 6 Added) | TV Series'}",
+      "modified": "2025-09-08T14:00:43",
+      "completed_at": 1789094451,
+      "reason": "one or more source links were unavailable"
+    }
   },
   "series_links": {
     "https://downloadwella.com/te81x1qd9nt7/Madfabulous.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/K3v4aHpPg1cKHEmUnhxwkVYwpoU_4YH9",
@@ -1641,6 +1648,10 @@
     "https://downloadwella.com/c5964f6t38n5/The.Girlfriend.2025.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-TaQZSlRXA2UdB3sr2Ep-NAqXD8opfyZ",
     "https://downloadwella.com/9cvuyvois5ip/The.Girlfriend.2025.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DcSxIVQlH4MmzuNgB_b4M3A8rT6765Bl",
     "https://downloadwella.com/lfe6qber7f6w/The.Girlfriend.2025.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yMcqcxGlU_Ur_LZr7abHwKHGV9yiOXpd",
-    "https://downloadwella.com/5jkxm9c0ug49/The.Girlfriend.2025.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/O0RfMmH_y1Zf3s1UB7YhGq2eBeixsREH"
+    "https://downloadwella.com/5jkxm9c0ug49/The.Girlfriend.2025.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/O0RfMmH_y1Zf3s1UB7YhGq2eBeixsREH",
+    "https://downloadwella.com/la0ivhtnlunw/Irish.Blood.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WDE3TA2R_57wayC9WIlzUmSXnHcrR2Um",
+    "https://downloadwella.com/x2kg5voj602u/Irish.Blood.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OK-jFr5tJ_BT6lhTkDhw2gqeneZv73lI",
+    "https://downloadwella.com/gi1jiausatao/Irish.Blood.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JiQC-aVQxltHLz_6R-1bavMAnhEXQzch",
+    "https://downloadwella.com/xcy8aahdw899/Irish.Blood.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RN20JgS4GpVUs2m0iXduSfD2t_kUlwVc"
   }
 }
