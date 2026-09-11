@@ -876,6 +876,13 @@
       "modified": "2025-08-23T05:43:39",
       "completed_at": 1789084736,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/butterfly-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "140829|https://thenkiri.com/butterfly-s01-complete-tv-series/|2025-08-14T11:22:07|2025-08-14T11:22:07|{'rendered': 'Butterfly S01 (Complete)  | TV Series'}",
+      "modified": "2025-08-14T11:22:07",
+      "completed_at": 1789086036,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1640,6 +1647,11 @@
     "https://downloadwella.com/v2bsd4kaom2c/Animal.Control.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/orstFY1-c2a40m8HyvZ_2Ns19EwC2OnR",
     "https://downloadwella.com/y8pchuoo3nkj/Animal.Control.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pZvj7pwXWuz5vBW7BPNgYoxP-OpSyohe",
     "https://downloadwella.com/o3ak1mzubq5f/Animal.Control.S03E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WxWpNdf_-a3--kcMH54rYjtEEciKOf4F",
-    "https://downloadwella.com/ku0yis6zzl8y/Animal.Control.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Wilb6LCuUDnZLQR2XldEmHXTMp2h6o1w"
+    "https://downloadwella.com/ku0yis6zzl8y/Animal.Control.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Wilb6LCuUDnZLQR2XldEmHXTMp2h6o1w",
+    "https://downloadwella.com/m60au6vefcwz/Butterfly.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WiuWcndXvLCt3paidZVp6cC-Gh97ofK4",
+    "https://downloadwella.com/m6nc1yreb1fa/Butterfly.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LT4YP2RwPRRBphbSIRLvkB9omfiTw2Sy",
+    "https://downloadwella.com/8yd0f9yxjud3/Butterfly.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n-V-eXCLrv-wxxHQXdYgclcBVTt3_i3d",
+    "https://downloadwella.com/e6nwv8a6vuoq/Butterfly.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JaA_S9nL0BPqP5JG7NW5tp0uq1o31VvF",
+    "https://downloadwella.com/hcoluh9nmghl/Butterfly.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Y8pYUHAm0b1mjEOx-dHo_WM-77iFSGtH"
   }
 }
