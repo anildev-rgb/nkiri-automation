@@ -930,6 +930,13 @@
       "modified": "2025-08-06T09:01:15",
       "completed_at": 1789112294,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/murderbot-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "136028|https://thenkiri.com/murderbot-s01-complete-tv-series/|2025-05-16T13:07:57|2025-10-16T17:34:30|{'rendered': 'Murderbot S01 (Episode 10 Added) | TV Series'}",
+      "modified": "2025-10-16T17:34:30",
+      "completed_at": 1789115081,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1784,6 +1791,13 @@
     "https://downloadwella.com/nj69jtfgjptc/the.librarians.the.next.chapter.s01e09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qpYQFYQlK1DWK-90yzGg6HOW0FJ2b8ik",
     "https://downloadwella.com/pzsd4wcsou1t/The.Librarians.The.Next.Chapter.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oPwbGDWGMIIOhe_RLQfOO6IYaWONPmQl",
     "https://downloadwella.com/enzaennhcihq/The.Librarians.The.Next.Chapter.S01E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zq_Xo90ZC4X2eKrzYk0kjp92rbAgVe_H",
-    "https://downloadwella.com/qwp25wtf22e7/The.Librarians.The.Next.Chapter.S01E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lW67lNDHHqSQ648ZqHzyLKMXwswPMCdC"
+    "https://downloadwella.com/qwp25wtf22e7/The.Librarians.The.Next.Chapter.S01E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lW67lNDHHqSQ648ZqHzyLKMXwswPMCdC",
+    "https://downloadwella.com/t2ip34bgt2h0/Murderbot.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PdCyB97XkJe-h0K_rBhe4a2vqxzdYVL4",
+    "https://downloadwella.com/cw0ky62lu6zc/Murderbot.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1pxOEcFuIcv8YJskOma_y41H8sDPKDsl",
+    "https://downloadwella.com/jonbszgk5oot/Murderbot.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u2lgK182mUU0HviaGvttx3aq_rfOU2rQ",
+    "https://downloadwella.com/zfkkqfiivxgt/Murderbot.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/m1rWmkPdF8fa0xcPkpbrkI3qN6FaIrpv",
+    "https://downloadwella.com/tb4mnj7zeqe6/Murderbot.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pXCzbZdclKCdCkiDkLdSZHNcg6g1zab2",
+    "https://downloadwella.com/fl2skimujlbt/Murderbot.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DpJshj4pCB7bBcVkoNArhU0jT80BdWde",
+    "https://downloadwella.com/ddmemc7m9ydc/murderbot.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/663Sp-jx70ro81HMC9yBX0IKwAD8yTG9"
   }
 }
