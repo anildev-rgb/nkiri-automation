@@ -1062,6 +1062,13 @@
       "modified": "2025-01-27T05:52:26",
       "completed_at": 1789147995,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/cross-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "125141|https://thenkiri.com/cross-s01-complete-tv-series/|2024-11-15T13:13:10|2024-11-15T13:13:10|{'rendered': 'Cross S01 (Complete) | TV Series'}",
+      "modified": "2024-11-15T13:13:10",
+      "completed_at": 1789148835,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2023,6 +2030,9 @@
     "https://downloadwella.com/jr4l2ziwmrok/Landman.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S-CVbK4WGvh3uG9po2wgyw4299WJD__J",
     "https://downloadwella.com/qbaat9rej253/Landman.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PA-E77pAEzEHstEIMSOo0qZm-JlgUzrS",
     "https://downloadwella.com/y5zjx5wm1of4/Landman.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VwnU6VPDBTPKfeRXzWyhJ5V4u5Dm6vuz",
-    "https://downloadwella.com/du7fi6j7q72d/Landman.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uvKg2Epld3UVmUyZU-ztd2KDBDFbJk11"
+    "https://downloadwella.com/du7fi6j7q72d/Landman.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uvKg2Epld3UVmUyZU-ztd2KDBDFbJk11",
+    "https://downloadwella.com/4bu55sienppk/Cross.2024.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/74vjaNrtYob1AG5kxZoMwkNmFZ187BV-",
+    "https://downloadwella.com/kvwkr1eoove1/Cross.2024.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pe-twKYR31IU9uZpCaFOpaBExVPXy3KF",
+    "https://downloadwella.com/j9gl9b50frqn/Cross.2024.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sH6fXv3Y3r8mZH_6GzOYJRh2X0gkjOyo"
   }
 }
