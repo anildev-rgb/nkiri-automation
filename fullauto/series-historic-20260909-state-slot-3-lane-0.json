@@ -969,6 +969,13 @@
       "modified": "2025-04-12T08:46:13",
       "completed_at": 1789117869,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/pulse-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "133936|https://thenkiri.com/pulse-s01-complete-tv-series/|2025-04-03T11:16:00|2025-04-03T12:30:01|{'rendered': 'Pulse S01 (Complete) | TV Series'}",
+      "modified": "2025-04-03T12:30:01",
+      "completed_at": 1789121444,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1833,6 +1840,14 @@
     "https://downloadwella.com/qqzlqcxwg5on/Moonrise.2025.S01E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KUNI6-rbMtxxrhfO01uH39EkefrtD7kc",
     "https://downloadwella.com/jqca6h41cxc8/Moonrise.2025.S01E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/j0nJ1nmvneZNSazfuoZd8FV1VAhflVPW",
     "https://downloadwella.com/tqwz3gos9qgv/Moonrise.2025.S01E17.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/trOu0viE609wiG0M6PXBx5Cy_BPO3tsb",
-    "https://downloadwella.com/dvs7fcul7b8r/Moonrise.2025.S01E18.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nOdJKz75wV9SkNojcxKJWi90Yx-_M0HA"
+    "https://downloadwella.com/dvs7fcul7b8r/Moonrise.2025.S01E18.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nOdJKz75wV9SkNojcxKJWi90Yx-_M0HA",
+    "https://downloadwella.com/45oj8gv6wjnu/Pulse.2025.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SRe5yBrp399knfmtrxZvkr_QsJHOmhB1",
+    "https://downloadwella.com/f4ihl6u4pv1u/Pulse.2025.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/G9XJTxWTfMWkGABHZLaLyUmYX6MHdxYM",
+    "https://downloadwella.com/5ffhxe15in1w/Pulse.2025.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8jhO6uJdC1NaGycxnLPZW38JBSnqazgL",
+    "https://downloadwella.com/ek6rqw79tfr9/Pulse.2025.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IYMDbeRyO5iRBYOkfVpiPiKBkyWWSk7Q",
+    "https://downloadwella.com/xny12y1ed3v7/Pulse.2025.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bc9DLQtFTYQQUSDIjdYmdqipdqcmcRx-",
+    "https://downloadwella.com/b1wafpv8bypv/Pulse.2025.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W3Xf8zJ5NmZZOLkbsN5N47WWE9_lgbxd",
+    "https://downloadwella.com/pj7lun8qs3ur/Pulse.2025.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QlZezQBkwGIoRgn-TsKmMxrYgUyMifni",
+    "https://downloadwella.com/j5i8sghnlwsd/Pulse.2025.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7rEjQnC6zEunGfTJIq7L5LQraxF1W7Gl"
   }
 }
