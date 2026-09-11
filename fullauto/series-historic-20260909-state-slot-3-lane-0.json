@@ -983,6 +983,13 @@
       "modified": "2025-05-21T07:33:48",
       "completed_at": 1789123316,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/dope-thief-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "132859|https://thenkiri.com/dope-thief-s01-complete-tv-series/|2025-03-14T07:04:06|2025-04-25T08:16:32|{'rendered': 'Dope Thief S01 (Episode 8 Added) | TV Series'}",
+      "modified": "2025-04-25T08:16:32",
+      "completed_at": 1789123927,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1863,6 +1870,8 @@
     "https://downloadwella.com/a2rjh9o927ca/The.Studio.2025.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/s2fNxTDzmR4v1nP2mj4HrdUeJv6W_sVK",
     "https://downloadwella.com/xqfvakry3x2l/the.studio.2025.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IaLUwR9qNa6jKgCDQ2fGOowqdhU4IAMe",
     "https://downloadwella.com/6wg86nmscees/The.Studio.2025.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eqHU8fa06zB6Rsis3_wCYeSWL0eULOav",
-    "https://downloadwella.com/fsbeegn0nlen/The.Studio.2025.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jqzsqZf-3fIgRb2t3VTwAgOqXma33cUa"
+    "https://downloadwella.com/fsbeegn0nlen/The.Studio.2025.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jqzsqZf-3fIgRb2t3VTwAgOqXma33cUa",
+    "https://downloadwella.com/c4juy09dfzaj/dope.thief.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IsrW-JExCkX0VVQMh8DjwslmjEVMFJWH",
+    "https://downloadwella.com/nb7pe82v2yv2/Dope.Thief.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ed-9lAEhNWY1Csxljd8CiuxbLBEsEhfA"
   }
 }
