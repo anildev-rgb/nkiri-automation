@@ -1134,6 +1134,13 @@
       "modified": "2024-08-31T07:23:26",
       "skipped_at": 1789164709,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/bel-air-s03-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "119724|https://thenkiri.com/bel-air-s03-complete-tv-series/|2024-08-15T12:54:34|2025-02-02T09:10:13|{'rendered': 'Bel-Air S03 (Complete) | TV Series'}",
+      "modified": "2025-02-02T09:10:13",
+      "skipped_at": 1789165158,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
