@@ -986,6 +986,13 @@
       "modified": "2025-03-29T18:41:04",
       "completed_at": 1789130619,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/berlin-er-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "132088|https://thenkiri.com/berlin-er-s01-complete-tv-series/|2025-02-27T10:07:13|2025-04-09T11:38:13|{'rendered': 'Berlin ER S01 (Episode 8 Added) | TV Series'}",
+      "modified": "2025-04-09T11:38:13",
+      "completed_at": 1789131960,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1889,6 +1896,11 @@
     "https://downloadwella.com/tx00ucr6ya1z/Solo.Leveling.E22.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n5tmqOZA3tgkLA_q-ZZq_BK-xbZoZKMc",
     "https://downloadwella.com/1pasu5xaapqt/Solo.Leveling.E23.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0B9ocEeAusmj1hY1MRXzwHS4v_FTDcxn",
     "https://downloadwella.com/g0nyk3k5gw5e/Solo.Leveling.E24.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GWk1EEDDjxJ_mqhDoaKR9Vk48CY9cf1C",
-    "https://downloadwella.com/ix51qak82g0m/Solo.Leveling.E25.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8Hdh8pHY6oTgG5X29TMge2KBsF_5DGIn"
+    "https://downloadwella.com/ix51qak82g0m/Solo.Leveling.E25.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8Hdh8pHY6oTgG5X29TMge2KBsF_5DGIn",
+    "https://downloadwella.com/zxw2gwj7jb9w/Berlin.ER.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/s9rT_fKbLbtX7qNZvUqtkF7HQsAQPpOy",
+    "https://downloadwella.com/lpooi38x3scn/berlin.er.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/huRvqRae1y18npW1RR89jHpUfxq1alq3",
+    "https://downloadwella.com/6ceqmmyyjvhx/Berlin.ER.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/h-CmqBrWEAiCw8d7SwtfwiwncVk3bkpP",
+    "https://downloadwella.com/zzkcz8u06dy9/berlin.er.s01e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nmHbN_oNYuQyae1j1kUZZVGfcTTj8oQ4",
+    "https://downloadwella.com/oxkl5f8peyxa/berlin.er.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KpmJxiSSN6iJLeEXWL3zRC5sC9aOEN3L"
   }
 }
