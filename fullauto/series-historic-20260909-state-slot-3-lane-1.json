@@ -1132,6 +1132,13 @@
       "modified": "2024-10-16T07:06:17",
       "skipped_at": 1789164673,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/only-murders-in-the-building-s04-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "120312|https://thenkiri.com/only-murders-in-the-building-s04-complete-tv-series/|2024-08-27T07:38:00|2024-10-29T07:19:34|{'rendered': 'Only Murders in the Building S04 (Episode 10 Added) | TV Series'}",
+      "modified": "2024-10-29T07:19:34",
+      "skipped_at": 1789165101,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
