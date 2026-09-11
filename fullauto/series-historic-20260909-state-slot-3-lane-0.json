@@ -990,6 +990,13 @@
       "modified": "2025-04-25T08:16:32",
       "completed_at": 1789123927,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/fear-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "132335|https://thenkiri.com/fear-s01-complete-tv-series/|2025-03-04T12:45:34|2025-03-06T08:34:56|{'rendered': 'Fear S01 (Complete) | TV Series'}",
+      "modified": "2025-03-06T08:34:56",
+      "completed_at": 1789124397,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1872,6 +1879,7 @@
     "https://downloadwella.com/6wg86nmscees/The.Studio.2025.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eqHU8fa06zB6Rsis3_wCYeSWL0eULOav",
     "https://downloadwella.com/fsbeegn0nlen/The.Studio.2025.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jqzsqZf-3fIgRb2t3VTwAgOqXma33cUa",
     "https://downloadwella.com/c4juy09dfzaj/dope.thief.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IsrW-JExCkX0VVQMh8DjwslmjEVMFJWH",
-    "https://downloadwella.com/nb7pe82v2yv2/Dope.Thief.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ed-9lAEhNWY1Csxljd8CiuxbLBEsEhfA"
+    "https://downloadwella.com/nb7pe82v2yv2/Dope.Thief.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ed-9lAEhNWY1Csxljd8CiuxbLBEsEhfA",
+    "https://downloadwella.com/83it3mmjqm45/Fear.2025.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OFIXpaGzLTsr568V__h8nwwVlep4WZ5R"
   }
 }
