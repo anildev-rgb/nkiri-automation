@@ -1099,7 +1099,14 @@
       "completed_at": 1789156761,
       "reason": "one or more source links were unavailable"
     },
-    "https://thenkiri.com/wwe-bad-blood-2024-wrestling-special/": "skipped (wwe)"
+    "https://thenkiri.com/wwe-bad-blood-2024-wrestling-special/": "skipped (wwe)",
+    "https://thenkiri.com/krapopolis-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "122255|https://thenkiri.com/krapopolis-s02-complete-tv-series/|2024-09-30T07:34:36|2025-05-19T06:05:58|{'rendered': 'Krapopolis S02 (Episode 22 Added) | TV Series'}",
+      "modified": "2025-05-19T06:05:58",
+      "completed_at": 1789161373,
+      "reason": "one or more source links were unavailable"
+    }
   },
   "series_links": {
     "https://downloadwella.com/te81x1qd9nt7/Madfabulous.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/K3v4aHpPg1cKHEmUnhxwkVYwpoU_4YH9",
@@ -2082,6 +2089,18 @@
     "https://downloadwella.com/ml7zr8m3lcb5/Happys.Place.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gETyNzuMqk4bZ2qJD7bxDZpMNHwDP-M1",
     "https://downloadwella.com/nt285wt8vb68/Curfew.2024.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-Xs8csP-Sdz1yWIp1Z-5Upv7d4pWjyYp",
     "https://downloadwella.com/wdy1f2n50521/Curfew.2024.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/s9Mf8UxkceU-eH_GV-p_dRDggXYoaLJt",
-    "https://downloadwella.com/izb3v5jkfict/Curfew.2024.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eNcosWu0ZfRlTUwdg3-t_ypI18iYpuS3"
+    "https://downloadwella.com/izb3v5jkfict/Curfew.2024.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eNcosWu0ZfRlTUwdg3-t_ypI18iYpuS3",
+    "https://downloadwella.com/gqnumhrwr0sw/Krapopolis.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FA-8rG-zUTx6tEhxeq6Ct2DWYa1HWCLN",
+    "https://downloadwella.com/6o0posd4pyrg/Krapopolis.s02e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XSwZXMDFJySylqUxEz8zoLZMMSaDpgVz",
+    "https://downloadwella.com/ob3rae5r8diy/Krapopolis.s02e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bixYVApmnchB5rx_x1gsz6CpUNGXqlXR",
+    "https://downloadwella.com/cvdbvsx2ezb5/Krapopolis.s02e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZaQyc2PWuCeQOzpG2x6DYRwPXSPsMHgB",
+    "https://downloadwella.com/1mkavj8xsi7j/Krapopolis.s02e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/d-xyaGg8kFIARWC6dmaZnkSq4NJyLxIr",
+    "https://downloadwella.com/k9v3lp2o17tx/Krapopolis.s02e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aAiqXLuddmMNPFwLpFLSwM76agrKtVc6",
+    "https://downloadwella.com/wah12e1pqvos/krapopolis.s02e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/j_oXFKbuA2yM38Fkr7dHkwDZbI2gcgOS",
+    "https://downloadwella.com/syhx4acnb86a/Krapopolis.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Lfqy7hYH4SRbYW1CsHYCIwHVnIul__AG",
+    "https://downloadwella.com/1d46tirfiie0/Krapopolis.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Rzt5O2rHLQThqcaRhBvkIZTcUMExHIVn",
+    "https://downloadwella.com/ch2z3vcgvm55/krapopolis.s02e11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uTi8-X0APZHcvmH_BdvzVPRbtRT1MNbL",
+    "https://downloadwella.com/4gw8jbxzies7/Krapopolis.S02E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YWAnqQKeGr2dXwLlC4VfTrTtNEDslFuX",
+    "https://downloadwella.com/i25apsjag6y3/Krapopolis.S02E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WxivmkdmDoR8wTU3TX6YapmZXM3BYvyp"
   }
 }
