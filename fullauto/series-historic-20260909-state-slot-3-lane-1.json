@@ -1139,6 +1139,13 @@
       "modified": "2024-10-29T07:19:34",
       "skipped_at": 1789165101,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/critical-incident-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "119565|https://thenkiri.com/critical-incident-s01-complete-tv-series/|2024-08-12T12:57:09|2024-08-12T12:57:09|{'rendered': 'Critical Incident S01 (Complete) | TV Series'}",
+      "modified": "2024-08-12T12:57:09",
+      "skipped_at": 1789165437,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
