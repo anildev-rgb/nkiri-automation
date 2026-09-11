@@ -1097,6 +1097,13 @@
       "modified": "2024-12-06T10:08:57",
       "completed_at": 1789156337,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/last-days-of-the-space-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "122483|https://thenkiri.com/last-days-of-the-space-s01-complete-tv-series/|2024-10-03T11:04:17|2024-10-03T11:04:17|{'rendered': 'Last Days of the Space S01 (Complete) | TV Series'}",
+      "modified": "2024-10-03T11:04:17",
+      "skipped_at": 1789156548,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
