@@ -1106,6 +1106,13 @@
       "modified": "2025-05-19T06:05:58",
       "completed_at": 1789161373,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/paris-has-fallen-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "121932|https://thenkiri.com/paris-has-fallen-s01-complete-tv-series/|2024-09-25T07:52:21|2024-10-30T07:24:41|{'rendered': 'Paris Has Fallen S01 (Episode 8 Added) | TV Series'}",
+      "modified": "2024-10-30T07:24:41",
+      "skipped_at": 1789161789,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
