@@ -1120,6 +1120,13 @@
       "modified": "2024-11-14T07:06:14",
       "completed_at": 1789164167,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-perfect-couple-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "120905|https://thenkiri.com/the-perfect-couple-s01-complete-tv-series/|2024-09-06T18:43:32|2024-09-06T18:45:50|{'rendered': 'The Perfect Couple S01 (Complete) | TV Series'}",
+      "modified": "2024-09-06T18:45:50",
+      "skipped_at": 1789164396,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
