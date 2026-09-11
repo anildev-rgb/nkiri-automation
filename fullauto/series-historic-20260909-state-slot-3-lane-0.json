@@ -976,6 +976,13 @@
       "modified": "2025-04-03T12:30:01",
       "completed_at": 1789121444,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-studio-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "133473|https://thenkiri.com/the-studio-s01-complete-tv-series/|2025-03-26T08:50:19|2025-05-21T07:33:48|{'rendered': 'The Studio S01 (Complete) | TV Series'}",
+      "modified": "2025-05-21T07:33:48",
+      "completed_at": 1789123316,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1848,6 +1855,14 @@
     "https://downloadwella.com/xny12y1ed3v7/Pulse.2025.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bc9DLQtFTYQQUSDIjdYmdqipdqcmcRx-",
     "https://downloadwella.com/b1wafpv8bypv/Pulse.2025.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W3Xf8zJ5NmZZOLkbsN5N47WWE9_lgbxd",
     "https://downloadwella.com/pj7lun8qs3ur/Pulse.2025.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QlZezQBkwGIoRgn-TsKmMxrYgUyMifni",
-    "https://downloadwella.com/j5i8sghnlwsd/Pulse.2025.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7rEjQnC6zEunGfTJIq7L5LQraxF1W7Gl"
+    "https://downloadwella.com/j5i8sghnlwsd/Pulse.2025.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7rEjQnC6zEunGfTJIq7L5LQraxF1W7Gl",
+    "https://downloadwella.com/3gb0qjnkqzfn/The.Studio.2025.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wwSELGNLt972jmeg83tsCczj-WFzadW4",
+    "https://downloadwella.com/mccnaenfo4kf/The.Studio.2025.S01E03(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZqjDovI6PlyF9colmwt0BuUnju1YzExQ",
+    "https://downloadwella.com/2qyydsngwcj3/the.studio.2025.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bVy5eU1WDmRaiPIiVoTC-aaA0WOWrl7Y",
+    "https://downloadwella.com/r11bg55gl6vh/the.studio.2025.s01e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wpY9F7LbK2rtMipgg04Kwi8OuefmulVY",
+    "https://downloadwella.com/a2rjh9o927ca/The.Studio.2025.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/s2fNxTDzmR4v1nP2mj4HrdUeJv6W_sVK",
+    "https://downloadwella.com/xqfvakry3x2l/the.studio.2025.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IaLUwR9qNa6jKgCDQ2fGOowqdhU4IAMe",
+    "https://downloadwella.com/6wg86nmscees/The.Studio.2025.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eqHU8fa06zB6Rsis3_wCYeSWL0eULOav",
+    "https://downloadwella.com/fsbeegn0nlen/The.Studio.2025.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jqzsqZf-3fIgRb2t3VTwAgOqXma33cUa"
   }
 }
