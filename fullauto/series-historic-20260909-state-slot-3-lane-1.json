@@ -1118,6 +1118,13 @@
       "modified": "2024-11-24T08:17:41",
       "completed_at": 1789163908,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-old-man-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "121306|https://thenkiri.com/the-old-man-s02-complete-tv-series/|2024-09-13T10:42:15|2024-10-25T10:26:48|{'rendered': 'The Old Man S02 (Episode 7 & 8 Added) | TV Series'}",
+      "modified": "2024-10-25T10:26:48",
+      "skipped_at": 1789164338,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
