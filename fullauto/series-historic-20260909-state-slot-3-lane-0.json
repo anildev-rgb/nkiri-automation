@@ -941,6 +941,13 @@
       "modified": "2025-05-15T08:59:02",
       "completed_at": 1789112064,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-eternaut-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "135363|https://thenkiri.com/the-eternaut-s01-complete-tv-series/|2025-05-02T09:43:32|2025-05-02T09:43:32|{'rendered': 'The Eternaut S01 (Complete) | TV Series'}",
+      "modified": "2025-05-02T09:43:32",
+      "completed_at": 1789113089,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1782,6 +1789,10 @@
     "https://downloadwella.com/nb1027z4w0yz/Bad.Thoughts.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4OTwM3IcWDDQndoevxJIc_YknUYmz-Q0",
     "https://downloadwella.com/qr3hwsgu26j1/Bad.Thoughts.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SAeMxfcdUC6aN8DCcnzjE5HX7PTaT2YU",
     "https://downloadwella.com/qmeb4677nnsi/Bad.Thoughts.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9G7W9Ik4BmhICKC1vbjXX34zCsBtDqhU",
-    "https://downloadwella.com/k7evo79ffex3/Bad.Thoughts.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uTsODuXOLnsmfRiFSUj9y6v5leCH9wuP"
+    "https://downloadwella.com/k7evo79ffex3/Bad.Thoughts.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uTsODuXOLnsmfRiFSUj9y6v5leCH9wuP",
+    "https://downloadwella.com/twx6nt4hp07f/The.Eternaut.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JAeVsOCHJUaWFXhICxLF0Ih_f3pAOn-8",
+    "https://downloadwella.com/1fe4fta9ttep/The.Eternaut.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0XbZ5jQIr2W8ux-ex2ezf3lcmKqJdwFH",
+    "https://downloadwella.com/wdv7o4ckixo8/The.Eternaut.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ayYc_rHB90uYAa563kQzhY0K60bkFHbk",
+    "https://downloadwella.com/nw7a6mrq4nmz/The.Eternaut.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q2dnVVysYNi_xAn8ACT1RquMT2dAi46l"
   }
 }
