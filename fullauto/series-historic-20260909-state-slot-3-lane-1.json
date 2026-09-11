@@ -1146,6 +1146,13 @@
       "modified": "2024-08-12T12:57:09",
       "skipped_at": 1789165437,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/unstable-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "119138|https://thenkiri.com/unstable-s02-complete-tv-series/|2024-08-01T14:12:11|2024-08-01T14:12:11|{'rendered': 'Unstable S02 (Complete) | TV Series'}",
+      "modified": "2024-08-01T14:12:11",
+      "completed_at": 1789167417,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2154,6 +2161,8 @@
     "https://downloadwella.com/g39s73xqtus8/From.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9lwzNbyKWqXldlRZui-P2BxjxeMzEJk8",
     "https://downloadwella.com/j7n1t89ragf1/From.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NSRSMXQehBAwqnOFwjd6_eB2kExA4huF",
     "https://downloadwella.com/1cmok2zmoy4o/From.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TlNPseM1dJp2BLuiN8X-N1Chyhz6FKXz",
-    "https://downloadwella.com/45hhjm1jxnsz/From.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6b1cAUoMNNVYIo2NlmxXiFup5YsL-Q2W"
+    "https://downloadwella.com/45hhjm1jxnsz/From.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6b1cAUoMNNVYIo2NlmxXiFup5YsL-Q2W",
+    "https://downloadwella.com/wasu220cooxb/Unstable.US.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/O1b-e2NsSP7BMhTsuJm00gE1aGj5iJi6",
+    "https://downloadwella.com/tym4r30oai1c/Unstable.US.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LtBv5QVyFl7XYcvHKW50s6wpjMFtUhIA"
   }
 }
