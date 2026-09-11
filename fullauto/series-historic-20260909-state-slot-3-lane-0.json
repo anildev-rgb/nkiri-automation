@@ -1051,6 +1051,13 @@
       "signature": "129578|https://thenkiri.com/beast-games-s01-complete-tv-series/|2025-01-05T09:02:10|2025-02-15T06:47:40|{'rendered': 'Beast Games S01 (Complete) | TV Series'}",
       "modified": "2025-02-15T06:47:40",
       "completed_at": 1789146521
+    },
+    "https://thenkiri.com/bookie-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "128797|https://thenkiri.com/bookie-s02-complete-tv-series/|2024-12-16T11:35:39|2025-01-31T07:29:31|{'rendered': 'Bookie S02 (Episode 8 Added) | TV Series'}",
+      "modified": "2025-01-31T07:29:31",
+      "completed_at": 1789147669,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2000,6 +2007,11 @@
     "https://downloadwella.com/5kuko2l873pi/Beast.Games.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/M50NXr_6tgdk4LBh_jFpsMfSPvA2RMZh",
     "https://downloadwella.com/vxxwergjdykh/Beast.Games.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1UZM2uFZ7iPDywdQuByeZ3dX-lbLOl8K",
     "https://downloadwella.com/lzoxgva7lh0j/Beast.Games.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aNbAHvqSmpLiKJMNPbaeTi2_mwB1Fg93",
-    "https://downloadwella.com/byzapdx4fikf/Beast.Games.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qif8QPFDjWZBS1I95Dkf3UIkNCbht_tr"
+    "https://downloadwella.com/byzapdx4fikf/Beast.Games.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qif8QPFDjWZBS1I95Dkf3UIkNCbht_tr",
+    "https://downloadwella.com/cfw8abp48d2u/Bookie.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/d3nxNQvYEv-KArRQJSrRCH7My0oNUAgB",
+    "https://downloadwella.com/vjf3ugb8wqpy/Bookie.2023.s02e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ke2UlSRfbaJgwbG-EU0Dg8caCZuzBRdr",
+    "https://downloadwella.com/m17pj41wgfc6/Bookie.2023.s02e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AoNDwBGy5kg_Uk4FVEhKeOZpCL5y4ieS",
+    "https://downloadwella.com/g457jlca7h2e/Bookie.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_kSrawyapuDDIBTTYqlHfhTAQRKzgO73",
+    "https://downloadwella.com/nwgy0vzddasa/bookie.2023.s02e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dVWV10BkSgLDFq0fk3K2noyGIHpMNKE2"
   }
 }
