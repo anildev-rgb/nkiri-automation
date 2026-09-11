@@ -1113,6 +1113,13 @@
       "modified": "2024-10-30T07:24:41",
       "skipped_at": 1789161789,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/frasier-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "121590|https://thenkiri.com/frasier-s02-complete-tv-series/|2024-09-19T07:11:09|2024-11-14T07:06:14|{'rendered': 'Frasier S02 (Complete) | TV Series'}",
+      "modified": "2024-11-14T07:06:14",
+      "completed_at": 1789164167,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2108,6 +2115,7 @@
     "https://downloadwella.com/1d46tirfiie0/Krapopolis.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Rzt5O2rHLQThqcaRhBvkIZTcUMExHIVn",
     "https://downloadwella.com/ch2z3vcgvm55/krapopolis.s02e11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uTi8-X0APZHcvmH_BdvzVPRbtRT1MNbL",
     "https://downloadwella.com/4gw8jbxzies7/Krapopolis.S02E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YWAnqQKeGr2dXwLlC4VfTrTtNEDslFuX",
-    "https://downloadwella.com/i25apsjag6y3/Krapopolis.S02E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WxivmkdmDoR8wTU3TX6YapmZXM3BYvyp"
+    "https://downloadwella.com/i25apsjag6y3/Krapopolis.S02E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WxivmkdmDoR8wTU3TX6YapmZXM3BYvyp",
+    "https://downloadwella.com/c2fmp5ndptk1/Frasier.2023.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zCT3mCxJiZ2TXcmQ0dV355jz7NeaK1yN"
   }
 }
