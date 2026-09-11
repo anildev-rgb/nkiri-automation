@@ -1111,6 +1111,13 @@
       "modified": "2024-09-26T14:04:57",
       "completed_at": 1789159615,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/from-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "121773|https://thenkiri.com/from-s03-complete-tv-series/|2024-09-22T08:40:19|2024-11-24T08:17:41|{'rendered': 'From S03 (Complete) | TV Series'}",
+      "modified": "2024-11-24T08:17:41",
+      "completed_at": 1789163908,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2112,6 +2119,13 @@
     "https://downloadwella.com/1nc47k46gj7e/Nobody.Wants.This.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eoUrOf6nH_QnysEKjc83Nc2zXHNiWjxR",
     "https://downloadwella.com/1km6w1ip98xx/Nobody.Wants.This.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UtofSkB3TXmOJPnwpuKp3kYR_Di4_I7W",
     "https://downloadwella.com/6xp4tmg5jjk2/Nobody.Wants.This.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BfPxcuKvCDm34e8So4VP7iSh-WpHvn90",
-    "https://downloadwella.com/hcblvyets94f/Nobody.Wants.This.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wxvZ0JXg-Epw-6GLu6Kiym7O82drXINh"
+    "https://downloadwella.com/hcblvyets94f/Nobody.Wants.This.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wxvZ0JXg-Epw-6GLu6Kiym7O82drXINh",
+    "https://downloadwella.com/ofl9juj87be2/From.S03E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Wk4UZY7RMteEAHNTrW3Y8wTC8xqOKrEl",
+    "https://downloadwella.com/j7vm64v3gdiw/From.S03E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xBteyhAqX2-DQgvS2fznvT1_9TzKvsMy",
+    "https://downloadwella.com/m1bc6rky93f6/From.S03E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yd6tyWnPe2laEXktvxO8-0WVStOjOIKO",
+    "https://downloadwella.com/g39s73xqtus8/From.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9lwzNbyKWqXldlRZui-P2BxjxeMzEJk8",
+    "https://downloadwella.com/j7n1t89ragf1/From.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NSRSMXQehBAwqnOFwjd6_eB2kExA4huF",
+    "https://downloadwella.com/1cmok2zmoy4o/From.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TlNPseM1dJp2BLuiN8X-N1Chyhz6FKXz",
+    "https://downloadwella.com/45hhjm1jxnsz/From.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6b1cAUoMNNVYIo2NlmxXiFup5YsL-Q2W"
   }
 }
