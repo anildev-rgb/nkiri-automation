@@ -1127,6 +1127,13 @@
       "modified": "2024-09-06T18:45:50",
       "skipped_at": 1789164396,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/terminator-zero-s01-complete-english-audio-anime-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "120564|https://thenkiri.com/terminator-zero-s01-complete-english-audio-anime-tv-series/|2024-08-31T07:23:26|2024-08-31T07:23:26|{'rendered': 'Terminator Zero S01 (Complete) ENGLISH AUDIO | Anime TV Series'}",
+      "modified": "2024-08-31T07:23:26",
+      "skipped_at": 1789164709,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
