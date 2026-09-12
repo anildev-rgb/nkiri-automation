@@ -1225,6 +1225,13 @@
       "modified": "2024-03-30T08:44:02",
       "completed_at": 1789197440,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/x-men-97-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "112588|https://thenkiri.com/x-men-97-s01-complete-tv-series/|2024-03-20T11:10:20|2024-05-16T07:53:54|{'rendered': 'X-Men ’97 S01 (Complete) | TV Series'}",
+      "modified": "2024-05-16T07:53:54",
+      "completed_at": 1789200096,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2287,6 +2294,14 @@
     "https://downloadwella.com/8n9v6mphbe0i/Renegade.Nell.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/e0piBTjoP_DFJaSHax4FuiPuZk5lEYvI",
     "https://downloadwella.com/d6hwlmh4vpof/Renegade.Nell.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nZwOlqUV3zs-29xVT6ZmyH-tm3Ve9XE0",
     "https://downloadwella.com/wjhh93fbuggx/Renegade.Nell.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ws8iETUlhV3uT-B-hgvGUV0oiha9iL7L",
-    "https://downloadwella.com/poedanq7y6jo/Renegade.Nell.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TN84owE9wJgqTSgt9HraJgp-W2NPlWbl"
+    "https://downloadwella.com/poedanq7y6jo/Renegade.Nell.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TN84owE9wJgqTSgt9HraJgp-W2NPlWbl",
+    "https://downloadwella.com/ctt5d959zgj4/X-men.97.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IKwjslgR4WIHItDclH6Eo5ZLmuCflaZI",
+    "https://downloadwella.com/32m8q6ymz2x3/X-Men.97.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/B4hR4HoEcpZLmlsaFviFkzhApGGc9UKg",
+    "https://downloadwella.com/99r5ndsyn2jy/X-Men.97.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2ecI_F40JhfcSEUoGPLuv6XFin5nZBtV",
+    "https://downloadwella.com/6ociaqfexr1i/X-Men.97.S01E06.(NKIRI.COM).S.mkv.html": "https://v1.vidfiles.com/d/FdhhvoU3DhfN4cRHHJy3S2DkutsmE8XO",
+    "https://downloadwella.com/cugs3ziylp7w/X-Men.97.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1jglZm1nWyygMxkIaRWTjpH9Qksh18mY",
+    "https://downloadwella.com/vd365hi4fz9n/X-men.97.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zAMSFoN6N6Y-gzQvTY0ihpDXKlo6gyj8",
+    "https://downloadwella.com/b39805d01lh9/X-Men.97.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LeVAo-8K05BC2Gv0cvLnftyCUWOgNvHq",
+    "https://downloadwella.com/kxmabyheqp66/X-Men.97.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xOXBZBmBj0-r5JmjxD5I8EczD9y0c093"
   }
 }
