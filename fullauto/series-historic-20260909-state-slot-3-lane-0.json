@@ -1232,6 +1232,13 @@
       "modified": "2024-05-16T07:53:54",
       "completed_at": 1789200096,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/animal-control-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "111943|https://thenkiri.com/animal-control-s01-complete-tv-series/|2024-03-07T19:03:30|2024-03-07T19:03:30|{'rendered': 'Animal Control S01 (Complete) | TV Series'}",
+      "modified": "2024-03-07T19:03:30",
+      "completed_at": 1789203977,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2302,6 +2309,16 @@
     "https://downloadwella.com/cugs3ziylp7w/X-Men.97.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1jglZm1nWyygMxkIaRWTjpH9Qksh18mY",
     "https://downloadwella.com/vd365hi4fz9n/X-men.97.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zAMSFoN6N6Y-gzQvTY0ihpDXKlo6gyj8",
     "https://downloadwella.com/b39805d01lh9/X-Men.97.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LeVAo-8K05BC2Gv0cvLnftyCUWOgNvHq",
-    "https://downloadwella.com/kxmabyheqp66/X-Men.97.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xOXBZBmBj0-r5JmjxD5I8EczD9y0c093"
+    "https://downloadwella.com/kxmabyheqp66/X-Men.97.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xOXBZBmBj0-r5JmjxD5I8EczD9y0c093",
+    "https://downloadwella.com/0qohr6u91sae/Animal.Control.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/K9kWvWCe1DcIebJPQ6UlKr0jwsRuM9t3",
+    "https://downloadwella.com/k3lw8s135l1i/Animal.Control.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ihzxD0dJTCh5FbBPkgAcia4yQElsPQ0Y",
+    "https://downloadwella.com/1d1oi9vtqcpn/Animal.Control.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/l7D54jUx_tjRi3-8Q87aBVM6PSqdU02i",
+    "https://downloadwella.com/13zr1l4o251h/Animal.Control.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9GgvK9rND8Um-GOcbEmZ0QIigC6mYwGz",
+    "https://downloadwella.com/rfrmdhn32nwy/Animal.Control.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Xr5NdXMRf1QUll0WomvDBjAsJofO6C-h",
+    "https://downloadwella.com/ybiw04tf4115/Animal.Control.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z-rGKc57KakL0XmqBVT4a33E7df2peen",
+    "https://downloadwella.com/8h99tvvj0ae7/Animal.Control.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jEIdgnLGRpNLcery7cBpk5kwkvjwgF_M",
+    "https://downloadwella.com/gtbbzw3l6a02/Animal.Control.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vg-Ty9ZKdp4pfhr2N82hTT1dzPmuEARv",
+    "https://downloadwella.com/qdr8rbof0kvg/Animal.Control.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/j055HtQ0zSx7AboT2w4YkFj-V6KzjXOU",
+    "https://downloadwella.com/dim74utczy8z/Animal.Control.S01E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/whCKacySE7dBHGjsQVdzgGQsf2X_M70N"
   }
 }
