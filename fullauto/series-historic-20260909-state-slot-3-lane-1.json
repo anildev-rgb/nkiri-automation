@@ -1380,6 +1380,13 @@
       "modified": "2023-12-21T12:22:10",
       "completed_at": 1789237783,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/only-murders-in-the-building-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "96525|https://thenkiri.com/only-murders-in-the-building-s03-complete-tv-series/|2023-08-08T08:01:15|2024-02-25T06:32:48|{'rendered': 'Only Murders in the Building S03 (Complete) | TV Series'}",
+      "modified": "2024-02-25T06:32:48",
+      "completed_at": 1789239051,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2570,6 +2577,12 @@
     "https://downloadwella.com/fbj24txdqh4i/Ahsoka.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hH4FKZPUo93nl0q9rSBuLqINMSf0ieEP",
     "https://downloadwella.com/uvml28dpe36r/Ahsoka.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DAAKz4v_gnhmaQBay0U2vaXsZqP2s_rr",
     "https://downloadwella.com/9m66i85g4jvr/Ahsoka.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GIYtg1PgxfbwN5dWvtDoGUqr8lrPSxDH",
-    "https://downloadwella.com/9bs0f9hamdm5/Ahsoka.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jH_r84iuTWPlOSJxxLB1CbvwYFs64yta"
+    "https://downloadwella.com/9bs0f9hamdm5/Ahsoka.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jH_r84iuTWPlOSJxxLB1CbvwYFs64yta",
+    "https://downloadwella.com/h2bl32kfcvu5/Only.Murders.in.the.Building.S03E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5G5x6qF-N6uC5W1hEymnY1BxwPRxw-Mo",
+    "https://downloadwella.com/tsbns50u42uv/Only.Murders.in.the.Building.S03E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gbH6HLupBgPlPdpytTiFWQwVjPOkUZ6L",
+    "https://downloadwella.com/9u46qqy1ihri/Only.Murders.in.the.Building.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EVdzyNLuzVlkeMbDoKFRaNtjuIl86zv4",
+    "https://downloadwella.com/t9jrcrynx17l/Only.Murders.in.the.Building.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Eq526vcCynIGKe7ma9M5HQ5YaC2koUP7",
+    "https://downloadwella.com/7pchaipstz25/Only.Murders.in.the.Building.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BcJGqNhKgg5YOyQK7CFPU7QxIWbxnWpm",
+    "https://downloadwella.com/dbhsfrh1qxjt/Only.Murders.in.the.Building.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3xMWOw0zAjVpXEqo3h79vK_XGKJq_yd3"
   }
 }
