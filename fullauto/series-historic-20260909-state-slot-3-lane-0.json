@@ -1263,11 +1263,10 @@
       "reason": "one or more source links were unavailable"
     },
     "https://thenkiri.com/mr-and-mrs-smith-s01-complete-tv-series/": {
-      "status": "partial",
+      "status": "done",
       "signature": "107754|https://thenkiri.com/mr-and-mrs-smith-s01-complete-tv-series/|2024-02-02T13:32:25|2024-02-02T13:32:25|{'rendered': 'Mr. and Mrs. Smith S01 (Complete) | TV Series'}",
       "modified": "2024-02-02T13:32:25",
-      "completed_at": 1789212352,
-      "reason": "one or more source links were unavailable"
+      "completed_at": 1789214424
     }
   },
   "series_links": {
@@ -2369,12 +2368,13 @@
     "https://downloadwella.com/ichgfcpdyp4a/Tracker.2024.S01E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rBRysVGB6p6py5TdkvBDIEd1I0-lrtpV",
     "https://downloadwella.com/zgmznw8250cc/Tracker.2024.S01E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ts29DT0bCT1eGw9kTYwpBiYM8086UDKd",
     "https://downloadwella.com/0niznpozq7k9/Tracker.2024.S01E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xNzK4AZTR6gj7lAMrR4zLzeOQqw0VVzs",
-    "https://downloadwella.com/t7cpu8mf89zr/Mr.and.Mrs.Smith.2024.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/K3l7mKgNgLY6FL6l2_MtEcGi8DpN4ygU",
-    "https://downloadwella.com/muae1fbnlzx7/Mr.and.Mrs.Smith.2024.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0ZTXtmjMOiO0SRqo_VuTyZacYf_yPxWt",
-    "https://downloadwella.com/8vfylix4567h/Mr.and.Mrs.Smith.2024.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eA34OoqHaiypSbpnRNGimbqvXpP5qEaS",
-    "https://downloadwella.com/syoivrku9lj3/Mr.and.Mrs.Smith.2024.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AF7m-sf3vmXSkGOQtDTqV8iQFm0Oqw-k",
-    "https://downloadwella.com/ykn6jl37sug5/Mr.and.Mrs.Smith.2024.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/z3dy7gKP8wWzL4h7OgswuKOtmD3xm5bC",
-    "https://downloadwella.com/ibzjncb6j0s3/Mr.and.Mrs.Smith.2024.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rzUZ1kHeCfXEmI6jq2C8E6iSA__sWFYf",
-    "https://downloadwella.com/vaks85pabp0k/Mr.and.Mrs.Smith.2024.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sWOa541n5heMTbENIv48d6IhbHdteaPL"
+    "https://downloadwella.com/t7cpu8mf89zr/Mr.and.Mrs.Smith.2024.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Dzjobxe_t_kRG55Zs5yeiebrv9s8oY94",
+    "https://downloadwella.com/muae1fbnlzx7/Mr.and.Mrs.Smith.2024.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bfmF7Vy-JZjWb_adrBOfg5L3jhSA_ABg",
+    "https://downloadwella.com/8vfylix4567h/Mr.and.Mrs.Smith.2024.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SIhCPx30AxENemjNQr-TbyEgg9Hiz38L",
+    "https://downloadwella.com/syoivrku9lj3/Mr.and.Mrs.Smith.2024.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/U2xGoLJvpUPr7CuNWkW5gGbvcKN3CC6o",
+    "https://downloadwella.com/ykn6jl37sug5/Mr.and.Mrs.Smith.2024.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JjUqmZeWmA7oFu-gNCHjcEIO2Va0w3Ri",
+    "https://downloadwella.com/ibzjncb6j0s3/Mr.and.Mrs.Smith.2024.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/N2FYd8kdmgPD6Tax1VO1nWxMiMbPFKsq",
+    "https://downloadwella.com/vaks85pabp0k/Mr.and.Mrs.Smith.2024.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jfoiCgp5aasTV9dXrISMm1fjORf4P7Kc",
+    "https://downloadwella.com/wkgkhibx47lb/Mr.and.Mrs.Smith.2024.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ruaemlOMzSRbkhHSxl0ebjbqbvrDitjm"
   }
 }
