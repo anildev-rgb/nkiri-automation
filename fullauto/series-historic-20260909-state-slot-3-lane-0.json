@@ -1239,6 +1239,13 @@
       "modified": "2024-03-07T19:03:30",
       "completed_at": 1789203977,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/dead-hot-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "111589|https://thenkiri.com/dead-hot-s01-complete-tv-series/|2024-03-01T17:07:06|2024-03-01T17:07:06|{'rendered': 'Dead Hot S01 (Complete) | TV Series'}",
+      "modified": "2024-03-01T17:07:06",
+      "completed_at": 1789205572,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2319,6 +2326,10 @@
     "https://downloadwella.com/8h99tvvj0ae7/Animal.Control.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jEIdgnLGRpNLcery7cBpk5kwkvjwgF_M",
     "https://downloadwella.com/gtbbzw3l6a02/Animal.Control.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vg-Ty9ZKdp4pfhr2N82hTT1dzPmuEARv",
     "https://downloadwella.com/qdr8rbof0kvg/Animal.Control.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/j055HtQ0zSx7AboT2w4YkFj-V6KzjXOU",
-    "https://downloadwella.com/dim74utczy8z/Animal.Control.S01E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/whCKacySE7dBHGjsQVdzgGQsf2X_M70N"
+    "https://downloadwella.com/dim74utczy8z/Animal.Control.S01E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/whCKacySE7dBHGjsQVdzgGQsf2X_M70N",
+    "https://downloadwella.com/erqo22exwjnw/Dead.Hot.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/58xuKjXSNGnNUcPPmkPI6_O3Wti_Ig-H",
+    "https://downloadwella.com/74tvqp4sgv01/Dead.Hot.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n2GAziQSo0RZGgz7NfZ1C0sE2BaYySEb",
+    "https://downloadwella.com/sfpolbfogeo3/Dead.Hot.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pnEvpMGL8GUVRfQFSLuxwL_Y_tektaiy",
+    "https://downloadwella.com/i29lq21kqudp/Dead.Hot.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/c16hRwRpbVA4p4NNdvQX36NC-SrtnJD4"
   }
 }
