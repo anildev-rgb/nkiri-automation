@@ -1247,7 +1247,14 @@
       "completed_at": 1789205572,
       "reason": "one or more source links were unavailable"
     },
-    "https://thenkiri.com/wwe-elimination-chamber-2024-wrestling-special/": "skipped (wwe)"
+    "https://thenkiri.com/wwe-elimination-chamber-2024-wrestling-special/": "skipped (wwe)",
+    "https://thenkiri.com/resident-alien-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "108420|https://thenkiri.com/resident-alien-s03-complete-tv-series/|2024-02-16T09:11:45|2024-04-04T06:41:56|{'rendered': 'Resident Alien S03 (Episode 8 Added) | TV Series'}",
+      "modified": "2024-04-04T06:41:56",
+      "completed_at": 1789207558,
+      "reason": "one or more source links were unavailable"
+    }
   },
   "series_links": {
     "https://downloadwella.com/te81x1qd9nt7/Madfabulous.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/K3v4aHpPg1cKHEmUnhxwkVYwpoU_4YH9",
@@ -2331,6 +2338,13 @@
     "https://downloadwella.com/erqo22exwjnw/Dead.Hot.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/58xuKjXSNGnNUcPPmkPI6_O3Wti_Ig-H",
     "https://downloadwella.com/74tvqp4sgv01/Dead.Hot.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n2GAziQSo0RZGgz7NfZ1C0sE2BaYySEb",
     "https://downloadwella.com/sfpolbfogeo3/Dead.Hot.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pnEvpMGL8GUVRfQFSLuxwL_Y_tektaiy",
-    "https://downloadwella.com/i29lq21kqudp/Dead.Hot.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/c16hRwRpbVA4p4NNdvQX36NC-SrtnJD4"
+    "https://downloadwella.com/i29lq21kqudp/Dead.Hot.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/c16hRwRpbVA4p4NNdvQX36NC-SrtnJD4",
+    "https://downloadwella.com/cm0d46nh2mp6/Resident.Alien.S03E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wSrVzlrwAXHgtu8QupNXFY30sQvJp1nL",
+    "https://downloadwella.com/8oxnnx5mvqnb/Resident.Alien.S03E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iRo9cLuESQMeVmNJqBD3LHA0cacATgn2",
+    "https://downloadwella.com/lbqta0lr179m/Resident.Alien.S03E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/y8xzYIr5g1hQK-DfJg0L6j1bDXS0xG8N",
+    "https://downloadwella.com/1cfdb7iei8qo/Resident.Alien.S03E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DLPVusc5JHkBBlRwJxejTCKdvb1yad_o",
+    "https://downloadwella.com/1urtkup7youc/Resident.Alien.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tHVRo_XtEI2AvjAHpl71w38X0jbstRy9",
+    "https://downloadwella.com/xh3yd96fvtsj/Resident.Alien.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/U0YhvdjeotW-lfqn1liBW7EqTTAgypb4",
+    "https://downloadwella.com/aze6931ive5x/Resident.Alien.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sIvYEpowYVWQnAuYW0K0MmWV347nPu47"
   }
 }
