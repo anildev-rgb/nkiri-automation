@@ -1282,6 +1282,13 @@
       "modified": "2026-03-12T15:59:54",
       "completed_at": 1789216695,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/berlin-s01-complete-spanish-tv-series/": {
+      "status": "partial",
+      "signature": "106182|https://thenkiri.com/berlin-s01-complete-spanish-tv-series/|2023-12-29T16:02:08|2023-12-29T17:43:46|{'rendered': 'Berlin S01 (Complete) | Spanish TV Series'}",
+      "modified": "2023-12-29T17:43:46",
+      "completed_at": 1789217921,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2402,6 +2409,13 @@
     "https://downloadwella.com/k9mh3m4x4gz3/ted.2024.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dJk-j0L9PIyxnxfLjPb1amQmAJkp-n2k",
     "https://downloadwella.com/jv60mxh0fl0q/ted.2024.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7mZ_MGiivgG4oN0D1H9x8yCu4XQ9WZMt",
     "https://downloadwella.com/tjaxck3wiw3o/ted.2024.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bEbQrahhht_tJPWTks4nqdoP7lKOoiuq",
-    "https://downloadwella.com/7kb87syghch1/ted.2024.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JYiGHoDkvIg8In2Q4AlImCwdbO6W1cOE"
+    "https://downloadwella.com/7kb87syghch1/ted.2024.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JYiGHoDkvIg8In2Q4AlImCwdbO6W1cOE",
+    "https://downloadwella.com/v75c6m83q55k/Berlin.2023.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ltvo6tOX2t6vISo2EiZpLHnIfIZG7eox",
+    "https://downloadwella.com/cebxz1r4in3b/Berlin.2023.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5illktdCEPUg4NHvTSEVOohFNeSZPx5t",
+    "https://downloadwella.com/bkmjvswfvwzu/Berlin.2023.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cZiGyRvPkqO8M9MZQxQm7lrzSAulOW7U",
+    "https://downloadwella.com/s87tp7oxxr4o/Berlin.2023.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WiG7wIsrbCNUjXMd_81LDl6IgMCrPmsA",
+    "https://downloadwella.com/xj8gwhh1cqiz/Berlin.2023.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wvj4Lwp8EJqs7nEvGI6fsFrUUnaJaHwk",
+    "https://downloadwella.com/3hnjgpu72lzk/Berlin.2023.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ls3GCn8Xiqf29lNMzkkGB1wUDlIG7E8Y",
+    "https://downloadwella.com/iqhae88khie3/Berlin.2023.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/f07WyR1U0KXKkq-G8d-eB8mXtdxTzLIB"
   }
 }
