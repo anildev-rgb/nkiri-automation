@@ -1313,7 +1313,14 @@
       "status": "partial",
       "signature": "102388|https://thenkiri.com/all-the-lights-we-cannot-see-s01-complete-tv-series/|2023-11-05T12:22:54|2024-02-23T10:29:15|{'rendered': 'All the Lights We Cannot See S01 (Complete) | TV Series'}",
       "modified": "2024-02-23T10:29:15",
-      "completed_at": 1789224458,
+      "completed_at": 1789223620,
+      "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/american-horror-stories-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "101881|https://thenkiri.com/american-horror-stories-s03-complete-tv-series/|2023-10-26T07:24:14|2024-10-15T07:23:56|{'rendered': 'American Horror Stories S03 (Episode 5 – 9 Added) | TV Series'}",
+      "modified": "2024-10-15T07:23:56",
+      "completed_at": 1789226078,
       "reason": "one or more source links were unavailable"
     }
   },
@@ -2468,9 +2475,17 @@
     "https://downloadwella.com/z3lybx8pgrij/The.Curse.2023.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/y_cVgPR40GZV8K_TEyJYPhxCp86IuBbR",
     "https://downloadwella.com/fqf668sq9sna/The.Curse.2023.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/os4uri47zJQ6XNoz-O5LeRdhkYx3SoTJ",
     "https://downloadwella.com/vdkhybm6iuif/The.Curse.2023.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_uJ7658Ph_F-OoPYPmG9ms3uQoc8EHKZ",
-    "https://downloadwella.com/kr3vwoweve8o/All.the.Light.We.Cannot.See.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SG9s2zpS9Pi8kNdfb0APdaifJQfn-wx5",
-    "https://downloadwella.com/rvbfflogouns/All.the.Light.We.Cannot.See.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9VnVW9Z7GmxerKNnQqeGaydzECR3A9YH",
+    "https://downloadwella.com/kr3vwoweve8o/All.the.Light.We.Cannot.See.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aLdRflLq6v8cP98wcugVidrU9xQLQzFp",
+    "https://downloadwella.com/rvbfflogouns/All.the.Light.We.Cannot.See.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0TJpjp2sqGvCDfCQkIYtz0hjjQtPof55",
     "https://downloadwella.com/2djw20ld5pw5/All.the.Light.We.Cannot.See.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4Cv_jXFPuDjqroLGtrLYPJCyZbAfTBOi",
-    "https://downloadwella.com/7homt8s9nfcn/All.the.Light.We.Cannot.See.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/D3QPEholFVrZMw7mqRe0y4RGHGfHwF6I"
+    "https://downloadwella.com/7homt8s9nfcn/All.the.Light.We.Cannot.See.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/D3QPEholFVrZMw7mqRe0y4RGHGfHwF6I",
+    "https://downloadwella.com/hpz48w2at5i5/American.Horror.Stories.S03E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vbheVi6d1n5QlaAJgtr7MNtEu8cB3Bj-",
+    "https://downloadwella.com/2p3l0h96vcxq/American.Horror.Stories.S03E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W0HFX9U42m-B8yd0PG2zPzfGBAiLse-b",
+    "https://downloadwella.com/ftlwu2ah2vsc/American.Horror.Stories.S03E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iTaM16ae0P9APEiV5fYoLRpjTCXJyfJ7",
+    "https://downloadwella.com/3saunuszbchd/American.Horror.Stories.S03E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/avfqC7IHaUKPjxGwGBcjixol2Odb7sfB",
+    "https://downloadwella.com/tkm27oleh2pj/American.Horror.Stories.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cWUbsA19xm4qNk7NAg7H9seRYOQlQT0S",
+    "https://downloadwella.com/xdo6kknftb2b/American.horror.stories.s03e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/122lyEZPQL0WsS1OrgkU6W6NOmVD4YPE",
+    "https://downloadwella.com/wxgau1d4as2u/American.horror.stories.s03e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Yzcb2Mk1JXjCqGijbC-EhasfQmON8_ci",
+    "https://downloadwella.com/7zpjdkmv7ch7/American.horror.stories.s03e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vBVVBpoD3W3IUSLhP18PIaCIoI7f_bit"
   }
 }
