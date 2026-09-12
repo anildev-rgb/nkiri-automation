@@ -1385,6 +1385,13 @@
       "modified": "2024-02-25T06:58:56",
       "completed_at": 1789244837,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/foundation-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "95367|https://thenkiri.com/foundation-s02-complete-tv-series/|2023-07-14T07:51:31|2024-02-24T15:53:20|{'rendered': 'Foundation S02 (Episode 10 Added) | TV Series'}",
+      "modified": "2024-02-24T15:53:20",
+      "skipped_at": 1789245035,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
