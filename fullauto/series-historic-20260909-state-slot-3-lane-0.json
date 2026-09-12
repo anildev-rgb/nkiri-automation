@@ -1336,6 +1336,13 @@
       "modified": "2023-10-11T10:15:16",
       "completed_at": 1789228279,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/surrealestate-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "100735|https://thenkiri.com/surrealestate-s02-complete-tv-series/|2023-10-05T08:46:49|2024-02-25T02:06:59|{'rendered': 'SurrealEstate S02 (Episode 9 Added) | TV Series'}",
+      "modified": "2024-02-25T02:06:59",
+      "completed_at": 1789229351,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2507,6 +2514,11 @@
     "https://downloadwella.com/hivmqipglzvn/Rick.and.Morty.S07E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/V3WkLlivH6SRNKGTldb9Z8Xr-Pd0XXLp",
     "https://downloadwella.com/c2fc3l705fbx/The_Reckoning_2023_S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/R5qqZfkLy28itAc8TifROBqigvd_xF3B",
     "https://downloadwella.com/l0kzxmbda8kx/The_Reckoning_2023_S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/x4ObxtC8CxBA86PZY25Zi0HcakjXaUNn",
-    "https://downloadwella.com/jyc7n786fne0/The_Reckoning_2023_S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W-uafUMdjeOhVmUk20Tz_zlnJwT2uuAj"
+    "https://downloadwella.com/jyc7n786fne0/The_Reckoning_2023_S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W-uafUMdjeOhVmUk20Tz_zlnJwT2uuAj",
+    "https://downloadwella.com/5urern4pupfl/SurrealEstate.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/80J4wgWZfDS0bKs-qEx05l_v4AGYhYiO",
+    "https://downloadwella.com/fqwt3oinu9db/SurrealEstate.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fg1yopdzZLk_VI9vwellzKgmamq2u2x7",
+    "https://downloadwella.com/2oh8bkpp8xw8/SurrealEstate.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uJQuhh9d13d9YQyC7VEUNzcK1L74l7Kh",
+    "https://downloadwella.com/7jjpajxgunfa/SurrealEstate.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KaTaS-wjIBOPOeU_yT87_XTv1PuzJsf2",
+    "https://downloadwella.com/pi5guzyne9ox/SurrealEstate.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RI2A-PnXbuLkOsvwBza9sP7y4KL5Fqk7"
   }
 }
