@@ -1421,6 +1421,13 @@
       "modified": "2023-09-02T18:08:57",
       "completed_at": 1789245603,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/run-the-world-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "90792|https://thenkiri.com/run-the-world-s01-complete-tv-series/|2023-06-02T21:02:42|2023-09-02T18:02:21|{'rendered': 'Run the World S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T18:02:21",
+      "completed_at": 1789245824,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2635,6 +2642,7 @@
     "https://downloadwella.com/lne64c7werve/And.Just.Like.That.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/M-2nQW0pf61Zlu1i0rovEJ-Ue-e125or",
     "https://downloadwella.com/masjz2ytxn6f/And.Just.Like.That.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TTRkYBQjEaWSpMjFhx0RbN6qnK2hR7yx",
     "https://downloadwella.com/qy5f9kztj32r/And.Just.Like.That.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/g3kiY3BLyyAGcodKypt3quk0FiYZu5wY",
-    "https://downloadwella.com/s0ai69z4onnq/Clean.Sweep.2023.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yAVeOYu4vL3BQNcyTaoX1WSRbMLu6SmF"
+    "https://downloadwella.com/s0ai69z4onnq/Clean.Sweep.2023.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yAVeOYu4vL3BQNcyTaoX1WSRbMLu6SmF",
+    "https://downloadwella.com/uxh4v4vb7kf3/Run.The.World.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8Es8WcYY874dbZ8__eTr3Ftq4cc3HDpC"
   }
 }
