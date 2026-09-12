@@ -1413,6 +1413,13 @@
       "modified": "2023-09-02T18:12:26",
       "completed_at": 1789246827,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/based-on-a-true-story-complete-tv-series/": {
+      "status": "partial",
+      "signature": "91122|https://thenkiri.com/based-on-a-true-story-complete-tv-series/|2023-06-08T16:50:44|2023-09-02T18:05:37|{'rendered': 'Based on a True Story (Complete) | TV Series'}",
+      "modified": "2023-09-02T18:05:37",
+      "completed_at": 1789247395,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2635,6 +2642,8 @@
     "https://downloadwella.com/jzbt743t7l7t/Better.Call.Saul.S06E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rXaSJ2fnbbqXqE_Kx5JtLx90iV6UxNn4",
     "https://downloadwella.com/hetqe3o5rdf2/Better.Call.Saul.S06E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/z_Aw_piolIGWwFIX3Xcm0y6tMxTqNprd",
     "https://downloadwella.com/ajjd466fe6u1/Better.Call.Saul.S06E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/buwzBnqjDK5xewlXyohzLlq1INf8D7nI",
-    "https://downloadwella.com/ulnmtyto6n0c/Better.Call.Saul.S06E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jSHnjN5Db3lsbZlZi61_gZCbOsbUdE-1"
+    "https://downloadwella.com/ulnmtyto6n0c/Better.Call.Saul.S06E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jSHnjN5Db3lsbZlZi61_gZCbOsbUdE-1",
+    "https://downloadwella.com/zbshjngrwero/Based.on.a.True.Story.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jO2lZshXdJKYh3f_ZDNWiMOtSDK443UI",
+    "https://downloadwella.com/vdkrmv742lo4/Based.on.a.True.Story.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BV4r8_Ta0RA2L5c2H7-2U3n6LJ61-a-A"
   }
 }
