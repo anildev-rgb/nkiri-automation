@@ -1427,6 +1427,13 @@
       "modified": "2023-09-02T17:59:38",
       "completed_at": 1789251019,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/mulligan-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "89743|https://thenkiri.com/mulligan-s01-complete-tv-series/|2023-05-18T09:32:28|2023-09-02T17:56:23|{'rendered': 'Mulligan S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T17:56:23",
+      "completed_at": 1789255003,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2659,6 +2666,15 @@
     "https://downloadwella.com/i1b84cq6uji9/FUBAR.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RQ-VCmk4cMzXEoAshhg3Fgp0QZuyFX1l",
     "https://downloadwella.com/hl9x2f0anepp/FUBAR.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/14Kdyy8UlBFM6OYuIINHSMfyT-zix5tm",
     "https://downloadwella.com/cmq4ngk7dbvk/FUBAR.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3bQMcmp3TRggPPqo-Xh6lcWGj7DtmsL9",
-    "https://downloadwella.com/yd279gj4yg8h/FUBAR.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PVUGl9GrMUhHV6BAF2yrcfGMD811tpX4"
+    "https://downloadwella.com/yd279gj4yg8h/FUBAR.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PVUGl9GrMUhHV6BAF2yrcfGMD811tpX4",
+    "https://downloadwella.com/2rpsi8vzvne4/Mulligan.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NkALybvm26lgwaX0v1oSUVZxn8lcWOIY",
+    "https://downloadwella.com/ojgz975vl3k7/Mulligan.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Xs51LHHh5-MrgeimSMl8INlzRH0R907c",
+    "https://downloadwella.com/brjfli3xyz9g/Mulligan.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hi04S05XTmCVxrOULgYoYz8RS9ce_6BT",
+    "https://downloadwella.com/fbdv0envx2zq/Mulligan.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zFSjr3KHxq20cCyxnn8D6CvfZ6hdF1UA",
+    "https://downloadwella.com/3gi5bb8438yz/Mulligan.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Xcz9YVayMNPnw3ihjhJv3V15CdhMu4s8",
+    "https://downloadwella.com/2u7nu482d3oe/Mulligan.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Gx3r4tFQ7IEfMyDhj9sdyP4cI1dG5tqy",
+    "https://downloadwella.com/i318kglxw1ci/Mulligan.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bsgfyjTh6SO0tHkPn0sbVmHtJAo6mGhB",
+    "https://downloadwella.com/dkiehf8993xc/Mulligan.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/O_37_ayQLeQB1F186BjVbjpEi4DO8Dp7",
+    "https://downloadwella.com/ospauft5nbtq/Mulligan.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7EOtSyh9r1h2XZSAJmNh0b7tOwqGSXi3"
   }
 }
