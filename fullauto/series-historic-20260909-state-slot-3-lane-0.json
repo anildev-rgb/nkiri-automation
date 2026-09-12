@@ -1378,6 +1378,13 @@
       "modified": "2023-09-02T18:02:36",
       "completed_at": 1789244565,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/physical-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "96274|https://thenkiri.com/physical-s03-complete-tv-series/|2023-08-02T09:27:47|2024-02-25T06:58:56|{'rendered': 'Physical S03 (Complete) | TV Series'}",
+      "modified": "2024-02-25T06:58:56",
+      "completed_at": 1789244837,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2592,6 +2599,7 @@
     "https://downloadwella.com/1qzphui9ihc9/One.Piece.2023.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/djlmi2noCp0yY8Mee2Yuec8P6O2M4kvA",
     "https://downloadwella.com/73pcknl6vtof/Killing.It.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Dpq9n4mBJT619sBipkcXhTkbxBZwcuBj",
     "https://downloadwella.com/9pl79h03fark/Killing.It.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/93jcUKrb3jfD9v9RVuYJecF5_lMUG1vO",
-    "https://downloadwella.com/1s50em4bg6zu/Killing.It.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MiEeJy0tWZI1ktlDGzkooM_mxqmwbWTZ"
+    "https://downloadwella.com/1s50em4bg6zu/Killing.It.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MiEeJy0tWZI1ktlDGzkooM_mxqmwbWTZ",
+    "https://downloadwella.com/iod98e3e2086/Physical.S03E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8j6VhZu69GUZnga9h7WRLSxUxTu7Vm1C"
   }
 }
