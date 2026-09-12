@@ -1305,7 +1305,14 @@
       "status": "partial",
       "signature": "103568|https://thenkiri.com/the-doll-factory-s01-complete-tv-series/|2023-11-28T14:49:30|2023-12-15T04:54:10|{'rendered': 'The Doll Factory S01 (Episode 6 Added) | TV Series'}",
       "modified": "2023-12-15T04:54:10",
-      "completed_at": 1789217457,
+      "completed_at": 1789216665,
+      "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-lazarus-project-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "102966|https://thenkiri.com/the-lazarus-project-s02-complete-tv-series/|2023-11-15T15:27:45|2023-11-15T15:27:45|{'rendered': 'The Lazarus Project S02 (Complete) | TV Series'}",
+      "modified": "2023-11-15T15:27:45",
+      "completed_at": 1789218543,
       "reason": "one or more source links were unavailable"
     }
   },
@@ -2430,10 +2437,17 @@
     "https://downloadwella.com/yl1l0fmher01/The.Serial.Killers.Wife.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Y73KmnbjdIcqE7k7t3njQSznWfSLH8yz",
     "https://downloadwella.com/w963anxez50b/The.Serial.Killers.Wife.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/B_lyQKyFur1BrtiggZgEYW-4Ifjuzx-C",
     "https://downloadwella.com/qsxitym737k3/The.Serial.Killers.Wife.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hDRKrwToh3smkGTZXQJPrXFqXv7e3RaV",
-    "https://downloadwella.com/oqsm0a7u0srs/The.Doll.Factory.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Fr2P8x22xGrun20PfcLl3g4zW6ixQDJv",
-    "https://downloadwella.com/ghmvhcskfz5c/The.Doll.Factory.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qFl1ADaG1MJ5FZBKV6Uq5wmMWUHAmpPz",
-    "https://downloadwella.com/b3gpnp1wen03/The.Doll.Factory.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cgBnCnMSptej9eeEPs6KA7fY-zPpznkM",
-    "https://downloadwella.com/b8bnxphgf89f/The.Doll.Factory.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6nN0n1P0FewNEXIpsn2-rFZGHc-V7ZVj",
-    "https://downloadwella.com/11gesh8vid6y/The.Doll.Factory.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mUafB3Gtg2RCPF0TT-aG5ZVQkCMr4ySb"
+    "https://downloadwella.com/oqsm0a7u0srs/The.Doll.Factory.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L6J2xebMcg8y9mlzViBHTlKxIOCZs_x7",
+    "https://downloadwella.com/ghmvhcskfz5c/The.Doll.Factory.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/P98-7VnzoG7g3OgbVgGN-FnH5RzAfN9A",
+    "https://downloadwella.com/b3gpnp1wen03/The.Doll.Factory.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mFoaFbeVPUSLAEkUsV02VTILIF69Hnc6",
+    "https://downloadwella.com/b8bnxphgf89f/The.Doll.Factory.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nbBMCfrdl0xJAaY6NIxfk5dGobzksVdS",
+    "https://downloadwella.com/11gesh8vid6y/The.Doll.Factory.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mUafB3Gtg2RCPF0TT-aG5ZVQkCMr4ySb",
+    "https://downloadwella.com/h6lf79jcd2m8/The.Lazarus.Project.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QQWjWXgaGvRTPjFw8ROqfZQOQdzTBRg2",
+    "https://downloadwella.com/oz5fz03jdzn6/The.Lazarus.Project.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AsMoNQas23U0xO_cSg8F55dRvH7WRox6",
+    "https://downloadwella.com/35m0un8omncf/The.Lazarus.Project.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JfH5tDl4a4WS41TlqYb8ZuASClio5F5Z",
+    "https://downloadwella.com/nbaomj1r9dhc/The.Lazarus.Project.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DoQU_iezpFTnur3Q6oZhyeMejyO2YZjA",
+    "https://downloadwella.com/m6mxds4ecetn/The.Lazarus.Project.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zeO3lovRgNwuZ5m4-gK8DdFu9WR64GVH",
+    "https://downloadwella.com/7e5r8ejgdr8u/The.Lazarus.Project.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3UM1kR1uE6lD1F1_y8PlB7O5GoTtjnLA",
+    "https://downloadwella.com/k1calnjgcyet/The.Lazarus.Project.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3mdk4hh2PG_DUhltxh_dsH6Chqz9i15P"
   }
 }
