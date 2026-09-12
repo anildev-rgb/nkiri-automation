@@ -1314,6 +1314,13 @@
       "modified": "2023-11-15T15:27:45",
       "completed_at": 1789218543,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-buccaneers-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "102590|https://thenkiri.com/the-buccaneers-s01-complete-tv-series/|2023-11-08T13:35:25|2023-12-17T12:35:08|{'rendered': 'The Buccaneers S01 (Episode 7 & 8 Added) | TV Series'}",
+      "modified": "2023-12-17T12:35:08",
+      "completed_at": 1789220030,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2448,6 +2455,12 @@
     "https://downloadwella.com/nbaomj1r9dhc/The.Lazarus.Project.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DoQU_iezpFTnur3Q6oZhyeMejyO2YZjA",
     "https://downloadwella.com/m6mxds4ecetn/The.Lazarus.Project.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zeO3lovRgNwuZ5m4-gK8DdFu9WR64GVH",
     "https://downloadwella.com/7e5r8ejgdr8u/The.Lazarus.Project.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3UM1kR1uE6lD1F1_y8PlB7O5GoTtjnLA",
-    "https://downloadwella.com/k1calnjgcyet/The.Lazarus.Project.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3mdk4hh2PG_DUhltxh_dsH6Chqz9i15P"
+    "https://downloadwella.com/k1calnjgcyet/The.Lazarus.Project.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3mdk4hh2PG_DUhltxh_dsH6Chqz9i15P",
+    "https://downloadwella.com/wzujq2ekmin4/The.Buccaneers.2023.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/w3GhuDMKS5xHpadHNwkmaZj0zBkGajco",
+    "https://downloadwella.com/94zta85htnhg/The.Buccaneers.2023.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SDfMA6iARYbwRUFwMFMjlzAu2Kfrv3p0",
+    "https://downloadwella.com/67i0n48d9wqq/The.Buccaneers.2023.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7JGSW-Q40oJmqFvP9LmFMaHuIy9CttIc",
+    "https://downloadwella.com/d9xlqkvy7dd0/The.Buccaneers.2023.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_ri8pbt5-DHjm3xwZLZt_jrlrKNGBf1W",
+    "https://downloadwella.com/bl1x3xx2hg2c/The.Buccaneers.2023.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fnvWlXVgFpDb3lXsKyho2PBxfpCjCNVt",
+    "https://downloadwella.com/86vj40b3wv6k/The.Buccaneers.2023.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pz3cZzU7qUC4OnNgQnVhC61yxZ8ZowDx"
   }
 }
