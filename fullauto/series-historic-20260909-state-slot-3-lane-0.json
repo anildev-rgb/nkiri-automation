@@ -1371,6 +1371,13 @@
       "modified": "2023-09-02T18:03:35",
       "completed_at": 1789242903,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/killing-it-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "96972|https://thenkiri.com/killing-it-s02-complete-tv-series/|2023-08-17T15:40:50|2023-09-02T18:02:36|{'rendered': 'Killing It S02 (Complete) | TV Series'}",
+      "modified": "2023-09-02T18:02:36",
+      "completed_at": 1789244565,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2582,6 +2589,9 @@
     "https://downloadwella.com/591nbk7fzkcg/One.Piece.2023.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mfk9fpdO3kTWyacrxFObjPD6DHIPPT9k",
     "https://downloadwella.com/7cfi1qjr8ngg/One.Piece.2023.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5tjgFfBen29GsLG_AF53cGGdVtRVPPv_",
     "https://downloadwella.com/v99j7dn6ap9m/One.Piece.2023.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RLxqI430guvBEtvAmBYYZdEplXPKlKv7",
-    "https://downloadwella.com/1qzphui9ihc9/One.Piece.2023.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/djlmi2noCp0yY8Mee2Yuec8P6O2M4kvA"
+    "https://downloadwella.com/1qzphui9ihc9/One.Piece.2023.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/djlmi2noCp0yY8Mee2Yuec8P6O2M4kvA",
+    "https://downloadwella.com/73pcknl6vtof/Killing.It.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Dpq9n4mBJT619sBipkcXhTkbxBZwcuBj",
+    "https://downloadwella.com/9pl79h03fark/Killing.It.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/93jcUKrb3jfD9v9RVuYJecF5_lMUG1vO",
+    "https://downloadwella.com/1s50em4bg6zu/Killing.It.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MiEeJy0tWZI1ktlDGzkooM_mxqmwbWTZ"
   }
 }
