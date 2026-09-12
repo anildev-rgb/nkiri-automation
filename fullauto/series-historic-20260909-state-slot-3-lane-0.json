@@ -1322,6 +1322,13 @@
       "modified": "2024-10-15T07:23:56",
       "completed_at": 1789226078,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/rick-and-morty-s07-complete-tv-series/": {
+      "status": "partial",
+      "signature": "101455|https://thenkiri.com/rick-and-morty-s07-complete-tv-series/|2023-10-16T08:01:54|2024-02-25T01:54:43|{'rendered': 'Rick and Morty S07 (Episode 10 Added) | TV Series'}",
+      "modified": "2024-02-25T01:54:43",
+      "completed_at": 1789227498,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2486,6 +2493,10 @@
     "https://downloadwella.com/tkm27oleh2pj/American.Horror.Stories.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cWUbsA19xm4qNk7NAg7H9seRYOQlQT0S",
     "https://downloadwella.com/xdo6kknftb2b/American.horror.stories.s03e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/122lyEZPQL0WsS1OrgkU6W6NOmVD4YPE",
     "https://downloadwella.com/wxgau1d4as2u/American.horror.stories.s03e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Yzcb2Mk1JXjCqGijbC-EhasfQmON8_ci",
-    "https://downloadwella.com/7zpjdkmv7ch7/American.horror.stories.s03e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vBVVBpoD3W3IUSLhP18PIaCIoI7f_bit"
+    "https://downloadwella.com/7zpjdkmv7ch7/American.horror.stories.s03e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vBVVBpoD3W3IUSLhP18PIaCIoI7f_bit",
+    "https://downloadwella.com/o39woph9c2wp/Rick.and.Morty.S07E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lhu35PoRG15n91Xwyp8-vIVN6fedCyqG",
+    "https://downloadwella.com/tg2j0wflbous/Rick.and.Morty.S07E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TEJnk13lEiLnUeUDN03eoXIBzq4HlT_X",
+    "https://downloadwella.com/7oxq04er4xn3/Rick.and.Morty.S07E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/r4jNW8Brhf4qDmQvEtq1qeu7nTSZLr73",
+    "https://downloadwella.com/hivmqipglzvn/Rick.and.Morty.S07E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/V3WkLlivH6SRNKGTldb9Z8Xr-Pd0XXLp"
   }
 }
