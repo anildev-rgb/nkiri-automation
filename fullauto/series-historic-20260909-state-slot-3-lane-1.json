@@ -1435,6 +1435,13 @@
       "modified": "2023-09-02T18:00:24",
       "completed_at": 1789246468,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/queen-cleopatra-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "89119|https://thenkiri.com/queen-cleopatra-complete-tv-series/|2023-05-10T12:03:29|2023-09-02T17:53:08|{'rendered': 'Queen Cleopatra (Complete) | TV Series'}",
+      "modified": "2023-09-02T17:53:08",
+      "skipped_at": 1789246592,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
