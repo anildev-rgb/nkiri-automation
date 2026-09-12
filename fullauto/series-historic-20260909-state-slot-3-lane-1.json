@@ -1346,6 +1346,12 @@
       "signature": "100799|https://thenkiri.com/loki-s02-complete-tv-series/|2023-10-06T07:02:04|2024-02-23T21:00:33|{'rendered': 'Loki S02 (Episode 6 Added) | TV Series'}",
       "modified": "2024-02-23T21:00:33",
       "completed_at": 1789229271
+    },
+    "https://thenkiri.com/boiling-point-s01-complete-tv-series/": {
+      "status": "done",
+      "signature": "100574|https://thenkiri.com/boiling-point-s01-complete-tv-series/|2023-10-02T15:49:13|2024-02-23T10:33:42|{'rendered': 'Boiling Point S01 (Complete) | TV Series'}",
+      "modified": "2024-02-23T10:33:42",
+      "completed_at": 1789229805
     }
   },
   "series_links": {
@@ -2512,6 +2518,10 @@
     "https://downloadwella.com/0nwvuhrvo3o2/Loki.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4q5PSGRoelOVng2xZGvzFFC1rNVWyiVB",
     "https://downloadwella.com/arishnqs1b11/Loki.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4iorKEeENRK8g7NbbmyYvdxXCC7IhUHa",
     "https://downloadwella.com/kizb8vv1geqa/Loki.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yuTom6zQFw8MPw0CUXqu_tVItkFhtyX8",
-    "https://downloadwella.com/x83kocjnivo3/Loki.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cCwb4m9kVRdjvLmFRa0km6Y6KRzInQOL"
+    "https://downloadwella.com/x83kocjnivo3/Loki.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cCwb4m9kVRdjvLmFRa0km6Y6KRzInQOL",
+    "https://downloadwella.com/ztaclr977zyz/Boiling.Point.2023.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4wp7CcNly15lMB9xHkrZyHyDXwBo8QN9",
+    "https://downloadwella.com/detz8zkydxfh/Boiling.Point.2023.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-2anExchM0SJdwwBusTTUEMczHTSSVwj",
+    "https://downloadwella.com/hohpr1cidy95/Boiling.Point.2023.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TgiB8lxFUUdPr2g2k-Zlw6aWfpRr_VSH",
+    "https://downloadwella.com/tbjltblkat7f/Boiling.Point.2023.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ar4U_QaiRkgoAXRoEmpupa4zNcm9Fw6n"
   }
 }
