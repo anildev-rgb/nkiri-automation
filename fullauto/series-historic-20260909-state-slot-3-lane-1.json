@@ -1449,6 +1449,13 @@
       "modified": "2023-09-02T17:46:59",
       "completed_at": 1789250437,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/from-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "87923|https://thenkiri.com/from-s02-complete-tv-series/|2023-04-25T02:15:02|2024-02-23T14:40:29|{'rendered': 'From S02 (Episode 10 Added) | TV Series'}",
+      "modified": "2024-02-23T14:40:29",
+      "completed_at": 1789253019,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2684,6 +2691,10 @@
     "https://downloadwella.com/i25rkzijkuqr/Avatar.The.Last.Airbender.S02E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iyIRkIYMA-jIWYgBgohUoDlUSvfz9h7p",
     "https://downloadwella.com/159n1t74gwxk/Avatar.The.Last.Airbender.S02E17.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YpMMDLy8hXCYF2kuberrevfqdsi5b3wd",
     "https://downloadwella.com/ys3j17uec6hv/Avatar.The.Last.Airbender.S02E18.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0sbqXKEj4TsN2TS9zckwDOnPvNTQHS00",
-    "https://downloadwella.com/p11a0iy9e8ks/Avatar.The.Last.Airbender.S02E19E20.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q2pA-WcRXxY6-9izhlSsK2K5xVfZaVIV"
+    "https://downloadwella.com/p11a0iy9e8ks/Avatar.The.Last.Airbender.S02E19E20.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q2pA-WcRXxY6-9izhlSsK2K5xVfZaVIV",
+    "https://downloadwella.com/m4beqtt3z948/From.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ekOMiiENWI8Cn4ph3E9pYGl4nIYh5DGp",
+    "https://downloadwella.com/wjhi0tbumogk/From.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_Tt6Mc6WvVeGsZML2VGMP9PneTZTiBBn",
+    "https://downloadwella.com/rjctoalk6vwl/From.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Atx72XgMq2ANXtq3zyN4kRHG2hr9g9Wy",
+    "https://downloadwella.com/lpnid8ojgvu9/From.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ksD2uO5rL__kfT4ltbN1UzIwkG55hVXN"
   }
 }
