@@ -1174,7 +1174,14 @@
       "modified": "2024-06-29T12:02:36",
       "completed_at": 1789172178
     },
-    "https://thenkiri.com/wwe-clash-at-the-castle-scotland-2024-wrestling-special/": "skipped (wwe)"
+    "https://thenkiri.com/wwe-clash-at-the-castle-scotland-2024-wrestling-special/": "skipped (wwe)",
+    "https://thenkiri.com/the-acolyte-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "116489|https://thenkiri.com/the-acolyte-s01-complete-tv-series/|2024-06-05T06:54:09|2024-07-17T07:39:19|{'rendered': 'The Acolyte S01 (Episodes 8 Added) | TV Series'}",
+      "modified": "2024-07-17T07:39:19",
+      "completed_at": 1789173322,
+      "reason": "one or more source links were unavailable"
+    }
   },
   "series_links": {
     "https://downloadwella.com/te81x1qd9nt7/Madfabulous.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/K3v4aHpPg1cKHEmUnhxwkVYwpoU_4YH9",
@@ -2200,6 +2207,11 @@
     "https://downloadwella.com/7aanqighcote/Supacell.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zHsqBWc1hDIKYQ1wl7ukR1k5lUob9NBU",
     "https://downloadwella.com/yr8c0m8cqj51/Supacell.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Maic9m21MlgUroUkUodVWBbLBgFWtZ2N",
     "https://downloadwella.com/chk9z9a9s1iz/Supacell.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L8EuYS7fkczkfw_wStYnubTeRhjGcjGr",
-    "https://downloadwella.com/2mwsqujgr6op/Supacell.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RJvJpVVS5Wd3kEaM7qa3TYAlRAu13sWc"
+    "https://downloadwella.com/2mwsqujgr6op/Supacell.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RJvJpVVS5Wd3kEaM7qa3TYAlRAu13sWc",
+    "https://downloadwella.com/wcqnbi6u4vwf/The.Acolyte.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Un2w1CIK2EFMyuH6mJkdl0B8evZDRIiS",
+    "https://downloadwella.com/qfz1brzubdlm/The.Acolyte.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VxcbU-MrxagGzoqBwF2qxdojHivHJkZK",
+    "https://downloadwella.com/v3nl19upn6ku/The.Acolyte.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BFsxDzqyi-8xxbmZooaPSLOvHfYYTx-X",
+    "https://downloadwella.com/0k5z1ssa7f2r/The.Acolyte.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UKMcU_GkPQTAxyA8ZeTgcHbxnwfdX6ki",
+    "https://downloadwella.com/squu859rfzb7/The.Acolyte.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RfxtxDYUc-x2Yi5T4NPOzXU4mI-gS1kA"
   }
 }
