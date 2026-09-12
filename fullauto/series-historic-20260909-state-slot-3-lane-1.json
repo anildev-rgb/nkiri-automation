@@ -1195,6 +1195,13 @@
       "modified": "2024-05-14T13:44:46",
       "completed_at": 1789177657,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/heeramandi-the-diamond-bazaar-s01-complete-indian-drama-series/": {
+      "status": "skipped_unavailable",
+      "signature": "114962|https://thenkiri.com/heeramandi-the-diamond-bazaar-s01-complete-indian-drama-series/|2024-05-06T06:45:03|2024-05-06T06:45:43|{'rendered': 'Heeramandi: The Diamond Bazaar S01 (Complete) | Indian Drama Series'}",
+      "modified": "2024-05-06T06:45:43",
+      "skipped_at": 1789177746,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
