@@ -1334,6 +1334,13 @@
       "signature": "101587|https://thenkiri.com/the-burning-girls-s01-complete-tv-series/|2023-10-19T18:31:14|2023-10-19T18:31:14|{'rendered': 'The Burning Girls S01 (Complete) | TV Series'}",
       "modified": "2023-10-19T18:31:14",
       "completed_at": 1789224773
+    },
+    "https://thenkiri.com/shining-vale-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "101301|https://thenkiri.com/shining-vale-s02-complete-tv-series/|2023-10-13T09:23:46|2024-02-25T06:47:42|{'rendered': 'Shining Vale S02 (Episode 8 Added) | TV Series'}",
+      "modified": "2024-02-25T06:47:42",
+      "completed_at": 1789226072,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2487,6 +2494,12 @@
     "https://downloadwella.com/qpa5zxjrmy9b/The.Burning.Girls.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/soA_QVoEXu9fR-i9tE-T1BP07WN106AS",
     "https://downloadwella.com/65jxtdaevnu9/The.Burning.Girls.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1IMqR8hfPZLsUvbYk7dfq4uJaesqJQL7",
     "https://downloadwella.com/i0g2k826z474/The.Burning.Girls.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VYzvSI5Hb1PJvy-F7wcChIVFD2RGikMo",
-    "https://downloadwella.com/ym052los51x0/The.Burning.Girls.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nHB2gl1N92koh2W5Bpr4ae0eaxCshiqP"
+    "https://downloadwella.com/ym052los51x0/The.Burning.Girls.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nHB2gl1N92koh2W5Bpr4ae0eaxCshiqP",
+    "https://downloadwella.com/yu6oo637tkdm/Shining.Vale.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AsBumigMfvOQiIrgheXCB6BOd3WYczfz",
+    "https://downloadwella.com/16rdh7fwoc0l/Shining.Vale.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3vWYseeOMvjfQ4PqvbAlBngDDXcm_gnq",
+    "https://downloadwella.com/re4jtf70mb98/Shining.Vale.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GkveyuYexfonG30QpkODhSIH83JmBYUn",
+    "https://downloadwella.com/60t609df1uw1/Shining.Vale.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/agi7q262erGvp5VCI6hOk2kHageGV8Zn",
+    "https://downloadwella.com/97d7ok1ylewq/Shining.Vale.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/H9Yy7S7kvOnUCvHulL0dSD_uO8nZP1vl",
+    "https://downloadwella.com/anz4ze9amjx3/Shining.Vale.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9QdhFMnJIdntc8Tbd4wmo1pO2L38vZFX"
   }
 }
