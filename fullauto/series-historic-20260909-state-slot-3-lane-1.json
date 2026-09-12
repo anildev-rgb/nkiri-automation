@@ -1230,6 +1230,13 @@
       "modified": "2024-03-22T16:10:43",
       "completed_at": 1789187405,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-girls-on-the-bus-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "112344|https://thenkiri.com/the-girls-on-the-bus-s01-complete-tv-series/|2024-03-14T18:12:51|2024-05-09T10:59:08|{'rendered': 'The Girls on the Bus S01 (Complete) | TV Series'}",
+      "modified": "2024-05-09T10:59:08",
+      "completed_at": 1789195252,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2298,6 +2305,7 @@
     "https://downloadwella.com/uij2c33lovcj/Davey.and.Jonesies.Locker.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gYtdKWlijw5wLAozIXhyq9jCcwSkbL2b",
     "https://downloadwella.com/dr3unczc66ix/Davey.and.Jonesies.Locker.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5iEU5OvmBST37EJXRGP19kj2J6yzeXMB",
     "https://downloadwella.com/t4m3kufegpy3/Davey.and.Jonesies.Locker.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wF9uPk6VZOiBcUrp3vA5ZVMD7lSPr9mt",
-    "https://downloadwella.com/trm67hed4bxr/Davey.and.Jonesies.Locker.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vKnol-_2REH3Ewqbnft2qjy3Xj9Jcao5"
+    "https://downloadwella.com/trm67hed4bxr/Davey.and.Jonesies.Locker.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vKnol-_2REH3Ewqbnft2qjy3Xj9Jcao5",
+    "https://downloadwella.com/na70dw806gcj/The.Girls.on.the.Bus.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HP3VtVVXTtZWs4_-ECQZFukRLdOBwtVT"
   }
 }
