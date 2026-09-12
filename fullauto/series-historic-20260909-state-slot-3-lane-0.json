@@ -1275,6 +1275,13 @@
       "modified": "2024-03-10T08:51:33",
       "completed_at": 1789215563,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/ted-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "106864|https://thenkiri.com/ted-s01-complete-tv-series/|2024-01-12T08:32:02|2026-03-12T15:59:54|{'rendered': 'ted S01 (Complete) | TV Series'}",
+      "modified": "2026-03-12T15:59:54",
+      "completed_at": 1789216695,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2389,6 +2396,12 @@
     "https://downloadwella.com/eguq4med7pdz/Belgravia.The.Next.Chapter.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fUmLn9AFJbeiXVCbijXnq6ULWhH-8uJp",
     "https://downloadwella.com/g8tc5lnb8jtm/Belgravia.the.next.chapter.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0rwfTk-AssEICiSFnXxadHAXlJhPzEQZ",
     "https://downloadwella.com/iap17wlyosvr/Belgravia.The.Next.Chapter.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/j7TvM00LeuBHgjoMWrrFv-fa9MZ4ITVU",
-    "https://downloadwella.com/hphbdzjp01cv/Belgravia.The.Next.Chapter.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XvjmuK4d1fGvhgSNuSVwNYSaCvKPNjFe"
+    "https://downloadwella.com/hphbdzjp01cv/Belgravia.The.Next.Chapter.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XvjmuK4d1fGvhgSNuSVwNYSaCvKPNjFe",
+    "https://downloadwella.com/1rpfb7ddgh4d/ted.2024.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KFOujiEC22iyuSWVWAVKb5nXrHGMdphV",
+    "https://downloadwella.com/cdqmfl2dumzl/ted.2024.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rFCtN4YPLDVqFH5T4wJsr_YyBeTqv3OH",
+    "https://downloadwella.com/k9mh3m4x4gz3/ted.2024.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dJk-j0L9PIyxnxfLjPb1amQmAJkp-n2k",
+    "https://downloadwella.com/jv60mxh0fl0q/ted.2024.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7mZ_MGiivgG4oN0D1H9x8yCu4XQ9WZMt",
+    "https://downloadwella.com/tjaxck3wiw3o/ted.2024.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bEbQrahhht_tJPWTks4nqdoP7lKOoiuq",
+    "https://downloadwella.com/7kb87syghch1/ted.2024.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JYiGHoDkvIg8In2Q4AlImCwdbO6W1cOE"
   }
 }
