@@ -1329,6 +1329,13 @@
       "modified": "2024-02-25T01:54:43",
       "completed_at": 1789227498,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-reckoning-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "101129|https://thenkiri.com/the-reckoning-s01-complete-tv-series/|2023-10-11T10:15:16|2023-10-11T10:15:16|{'rendered': 'The Reckoning S01 (Complete) | TV Series'}",
+      "modified": "2023-10-11T10:15:16",
+      "completed_at": 1789228279,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2497,6 +2504,9 @@
     "https://downloadwella.com/o39woph9c2wp/Rick.and.Morty.S07E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lhu35PoRG15n91Xwyp8-vIVN6fedCyqG",
     "https://downloadwella.com/tg2j0wflbous/Rick.and.Morty.S07E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TEJnk13lEiLnUeUDN03eoXIBzq4HlT_X",
     "https://downloadwella.com/7oxq04er4xn3/Rick.and.Morty.S07E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/r4jNW8Brhf4qDmQvEtq1qeu7nTSZLr73",
-    "https://downloadwella.com/hivmqipglzvn/Rick.and.Morty.S07E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/V3WkLlivH6SRNKGTldb9Z8Xr-Pd0XXLp"
+    "https://downloadwella.com/hivmqipglzvn/Rick.and.Morty.S07E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/V3WkLlivH6SRNKGTldb9Z8Xr-Pd0XXLp",
+    "https://downloadwella.com/c2fc3l705fbx/The_Reckoning_2023_S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/R5qqZfkLy28itAc8TifROBqigvd_xF3B",
+    "https://downloadwella.com/l0kzxmbda8kx/The_Reckoning_2023_S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/x4ObxtC8CxBA86PZY25Zi0HcakjXaUNn",
+    "https://downloadwella.com/jyc7n786fne0/The_Reckoning_2023_S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W-uafUMdjeOhVmUk20Tz_zlnJwT2uuAj"
   }
 }
