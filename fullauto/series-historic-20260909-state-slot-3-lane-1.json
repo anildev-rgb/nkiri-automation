@@ -1216,6 +1216,13 @@
       "modified": "2025-04-18T09:11:08",
       "completed_at": 1789180735,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/ripley-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "113326|https://thenkiri.com/ripley-s01-complete-tv-series/|2024-04-04T14:08:55|2024-04-04T14:08:55|{'rendered': 'Ripley S01 (Complete) | TV Series'}",
+      "modified": "2024-04-04T14:08:55",
+      "completed_at": 1789183657,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2268,6 +2275,13 @@
     "https://downloadwella.com/lykyxddzbwha/Sullivans.Crossing.s02e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kNQajA8-WUAw4xnCMC_wTDBmhCVSLxKh",
     "https://downloadwella.com/37dc5ezd0bet/Sullivans.Crossing.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/58NqUWR88EP52UwppGvByvbiiSchd5OE",
     "https://downloadwella.com/7kp74ejnoxmo/Sullivans.Crossing.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RRKNWUcU9mKW4Bbrqe4aJurcgIT0x7SX",
-    "https://downloadwella.com/vucoom2x1n2k/Sullivans.Crossing.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/78YLcA5m8Sskcr4N2f63fY2f_zvUHgzn"
+    "https://downloadwella.com/vucoom2x1n2k/Sullivans.Crossing.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/78YLcA5m8Sskcr4N2f63fY2f_zvUHgzn",
+    "https://downloadwella.com/fklzfx76wm87/RIPLEY.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/erPkHvIFsY7sAsXPCtuy12qIR7ojA4HS",
+    "https://downloadwella.com/okj5b025ft60/RIPLEY.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wk-vw7IM-YVbPdXimEsvye1tI7qjH475",
+    "https://downloadwella.com/wzr6z6t9wx1z/RIPLEY.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/79tlmL-e9WdZNUx1kvePnsrTge95llnu",
+    "https://downloadwella.com/wsqqf7jzdkdo/RIPLEY.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9TEAZqdh4OUCwzG99juFlbumveqNoudG",
+    "https://downloadwella.com/hn6yx2fi8swt/RIPLEY.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZjEHYEcG8BWc3D7zIKviDSuna19Pfkdq",
+    "https://downloadwella.com/c090iy9qged7/RIPLEY.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NzGv0ei6g8ruvJuJF_ssrjjGtAll5ZKz",
+    "https://downloadwella.com/1eva3entaitz/RIPLEY.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pdtV05yXwdMOuPclUUA9SAb3QzsXq-7a"
   }
 }
