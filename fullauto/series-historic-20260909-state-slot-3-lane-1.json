@@ -1398,7 +1398,14 @@
       "status": "partial",
       "signature": "94962|https://thenkiri.com/my-adventures-with-superman-s01-episodes-1-2-added-tv-series/|2023-07-10T09:43:16|2024-05-27T07:56:27|{'rendered': 'My Adventures With Superman S01 (Complete) | TV Series'}",
       "modified": "2024-05-27T07:56:27",
-      "completed_at": 1789241893,
+      "completed_at": 1789241161,
+      "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-bear-s01-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "92598|https://thenkiri.com/the-bear-s01-s02-complete-tv-series/|2023-07-01T09:38:18|2023-09-02T17:10:27|{'rendered': 'The Bear S01 & S02 (Complete) | TV Series'}",
+      "modified": "2023-09-02T17:10:27",
+      "completed_at": 1789244331,
       "reason": "one or more source links were unavailable"
     }
   },
@@ -2599,12 +2606,17 @@
     "https://downloadwella.com/dbhsfrh1qxjt/Only.Murders.in.the.Building.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3xMWOw0zAjVpXEqo3h79vK_XGKJq_yd3",
     "https://downloadwella.com/o7yi07l3o756/Invincible.2021.Presenting.atom.eve.special.episode.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q6KvrXq__5sOrwsnTQO4Exz108pYzezb",
     "https://downloadwella.com/sjohitygntis/My.Adventures.with.Superman.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lrnUFNTij_iSW4Mmtyht7wcUXx8FBP0-",
-    "https://downloadwella.com/va57lai8ae84/My.Adventures.with.Superman.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2onBScSGZckey6dhpXmimusDPCgR2W6c",
-    "https://downloadwella.com/yqbgn4xf39ab/My.Adventures.with.Superman.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HlKzJxjokf3Rv00hLKh2QDALC1bNlfB4",
+    "https://downloadwella.com/va57lai8ae84/My.Adventures.with.Superman.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sT7W0OYe2xJ9uWJen5jQV0hDqUXQLtyt",
+    "https://downloadwella.com/yqbgn4xf39ab/My.Adventures.with.Superman.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oDw0KcG-mJCPWAPVsgmyB42QTF5NJayo",
     "https://downloadwella.com/qist29aqa7i9/My.Adventures.with.Superman.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bbRfDpLdG4OLWM9Io1BEAai2dmhJ35KK",
     "https://downloadwella.com/mffwh33umb8n/My.Adventures.with.Superman.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yxmCyVSmGFjkBheQ77ZCJL_lbj4juMUw",
     "https://downloadwella.com/mn3mgwycxln0/My.Adventures.with.Superman.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fgyc9VYQEuaVUeuqj1MjLU2V6K61ymcR",
-    "https://downloadwella.com/7z1h3oftgllh/My.Adventures.with.Superman.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OcbA-6PHb6Z_wiqT-T3Lb2czTm21rp8l",
-    "https://downloadwella.com/wgcm2nl77h0j/My.Adventures.with.Superman.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/G6q-p-evPNtG5z1d-fo9JhEgqsPnOblI"
+    "https://downloadwella.com/7z1h3oftgllh/My.Adventures.with.Superman.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6qw74grWND9WkEaaMcsvmtjtWh1TnYjJ",
+    "https://downloadwella.com/wgcm2nl77h0j/My.Adventures.with.Superman.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/G6q-p-evPNtG5z1d-fo9JhEgqsPnOblI",
+    "https://downloadwella.com/rbqfnfnk8mk6/The.Bear.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/v2siDj4daWfxnWtOCJDttFIH04knnt8I",
+    "https://downloadwella.com/ccybm7up10uw/The.Bear.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1xnKU5SWn6cB3a9PXERC8l7eSOwPe8Yt",
+    "https://downloadwella.com/7pghaurko9n3/The.Bear.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bGFJd0nq7H8zHr9RVg0McV0H6gnkdRQO",
+    "https://downloadwella.com/j0bi8rwb4hpo/The.Bear.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ucx_916aaObv0da4jRU3rGkzM9vZXNuO",
+    "https://downloadwella.com/16l4e11aipey/The.Bear.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9IEe0Y_2suKmrYsKtgI6xHj6fZPgQ6H4"
   }
 }
