@@ -1407,6 +1407,13 @@
       "modified": "2023-09-02T17:10:27",
       "completed_at": 1789244331,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/and-just-like-that-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "92075|https://thenkiri.com/and-just-like-that-s01-complete-tv-series/|2023-06-23T04:06:16|2023-09-02T17:08:15|{'rendered': 'And Just Like That S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T17:08:15",
+      "completed_at": 1789244914,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2617,6 +2624,9 @@
     "https://downloadwella.com/ccybm7up10uw/The.Bear.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1xnKU5SWn6cB3a9PXERC8l7eSOwPe8Yt",
     "https://downloadwella.com/7pghaurko9n3/The.Bear.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bGFJd0nq7H8zHr9RVg0McV0H6gnkdRQO",
     "https://downloadwella.com/j0bi8rwb4hpo/The.Bear.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ucx_916aaObv0da4jRU3rGkzM9vZXNuO",
-    "https://downloadwella.com/16l4e11aipey/The.Bear.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9IEe0Y_2suKmrYsKtgI6xHj6fZPgQ6H4"
+    "https://downloadwella.com/16l4e11aipey/The.Bear.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9IEe0Y_2suKmrYsKtgI6xHj6fZPgQ6H4",
+    "https://downloadwella.com/lne64c7werve/And.Just.Like.That.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/M-2nQW0pf61Zlu1i0rovEJ-Ue-e125or",
+    "https://downloadwella.com/masjz2ytxn6f/And.Just.Like.That.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TTRkYBQjEaWSpMjFhx0RbN6qnK2hR7yx",
+    "https://downloadwella.com/qy5f9kztj32r/And.Just.Like.That.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/g3kiY3BLyyAGcodKypt3quk0FiYZu5wY"
   }
 }
