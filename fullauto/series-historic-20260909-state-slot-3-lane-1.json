@@ -1244,6 +1244,13 @@
       "modified": "2024-03-06T11:15:51",
       "completed_at": 1789197814,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/iwaju-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "111490|https://thenkiri.com/iwaju-s01-complete-tv-series/|2024-02-28T19:35:15|2024-02-28T19:35:15|{'rendered': 'Iwaju S01 (Complete) | TV Series'}",
+      "modified": "2024-02-28T19:35:15",
+      "completed_at": 1789199939,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2319,6 +2326,9 @@
     "https://downloadwella.com/lqk1bo7nq8sp/Extraordinary.2023.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Kpi1CGjV7dkaK8SOqUf--xTFmLxrMqtt",
     "https://downloadwella.com/wvap1xfctqja/Extraordinary.2023.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cawCNvon-oqh__u2q67SVWosvLDH4Fr5",
     "https://downloadwella.com/gvvzj0h79l39/Extraordinary.2023.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wWWmcBTewlBhOT9Px9StECKOQVxFrLA1",
-    "https://downloadwella.com/69lsewm3pmco/Extraordinary.2023.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1D2IhMs4XH9Dg_zL-c8OXp3r2aeR-qnF"
+    "https://downloadwella.com/69lsewm3pmco/Extraordinary.2023.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1D2IhMs4XH9Dg_zL-c8OXp3r2aeR-qnF",
+    "https://downloadwella.com/esd9jnzh68cl/Iwaju.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pHx2W9xNKaOoEZVO3Hyb02M7lwtAm3wv",
+    "https://downloadwella.com/kihzk02rgjrj/Iwaju.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JACef6iYgo1SQ_AClF8vmi0nyL0iO2pd",
+    "https://downloadwella.com/shq9gwl2c89i/Iwaju.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n0CfqjnlEMDqfiHQUaiwkhUtnhADDWaV"
   }
 }
