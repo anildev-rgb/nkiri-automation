@@ -1544,6 +1544,13 @@
       "modified": "2023-09-02T16:46:16",
       "skipped_at": 1789281297,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-best-man-the-final-chapter-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "79624|https://thenkiri.com/the-best-man-the-final-chapter-s01-complete-tv-series/|2023-01-20T12:37:48|2023-09-02T16:38:36|{'rendered': 'The Best Man: The Final Chapter S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T16:38:36",
+      "completed_at": 1789283089,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2874,6 +2881,10 @@
     "https://downloadwella.com/i74pzp8nm7yc/Wong.and.Winchester.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u6DET3mgZesOg7O_Lc_YGXZ4FwQEShDx",
     "https://downloadwella.com/gsjw2qzdji3k/Wong.and.Winchester.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7pnSpfKXFrByBnkVr07jUnEapx2fL3vG",
     "https://downloadwella.com/84mwm2vyk267/Wong.and.Winchester.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QNJoIccb4h-ABOUCR-CGmH2fZtNmKPJH",
-    "https://downloadwella.com/5ky80oiojjwl/Wong.and.Winchester.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8_hTNECWt3Yd1Qj9-394YBZTIzWznumi"
+    "https://downloadwella.com/5ky80oiojjwl/Wong.and.Winchester.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8_hTNECWt3Yd1Qj9-394YBZTIzWznumi",
+    "https://downloadwella.com/nwvnp1w4h1gd/The.Best.Man.The.Final.Chapters.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eVLxX8S73Cbb1FfXo4-zIvIOfNtZbuAV",
+    "https://downloadwella.com/sdsy06vttvgr/The.Best.Man.The.Final.Chapters.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eYPBzSc-FE8UJKfPgkdWnJaDV497IKlM",
+    "https://downloadwella.com/k56bnjw6wk29/The.Best.Man.The.Final.Chapters.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YnkTDPW3-_o-3nRPqTTuc2l405dphYe5",
+    "https://downloadwella.com/b582s4wte6wp/The.Best.Man.The.Final.Chapters.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hWLvg2HDU5YPHopr2zDMA3Ng9wWC20z1"
   }
 }
