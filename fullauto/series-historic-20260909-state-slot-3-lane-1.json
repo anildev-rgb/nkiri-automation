@@ -1531,6 +1531,12 @@
       "modified": "2023-09-02T16:56:06",
       "completed_at": 1789279464,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/wong-winchester-complete-tv-series/": {
+      "status": "done",
+      "signature": "80370|https://thenkiri.com/wong-winchester-complete-tv-series/|2023-01-26T09:55:13|2023-12-17T13:53:55|{'rendered': 'Wong & Winchester (Episode 3-5 Added) | TV Series'}",
+      "modified": "2023-12-17T13:53:55",
+      "completed_at": 1789281239
     }
   },
   "series_links": {
@@ -2856,6 +2862,11 @@
     "https://downloadwella.com/4hu3s16hxs8y/tvd.s02e19.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9Ukv2WsxnY5KXjVHh5BDmv-lU-BBg59b",
     "https://downloadwella.com/e5mn49fei7j4/tvd.s02e20.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/k5pEjNll3i0QGeDbbctBttDdToa2XuLl",
     "https://downloadwella.com/7hlip515tl2j/tvd.s02e21.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_ymexTCsrI5ADuRszHn4ZhgDZClcSbgl",
-    "https://downloadwella.com/6mjrgt7qbsap/tvd.s02e22.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/orXxgqgW4QfRAvoEExevwNuQ-OyByRQt"
+    "https://downloadwella.com/6mjrgt7qbsap/tvd.s02e22.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/orXxgqgW4QfRAvoEExevwNuQ-OyByRQt",
+    "https://downloadwella.com/scefxahdeh9g/Wong.and.Winchester.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ehwkSQhABBOQGnhdDJlR8CEWCpZqjHBO",
+    "https://downloadwella.com/i74pzp8nm7yc/Wong.and.Winchester.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u6DET3mgZesOg7O_Lc_YGXZ4FwQEShDx",
+    "https://downloadwella.com/gsjw2qzdji3k/Wong.and.Winchester.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7pnSpfKXFrByBnkVr07jUnEapx2fL3vG",
+    "https://downloadwella.com/84mwm2vyk267/Wong.and.Winchester.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QNJoIccb4h-ABOUCR-CGmH2fZtNmKPJH",
+    "https://downloadwella.com/5ky80oiojjwl/Wong.and.Winchester.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8_hTNECWt3Yd1Qj9-394YBZTIzWznumi"
   }
 }
