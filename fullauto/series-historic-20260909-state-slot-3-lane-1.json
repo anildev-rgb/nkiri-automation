@@ -1564,6 +1564,13 @@
       "modified": "2023-12-17T13:21:31",
       "completed_at": 1789290284,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/black-snow-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "78560|https://thenkiri.com/black-snow-s01-complete-tv-series/|2023-01-02T08:58:22|2023-09-02T14:29:12|{'rendered': 'Black Snow S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T14:29:12",
+      "completed_at": 1789290817,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2928,6 +2935,11 @@
     "https://downloadwella.com/wsnf3gg2n58z/The.Walking.Dead.S08E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Uyzw4-h4U_qxF0vNtYhaJ8r2O-bYvUKN",
     "https://downloadwella.com/39ssx8c01nge/The.Walking.Dead.S08E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rgKxwJ2qmKHFo0ALNJ9t01WhpI9SzdA4",
     "https://downloadwella.com/udz1vf7df2l9/The.Walking.Dead.S08E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/N2TVAVPUA83XVToo1m_3UdC5lD8He61n",
-    "https://downloadwella.com/jk7ybfoo1n10/The.Walking.Dead.S08E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7AssTQqKdn5HCvL0doO-7j9E23Oj3ovC"
+    "https://downloadwella.com/jk7ybfoo1n10/The.Walking.Dead.S08E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7AssTQqKdn5HCvL0doO-7j9E23Oj3ovC",
+    "https://downloadwella.com/enpsp8am9klv/Black.Snow.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/O8WiogP70w1A77VwgpFVwzF8S8uxecyl",
+    "https://downloadwella.com/uzh87jb9dum3/Black.Snow.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PwTTGUgnUQkZTQXOY4rTHvFCpe32QNkk",
+    "https://downloadwella.com/3xiwipx3vuxn/Black.Snow.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xJRYAHuWZmEjt7UGQwsVre9lUzm4yH4Y",
+    "https://downloadwella.com/df91vwrn0ifc/Black.Snow.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-ug7SDT72D-nXi3xz77W5iOvasgdIxhZ",
+    "https://downloadwella.com/10z9uluhg4zn/Black.Snow.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OMzQpS9iv8hFPgUc7V1iWpuHtOjhNKZf"
   }
 }
