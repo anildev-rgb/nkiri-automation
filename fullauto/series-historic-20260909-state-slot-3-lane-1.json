@@ -1477,6 +1477,13 @@
       "modified": "2023-12-22T07:35:33",
       "completed_at": 1789261614,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/six-four-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "85682|https://thenkiri.com/six-four-s01-complete-tv-series/|2023-03-31T16:10:07|2023-09-02T17:32:56|{'rendered': 'Six Four S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T17:32:56",
+      "completed_at": 1789262277,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2740,6 +2747,9 @@
     "https://downloadwella.com/3hu24wezkl2v/Grease.Rise.of.the.Pink.Ladies.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/igy3tko3mBOR-4wekX-mERtYoVr91Fnl",
     "https://downloadwella.com/slkgpqe4nxyb/Grease.Rise.of.the.Pink.Ladies.S01E08.(NKIRI.COM).S.mkv.html": "https://v1.vidfiles.com/d/hC8kWMeU4JkKpzEcEnnZcQr3sk8SKjXw",
     "https://downloadwella.com/bxhqmcq9tgry/Grease.Rise.of.the.Pink.Ladies.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/j8H6DVmHS7UNSwIkKg2Oi2LqCQGVU4r6",
-    "https://downloadwella.com/vo82bhpzuz7p/Grease.Rise.of.the.Pink.Ladies.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SZkv1xbc7S7qcIgs8yst4QOB_n0rj7WS"
+    "https://downloadwella.com/vo82bhpzuz7p/Grease.Rise.of.the.Pink.Ladies.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SZkv1xbc7S7qcIgs8yst4QOB_n0rj7WS",
+    "https://downloadwella.com/b3invcvugpvk/Six.Four.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MjixAysrZ5lcA61BbGfiXH4dMxON2ZIF",
+    "https://downloadwella.com/trm40qp10vlp/Six.Four.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/stYWIYSSompF0Px2Vl16_7-rF29Ti5jZ",
+    "https://downloadwella.com/s1urbk7guk9t/Six.Four.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gcuths6B7sAyRzw9-bPJ2JbmVkN_3ifg"
   }
 }
