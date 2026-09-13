@@ -1537,6 +1537,13 @@
       "signature": "80370|https://thenkiri.com/wong-winchester-complete-tv-series/|2023-01-26T09:55:13|2023-12-17T13:53:55|{'rendered': 'Wong & Winchester (Episode 3-5 Added) | TV Series'}",
       "modified": "2023-12-17T13:53:55",
       "completed_at": 1789281239
+    },
+    "https://thenkiri.com/falling-into-your-smile-s01-complete-chinese-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "79880|https://thenkiri.com/falling-into-your-smile-s01-complete-chinese-drama/|2023-01-20T14:26:12|2023-09-02T16:46:16|{'rendered': 'Falling Into Your Smile S01 (Complete) | Chinese Drama'}",
+      "modified": "2023-09-02T16:46:16",
+      "skipped_at": 1789281297,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
