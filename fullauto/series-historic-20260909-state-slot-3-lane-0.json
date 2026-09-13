@@ -1502,6 +1502,13 @@
       "modified": "2023-12-21T12:30:51",
       "completed_at": 1789287595,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/not-dead-yet-complete-tv-series/": {
+      "status": "partial",
+      "signature": "81775|https://thenkiri.com/not-dead-yet-complete-tv-series/|2023-02-09T13:46:26|2024-02-25T01:55:57|{'rendered': 'Not Dead Yet (Episode 11-13 Added) | TV Series'}",
+      "modified": "2024-02-25T01:55:57",
+      "completed_at": 1789288965,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2838,6 +2845,17 @@
     "https://downloadwella.com/8y5bj2jqsex1/Star.Trek.Picard.S03E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/d_C1Eo-K--MVIrtIwEHaJO3rz_a-XwI-",
     "https://downloadwella.com/x4q83vu3ro0l/Star.Trek.Picard.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/a5z5zRI-v1xAJU8WTEi3AQHya6LkH7Rb",
     "https://downloadwella.com/rl7frgat5ht3/Star.Trek.Picard.S03E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Kz5aK7MirVpvcuoywU5nts2_ltgTtDfk",
-    "https://downloadwella.com/1501jo5tar7f/Star.Trek.Picard.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4etDbTdMb5jnRegVuzo868XuLurUmyg9"
+    "https://downloadwella.com/1501jo5tar7f/Star.Trek.Picard.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4etDbTdMb5jnRegVuzo868XuLurUmyg9",
+    "https://downloadwella.com/unt5rui2jf1o/Not.Dead.Yet.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/m9qO5VB_sXdtuA4TirS3051W882maYzm",
+    "https://downloadwella.com/jwe05lhug52p/Not.Dead.Yet.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1A1wZNiXkRuJpgXGKKNfiiag4_JeQCLu",
+    "https://downloadwella.com/pxdpqenoqfwb/Not.Dead.Yet.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Fyk3A-etNws7q9Qg_Z8SoyE_fpP-BEvN",
+    "https://downloadwella.com/72ei1tg98pi9/Not.Dead.Yet.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SqVAu0Qj27Kr51dZzv3hId3EJkg46MLE",
+    "https://downloadwella.com/8pj8lwe53oii/Not.Dead.Yet.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pgqA1oSWuOwL7MOeR-B4kdVG8wxj8T3s",
+    "https://downloadwella.com/bs9hotm67yg2/Not.Dead.Yet.(NKIRI.COM).S01E07.Downloaded.from.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/wMeV8ATE6cyBQnkBbsimdu5V9SFL9ryG",
+    "https://downloadwella.com/cice0grflnaf/Not.Dead.Yet.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CJWPqHEKju58f1ZVB4H7UbVPLERNNIQk",
+    "https://downloadwella.com/9oybsn80hew1/Not.Dead.Yet.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kklVCqIJIRLSX4I-H4ZHQ9gj2HHzv1uH",
+    "https://downloadwella.com/10zezooqvuii/Not.dead.yet.s01e11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/I7J1ffshKl3e5tPGiuxeffvNdYN8Ye4r",
+    "https://downloadwella.com/37jwqsk871jh/Not.dead.yet.s01e12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pmZtXYT976986LcdAxAYX31LBit8c_oa",
+    "https://downloadwella.com/7qiebxvg6wmv/Not.dead.yet.s01e13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AWBiQlW0CTO0Zi3d2waNgCyhGi71RYEU"
   }
 }
