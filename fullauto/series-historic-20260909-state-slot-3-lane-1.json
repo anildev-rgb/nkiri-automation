@@ -1511,6 +1511,12 @@
       "modified": "2024-12-09T07:45:29",
       "completed_at": 1789269988,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/nolly-complete-tv-series/": {
+      "status": "done",
+      "signature": "81397|https://thenkiri.com/nolly-complete-tv-series/|2023-02-04T15:52:01|2023-12-17T10:01:02|{'rendered': 'Nolly S01 (Complete) | TV Series'}",
+      "modified": "2023-12-17T10:01:02",
+      "completed_at": 1789270994
     }
   },
   "series_links": {
@@ -2811,6 +2817,9 @@
     "https://downloadwella.com/acn4hk5to2m6/Wu-Tang.An.American.Saga.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lWAWTWjHKEe6CtwZUdrf8I6bsVeY7i7k",
     "https://downloadwella.com/yx9xixaxmjfr/Wu-Tang.An.American.Saga.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gECsSB0vXQQ7u9dIF_XFi_AGRaBe-wAG",
     "https://downloadwella.com/5cryffgzmwob/Wu-Tang.An.American.Saga.S03E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9MpjElWMdlT3xYjIuc-39O8WuY9gr2bc",
-    "https://downloadwella.com/ig8op1vb03m5/Wu-Tang.An.American.Saga.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L-Xp23hjdPCqCUJd9gZYoFxyGRdvcBpQ"
+    "https://downloadwella.com/ig8op1vb03m5/Wu-Tang.An.American.Saga.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L-Xp23hjdPCqCUJd9gZYoFxyGRdvcBpQ",
+    "https://downloadwella.com/5dgien9rn8dc/Nolly.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/l-XZ4aez8L71vGEM25HLW4NZ7y2PnsKh",
+    "https://downloadwella.com/9cgh2w8yypk3/Nolly.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jVxIpcVfu0HqJ81_AwPbxsUdEqoLXckC",
+    "https://downloadwella.com/i51jjyfcf416/Nolly.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kmyMLABYDmxUx0nNzCz8WgxkKG9EVNlT"
   }
 }
