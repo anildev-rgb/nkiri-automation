@@ -1453,6 +1453,13 @@
       "signature": "87747|https://thenkiri.com/love-me-s02-complete-tv-series/|2023-04-22T10:38:15|2023-12-26T14:11:36|{'rendered': 'Love Me S02 (Complete) | TV Series'}",
       "modified": "2023-12-26T14:11:36",
       "completed_at": 1789262625
+    },
+    "https://thenkiri.com/obsession-complete-tv-series/": {
+      "status": "partial",
+      "signature": "86927|https://thenkiri.com/obsession-complete-tv-series/|2023-04-13T14:41:50|2023-12-21T18:05:04|{'rendered': 'Obsession (Complete) | TV Series'}",
+      "modified": "2023-12-21T18:05:04",
+      "completed_at": 1789263110,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2713,6 +2720,9 @@
     "https://downloadwella.com/ivdv76leeuag/Love.Me.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0hwbZlsryLo4Nwp-tTXHpa6IFK6eP0h2",
     "https://downloadwella.com/i2fqth0sibvc/Love.Me.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MAtbPeFQ7NYyZ9nBbzgd9XlNBCOW-6tf",
     "https://downloadwella.com/0oxvunyh3rl6/Love.Me.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/livbFqgYvxgNysZC8aF1QpCilrnAB1IK",
-    "https://downloadwella.com/hf011b0a5xpn/Love.Me.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zBz9mw4V47guEW3ByQKifkT_mjM1ZwVF"
+    "https://downloadwella.com/hf011b0a5xpn/Love.Me.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zBz9mw4V47guEW3ByQKifkT_mjM1ZwVF",
+    "https://downloadwella.com/qk8lte9wlcrb/Obsession.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AaWmIH0IJQmJLRbE00-RqQaVGjFmQ6KQ",
+    "https://downloadwella.com/gex5bg3twi36/Obsession.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/y57r55s3JKTWuOE1Ue_BLC_CosGCdBp9",
+    "https://downloadwella.com/ih0gy4w1swps/Obsession.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iikWBbrXCUkzrqD5zxOeAxHW0j6RKmJn"
   }
 }
