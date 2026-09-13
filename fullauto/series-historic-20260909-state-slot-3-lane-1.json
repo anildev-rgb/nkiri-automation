@@ -1517,6 +1517,13 @@
       "signature": "81397|https://thenkiri.com/nolly-complete-tv-series/|2023-02-04T15:52:01|2023-12-17T10:01:02|{'rendered': 'Nolly S01 (Complete) | TV Series'}",
       "modified": "2023-12-17T10:01:02",
       "completed_at": 1789271517
+    },
+    "https://thenkiri.com/your-honor-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "80673|https://thenkiri.com/your-honor-s02-complete-tv-series/|2023-01-28T07:35:18|2024-02-24T11:41:09|{'rendered': 'Your Honor S02 (Episode 10 Added) | TV Series'}",
+      "modified": "2024-02-24T11:41:09",
+      "completed_at": 1789274164,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2820,6 +2827,12 @@
     "https://downloadwella.com/ig8op1vb03m5/Wu-Tang.An.American.Saga.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L-Xp23hjdPCqCUJd9gZYoFxyGRdvcBpQ",
     "https://downloadwella.com/5dgien9rn8dc/Nolly.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Jzpdu0w5mOnwPrBQN5YqI3MuoPP8katy",
     "https://downloadwella.com/9cgh2w8yypk3/Nolly.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wUEYjuoNtS8IqXAFjk0TJK9t0scl9jtm",
-    "https://downloadwella.com/i51jjyfcf416/Nolly.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aECiYQk3oFJd1Ppn33VwpTg0k8J6ZczL"
+    "https://downloadwella.com/i51jjyfcf416/Nolly.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aECiYQk3oFJd1Ppn33VwpTg0k8J6ZczL",
+    "https://downloadwella.com/tnbeqjc4jda0/Your.Honor.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TB8hjEcE2RKpAjeAP-gEM9VGjYe-rJL_",
+    "https://downloadwella.com/iap3kbh8zrhh/Your.Honor.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/t_RWEXTrZcGv-7ctwib4i7UeUtqZu5PP",
+    "https://downloadwella.com/pe71wj3i9rrx/Your.Honor.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SYoq9V9gG_QD6IjPRTlguvDyBPXw-ygS",
+    "https://downloadwella.com/dds75vj4xwur/Your.Honor.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fquZFhiOheGQnnH-O3LhoYJIp3LAxZ0D",
+    "https://downloadwella.com/u997su5r36gm/Your.Honor.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/chSJx-jh_YX9YQpWHGHelE9vxRtvWFd0",
+    "https://downloadwella.com/co9aoilnnpef/Your.Honor.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/deTKbvTrgt5yyOQox7K0W2RdFhiumZKA"
   }
 }
