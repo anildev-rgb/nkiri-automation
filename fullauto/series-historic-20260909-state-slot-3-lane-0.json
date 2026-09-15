@@ -1834,6 +1834,13 @@
       "modified": "2023-09-02T13:09:00",
       "skipped_at": 1789469448,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/dexter-new-blood-episode-1-2-added-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "32141|https://thenkiri.com/dexter-new-blood-episode-1-2-added-tv-series/|2021-11-17T09:37:02|2023-09-02T12:56:59|{'rendered': 'Dexter New Blood  (Episode 10 Added) | TV Series'}",
+      "modified": "2023-09-02T12:56:59",
+      "skipped_at": 1789469503,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
