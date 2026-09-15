@@ -1861,6 +1861,13 @@
       "modified": "2023-09-02T10:14:42",
       "skipped_at": 1789463901,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/you-s03-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "30651|https://thenkiri.com/you-s03-complete-tv-series/|2021-10-15T17:08:20|2023-09-02T10:10:09|{'rendered': 'YOU S03 (Complete ) | TV Series'}",
+      "modified": "2023-09-02T10:10:09",
+      "skipped_at": 1789463990,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
