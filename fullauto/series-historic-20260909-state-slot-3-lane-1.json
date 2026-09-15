@@ -1702,6 +1702,13 @@
       "modified": "2023-09-02T14:47:18",
       "skipped_at": 1789458207,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/cobra-kai-s03-s04-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "46220|https://thenkiri.com/cobra-kai-s03-s04-complete-tv-series/|2022-07-12T12:27:00|2023-09-02T14:41:25|{'rendered': 'Cobra Kai S03 & S04 (Complete) | TV Series'}",
+      "modified": "2023-09-02T14:41:25",
+      "skipped_at": 1789458375,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
