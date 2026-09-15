@@ -1716,6 +1716,13 @@
       "modified": "2023-09-02T14:11:39",
       "skipped_at": 1789466570,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/becoming-elizabeth-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "43978|https://thenkiri.com/becoming-elizabeth-s01-complete-tv-series/|2022-06-13T06:45:49|2024-01-08T11:37:19|{'rendered': 'Becoming Elizabeth S01 (Complete) | TV Series'}",
+      "modified": "2024-01-08T11:37:19",
+      "completed_at": 1789466778,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3398,6 +3405,8 @@
     "https://downloadwella.com/6882k3pr5v0n/Grown-ish.S05E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/R8EW4VAbeug_hYSXArQObQzAIER7VJ8_",
     "https://downloadwella.com/o87b3dlv21v0/Grown-ish.S05E17.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Dgcy_SSvuqp4Dp4n-nF5U1pRMY3cLZPJ",
     "https://downloadwella.com/gglpuhd88vnr/Grown-ish.(NKIRI.COM).S05E18.Downloaded.from.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/Gy6vLaN5y9mKl4hZlVnvTXkrYuvdu6Eb",
-    "https://downloadwella.com/mei3jxtsdil3/Moonhaven.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/i1MZykaMBLfXOT9JKNsDz8x_WT_JSR3Q"
+    "https://downloadwella.com/mei3jxtsdil3/Moonhaven.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/i1MZykaMBLfXOT9JKNsDz8x_WT_JSR3Q",
+    "https://downloadwella.com/ozu88mnt3w3p/Becoming.Elizabeth.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0Lp09TwmkzsQb-Q9QHOeGpQBr4qD5qgr",
+    "https://downloadwella.com/p37d0m9fj1ha/Becoming.Elizabeth.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/thbhalwwISSMhVqJWiqiPY8_LBf26VKI"
   }
 }
