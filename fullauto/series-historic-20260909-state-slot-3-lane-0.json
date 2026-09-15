@@ -1910,6 +1910,13 @@
       "signature": "14640|https://thenkiri.com/the-irregulars-s01-complete-tv-series/|2021-04-05T09:01:00|2023-09-02T08:54:10|{'rendered': 'The Irregulars S01 (Complete) | TV Series'}",
       "modified": "2023-09-02T08:54:10",
       "completed_at": 1789475440
+    },
+    "https://thenkiri.com/all-american-s03-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "14339|https://thenkiri.com/all-american-s03-tv-series/|2021-03-29T13:23:55|2023-09-02T08:50:00|{'rendered': 'All American S03 (Complete) | TV Series'}",
+      "modified": "2023-09-02T08:50:00",
+      "skipped_at": 1789475484,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
