@@ -1806,6 +1806,13 @@
       "modified": "2023-09-02T13:30:52",
       "skipped_at": 1789469150,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/singles-inferno-s01-episodes-1-8-added-variety-show/": {
+      "status": "skipped_unavailable",
+      "signature": "35216|https://thenkiri.com/singles-inferno-s01-episodes-1-8-added-variety-show/|2022-01-17T10:56:03|2024-09-09T07:50:31|{'rendered': 'Single’s Inferno S01 (Episodes 1 – 8 Added) | Variety Show'}",
+      "modified": "2024-09-09T07:50:31",
+      "skipped_at": 1789469273,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
