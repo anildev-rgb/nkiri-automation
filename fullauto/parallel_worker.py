@@ -8,6 +8,7 @@ another worker's progress.
 from __future__ import annotations
 
 import argparse
+import csv
 import json
 import os
 import signal
@@ -16,6 +17,8 @@ import sys
 import tempfile
 import threading
 import time
+import urllib.error
+import urllib.request
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -34,6 +37,14 @@ REPO_SLOTS = {
     "sumiji-ctrl/nkiri-automation": 2,
     "annuji-arch/nkiri-automation": 3,
     "anildev-rgb/nkiri-automation": 4,
+}
+
+# The Rajiv copy is not currently available, so its four queue shards are not
+# part of the active fleet.  Korean processing is gated only on English work
+# that the active repositories can actually process.
+ACTIVE_REPO_SLOTS = {
+    repo: slot for repo, slot in REPO_SLOTS.items()
+    if repo != "rajiv-pixelupis/nkiri-automation"
 }
 
 
@@ -118,6 +129,79 @@ def lanes_for_runner(runner_index: int, repo_slot: int) -> list[Lane]:
 def all_lanes_for_repo(repo_slot: int) -> list[Lane]:
     return [lane for runner in range(RUNNER_COUNT)
             for lane in lanes_for_runner(runner, repo_slot)]
+
+
+def _is_terminal_state(value) -> bool:
+    status = _state_status(value)
+    return status == "done" or status == "blocked" or status.startswith("skipped")
+
+
+def _read_english_global_state(repository: str, shard_index: int) -> dict | None:
+    """Read one active repository's latest English lane state."""
+    relative = _state_path("english-series", shard_index)
+    current_repository = (os.environ.get("GITHUB_REPOSITORY") or "").strip().lower()
+    if repository == current_repository:
+        path = Path(relative)
+        try:
+            return json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, ValueError, TypeError):
+            # A local checkout can lag behind the repository commit that the
+            # workflow just persisted.  Fall through to the public raw copy.
+            pass
+
+    url = f"https://raw.githubusercontent.com/{repository}/main/{relative}"
+    request = urllib.request.Request(url, headers={"User-Agent": "nkiri-historical-worker"})
+    try:
+        with urllib.request.urlopen(request, timeout=15) as response:
+            value = json.loads(response.read().decode("utf-8"))
+            return value if isinstance(value, dict) else None
+    except (OSError, ValueError, TypeError, urllib.error.URLError):
+        return None
+
+
+def english_historic_queue_ready() -> tuple[bool, int, str]:
+    """Return whether all English rows owned by the active fleet are terminal.
+
+    The queue is partitioned by position modulo 20.  Each active repository
+    owns four of those shards, and its global state file is the source of
+    truth for that shard.  Missing/unreadable state is treated as not ready so
+    Korean work cannot start while English progress is uncertain.
+    """
+    queue_path = Path("queue/missing-series.csv")
+    try:
+        with queue_path.open(encoding="utf-8-sig", newline="") as handle:
+            rows = [row for row in csv.DictReader(handle)
+                    if (row.get("source_url") or "").strip()
+                    and (row.get("title") or row.get("name") or "").strip()]
+    except (OSError, csv.Error):
+        return False, -1, "English queue could not be read"
+
+    active_shards = {
+        slot * RUNNER_COUNT + runner
+        for slot in ACTIVE_REPO_SLOTS.values()
+        for runner in range(RUNNER_COUNT)
+    }
+    states: dict[int, dict] = {}
+    for repository, slot in ACTIVE_REPO_SLOTS.items():
+        for runner in range(RUNNER_COUNT):
+            shard_index = slot * RUNNER_COUNT + runner
+            state = _read_english_global_state(repository, shard_index)
+            if state is None:
+                return False, -1, f"missing English state for shard {shard_index}"
+            states[shard_index] = state
+
+    remaining = 0
+    for position, row in enumerate(rows):
+        shard_index = position % ENGLISH_SERIES_SHARD_COUNT
+        if shard_index not in active_shards:
+            continue
+        processed = states[shard_index].get("processed") or {}
+        value = processed.get((row.get("source_url") or "").strip())
+        if not _is_terminal_state(value):
+            remaining += 1
+    if remaining:
+        return False, remaining, "English historic rows are still unfinished"
+    return True, 0, "English historic queue is complete"
 
 
 def _state_status(value) -> str:
@@ -258,8 +342,33 @@ def main() -> int:
 
     runner_temp = Path(os.environ.get("RUNNER_TEMP") or tempfile.gettempdir())
     download_root = runner_temp / "nkiri-downloads"
+    korean_gate_lock = threading.Lock()
+    korean_gate_result: tuple[bool, int, str] | None = None
+
+    def korean_work_is_ready() -> tuple[bool, int, str]:
+        nonlocal korean_gate_result
+        with korean_gate_lock:
+            if korean_gate_result is None:
+                korean_gate_result = english_historic_queue_ready()
+                ready, remaining, reason = korean_gate_result
+                if ready:
+                    print("[Korean drama queue] English historic queue is complete; Korean work is released", flush=True)
+                else:
+                    detail = f" ({remaining} English rows remain)" if remaining >= 0 else ""
+                    print(f"[Korean drama queue] held in queue: {reason}{detail}", flush=True)
+            return korean_gate_result
 
     def run_lane(position: int, lane: Lane) -> None:
+        if lane.queue_file == "queue/missing-korean-dramas.csv":
+            ready, _remaining, _reason = korean_work_is_ready()
+            if not ready:
+                # A zero exit keeps the fleet controller alive so it can queue
+                # the next cycle.  Korean state is untouched until English is
+                # fully terminal, then the next cycle starts Korean uploads.
+                with results_lock:
+                    results[lane.label] = 0
+                print(f"[{lane.label}] queued; no Korean upload started", flush=True)
+                return
         if lane.start_delay:
             time.sleep(lane.start_delay)
 
