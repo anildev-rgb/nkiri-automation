@@ -1702,6 +1702,13 @@
       "modified": "2023-09-02T14:36:30",
       "skipped_at": 1789466477,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-chi-s04-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "45179|https://thenkiri.com/the-chi-s04-complete-tv-series/|2022-06-28T10:47:11|2023-09-02T14:22:20|{'rendered': 'The Chi S04 (Complete) | TV Series'}",
+      "modified": "2023-09-02T14:22:20",
+      "skipped_at": 1789466523,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
