@@ -1772,6 +1772,13 @@
       "modified": "2023-09-02T13:43:02",
       "skipped_at": 1789460516,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-kardashians-s01-episode-1-added-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "39637|https://thenkiri.com/the-kardashians-s01-episode-1-added-tv-series/|2022-04-14T12:48:06|2023-09-02T13:41:21|{'rendered': 'The Kardashians S01 (Episode 10 Added) | TV Series'}",
+      "modified": "2023-09-02T13:41:21",
+      "skipped_at": 1789460612,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
