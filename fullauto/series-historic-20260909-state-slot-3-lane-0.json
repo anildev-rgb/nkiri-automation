@@ -1785,6 +1785,13 @@
       "modified": "2023-09-02T13:13:07",
       "skipped_at": 1789468943,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/lost-in-space-s03-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "36904|https://thenkiri.com/lost-in-space-s03-complete-tv-series/|2022-02-21T07:56:06|2023-09-02T13:08:57|{'rendered': 'Lost in Space S03 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:08:57",
+      "skipped_at": 1789469030,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
