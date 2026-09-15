@@ -1730,6 +1730,13 @@
       "modified": "2023-09-02T14:04:16",
       "skipped_at": 1789466878,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-time-travelers-wife-episode-2-added-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "42683|https://thenkiri.com/the-time-travelers-wife-episode-2-added-tv-series/|2022-05-23T08:24:51|2023-09-02T13:59:36|{'rendered': 'The Time Travelers Wife S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:59:36",
+      "skipped_at": 1789466929,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
