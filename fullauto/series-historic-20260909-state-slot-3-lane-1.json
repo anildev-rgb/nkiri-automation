@@ -1688,6 +1688,13 @@
       "modified": "2023-09-02T14:58:08",
       "skipped_at": 1789457818,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/primal-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "46903|https://thenkiri.com/primal-s02-complete-tv-series/|2022-07-22T15:41:30|2023-10-15T14:00:16|{'rendered': 'Primal S02 (Episode 10 Added) | TV Series'}",
+      "modified": "2023-10-15T14:00:16",
+      "completed_at": 1789458167,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3237,6 +3244,14 @@
     "https://downloadwella.com/1hsllyx18gla/Pantheon.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-y_aCQWwsWBeqY-l4hEgrnktHcGJu6LZ",
     "https://downloadwella.com/2712876nfbop/Pantheon.S01E06.(NKIRI.COM).DD.mkv.html": "https://v1.vidfiles.com/d/lRx1sLDknSMJ-1kRXyrFshHudO2-8UaM",
     "https://downloadwella.com/r8c7lzpi1ykx/Pantheon.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VBmFOriR1_1dveNdiLbH8bb7pGn6tziy",
-    "https://downloadwella.com/uacg3h35601x/Pantheon.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/coKaSQ5y1jbAjeKJZI5cNz8DVJE8yyih"
+    "https://downloadwella.com/uacg3h35601x/Pantheon.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/coKaSQ5y1jbAjeKJZI5cNz8DVJE8yyih",
+    "https://downloadwella.com/9zjf9qr2d8ke/Primal.S02E03.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/zG1ZwY2pEJrgJGWnwL0WdH5ZdRgHXmpR",
+    "https://downloadwella.com/g6azqicisn3k/Primal.S02E04.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/S_kgz-JShWbv0nbLxozMTMtNhNTadeUc",
+    "https://downloadwella.com/tvefiem7zqhp/Primal.S02E05.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/vuCk1YNx8mwzctD1TCXEUH2mhfA1y5su",
+    "https://downloadwella.com/tvz5ldutyjpy/Primal.S02E06.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/xiwxY1oznBNdkZ2Hf-IO_ih5th4N9mUm",
+    "https://downloadwella.com/knugyv20o8ue/Primal.S02E07.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/HZhD5S0_AyWNKpuH_kGrEgGiGgRWlpR6",
+    "https://downloadwella.com/wcvxvgk9aip6/Primal.S02E08.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/1QQIbWOUw17VQA1EYyLzbOABBuS-bM4t",
+    "https://downloadwella.com/g9f9tvvb9l65/Primal.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xFbhauTRBX06r8yVc0Le4hMi33vhCsap",
+    "https://downloadwella.com/sodhbj73b2sp/Primal.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/utFXGnjcrEkgi1rgMA3nu7pFbGRXsnif"
   }
 }
