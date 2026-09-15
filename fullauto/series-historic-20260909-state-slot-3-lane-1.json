@@ -1758,6 +1758,13 @@
       "modified": "2023-09-02T13:52:56",
       "skipped_at": 1789460345,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/made-for-you-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "40853|https://thenkiri.com/made-for-you-s01-complete-tv-series/|2022-04-28T17:55:28|2023-09-02T13:47:32|{'rendered': 'Made for Love S02 (Episode 7 & 8 Added) | TV Series'}",
+      "modified": "2023-09-02T13:47:32",
+      "skipped_at": 1789460386,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
