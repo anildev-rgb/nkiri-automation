@@ -1820,6 +1820,13 @@
       "modified": "2023-09-02T13:21:11",
       "skipped_at": 1789469321,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/star-wars-the-book-of-boba-fett-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "34183|https://thenkiri.com/star-wars-the-book-of-boba-fett-s01-complete-tv-series/|2021-12-29T11:46:15|2023-09-02T13:19:56|{'rendered': 'Star Wars The Book of Boba Fett S01 (Episode 7 Added) | TV Series'}",
+      "modified": "2023-09-02T13:19:56",
+      "skipped_at": 1789469372,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
