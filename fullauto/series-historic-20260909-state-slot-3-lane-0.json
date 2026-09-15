@@ -1848,6 +1848,13 @@
       "modified": "2023-09-02T10:50:11",
       "skipped_at": 1789469608,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/game-of-thrones-s05-and-s06-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "30812|https://thenkiri.com/game-of-thrones-s05-and-s06-complete-tv-series/|2021-10-19T14:31:53|2023-09-02T10:15:06|{'rendered': 'Game of Thrones S05 and S06 (Complete ) | TV Series'}",
+      "modified": "2023-09-02T10:15:06",
+      "skipped_at": 1789469810,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
