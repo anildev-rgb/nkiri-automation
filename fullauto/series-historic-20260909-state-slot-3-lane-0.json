@@ -1792,6 +1792,13 @@
       "modified": "2023-09-02T13:08:57",
       "skipped_at": 1789469030,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/sweet-magnolias-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "36077|https://thenkiri.com/sweet-magnolias-s01-complete-tv-series/|2022-02-04T06:09:38|2023-09-02T13:38:17|{'rendered': 'Sweet Magnolias S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:38:17",
+      "skipped_at": 1789469063,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
