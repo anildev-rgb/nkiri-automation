@@ -1813,6 +1813,13 @@
       "modified": "2024-09-09T07:50:31",
       "skipped_at": 1789469273,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/stay-close-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "34612|https://thenkiri.com/stay-close-s01-complete-tv-series/|2022-01-06T08:35:22|2023-09-02T13:21:11|{'rendered': 'Stay Close S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:21:11",
+      "skipped_at": 1789469321,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
