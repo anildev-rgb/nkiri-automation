@@ -1709,6 +1709,13 @@
       "modified": "2023-09-02T14:41:25",
       "skipped_at": 1789458375,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-chi-s05-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "45342|https://thenkiri.com/the-chi-s05-complete-tv-series/|2022-06-30T12:47:13|2023-09-02T14:27:58|{'rendered': 'The Chi S05 (Episode 6 Added) | TV Series'}",
+      "modified": "2023-09-02T14:27:58",
+      "skipped_at": 1789458412,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
