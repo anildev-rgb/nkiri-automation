@@ -1891,6 +1891,13 @@
       "signature": "17390|https://thenkiri.com/trese-s01-complete-animated-tv-series/|2021-06-12T07:35:02|2024-02-24T11:30:43|{'rendered': 'Trese S01 ( Complete )  | Animated TV Series'}",
       "modified": "2024-02-24T11:30:43",
       "completed_at": 1789474568
+    },
+    "https://thenkiri.com/pennyworth-s01-and-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "16170|https://thenkiri.com/pennyworth-s01-and-s02-complete-tv-series/|2021-05-14T08:28:31|2023-09-02T09:08:48|{'rendered': 'Pennyworth S01 and S02 ( Complete )  | TV Series'}",
+      "modified": "2023-09-02T09:08:48",
+      "skipped_at": 1789474628,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
