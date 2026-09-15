@@ -1827,6 +1827,13 @@
       "modified": "2023-09-02T13:19:56",
       "skipped_at": 1789469372,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/true-story-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "32686|https://thenkiri.com/true-story-s01-complete-tv-series/|2021-11-26T18:26:03|2023-09-02T13:09:00|{'rendered': 'True Story S01 ( Complete ) | TV Series'}",
+      "modified": "2023-09-02T13:09:00",
+      "skipped_at": 1789469448,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
