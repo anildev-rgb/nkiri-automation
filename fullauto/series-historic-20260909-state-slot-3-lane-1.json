@@ -1723,6 +1723,13 @@
       "modified": "2023-09-02T14:10:40",
       "skipped_at": 1789458446,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/dead-end-paranormal-park-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "44184|https://thenkiri.com/dead-end-paranormal-park-s01-complete-tv-series/|2022-06-16T12:53:30|2023-09-02T14:09:07|{'rendered': 'Dead End: Paranormal Park S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T14:09:07",
+      "skipped_at": 1789458482,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
