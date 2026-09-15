@@ -1854,6 +1854,13 @@
       "modified": "2023-09-02T10:57:13",
       "skipped_at": 1789463813,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/euphoria-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "30877|https://thenkiri.com/euphoria-s01-complete-tv-series/|2021-10-20T14:16:56|2023-09-02T10:14:42|{'rendered': 'Euphoria S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T10:14:42",
+      "skipped_at": 1789463901,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
