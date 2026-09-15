@@ -1932,6 +1932,13 @@
       "signature": "14316|https://thenkiri.com/money-heist-s04-complete-tv-series/|2021-03-29T13:21:11|2023-09-02T08:50:14|{'rendered': 'Money Heist S04 ( Complete )  | TV Series'}",
       "modified": "2023-09-02T08:50:14",
       "completed_at": 1789468320
+    },
+    "https://thenkiri.com/see-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "14251|https://thenkiri.com/see-s01-complete-tv-series/|2021-03-29T13:13:31|2023-09-02T08:50:43|{'rendered': 'See S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T08:50:43",
+      "skipped_at": 1789468414,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
