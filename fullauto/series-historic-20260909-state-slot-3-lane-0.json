@@ -1778,6 +1778,13 @@
       "modified": "2023-09-02T13:25:13",
       "skipped_at": 1789468906,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-boys-presents-diabolical-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "37536|https://thenkiri.com/the-boys-presents-diabolical-s01-complete-tv-series/|2022-03-05T10:54:24|2023-09-02T13:13:07|{'rendered': 'The Boys Presents Diabolical S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:13:07",
+      "skipped_at": 1789468943,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
