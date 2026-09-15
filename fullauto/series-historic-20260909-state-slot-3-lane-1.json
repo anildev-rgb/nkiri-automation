@@ -1820,6 +1820,13 @@
       "signature": "35327|https://thenkiri.com/too-hot-to-handle-s02-complete-tv-series-2/|2022-01-20T10:29:40|2023-09-02T13:28:21|{'rendered': 'Too Hot to Handle S03 (Complete) | TV Series'}",
       "modified": "2023-09-02T13:28:21",
       "completed_at": 1789462009
+    },
+    "https://thenkiri.com/euphoria-complete-s02-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "34912|https://thenkiri.com/euphoria-complete-s02-tv-series/|2022-01-10T08:46:53|2023-09-02T13:23:18|{'rendered': 'Euphoria S02 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:23:18",
+      "skipped_at": 1789462125,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
