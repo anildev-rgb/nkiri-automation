@@ -1737,6 +1737,13 @@
       "modified": "2023-09-02T13:59:36",
       "skipped_at": 1789466929,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/blood-sisters-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "41806|https://thenkiri.com/blood-sisters-s01-complete-tv-series/|2022-05-11T16:12:12|2023-09-02T13:55:04|{'rendered': 'The Quest S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:55:04",
+      "skipped_at": 1789467004,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
