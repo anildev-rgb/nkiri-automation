@@ -1744,6 +1744,13 @@
       "modified": "2025-10-21T09:21:45",
       "completed_at": 1789460257,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/vampire-in-the-garden-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "42202|https://thenkiri.com/vampire-in-the-garden-s01-complete-tv-series/|2022-05-17T08:24:55|2023-09-02T13:57:37|{'rendered': 'Vampire in the Garden S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:57:37",
+      "skipped_at": 1789460306,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
