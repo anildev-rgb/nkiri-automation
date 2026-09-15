@@ -1793,6 +1793,13 @@
       "modified": "2023-09-02T13:12:09",
       "skipped_at": 1789460936,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/jeen-yuhs-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "37386|https://thenkiri.com/jeen-yuhs-s01-complete-tv-series/|2022-03-03T12:42:15|2023-09-02T13:10:39|{'rendered': 'jeen-yuhs A Kanye Trilogy S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:10:39",
+      "skipped_at": 1789460998,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
