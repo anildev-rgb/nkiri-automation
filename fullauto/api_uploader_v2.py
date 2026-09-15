@@ -116,8 +116,16 @@ class V2Client:
         return index, base64.b64encode(response.content).decode("ascii")
 
     def finish(self, job_id: str, receipts: list[dict[str, Any]]) -> dict[str, Any]:
-        return self.json("POST", f"/api/v2/upload/{job_id}/finish",
-                         json={"receipts": receipts})
+        for attempt in range(1, 4):
+            try:
+                return self.json("POST", f"/api/v2/upload/{job_id}/finish",
+                                 json={"receipts": receipts})
+            except (V2UploadError, requests.RequestException):
+                if attempt == 3:
+                    raise
+                print(f"V2 finish retry {attempt + 1}/3 for job {job_id}", flush=True)
+                time.sleep(2 * attempt)
+        raise V2UploadError("V2 finish failed")
 
     def wait(self, job_id: str, deadline: float) -> dict[str, Any]:
         last_stage = ""
