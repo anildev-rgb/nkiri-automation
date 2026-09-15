@@ -127,7 +127,7 @@ jobs:
               if isinstance(value, str):
                   return value == 'done' or value.startswith('skipped')
               return isinstance(value, dict) and value.get('status') in {
-                  'done', 'blocked', 'skipped_unavailable', 'skipped_error'
+                  'done', 'partial', 'blocked', 'skipped_unavailable', 'skipped_error'
               }
 
           rows = []
