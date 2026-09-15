@@ -1695,6 +1695,13 @@
       "modified": "2023-09-02T14:40:44",
       "completed_at": 1789466438,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/black-bird-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "45812|https://thenkiri.com/black-bird-s01-complete-tv-series/|2022-07-08T08:13:13|2023-09-02T14:36:30|{'rendered': 'Black Bird S01 (Complete)  | TV Series'}",
+      "modified": "2023-09-02T14:36:30",
+      "skipped_at": 1789466477,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
