@@ -1730,6 +1730,13 @@
       "modified": "2023-09-02T14:09:07",
       "skipped_at": 1789458482,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/physical-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "43831|https://thenkiri.com/physical-s01-complete-tv-series/|2022-06-10T07:49:57|2023-09-02T14:07:01|{'rendered': 'Physical S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T14:07:01",
+      "skipped_at": 1789458539,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
