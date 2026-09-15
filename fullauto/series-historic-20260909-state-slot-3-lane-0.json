@@ -1750,6 +1750,13 @@
       "signature": "41063|https://thenkiri.com/better-call-saul-s02-and-s03-complete-tv-series/|2022-04-30T15:27:37|2023-09-02T13:50:53|{'rendered': 'Better Call Saul S02 and S03 (Complete) | TV Series'}",
       "modified": "2023-09-02T13:50:53",
       "completed_at": 1789468425
+    },
+    "https://thenkiri.com/the-man-who-fell-to-earth-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "40514|https://thenkiri.com/the-man-who-fell-to-earth-s01-complete-tv-series/|2022-04-24T14:16:32|2023-09-02T13:45:08|{'rendered': 'The Man Who Fell to Earth S01 (Episode 10 Added) | TV Series'}",
+      "modified": "2023-09-02T13:45:08",
+      "skipped_at": 1789468539,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
