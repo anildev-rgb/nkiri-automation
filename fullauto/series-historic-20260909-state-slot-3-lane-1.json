@@ -1765,6 +1765,13 @@
       "modified": "2023-09-02T13:47:32",
       "skipped_at": 1789460386,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-first-lady-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "40173|https://thenkiri.com/the-first-lady-s01-complete-tv-series/|2022-04-21T11:52:55|2023-09-02T13:43:02|{'rendered': 'The First Lady S01 (Episode 9 & 10 Added) | TV Series'}",
+      "modified": "2023-09-02T13:43:02",
+      "skipped_at": 1789460516,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
