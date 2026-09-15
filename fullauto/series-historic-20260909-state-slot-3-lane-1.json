@@ -1939,6 +1939,13 @@
       "modified": "2023-09-02T08:50:43",
       "skipped_at": 1789468414,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/seaside/": {
+      "status": "skipped_unavailable",
+      "signature": "601|https://thenkiri.com/seaside/|2019-08-24T09:05:13|2023-09-02T07:03:58|{'rendered': 'Seaside(2019)'}",
+      "modified": "2023-09-02T07:03:58",
+      "skipped_at": 1789468446,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
