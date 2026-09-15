@@ -39,6 +39,7 @@ from http.cookiejar import CookieJar
 from pathlib import Path
 
 import api_uploader
+import api_uploader_v2
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 NKIRI_ROOT = SCRIPT_DIR.parent
@@ -843,13 +844,23 @@ def process_post(post: dict, state: dict, args) -> str:
         log("  no-download cannot be combined with uploading — no site write performed")
         return "pending"
 
-    uploader = api_uploader.VidFilesApi(
-        api_uploader.normalize_site(os.environ.get("VIDFILES_SITE", api_uploader.DEFAULT_SITE)),
-        vidfiles_api_key())
+    use_v2 = ENV.get("NKIRI_UPLOAD_API_VERSION", "1").strip() == "2"
+    uploader = None
+    v2client = None
+    if use_v2:
+        v2client = api_uploader_v2.V2Client(
+            ENV.get("VIDFILES_SITE", api_uploader_v2.DEFAULT_SITE),
+            vidfiles_api_key())
+        log("  VidFiles V2 enabled — direct parallel upload, no hash pass")
+    else:
+        uploader = api_uploader.VidFilesApi(
+            api_uploader.normalize_site(os.environ.get("VIDFILES_SITE", api_uploader.DEFAULT_SITE)),
+            vidfiles_api_key())
 
     # download + upload every linked file; collect skydrop links in page order
     skydrops = []
     downloaded_files: list[Path] = []
+    pending_v2: list[tuple[str, str, Path]] = []
     all_links_ok = True
     for label, page_link in links:
         state_key = page_link
@@ -881,18 +892,46 @@ def process_post(post: dict, state: dict, args) -> str:
                 continue
         if not was_present:
             downloaded_files.append(dest)
-        try:
-            result = api_uploader.upload_one(uploader, dest, 7200)
-        except Exception as e:
-            result = {"status": "error", "error": str(e)}
-        if result.get("status") == "ready" and result.get("download_url"):
-            skydrops.append((label, page_link, result["download_url"]))
-            state["series_links"][state_key] = result["download_url"]
-            save_state(state)
-            log(f"  ✓ uploaded → {result['download_url'][:70]}")
+        if use_v2:
+            pending_v2.append((label, page_link, dest))
         else:
-            log(f"  ✗ upload failed: {result.get('error')}")
-            all_links_ok = False
+            try:
+                result = api_uploader.upload_one(uploader, dest, 7200)
+            except Exception as e:
+                result = {"status": "error", "error": str(e)}
+            if result.get("status") == "ready" and result.get("download_url"):
+                skydrops.append((label, page_link, result["download_url"]))
+                state["series_links"][state_key] = result["download_url"]
+                save_state(state)
+                log(f"  ✓ uploaded → {result['download_url'][:70]}")
+            else:
+                log(f"  ✗ upload failed: {result.get('error')}")
+                all_links_ok = False
+
+    if use_v2 and pending_v2:
+        # V2 permits six complete direct PUTs per batch. Keep each batch
+        # bounded so a failed job can resume from the episode checkpoint.
+        for offset in range(0, len(pending_v2), 6):
+            batch = pending_v2[offset:offset + 6]
+            try:
+                results = api_uploader_v2.upload_batch(
+                    v2client, [dest for _, _, dest in batch],
+                    batch_size=6, wait_timeout=7200)
+            except Exception as exc:
+                log(f"  ✗ V2 batch failed: {exc}")
+                all_links_ok = False
+                continue
+            for (label, page_link, _), result in zip(batch, results):
+                download_url = result.get("download_url") or result.get("skydrop_url")
+                if download_url:
+                    skydrops.append((label, page_link, download_url))
+                    state["series_links"][page_link] = download_url
+                    save_state(state)
+                    log(f"  ✓ V2 uploaded → {download_url[:70]}")
+                else:
+                    log(f"  ✗ V2 upload failed for {label}: "
+                        f"{result.get('error') or result.get('status') or 'no ready URL'}")
+                    all_links_ok = False
 
     if not skydrops:
         log("  nothing uploaded — post skipped")
