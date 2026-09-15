@@ -861,6 +861,7 @@ def process_post(post: dict, state: dict, args) -> str:
     skydrops = []
     downloaded_files: list[Path] = []
     pending_v2: list[tuple[str, str, Path]] = []
+    retry_required = False
     all_links_ok = True
     for label, page_link in links:
         state_key = page_link
@@ -919,6 +920,7 @@ def process_post(post: dict, state: dict, args) -> str:
                     batch_size=6, wait_timeout=7200)
             except Exception as exc:
                 log(f"  ✗ V2 batch failed: {exc}")
+                retry_required = True
                 all_links_ok = False
                 continue
             for (label, page_link, _), result in zip(batch, results):
@@ -999,7 +1001,7 @@ def process_post(post: dict, state: dict, args) -> str:
         res = http_json(f"{SITE_API}/api/posts", payload, method="POST", token=NKIRI_TOKEN)
         log(f"  ✓ site: {res['post']['slug']}")
         cleanup_downloads(downloaded_files)
-        return "done" if all_links_ok else "partial"
+        return "pending" if retry_required else ("done" if all_links_ok else "partial")
 
     # drama / series
     existing = api_find(kind, name, season=season, index=getattr(args, "_api_index", None))
@@ -1057,7 +1059,7 @@ def process_post(post: dict, state: dict, args) -> str:
     res = http_json(f"{SITE_API}/api/posts", payload, method="POST", token=NKIRI_TOKEN)
     log(f"  ✓ site: {res['post']['slug']} ({'updated' if existing else 'new'})")
     cleanup_downloads(downloaded_files)
-    return "done" if all_links_ok else "partial"
+    return "pending" if retry_required else ("done" if all_links_ok else "partial")
 
 # ------------------------------------------------------------
 # main
