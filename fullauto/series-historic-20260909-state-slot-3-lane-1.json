@@ -1881,6 +1881,13 @@
       "signature": "29469|https://thenkiri.com/sex-education-s03-complete-tv-series/|2021-09-18T08:24:00|2024-02-24T22:37:46|{'rendered': 'Sex Education S03 (Complete) | TV Series'}",
       "modified": "2024-02-24T22:37:46",
       "completed_at": 1789464486
+    },
+    "https://thenkiri.com/the-umbrella-academy-s01-complete-tv-series-2/": {
+      "status": "skipped_unavailable",
+      "signature": "15743|https://thenkiri.com/the-umbrella-academy-s01-complete-tv-series-2/|2021-08-18T12:44:47|2023-09-02T09:37:49|{'rendered': 'The Umbrella Academy S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T09:37:49",
+      "skipped_at": 1789464530,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
