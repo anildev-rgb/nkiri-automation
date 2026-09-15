@@ -1660,6 +1660,13 @@
       "signature": "64172|https://thenkiri.com/the-croods-family-tree-s04-complete-tv-series/|2022-09-02T08:25:20|2023-09-02T15:28:23|{'rendered': 'The Croods Family Tree S04 (Complete) | TV Series'}",
       "modified": "2023-09-02T15:28:23",
       "completed_at": 1789464828
+    },
+    "https://thenkiri.com/partner-track-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "63745|https://thenkiri.com/partner-track-s01-complete-tv-series/|2022-08-27T10:50:31|2023-09-02T15:22:12|{'rendered': 'Partner Track S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T15:22:12",
+      "completed_at": 1789465250,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3315,6 +3322,15 @@
     "https://downloadwella.com/nfnej8d2z9qx/The.Croods.Family.Tree.S04E04.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/W24T0CRx3WBL064nqCEqkCmEHbD55i_J",
     "https://downloadwella.com/ln0gnykeob99/The.Croods.Family.Tree.S04E05.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/MSAhjm-sTBwwVtttqDA-nt-RkC6r4GUI",
     "https://downloadwella.com/45t8751unqzm/The.Croods.Family.Tree.S04E06.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/9lo1esXKcVwJBiUNonzJ7qtN5LjjOs99",
-    "https://downloadwella.com/84t3sqyfrrfb/The.Croods.Family.Tree.S04E07.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/U3I7PpeVb_d5Jw2JvGwTADBoyDlcdAVU"
+    "https://downloadwella.com/84t3sqyfrrfb/The.Croods.Family.Tree.S04E07.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/U3I7PpeVb_d5Jw2JvGwTADBoyDlcdAVU",
+    "https://downloadwella.com/fqt27kh2asm6/Partner.Track.S01E02.NKIRI.COM.mp4": "https://v1.vidfiles.com/d/HBBEa5S59sRBepNqbEPoSc4bXdNEgKqz",
+    "https://downloadwella.com/q6jmulq7kpon/Partner.Track.S01E03.NKIRI.COM.mp4": "https://v1.vidfiles.com/d/B2kcoIRHRtK2p0g8beosaSYB843TydAn",
+    "https://downloadwella.com/gyz6vi96zvq7/Partner.Track.S01E04.NKIRI.COM.mp4": "https://v1.vidfiles.com/d/KCE85ZI9XmDlmKfowx7xyHemGDyzaiD4",
+    "https://downloadwella.com/ctefq0mefle3/Partner.Track.S01E05.NKIRI.COM.mp4": "https://v1.vidfiles.com/d/BRzuQlemXJBDrZOXJmaKJJ1JFiKe3k9y",
+    "https://downloadwella.com/tqnkla97e9ca/Partner.Track.S01E06.NKIRI.COM.mp4": "https://v1.vidfiles.com/d/mN_91Xdln3zql6Jgfv-V5DG8AQASJnVO",
+    "https://downloadwella.com/mg94eg5wdhni/Partner.Track.S01E07.NKIRI.COM.mp4": "https://v1.vidfiles.com/d/9Yu1gXKFHZOtYHFPX-JEpfTSep0S2zuX",
+    "https://downloadwella.com/743cijy6lvyx/Partner.Track.S01E08.NKIRI.COM.mp4": "https://v1.vidfiles.com/d/K9r_dhirQQLsD_ljUYIQIy82WhvrFHFi",
+    "https://downloadwella.com/phlts1b83lvm/Partner.Track.S01E09.NKIRI.COM.mp4": "https://v1.vidfiles.com/d/OanlAZp3-jIegt_NYL4t-rXILyzgr2SR",
+    "https://downloadwella.com/hdff50zn5i7l/Partner.Track.S01E10.NKIRI.COM.mp4": "https://v1.vidfiles.com/d/H5XrZEdD0-CCJNWQu1JlvXXc39RK6wiB"
   }
 }
