@@ -1757,6 +1757,13 @@
       "modified": "2023-09-02T13:45:08",
       "skipped_at": 1789468539,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/demon-slayer-mugen-train-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "39805|https://thenkiri.com/demon-slayer-mugen-train-complete-tv-series/|2022-04-17T08:53:04|2023-09-02T13:44:09|{'rendered': 'Demon Slayer Mugen Train (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:44:09",
+      "skipped_at": 1789468639,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
