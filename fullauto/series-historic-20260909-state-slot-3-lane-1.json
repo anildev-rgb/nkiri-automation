@@ -1650,6 +1650,12 @@
       "signature": "66436|https://thenkiri.com/manifest-s3-complete-tv-series/|2022-09-26T10:18:08|2023-09-02T15:55:36|{'rendered': 'Manifest S03 (Complete) | TV Series'}",
       "modified": "2023-09-02T15:55:36",
       "completed_at": 1789456245
+    },
+    "https://thenkiri.com/santo-s01-complete-spanish-tv-series/": {
+      "status": "done",
+      "signature": "66034|https://thenkiri.com/santo-s01-complete-spanish-tv-series/|2022-09-21T08:40:05|2023-09-02T15:42:39|{'rendered': 'Santo S01 (Complete) | Spanish TV Series'}",
+      "modified": "2023-09-02T15:42:39",
+      "completed_at": 1789456636
     }
   },
   "series_links": {
@@ -3171,6 +3177,12 @@
     "https://downloadwella.com/o8mqkuhtim9o/Manifest.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fxlgMrIXR84lHzulQ-LnOJrzN6KYyiwO",
     "https://downloadwella.com/dl0l0zf3coo1/Manifest.S03E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wMKYuiJFJ18sCH56BqVenELQvOJjleFO",
     "https://downloadwella.com/i94h9uwtcfqg/Manifest.S03E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FKHRstv4dIBr3rCjY9rico1ZzHiXS-9x",
-    "https://downloadwella.com/0pawrq0j61i1/Manifest.S03E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/w_9wctiC0SzovZOlnYgXAuA-UdrHc0f3"
+    "https://downloadwella.com/0pawrq0j61i1/Manifest.S03E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/w_9wctiC0SzovZOlnYgXAuA-UdrHc0f3",
+    "https://downloadwella.com/tplops7igvld/Santo.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Xw3h_LbojsSGWcdOXgGyOC_oIZS-6LIe",
+    "https://downloadwella.com/9yogpmvvjwg3/Santo.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yBoQImz5hSeKQqTMImQSwWFdpcpBrbC5",
+    "https://downloadwella.com/8zp1ouvqz47u/Santo.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qrZW51r0lEDsu0HVEjRUCbTgGBZpX67p",
+    "https://downloadwella.com/62hl1ry706u0/Santo.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/s0AQfXoDuCCmjIXG-etpqqWDDwF8PYsh",
+    "https://downloadwella.com/bldsq4vpke2g/Santo.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cigdgl0ot-XaSM23tUJfAwni4ZIA6Rgf",
+    "https://downloadwella.com/o01vxg12pshq/Santo.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ksndOGHkdXkpxi_N8RNWj6nLECjW8goy"
   }
 }
