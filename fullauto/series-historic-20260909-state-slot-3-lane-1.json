@@ -1674,6 +1674,13 @@
       "signature": "64124|https://thenkiri.com/pantheon-s01-episode-1-2-added-tv-series/|2022-09-01T22:51:38|2024-02-25T00:49:55|{'rendered': 'Pantheon S01 (Episode 6, 7 & 8 Added) | TV Series'}",
       "modified": "2024-02-25T00:49:55",
       "completed_at": 1789457738
+    },
+    "https://thenkiri.com/tekken-bloodline-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "60521|https://thenkiri.com/tekken-bloodline-s01-complete-tv-series/|2022-08-20T11:27:56|2023-09-02T15:15:52|{'rendered': 'Tekken Bloodline S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T15:15:52",
+      "skipped_at": 1789457779,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
