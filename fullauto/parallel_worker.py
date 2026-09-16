@@ -39,13 +39,16 @@ REPO_SLOTS = {
     "anildev-rgb/nkiri-automation": 4,
 }
 
-# The Rajiv copy is not currently available, so its four queue shards are not
-# part of the active fleet.  Korean processing is gated only on English work
-# that the active repositories can actually process.
-ACTIVE_REPO_SLOTS = {
-    repo: slot for repo, slot in REPO_SLOTS.items()
-    if repo != "rajiv-pixelupis/nkiri-automation"
+# English historic series use their own eight-lane workflow and state format.
+# These are intentionally separate from REPO_SLOTS, which belongs to the
+# older 20-shard historical-worker fleet.
+SERIES_BATCH_REPO_SLOTS = {
+    "rajusingh-bit/nkiri-automation": 0,
+    "sumiji-ctrl/nkiri-automation": 1,
+    "annuji-arch/nkiri-automation": 2,
+    "anildev-rgb/nkiri-automation": 3,
 }
+SERIES_BATCH_SHARD_COUNT = 8
 
 
 @dataclass(frozen=True)
@@ -133,12 +136,12 @@ def all_lanes_for_repo(repo_slot: int) -> list[Lane]:
 
 def _is_terminal_state(value) -> bool:
     status = _state_status(value)
-    return status == "done" or status == "blocked" or status.startswith("skipped")
+    return status in {"done", "partial", "blocked"} or status.startswith("skipped")
 
 
-def _read_english_global_state(repository: str, shard_index: int) -> dict | None:
-    """Read one active repository's latest English lane state."""
-    relative = _state_path("english-series", shard_index)
+def _read_english_series_batch_state(repository: str, slot: int, lane: int) -> dict | None:
+    """Read one repository's latest English historic batch checkpoint."""
+    relative = f"fullauto/series-historic-20260909-state-slot-{slot}-lane-{lane}.json"
     current_repository = (os.environ.get("GITHUB_REPOSITORY") or "").strip().lower()
     if repository == current_repository:
         path = Path(relative)
@@ -160,13 +163,7 @@ def _read_english_global_state(repository: str, shard_index: int) -> dict | None
 
 
 def english_historic_queue_ready() -> tuple[bool, int, str]:
-    """Return whether all English rows owned by the active fleet are terminal.
-
-    The queue is partitioned by position modulo 20.  Each active repository
-    owns four of those shards, and its global state file is the source of
-    truth for that shard.  Missing/unreadable state is treated as not ready so
-    Korean work cannot start while English progress is uncertain.
-    """
+    """Return whether the eight-lane English historic queue is terminal."""
     queue_path = Path("queue/missing-series.csv")
     try:
         with queue_path.open(encoding="utf-8-sig", newline="") as handle:
@@ -176,25 +173,18 @@ def english_historic_queue_ready() -> tuple[bool, int, str]:
     except (OSError, csv.Error):
         return False, -1, "English queue could not be read"
 
-    active_shards = {
-        slot * RUNNER_COUNT + runner
-        for slot in ACTIVE_REPO_SLOTS.values()
-        for runner in range(RUNNER_COUNT)
-    }
     states: dict[int, dict] = {}
-    for repository, slot in ACTIVE_REPO_SLOTS.items():
-        for runner in range(RUNNER_COUNT):
-            shard_index = slot * RUNNER_COUNT + runner
-            state = _read_english_global_state(repository, shard_index)
+    for repository, slot in SERIES_BATCH_REPO_SLOTS.items():
+        for lane in range(2):
+            shard_index = slot + (lane * 4)
+            state = _read_english_series_batch_state(repository, slot, lane)
             if state is None:
                 return False, -1, f"missing English state for shard {shard_index}"
             states[shard_index] = state
 
     remaining = 0
     for position, row in enumerate(rows):
-        shard_index = position % ENGLISH_SERIES_SHARD_COUNT
-        if shard_index not in active_shards:
-            continue
+        shard_index = position % SERIES_BATCH_SHARD_COUNT
         processed = states[shard_index].get("processed") or {}
         value = processed.get((row.get("source_url") or "").strip())
         if not _is_terminal_state(value):
