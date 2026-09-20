@@ -965,6 +965,13 @@
       "modified": "2023-09-02T09:13:47",
       "skipped_at": 1789946391,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/dream-high-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "16005|https://thenkiri.com/dream-high-complete-korean-drama/|2021-05-08T09:54:10|2023-09-02T09:09:47|{'rendered': 'Dream High (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:09:47",
+      "skipped_at": 1789946427,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
