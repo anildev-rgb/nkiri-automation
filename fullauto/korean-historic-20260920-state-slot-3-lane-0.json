@@ -1040,6 +1040,13 @@
       "signature": "7703|https://thenkiri.com/lawless-lawyer-korean-drama/|2020-08-12T09:57:25|2024-02-24T05:38:36|{'rendered': 'Lawless Lawyer s01 (Complete) | Korean Drama'}",
       "modified": "2024-02-24T05:38:36",
       "completed_at": 1789948370
+    },
+    "https://thenkiri.com/her-private-life-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "6412|https://thenkiri.com/her-private-life-complete-korean-drama/|2020-07-02T20:21:00|2023-09-02T07:36:58|{'rendered': 'Her Private Life (Reuploaded & Complete) | Korean Drama'}",
+      "modified": "2023-09-02T07:36:58",
+      "skipped_at": 1789948540,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
