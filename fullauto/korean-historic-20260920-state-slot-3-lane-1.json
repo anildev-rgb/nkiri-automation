@@ -832,6 +832,13 @@
       "modified": "2023-09-02T13:12:37",
       "skipped_at": 1789939022,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/tracer-s02-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "37180|https://thenkiri.com/tracer-s02-complete-korean-drama/|2022-02-26T09:15:31|2023-09-02T13:04:47|{'rendered': 'Tracer S02 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:04:47",
+      "skipped_at": 1789939114,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
