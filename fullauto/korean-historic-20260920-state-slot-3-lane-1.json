@@ -997,6 +997,13 @@
       "modified": "2023-09-02T08:41:27",
       "skipped_at": 1789943080,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/l-u-c-a-the-beginning-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "13203|https://thenkiri.com/l-u-c-a-the-beginning-korean-drama/|2021-02-14T15:49:22|2023-09-02T08:36:39|{'rendered': 'L.U.C.A The Beginning (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T08:36:39",
+      "skipped_at": 1789943238,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
