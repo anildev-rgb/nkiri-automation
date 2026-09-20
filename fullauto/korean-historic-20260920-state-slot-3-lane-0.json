@@ -979,6 +979,13 @@
       "modified": "2023-09-02T09:04:06",
       "skipped_at": 1789946462,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/healer-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "15066|https://thenkiri.com/healer-complete-korean-drama/|2021-04-08T13:42:08|2023-09-02T08:58:00|{'rendered': 'Healer (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T08:58:00",
+      "skipped_at": 1789946669,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
