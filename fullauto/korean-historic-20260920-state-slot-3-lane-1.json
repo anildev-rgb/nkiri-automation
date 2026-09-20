@@ -963,6 +963,13 @@
       "modified": "2023-09-02T09:11:49",
       "skipped_at": 1789942382,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-sweet-blood-episode-12-addded-korean-drama/": {
+      "status": "partial",
+      "signature": "15882|https://thenkiri.com/the-sweet-blood-episode-12-addded-korean-drama/|2021-05-04T13:27:19|2023-09-02T09:10:28|{'rendered': 'The Sweet Blood S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:10:28",
+      "completed_at": 1789942524,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1167,6 +1174,9 @@
     "https://downloadwella.com/sxyiyq990vtl/Shopaholic.Louis.S01E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aU-OJjdhq2DXTG7GrRiaCFy3lNVLuTLy",
     "https://downloadwella.com/hvnmnz3lo3dh/Shopaholic.Louis.S01E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9ZJYZUvtTA1SvU6rQRZgZ6S7tSzMGFys",
     "https://downloadwella.com/elbgmrazf9gh/Shopaholic.Louis.S01E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ex4VzxC8ho05ddsnEJzIVRjGU1kyaJm6",
-    "https://downloadwella.com/o97hsothunam/Shopaholic.Louis.S01E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RDzEt57jPIug6tgzgeFLgFJVfn0fUxBa"
+    "https://downloadwella.com/o97hsothunam/Shopaholic.Louis.S01E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RDzEt57jPIug6tgzgeFLgFJVfn0fUxBa",
+    "https://downloadwella.com/wrohmc2o04nh/The.Sweet.Blood.E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yFCRiUCNNWOlYHXFyTA76oBZGqidrcEw",
+    "https://downloadwella.com/l6zi8cel7u4f/The.Sweet.Blood.E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YwPZLqC0kuM6jOzHmZ69ddHb85vUE5qL",
+    "https://downloadwella.com/lx14ldq6c32t/The.Sweet.Blood.E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eDMAwRZ_0v-g3HWVmFXuqDpFtEgFJGU7"
   }
 }
