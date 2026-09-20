@@ -993,6 +993,13 @@
       "modified": "2023-09-02T08:45:20",
       "skipped_at": 1789946708,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/mouse-episode-1-2-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "13663|https://thenkiri.com/mouse-episode-1-2-added-korean-drama/|2021-03-05T19:58:34|2022-08-16T08:44:33|{'rendered': 'Mouse (Complete) | Korean Drama'}",
+      "modified": "2022-08-16T08:44:33",
+      "skipped_at": 1789946907,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
