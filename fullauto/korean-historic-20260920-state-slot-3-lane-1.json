@@ -811,6 +811,13 @@
       "modified": "2023-09-02T13:41:30",
       "skipped_at": 1789938657,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/kill-it-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "38838|https://thenkiri.com/kill-it-s01-complete-korean-drama/|2022-03-31T22:33:05|2023-09-02T13:36:47|{'rendered': 'Kill It S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:36:47",
+      "skipped_at": 1789938752,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
