@@ -797,6 +797,13 @@
       "signature": "41049|https://thenkiri.com/my-country-the-new-age-s01-complete-korean-drama/|2022-04-30T12:49:59|2024-02-23T21:28:48|{'rendered': 'My Country the New Age S01 (Complete) | Korean Drama'}",
       "modified": "2024-02-23T21:28:48",
       "completed_at": 1789938482
+    },
+    "https://thenkiri.com/ocean-likes-me-s01-episode-1-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "40666|https://thenkiri.com/ocean-likes-me-s01-episode-1-added-korean-drama/|2022-04-27T05:32:40|2023-09-02T13:48:11|{'rendered': 'Ocean Likes Me S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:48:11",
+      "skipped_at": 1789938534,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
