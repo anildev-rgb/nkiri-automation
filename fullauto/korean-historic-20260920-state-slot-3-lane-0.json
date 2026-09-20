@@ -883,6 +883,13 @@
       "signature": "33548|https://thenkiri.com/crime-puzzle-complete-korean-drama/|2021-12-14T12:13:38|2023-09-02T13:10:03|{'rendered': 'Crime Puzzle (Complete) | Korean Drama'}",
       "modified": "2023-09-02T13:10:03",
       "completed_at": 1789944255
+    },
+    "https://thenkiri.com/missing-you-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "32712|https://thenkiri.com/missing-you-complete-korean-drama/|2021-11-27T09:55:04|2023-09-02T13:08:52|{'rendered': 'Missing You (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:08:52",
+      "skipped_at": 1789944472,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
