@@ -970,6 +970,13 @@
       "modified": "2023-09-02T09:10:28",
       "completed_at": 1789942524,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/reply-1988-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "15503|https://thenkiri.com/reply-1988-complete-korean-drama/|2021-04-24T11:20:49|2023-09-02T09:02:09|{'rendered': 'Reply 1988 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:02:09",
+      "skipped_at": 1789942571,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
