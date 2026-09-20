@@ -935,6 +935,13 @@
       "modified": "2023-09-02T09:33:05",
       "skipped_at": 1789941829,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/so-not-worth-it-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "17868|https://thenkiri.com/so-not-worth-it-complete-korean-drama/|2021-06-20T15:30:30|2023-09-02T09:26:16|{'rendered': 'So Not Worth It (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:26:16",
+      "skipped_at": 1789941919,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
