@@ -763,6 +763,13 @@
       "modified": "2023-09-02T14:28:16",
       "skipped_at": 1789937681,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/city-hall-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "44602|https://thenkiri.com/city-hall-s01-complete-korean-drama/|2022-06-20T18:57:28|2023-09-02T14:11:07|{'rendered': 'City Hall S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T14:11:07",
+      "skipped_at": 1789937942,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
