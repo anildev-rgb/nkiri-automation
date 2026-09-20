@@ -1004,6 +1004,13 @@
       "modified": "2023-09-02T08:36:39",
       "skipped_at": 1789943238,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/mr-queen-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "9998|https://thenkiri.com/mr-queen-korean-drama/|2021-01-04T13:51:09|2023-09-02T08:28:04|{'rendered': 'Mr . Queen S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T08:28:04",
+      "skipped_at": 1789943461,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
