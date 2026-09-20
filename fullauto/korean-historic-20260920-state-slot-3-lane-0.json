@@ -829,6 +829,13 @@
       "modified": "2023-09-02T13:24:36",
       "skipped_at": 1789942681,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/chief-kim-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "38133|https://thenkiri.com/chief-kim-s01-complete-korean-drama/|2022-03-17T17:29:54|2023-09-02T13:14:58|{'rendered': 'Chief Kim aka Good Manager (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:14:58",
+      "skipped_at": 1789942942,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
