@@ -1011,6 +1011,13 @@
       "modified": "2023-09-02T08:28:04",
       "skipped_at": 1789943461,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/boys-over-flowers-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "9673|https://thenkiri.com/boys-over-flowers-complete-korean-drama/|2020-12-05T13:51:45|2023-09-02T08:23:38|{'rendered': 'Boys Over Flowers (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T08:23:38",
+      "skipped_at": 1789943514,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
