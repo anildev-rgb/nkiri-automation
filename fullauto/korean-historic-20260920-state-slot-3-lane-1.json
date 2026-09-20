@@ -1042,6 +1042,13 @@
       "signature": "6182|https://thenkiri.com/memories-of-alhambra-s01-complete-korean-drama/|2020-06-22T13:42:16|2023-09-02T07:34:19|{'rendered': 'Memories of Alhambra S01 (Complete) | Korean Drama'}",
       "modified": "2023-09-02T07:34:19",
       "completed_at": 1789946423
+    },
+    "https://thenkiri.com/the-world-of-the-married-korean-drama/": {
+      "status": "partial",
+      "signature": "5470|https://thenkiri.com/the-world-of-the-married-korean-drama/|2020-06-03T15:42:27|2023-09-02T07:30:08|{'rendered': 'The World of the Married S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T07:30:08",
+      "completed_at": 1789946599,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1333,6 +1340,7 @@
     "https://downloadwella.com/a3z6jmwudb9x/Memories.of.the.Alhambra.S01E13.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/vqZ4h4ngb3uDSEluMJTeUyavgA_Naru2",
     "https://downloadwella.com/t7xjd25k0gw3/Memories.of.the.Alhambra.S01E14.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/6H3f_nKw0bOwTeC-u6ZbSKq0ol7Yk8nK",
     "https://downloadwella.com/89cw8octkysp/Memories.of.the.Alhambra.S01E15.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/CzHCQcWOOMI-xo_SCW-zM99uFl9g7-vH",
-    "https://downloadwella.com/jebdafh4z2kl/Memories.of.the.Alhambra.S01E16.END.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/v6IuTds4EhWJgXySahLw9S2-IWPIDJOY"
+    "https://downloadwella.com/jebdafh4z2kl/Memories.of.the.Alhambra.S01E16.END.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/v6IuTds4EhWJgXySahLw9S2-IWPIDJOY",
+    "https://downloadwella.com/asgt9gaalnxz/The.World.of.the.Married.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z6cjXOMtxgVghEvx2Ia9ab4Ydc_Kz5th"
   }
 }
