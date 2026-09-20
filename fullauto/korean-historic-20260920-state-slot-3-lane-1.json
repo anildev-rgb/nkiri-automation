@@ -853,6 +853,13 @@
       "modified": "2023-09-02T13:40:43",
       "skipped_at": 1789939307,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/witchs-romance-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "35315|https://thenkiri.com/witchs-romance-complete-korean-drama/|2022-01-19T16:17:33|2023-09-02T13:28:24|{'rendered': 'Witch’s Romance (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:28:24",
+      "skipped_at": 1789939370,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
