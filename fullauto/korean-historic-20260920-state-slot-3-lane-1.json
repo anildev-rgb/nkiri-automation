@@ -909,6 +909,13 @@
       "modified": "2023-09-02T10:50:30",
       "skipped_at": 1789940362,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/my-absolute-boyfriend-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "30533|https://thenkiri.com/my-absolute-boyfriend-complete-korean-drama/|2021-10-13T12:51:54|2023-09-02T10:13:10|{'rendered': 'My Absolute Boyfriend (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T10:13:10",
+      "skipped_at": 1789940518,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
