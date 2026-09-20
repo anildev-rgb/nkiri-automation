@@ -867,6 +867,13 @@
       "modified": "2023-09-02T13:22:12",
       "skipped_at": 1789939657,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/snowdrop-episode-1-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "33755|https://thenkiri.com/snowdrop-episode-1-added-korean-drama/|2021-12-18T21:31:07|2023-09-02T13:13:04|{'rendered': 'Snowdrop (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:13:04",
+      "skipped_at": 1789939823,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
