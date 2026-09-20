@@ -723,6 +723,13 @@
       "signature": "73354|https://thenkiri.com/fanletter-please-s01-complete-korean-drama/|2022-11-19T06:05:26|2023-09-02T13:45:29|{'rendered': 'Fanletter Please S01 (Complete) | Korean Drama'}",
       "modified": "2023-09-02T13:45:29",
       "completed_at": 1789936256
+    },
+    "https://thenkiri.com/shadow-detective-complete-korean-drama/": {
+      "status": "partial",
+      "signature": "69486|https://thenkiri.com/shadow-detective-complete-korean-drama/|2022-10-26T16:06:10|2023-09-02T16:32:38|{'rendered': 'Shadow Detective S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T16:32:38",
+      "completed_at": 1789936466,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -845,6 +852,12 @@
     "https://downloadwella.com/tguy90i1eu4b/Fanletter.Please.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KMsn6Z_ojz-pdsh2b_CrqQSdDCY6yyUz",
     "https://downloadwella.com/lx3uhdfziz5u/Fanletter.Please.E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/i6KPVC91s5kXKfGYObax-q0Tg6Jy2hk3",
     "https://downloadwella.com/dw8ps7n1pd5h/Fanletter.Please.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/F8BT-XP-IshDttqvmk-qigoXqOd4stvF",
-    "https://downloadwella.com/dz75c4i3fd0d/Fanletter.Please.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DNvn-TF9GEgetiMDLXpuzc8mGlenclTH"
+    "https://downloadwella.com/dz75c4i3fd0d/Fanletter.Please.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DNvn-TF9GEgetiMDLXpuzc8mGlenclTH",
+    "https://downloadwella.com/qyw8anlv1w1m/Shadow.Detective.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nbMl5ic4nw54qSt-EmSnb3nEWCQkZxKm",
+    "https://downloadwella.com/cfcy09jyfj2q/Shadow.Detective.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3DmPLxq4Mpgcy84Bmsx-5NBRwx9u1uHX",
+    "https://downloadwella.com/yikvrld0o5qi/Shadow.Detective.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6PKlf18fegmBeVJ4G3nAFCuGHq0vxJDb",
+    "https://downloadwella.com/4jmyv8yanfdn/Shadow.Detective.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ufvYm5sNcqISn0XJWf6iUlIwScQTQGJ1",
+    "https://downloadwella.com/w8st89hik70l/Shadow.Detective.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/j304Q-FjLFc5Mo2UDDZp9p1mL9YJksqv",
+    "https://downloadwella.com/tkymf2uo4nae/Shadow.Detective.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qtJtkgbwe7-MQaonViIjLr-h2XN8ic_T"
   }
 }
