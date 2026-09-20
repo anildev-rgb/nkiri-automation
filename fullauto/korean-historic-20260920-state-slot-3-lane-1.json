@@ -860,6 +860,13 @@
       "modified": "2023-09-02T13:28:24",
       "skipped_at": 1789939370,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-great-doctor-aka-faith-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "34424|https://thenkiri.com/the-great-doctor-aka-faith-complete-korean-drama/|2022-01-03T12:35:55|2023-09-02T13:22:12|{'rendered': 'The Great Doctor aka Faith (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:22:12",
+      "skipped_at": 1789939657,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
