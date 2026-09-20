@@ -949,6 +949,13 @@
       "modified": "2023-09-02T09:21:56",
       "skipped_at": 1789941959,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/iris-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "17032|https://thenkiri.com/iris-s01-complete-korean-drama/|2021-06-04T12:17:22|2023-09-02T09:15:56|{'rendered': 'IRIS S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:15:56",
+      "skipped_at": 1789942152,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
