@@ -756,6 +756,13 @@
       "modified": "2023-09-02T14:39:56",
       "skipped_at": 1789937646,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/dear-m-episode-1-6-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "45279|https://thenkiri.com/dear-m-episode-1-6-added-korean-drama/|2022-06-29T13:49:26|2023-09-02T14:28:16|{'rendered': 'Dear.M S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T14:28:16",
+      "skipped_at": 1789937681,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
