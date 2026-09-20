@@ -1021,6 +1021,13 @@
       "modified": "2023-09-02T08:25:49",
       "skipped_at": 1789947162,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/zombie-detective-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "9318|https://thenkiri.com/zombie-detective-korean-drama/|2020-11-12T13:06:07|2023-09-02T08:18:25|{'rendered': 'Zombie Detective | Korean Drama'}",
+      "modified": "2023-09-02T08:18:25",
+      "skipped_at": 1789947216,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
