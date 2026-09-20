@@ -815,6 +815,13 @@
       "signature": "40152|https://thenkiri.com/the-last-empress-s01-complete-korean-drama/|2022-04-21T07:39:04|2023-09-02T13:43:03|{'rendered': 'The Last Empress S01 (Complete) | Korean Drama'}",
       "modified": "2023-09-02T13:43:03",
       "completed_at": 1789942474
+    },
+    "https://thenkiri.com/hello-my-twenties-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "39180|https://thenkiri.com/hello-my-twenties-s01-complete-korean-drama/|2022-04-06T07:58:46|2023-09-02T13:35:55|{'rendered': 'Hello, My Twenties S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:35:55",
+      "skipped_at": 1789942614,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
