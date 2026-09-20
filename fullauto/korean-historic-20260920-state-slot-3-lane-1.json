@@ -742,6 +742,13 @@
       "signature": "64336|https://thenkiri.com/little-women-s01-complete-korean-drama/|2022-09-03T20:29:10|2024-02-23T20:46:51|{'rendered': 'Little Women S01 (Complete) | Korean Drama'}",
       "modified": "2024-02-23T20:46:51",
       "completed_at": 1789937559
+    },
+    "https://thenkiri.com/alchemist-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "47233|https://thenkiri.com/alchemist-s01-complete-korean-drama/|2022-07-28T16:18:25|2023-09-02T14:51:52|{'rendered': 'Alchemist S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T14:51:52",
+      "skipped_at": 1789937596,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
