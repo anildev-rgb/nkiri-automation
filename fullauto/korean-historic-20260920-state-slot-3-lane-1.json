@@ -839,6 +839,13 @@
       "modified": "2023-09-02T13:04:47",
       "skipped_at": 1789939114,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/semantic-error-s01-episode-1-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "36723|https://thenkiri.com/semantic-error-s01-episode-1-added-korean-drama/|2022-02-16T19:10:45|2023-09-02T13:42:18|{'rendered': 'Semantic Error S01 (Episode 8 Added) | Korean Drama'}",
+      "modified": "2023-09-02T13:42:18",
+      "skipped_at": 1789939171,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
