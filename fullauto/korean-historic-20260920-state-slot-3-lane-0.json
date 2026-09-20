@@ -870,6 +870,13 @@
       "signature": "34906|https://thenkiri.com/man-to-man-complete-korean-drama/|2022-01-10T08:39:37|2023-09-02T13:23:22|{'rendered': 'Man to Man (Complete) | Korean Drama'}",
       "modified": "2023-09-02T13:23:22",
       "completed_at": 1789943969
+    },
+    "https://thenkiri.com/behind-cut-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "34229|https://thenkiri.com/behind-cut-complete-korean-drama/|2021-12-30T11:05:04|2023-09-02T13:19:42|{'rendered': 'Behind Cut S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:19:42",
+      "skipped_at": 1789944013,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
