@@ -944,6 +944,13 @@
       "signature": "18168|https://thenkiri.com/my-first-first-love-s01-and-s02-complete-korean-drama/|2021-06-29T17:22:38|2023-09-02T09:28:27|{'rendered': 'My First First Love S01 and S02 (Complete) | Korean Drama'}",
       "modified": "2023-09-02T09:28:27",
       "completed_at": 1789946285
+    },
+    "https://thenkiri.com/black-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "17655|https://thenkiri.com/black-s01-complete-korean-drama/|2021-06-17T12:40:34|2023-09-02T09:23:42|{'rendered': 'Black S01 (COMPLETE) | Korean Drama'}",
+      "modified": "2023-09-02T09:23:42",
+      "skipped_at": 1789946322,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
