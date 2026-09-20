@@ -1007,6 +1007,13 @@
       "modified": "2023-09-02T08:38:35",
       "skipped_at": 1789947088,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-moon-embracing-the-sun-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "10409|https://thenkiri.com/the-moon-embracing-the-sun-korean-drama/|2021-01-21T15:25:18|2023-09-02T08:32:24|{'rendered': 'The Moon Embracing the Sun  | Korean Drama'}",
+      "modified": "2023-09-02T08:32:24",
+      "skipped_at": 1789947127,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
