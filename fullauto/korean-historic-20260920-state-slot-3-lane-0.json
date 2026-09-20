@@ -904,6 +904,13 @@
       "modified": "2023-09-02T10:58:58",
       "skipped_at": 1789944622,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/moebius-the-veil-episode-1-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "31282|https://thenkiri.com/moebius-the-veil-episode-1-added-korean-drama/|2021-10-30T08:38:59|2023-09-02T10:53:31|{'rendered': 'Moebius The Veil (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T10:53:31",
+      "skipped_at": 1789944667,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
