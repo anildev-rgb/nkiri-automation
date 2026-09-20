@@ -983,6 +983,13 @@
       "signature": "14465|https://thenkiri.com/cheese-in-the-trap-s01-complete-korean-drama/|2021-03-31T07:23:56|2024-02-24T05:45:41|{'rendered': 'Cheese in the Trap S01 (Complete) | Korean Drama'}",
       "modified": "2024-02-24T05:45:41",
       "completed_at": 1789942940
+    },
+    "https://thenkiri.com/cinderella-and-the-four-knights-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "13767|https://thenkiri.com/cinderella-and-the-four-knights-complete-korean-drama/|2021-03-12T17:43:50|2023-09-02T08:46:16|{'rendered': 'Cinderella and the Four Knights (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T08:46:16",
+      "skipped_at": 1789943008,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
