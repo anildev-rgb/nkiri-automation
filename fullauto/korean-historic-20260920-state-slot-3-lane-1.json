@@ -749,6 +749,13 @@
       "modified": "2023-09-02T14:51:52",
       "skipped_at": 1789937596,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/dear-x-who-doesnt-love-me-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "46430|https://thenkiri.com/dear-x-who-doesnt-love-me-complete-korean-drama/|2022-07-15T05:17:31|2023-09-02T14:39:56|{'rendered': 'Dear X Who Doesn’t Love Me (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T14:39:56",
+      "skipped_at": 1789937646,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
