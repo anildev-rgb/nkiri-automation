@@ -818,6 +818,13 @@
       "modified": "2023-09-02T13:36:47",
       "skipped_at": 1789938752,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/soundtrack-1-episode-1-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "38458|https://thenkiri.com/soundtrack-1-episode-1-added-korean-drama/|2022-03-23T14:59:55|2023-09-02T13:25:20|{'rendered': 'Soundtrack #1 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:25:20",
+      "skipped_at": 1789938817,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
