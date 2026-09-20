@@ -1014,6 +1014,13 @@
       "modified": "2023-09-02T08:32:24",
       "skipped_at": 1789947127,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/sweet-home-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "9838|https://thenkiri.com/sweet-home-korean-drama/|2020-12-21T09:18:16|2023-09-02T08:25:49|{'rendered': 'Sweet Home | Korean Drama'}",
+      "modified": "2023-09-02T08:25:49",
+      "skipped_at": 1789947162,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
