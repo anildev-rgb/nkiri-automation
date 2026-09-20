@@ -761,6 +761,13 @@
       "modified": "2024-02-23T20:38:57",
       "completed_at": 1789940413,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/temperature-of-love-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "45623|https://thenkiri.com/temperature-of-love-s01-complete-korean-drama/|2022-07-05T15:42:34|2023-09-02T14:37:16|{'rendered': 'Temperature of Love S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T14:37:16",
+      "skipped_at": 1789940459,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
