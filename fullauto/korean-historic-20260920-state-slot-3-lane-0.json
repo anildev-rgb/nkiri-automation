@@ -775,6 +775,13 @@
       "modified": "2023-09-02T14:20:33",
       "skipped_at": 1789940498,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/new-normal-zine-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "43853|https://thenkiri.com/new-normal-zine-s01-complete-korean-drama/|2022-06-10T12:53:41|2023-09-02T14:06:48|{'rendered': 'New Normal Zine S01 (Episode 11 & 12 Added) | Korean Drama'}",
+      "modified": "2023-09-02T14:06:48",
+      "skipped_at": 1789940570,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
