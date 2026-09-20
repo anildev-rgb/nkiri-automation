@@ -911,6 +911,13 @@
       "modified": "2023-09-02T10:53:31",
       "skipped_at": 1789944667,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/my-name-english-audio-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "30683|https://thenkiri.com/my-name-english-audio-complete-korean-drama/|2021-10-16T07:17:35|2023-09-02T10:15:49|{'rendered': 'My Name English Audio (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T10:15:49",
+      "skipped_at": 1789944753,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
