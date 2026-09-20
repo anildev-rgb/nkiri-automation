@@ -850,6 +850,13 @@
       "modified": "2023-09-02T13:07:31",
       "skipped_at": 1789943102,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/forecasting-love-and-weather-episode-1-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "36529|https://thenkiri.com/forecasting-love-and-weather-episode-1-added-korean-drama/|2022-02-12T17:06:00|2023-09-02T13:42:53|{'rendered': 'Forecasting Love and Weather (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:42:53",
+      "skipped_at": 1789943313,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
