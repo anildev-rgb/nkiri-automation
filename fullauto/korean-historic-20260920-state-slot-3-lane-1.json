@@ -990,6 +990,13 @@
       "modified": "2023-09-02T08:46:16",
       "skipped_at": 1789943008,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/kill-me-heal-me-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "13462|https://thenkiri.com/kill-me-heal-me-complete-korean-drama/|2021-02-27T14:27:21|2023-09-02T08:41:27|{'rendered': 'Kill Me , Heal Me ( Complete)  | Korean Drama'}",
+      "modified": "2023-09-02T08:41:27",
+      "skipped_at": 1789943080,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
