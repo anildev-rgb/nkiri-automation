@@ -972,6 +972,13 @@
       "modified": "2023-09-02T09:09:47",
       "skipped_at": 1789946427,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/blood-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "15779|https://thenkiri.com/blood-complete-korean-drama/|2021-05-01T11:42:03|2023-09-02T09:04:06|{'rendered': 'Blood ( Complete ) | Korean Drama'}",
+      "modified": "2023-09-02T09:04:06",
+      "skipped_at": 1789946462,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
