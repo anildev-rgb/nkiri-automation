@@ -825,6 +825,13 @@
       "modified": "2023-09-02T13:25:20",
       "skipped_at": 1789938817,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/money-game-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "37764|https://thenkiri.com/money-game-s01-complete-korean-drama/|2022-03-10T15:08:37|2023-09-02T13:12:37|{'rendered': 'Money Game S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:12:37",
+      "skipped_at": 1789939022,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
