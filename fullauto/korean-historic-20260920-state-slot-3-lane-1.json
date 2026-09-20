@@ -928,6 +928,13 @@
       "signature": "20503|https://thenkiri.com/shopaholic-louis-shopping-king-louis-s01-korean-drama/|2021-08-25T14:33:06|2023-09-02T09:40:37|{'rendered': 'Shopaholic Louis aka Shopping King Louis S01 | Korean Drama'}",
       "modified": "2023-09-02T09:40:37",
       "completed_at": 1789941795
+    },
+    "https://thenkiri.com/the-witchs-diner-s01-episode-1-and-2-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "18974|https://thenkiri.com/the-witchs-diner-s01-episode-1-and-2-added-korean-drama/|2021-07-17T11:59:16|2023-09-02T09:33:05|{'rendered': 'The Witchs Diner S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:33:05",
+      "skipped_at": 1789941829,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
